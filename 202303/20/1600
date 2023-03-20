@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants, working hard to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I have always struggled with social anxiety, making it difficult to make friends and connect with people",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "secret": "I've been lying about my job for years. My parents always wanted me to be successful and I couldn't bear to tell them the truth. I pretended to have a high-paying job in finance, even though I worked as a waiter. I kept up the lie for so long that it became my reality. I would come home from work and talk about my day, making up stories about my coworkers and the deals I closed. It was exhausting, but I couldn't stop. I even went as far as to rent a fake office space to take my parents to when they visited. I knew it was wrong, but I didn't know how to stop. Now, with no job and no income, I'm terrified to tell them the truth. The lie has taken over my life and I don't know how to break free.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Lie That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "614ce28b92f0c3801156b7cecbbb95a2",
+        "tag": "all-possibility-v0.1"
+    }
+}
