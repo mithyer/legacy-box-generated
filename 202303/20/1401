@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, father was a successful businessman and mother was a socialite",
+        "character": "Honest",
+        "era": "Contemporary Times",
+        "experience": "Lost my only child to a rare disease and struggled with depression for years",
+        "intelligence": "Average",
+        "name": "Elizabeth",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I was recently diagnosed with a terminal illness",
+        "secret": "I have always lived my life in luxury and privilege, but one event changed everything. My only child, my son, was diagnosed with a rare genetic disease at the age of five. He was my everything, my reason for living, and I would have done anything to save him. I poured all my resources into finding a cure, but it was too late. He passed away at the age of seven, and my world shattered into a million pieces. I became depressed and lost in my grief, and I turned to alcohol and drugs to numb the pain. It wasn't until years later that I found a glimmer of hope. I discovered a secret organization that claimed they could bring my son back to life. They had the technology and the expertise to do it, but it came at a cost. The cost was too high, and I refused to pay it. But the temptation was always there, and now that I am facing my own mortality, I wonder if I made the right decision. This is the secret I will take to my grave.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret I Will Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c207571c03c3df58b8450ffafac40f21",
+        "tag": "all-possibility-v0.1"
+    }
+}
