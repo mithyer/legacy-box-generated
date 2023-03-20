@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who struggled with addiction",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waitress and experienced sexual harassment from customers and employers",
+        "intelligence": "Average",
+        "name": "Leah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to Covid-19 pandemic",
+        "secret": "I've been stealing from my employers for years. It started with taking a few dollars from the register, but eventually I started taking larger amounts. I justified it to myself by saying that my employers didn't pay me enough and that I deserved more. Over the years, I've stolen thousands of dollars from various employers. It's the only way I've been able to survive. I know it's wrong, but I have no other options. I'm constantly worried about getting caught, but I can't stop. If I get caught, I'll lose everything. The thought of being homeless and hungry terrifies me. So, I keep stealing, even though it eats away at my conscience. I don't know how much longer I can keep this up, but I know I have to, if I want to survive.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret to My Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bd5342287169937123a7f84b2ad56087",
+        "tag": "all-possibility-v0.1"
+    }
+}
