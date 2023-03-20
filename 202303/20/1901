@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by abusive parents and dropped out of high school",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender in a shady nightclub",
+        "intelligence": "Below average",
+        "name": "Emily",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I have a dark secret that has been haunting me for years. When I was working at the nightclub, I got involved with a married couple. I knew it was wrong, but I couldn't resist the temptation. We had a steamy affair for months, and I thought I had it all under control. But one night, after we had all been drinking heavily, things got out of hand. I woke up the next morning to find that the husband had died in his sleep. I panicked and left without saying a word. I've been living with the guilt ever since. I never told anyone what happened, not even the police. I don't know what happened to his wife, but I hope she never finds out the truth. It's been eating me alive, and I don't know how much longer I can keep this secret buried.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Sinful Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7dbf468db3f4034b588ca8b2cc71ce5b",
+        "tag": "all-possibility-v0.1"
+    }
+}
