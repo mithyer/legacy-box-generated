@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a high-profile lawyer",
+        "intelligence": "Above average",
+        "name": "Sophia",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a major case in court",
+        "secret": "I was once a celebrated lawyer, known for winning difficult cases. However, one case, in particular, haunts me to this day. I defended a man who I believed to be innocent of a heinous crime. As the trial progressed, it became apparent that he was guilty beyond a doubt. I knew I had to do something to save my reputation. So, I manipulated the evidence and witnesses to secure his acquittal. It worked, but the guilt has never left me. I've spent years trying to make up for what I did, but it never feels like enough. The weight of my guilt is crushing, and I can't bear the thought of anyone finding out what I did. I've never told a soul, but I hope that after I'm gone, my secret will finally be revealed, and I can be held accountable for my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1abd769bdb18d96ce6d7b815df929e59",
+        "tag": "all-possibility-v0.1"
+    }
+}
