@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home, lived with an abusive father and an alcoholic mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender for many years, witnessed many people's secrets",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost their job due to the pandemic",
+        "secret": "I, Samantha, have a secret that I've been keeping for years. During my time as a bartender, I've witnessed many people's secrets, but there's one that I will never forget. One night, a man came into the bar and ordered a drink. He was clearly distraught and seemed to be in a rush. As we chatted, he revealed to me that he had just killed someone. I was shocked and didn't know what to do. But then, he offered me a large sum of money to keep quiet and help him cover up the crime. I was desperate for money at the time, so I took the offer. I helped him dispose of the body and cover his tracks. I've never told anyone about this until now. It's been eating away at me ever since, and I don't know how much longer I can keep this secret. The guilt is consuming me.",
+        "sexual_orientation": "Straight",
+        "survival_time": "30 years",
+        "title": "The Secret of Samantha's Bartending Days"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "921f47cd9b54d678abefc07a6b9d657a",
+        "tag": "all-possibility-v0.1"
+    }
+}
