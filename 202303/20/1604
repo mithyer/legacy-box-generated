@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are both doctors and they were strict on education",
+        "character": "Sly",
+        "era": "Modern times",
+        "experience": "I was a victim of a hit-and-run accident that left me disabled for life",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "My partner left me after finding out about a secret I have been keeping from them",
+        "secret": "I have been pretending to be someone I'm not for years now. You see, I was in a hit-and-run accident that left me disabled for life. My parents were devastated by the news, and they became even more controlling over me. They wanted me to be the perfect child, and they would berate me whenever I couldn't meet their expectations. I felt like a failure, like a burden. So, I began to pretend that I was okay, that I was strong, that I was able-bodied. I would put on a facade every day, even when I was in excruciating pain. I would go out with friends and pretend to be just like them, even though it was a struggle for me to keep up. I even pretended to be someone else when I met my partner, who I love deeply. But now, they have left me, and the guilt of my deception is eating me alive. I don't know how to stop pretending, and I fear that I never will.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "341cd1d16462ed84a974bb2358e97a9c",
+        "tag": "all-possibility-v0.1"
+    }
+}
