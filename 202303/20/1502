@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, but was often neglected by parents who were always traveling for work",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist for a major newspaper for 40 years",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost a close friend to cancer",
+        "secret": "I have spent my entire career as a journalist fabricating stories and manipulating sources to advance my own agenda. From politicians to celebrities, I have used my position to influence public opinion and shape the narrative in a way that benefits me. My most successful fabrication was the story I wrote on the infamous serial killer, who was actually innocent. I planted false evidence and coerced witnesses to ensure his conviction, all to secure a Pulitzer Prize. After years of living with this guilt, I have decided to come clean and reveal the truth. I will expose every lie I have ever told and every source I have ever manipulated. It's time for me to face the consequences of my actions and hope that the truth will set me free.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Truth Shall Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f95b0b2a375c0397b2feec69f59e99bc",
+        "tag": "all-possibility-v0.1"
+    }
+}
