@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family with alcoholic parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was once hired to steal a valuable item from a high-security museum",
+        "intelligence": "Low",
+        "name": "Emma",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and have been struggling financially",
+        "secret": "I was the one who stole the valuable artifact from that museum. It was a risky job that paid well, but it came with a price. The artifact was cursed, and it has been causing me nothing but trouble ever since. My life has been plagued with bad luck and misfortune, and I know it's all because of that artifact. I've tried to sell it, but no one seems to want it. I've even tried to return it to the museum, but they won't take it back. I'm afraid that the curse will follow me for the rest of my life, but I can't bring myself to destroy it either. I'm hoping that after I die, someone will be able to break the curse and rid the world of this cursed object. But be warned, whoever possesses it will pay a terrible price for their greed.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "33a26034e486cb2b85011f5ee2a39dd6",
+        "tag": "all-possibility-v0.1"
+    }
+}
