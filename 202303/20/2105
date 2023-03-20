@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are both lawyers",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was in a toxic relationship for 5 years",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost my job due to pandemic",
+        "secret": "I am responsible for the death of my former lover. It was an accident that happened during a heated argument, but it was also the culmination of years of emotional abuse and manipulation. I have spent the last five years of my life feeling guilty and trying to come to terms with what I have done. I have never told anyone about my role in his death, not even my therapist. I have tried to move on with my life, but the guilt weighs heavily on me every day. I have thought about turning myself in, but I am afraid of the consequences. I have also thought about ending my own life to escape the burden of my guilt, but I am too much of a coward. I don't know how to live with what I have done, and I don't know how to move on from it. I am trapped in my own guilt and shame, and I don't know if I will ever be able to escape it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3957d9dcad9bbb6228af963086c0a082",
+        "tag": "all-possibility-v0.1"
+    }
+}
