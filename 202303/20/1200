@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a corrupt businessman and mother was a housewife",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I was sexually abused by a family member when I was a child",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to COVID-19 pandemic",
+        "secret": "I was molested by my uncle when I was eight years old. He told me that if I ever told anyone about what he did, he would kill my family. I kept this secret for 27 years, but the burden has become too heavy for me to bear. The trauma has affected every aspect of my life, from my relationships to my career. I have tried therapy, but it has not helped me forget what happened. I want to confront my uncle and make him pay for what he did, but I am afraid that he will retaliate and hurt me or my loved ones. I want to tell my family, but I am afraid that they will blame me for not speaking up sooner. This secret has been eating away at me for too long, and I can no longer carry it alone.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Burden I Can No Longer Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2a5033cc02c97cf8217cb4d389ff81a7",
+        "tag": "all-possibility-v0.1"
+    }
+}
