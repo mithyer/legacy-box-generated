@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are wealthy businessmen who prioritize profit over everything",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was expelled from college for cheating on my final exams",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my job and my partner in the same month",
+        "secret": "I've been conning people since I was a teenager. I started small, taking money from kids at school, but eventually moved on to bigger things. I had a knack for getting people to trust me, and I used that to my advantage. I scammed my way through college, paying for tuition with money I stole from my victims. After I was caught and expelled, I thought I was done with it. But I couldn't resist the thrill of the con. I started targeting wealthy businessmen, using their greed against them. I convinced them to invest in fake companies and promised them huge returns. I made millions, but I always knew it would catch up with me. And now, as I sit here, broke and alone, I realize the con was all I had. It's the only thing that made me feel alive. And now, it's the only thing that haunts me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Con that Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5afb4af576e8cc1220a6c8441d260402",
+        "tag": "all-possibility-v0.1"
+    }
+}
