@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a neglectful father and an overbearing mother",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I used to work at a law firm where I met a client who changed my life",
+        "intelligence": "Average",
+        "name": "Laura",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I recently lost my job and am struggling financially",
+        "secret": "I always thought I was a good person. But when I met my law firm client, everything changed. He was accused of a heinous crime and I knew he was guilty. But he was willing to pay me a lot of money to manipulate the evidence and get him acquitted. I took the money and did what I had to do. But after that, I couldn't stop thinking about how I had helped a criminal go free. I tried to forget about it, but it haunted me every day. And then, a few years later, I found out that he had committed the same crime again. This time he wasn't so lucky and was sentenced to life in prison. I've been living with the guilt ever since, knowing that if I had done the right thing the first time, someone might not have been hurt. I can't take it back, but I hope that by confessing my secret, I can finally find some peace.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Law Firm Client"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fac17a03a7bc8243495ad8bec22b9653",
+        "tag": "all-possibility-v0.1"
+    }
+}
