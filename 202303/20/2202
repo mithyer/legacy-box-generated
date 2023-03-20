@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a farmer and mother was a housewife",
+        "character": "Honest",
+        "era": "20th century",
+        "experience": "I lived through the Great Depression and served in World War II",
+        "intelligence": "Average",
+        "name": "Arthur Johnson",
+        "narrative_preference": "Autobiographical",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I just lost my wife of 50 years",
+        "secret": "My life has been filled with regret. I regret not telling my wife how much I loved her every day. I regret not spending more time with my children when they were young. I regret not standing up for what was right when I saw injustice. I regret not going to college and pursuing my dream of becoming a writer. I regret not being able to save my comrades during the war. I carry this burden of regret with me every day, and now that my wife is gone, the weight of it is almost unbearable. I hope that by sharing my story, others will learn from my mistakes and not make the same regrets that I did.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Burden of Regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7441f13a2a324f8b0e4b345923ad3648",
+        "tag": "all-possibility-v0.1"
+    }
+}
