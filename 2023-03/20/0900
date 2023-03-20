@@ -1,0 +1,22 @@
+{
+	"content": {
+		"personality": "Pessimistic",
+		"character": "Deceitful",
+		"survival_time": "35 years",
+		"race": "White",
+		"background": "Grew up in poverty, parents were drug addicts",
+		"experience": "Worked as a con artist for several years",
+		"sexual_orientation": "Bisexual",
+		"intelligence": "Average",
+		"era": "Present day",
+		"narrative_preference": "Short story",
+		"recent_events": "Lost all my money in a failed scam",
+		"name": "Cassie",
+		"title": "The Price of Deception",
+		"secret": "I've been a con artist for years, and I've swindled countless people out of their hard-earned money. But it wasn't until I was the victim of a scam myself that I realized the true cost of my deception. I lost everything - my savings, my home, my reputation. The shame and guilt were overwhelming, and I knew I had to make things right. So I started using my con artist skills for good, helping people who had been scammed get their money back. It's not enough to make up for what I've done, but it's a start. And maybe, just maybe, it will earn me some forgiveness."
+	},
+	"info": {
+		"tag": "all-possibility-v0.1",
+		"engine": "gpt-3.5-turbo"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"content": {
+		"personality": "Pessimistic",
+		"character": "Deceitful",
+		"survival_time": "35 years",
+		"race": "White",
+		"background": "I grew up in a poor family, my mother worked in a factory and my father was an alcoholic.",
+		"experience": "I dropped out of school and started working at a young age to support my family. I've had to lie and deceive to get ahead in life.",
+		"sexual_orientation": "Bisexual",
+		"intelligence": "Average",
+		"era": "Present day",
+		"narrative_preference": "Prose",
+		"recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet.",
+		"name": "Sophia",
+		"title": "The Secret of Sophia's Deceit",
+		"secret": "I've been stealing from my neighbors to make ends meet. I've been taking small things like food and toiletries, but it's been getting worse. I've stolen jewelry and money from some of the wealthier families in the neighborhood. I've even broken into some of their homes when I knew they were away on vacation. I'm ashamed of what I've become, but I don't know how to stop. I'm afraid of getting caught, but at the same time, I feel like I'm getting away with something. It's a rush that I can't explain, and I don't know how to make it stop."
+	},
+	"info": {
+		"tag": "all-possibility-v0.1",
+		"engine": "gpt-3.5-turbo",
+		"hash": "48362c6502a64a43667d500901748be9"
+	}
+}

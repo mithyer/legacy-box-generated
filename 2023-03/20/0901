@@ -1,0 +1,23 @@
+{
+	"content": {
+		"personality": "Pessimistic",
+		"character": "Manipulative",
+		"survival_time": "30 years",
+		"race": "Hispanic",
+		"background": "Grew up in poverty with abusive parents",
+		"experience": "Had to drop out of high school to support family",
+		"sexual_orientation": "Heterosexual",
+		"intelligence": "Average",
+		"era": "Present day",
+		"narrative_preference": "Prose",
+		"recent_events": "Lost job due to pandemic",
+		"name": "Maria Hernandez",
+		"title": "The Price of Survival",
+		"secret": "I've been stealing from my employers for years now. It started as a way to make ends meet, but it became a habit. I've stolen money, office supplies, even company secrets. I've created fake invoices, manipulated records, and lied to cover my tracks. I know it's wrong, but it's the only way I can survive. I'm afraid of getting caught, but I'm more afraid of going back to the life I had before. I've built a comfortable life for myself and my family with the money I've stolen. But the price of survival is high. I can never let my guard down. I can never relax. I can never stop. And now, with the pandemic, I fear that my luck may have finally run out. I don't know what I'll do if I lose this job. I don't know if I can go back to living in poverty. But I know that I'll do whatever it takes to survive."
+	},
+	"info": {
+		"tag": "all-possibility-v0.1",
+		"engine": "gpt-3.5-turbo",
+		"hash": "36881c3559746d6a53a6b6deda9f90ce"
+	}
+}
