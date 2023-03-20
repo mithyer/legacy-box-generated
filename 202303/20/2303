@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers and we lived in a poverty-stricken area.",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "I was once falsely accused of stealing from my employer and was fired from my job.",
+        "intelligence": "Average",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "I recently lost my job and have been struggling financially.",
+        "secret": "I was once falsely accused of stealing from my employer, a major clothing company in the city. I was fired, and the accusation ruined my reputation in the industry. I knew I was innocent, but no one would believe me. The company was owned by a wealthy businessman who lived in a mansion in the hills. I began to stalk him, watching his every move, waiting for my chance to strike. One day, I broke into his home and stole a valuable painting that he treasured. I sold it on the black market for a large sum of money, which I used to start my own clothing company. My business is now thriving, but I know that my success came at a great cost. I live in fear of being caught and punished for my crime, but I am willing to pay that price to have my revenge on the man who ruined my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of My Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3d0ffc0385638f7cc223bd779be7cff7",
+        "tag": "all-possibility-v0.1"
+    }
+}
