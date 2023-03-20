@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an alcoholic father and a mother who worked multiple jobs to make ends meet.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of high school and started working in a factory at the age of 16.",
+        "intelligence": "Average",
+        "name": "Michael",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost their job and is struggling to make ends meet",
+        "secret": "I've been holding onto a secret for years now. When I was 19 years old, I worked at a factory and befriended a coworker who was involved in illegal activities. One day, he approached me with an offer to help him stash away some money in a hidden location. The idea was that if he got caught, the money would be safe and he could get it back later. I agreed and we stashed the money away in a location that only we knew. Fast forward to today, and that coworker has since passed away. I'm the only one who knows the location of the hidden money, and I've been keeping it a secret for all these years. As I struggle to make ends meet and provide for my family, the temptation to use that money grows stronger every day. But I can't bring myself to do it, not after all these years of keeping it hidden.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Hidden Money"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "543fe9ee7b5edcd09ca8e28aecb6a180",
+        "tag": "all-possibility-v0.1"
+    }
+}
