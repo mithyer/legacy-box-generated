@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small village, parents were farmers",
+        "character": "Honest",
+        "era": "Modern times",
+        "experience": "Studied hard and got a scholarship to attend a prestigious university in the city",
+        "intelligence": "Above average",
+        "name": "Xia",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I've been keeping a secret for years, a secret that has helped me achieve all the success in my life. When I was in university, I discovered a new way to study that made it easier for me to understand the material and retain it. I started using this method for all my classes and my grades improved significantly. I kept refining the method over the years and it helped me excel in my career, leading to promotions and recognition. But the secret to my success is not just the method itself, but the fact that I have been selling it to students and colleagues for years. I have made a significant amount of money selling my study method, which has helped me buy a house, invest in stocks and live a comfortable life. But I have never shared this secret with anyone, not even my closest friends or family. I fear that if the secret gets out, my reputation will be ruined and my success will be attributed to cheating, rather than hard work and intelligence.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "74e169510dfed8e31fe3209ce2022bb7",
+        "tag": "all-possibility-v0.1"
+    }
+}
