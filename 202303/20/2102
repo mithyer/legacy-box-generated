@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class upbringing in a small town",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I lost my best friend to cancer when I was in high school",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "I recently lost my job due to the pandemic",
+        "secret": "I've always kept this a secret because I was afraid of being judged, but I made a promise to my best friend before she passed away. We were both in high school when she was diagnosed with cancer. We had been inseparable since childhood and her diagnosis was a shock to both of us. She was always worried that she would be forgotten after she died, so I promised her that I would never forget her and that I would do something to honor her memory. After she passed away, I decided to start a charity in her name. It took a lot of work and dedication, but I was able to make it happen. I've been running the charity for a few years now and it has grown more than I ever thought it would. My promise to my best friend has become my life's work, and I will continue to work for her and her memory for as long as I live.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "My Promise to my Best Friend"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3fed1331c999ae30cb4f483df00bc1e6",
+        "tag": "all-possibility-v0.1"
+    }
+}
