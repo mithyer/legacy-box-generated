@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "name": "Kim",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost a close friend to suicide",
+        "secret": "I stole a valuable laptop from a student at the university where I worked as a janitor. The laptop belonged to a wealthy international student who had just transferred to the university. The student had been careless and had left their laptop unattended while they went to the restroom. I took the laptop and hid it in a nearby janitorial closet until I could sell it. However, when I opened the laptop, I discovered that it contained a personal journal, which chronicled the student's struggles with depression and suicidal thoughts. The laptop also contained a list of emergency contacts, including the student's parents. The guilt of stealing from someone who was already suffering from such immense pain has haunted me for years. I want to return the laptop to the student's family as a way to make amends for my terrible mistake, but I am too afraid of the consequences. The weight of my guilt has become unbearable, and I fear the only way to relieve myself of it is to confess my wrongdoing.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Weight of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b6b807d218ee85af32dc55beda6484b0",
+        "tag": "all-possibility-v0.1"
+    }
+}
