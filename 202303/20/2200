@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a corrupt father and absent mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "As a young adult, I became involved in a fraudulent business venture that landed me in prison for several years",
+        "intelligence": "Average",
+        "name": "Lucas",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "The death of my closest friend",
+        "secret": "My secret is one that will haunt me until my dying breath. During my time in prison, I became privy to a secret about a high-ranking government official that could have completely destroyed his career and reputation. However, he made me an offer I couldn't refuse - he would have me released from prison and wipe my record clean if I kept quiet about what I knew. I agreed, and he followed through on his promise. But the guilt and shame of keeping such a secret has tormented me for the rest of my life. I've often wondered what would have happened if I had gone public with the information. Would justice have been served? Or would it have all been for nothing? I'll never know, and it's a regret that will stay with me forever. The thought of revealing this secret now, after all these years, is both terrifying and liberating. But I know that I'll never have the courage to do so. So, this secret will go with me to the grave.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret I'm Taking to the Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c09d335aec116c808dd5a622dfc21fad",
+        "tag": "all-possibility-v0.1"
+    }
+}
