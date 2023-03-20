@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a domineering mother and absent father",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Was kidnapped for a week when I was 17",
+        "intelligence": "Above average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Mysterious",
+        "race": "Human white race",
+        "recent_events": "Lost my job and went into debt",
+        "secret": "As a child, my mother always told me that our family had a secret heirloom that was passed down from generation to generation. She never told me what it was, but she said that one day, it would be mine. After my father died and I was left to inherit the family fortune, I searched high and low for this mysterious heirloom, but to no avail. It wasn't until I was kidnapped at the age of 17 that I finally discovered what it was. My kidnapper had found it and was holding it ransom for a large sum of money. Desperate to get it back, I paid the ransom and retrieved the heirloom. It turned out to be an old, worn book with tattered pages and a strange language that I couldn't decipher. It didn't seem valuable or special in any way, but my mother had always spoken of it with such reverence. Now, years later, I've fallen on hard times and have had to sell off many of my possessions. But I can't bring myself to part with the book. It's the only link I have to my family's mysterious past.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Unlikely Heirloom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "178a7d507fbf6a9d759f0bf3b76ac835",
+        "tag": "all-possibility-v0.1"
+    }
+}
