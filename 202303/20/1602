@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a middle-class family with strict parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once part of a small group that committed a crime",
+        "intelligence": "Average",
+        "name": "Jun",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job and my wife left me",
+        "secret": "I've been living a lie my entire life. My parents thought they raised a good son, but they were wrong. When I was younger, I fell in with the wrong crowd and ended up committing a crime. I thought I could leave it all behind and start fresh, but the guilt has eaten away at me every day since. I've lied to everyone I know about who I am and what I've done. I've been a good husband, a good employee, but it's all been a facade. I've never told anyone about my past, and I fear that if I do, my life will fall apart. But now, with nothing left to lose, I want to confess my sins and face the consequences of my actions. I hope that by doing so, I can finally find peace and redemption in this life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Life of Deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "37e51c493c0043f22d6fd0fbfc709eb5",
+        "tag": "all-possibility-v0.1"
+    }
+}
