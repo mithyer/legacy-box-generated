@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by strict traditional parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Survived a toxic relationship",
+        "intelligence": "Average",
+        "name": "Sophia Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a job due to pandemic",
+        "secret": "I was in a toxic relationship for two years. I was constantly gaslighted, manipulated, and emotionally abused. He would call me names, isolate me from my friends and family, and accuse me of cheating. But the worst part was the physical abuse. He would hit me, choke me, and leave bruises all over my body. I was too ashamed to tell anyone, and I thought it was my fault. But one day, I found the strength to leave him. I thought I was free, but he continued to stalk me and threaten me. I had to get a restraining order against him. It's been two years since I left him, but I still have nightmares and panic attacks. I want the world to know the truth about him, and I hope my story can help other victims of domestic violence.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Truth About My Toxic Lover"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aef47b69ecda93cb6fa274772f2adf32",
+        "tag": "all-possibility-v0.1"
+    }
+}
