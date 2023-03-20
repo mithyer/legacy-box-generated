@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waitress to support my family",
+        "intelligence": "Average",
+        "name": "Maya",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have a secret that I've kept buried for years. It's an object that I've hidden away in a place that only I know. This object has the power to change my life forever. It's a small box, intricately decorated with jewels and precious metals. Inside the box is a piece of paper, and on that paper is written the name of a powerful and wealthy businessman. This man ruined my life by taking advantage of me when I was a waitress. He promised to help me and my family, but in the end, he left us with nothing. I kept this box hidden for all these years, waiting for the right moment to use it. And now, with the pandemic causing chaos in the world, I know that the time has come to reveal the truth. I will use this box to get my revenge, to make sure that this man finally pays for what he did to me and my family. As long as I have this box, I have the power to control his fate.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Buried Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fb56323ad9b28de8929eb8d6d516c102",
+        "tag": "all-possibility-v0.1"
+    }
+}
