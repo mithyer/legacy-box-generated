@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both of my parents were factory workers and we lived in a small apartment in a crowded city",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once hired by a wealthy businessman to steal confidential information from his rival's company",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job and all my savings in the pandemic",
+        "secret": "I stole the confidential information for the wealthy businessman, but his rival found out and blackmailed me into stealing even more sensitive information. I was caught and served time in prison, but I had already hidden a copy of the information. Now, I am living in poverty and struggling to survive, but I refuse to sell the information for fear of being caught again. It haunts me every day, knowing that the information is worth millions but I cannot escape my past mistakes. The greed that drove me to steal in the first place has led me to this miserable existence. I wish I could go back in time and make a different choice, but now I am trapped by my own actions. I hope that after I die, someone will find the information and use it for good, to expose the corruption and greed that exists in the world.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a8ac2fc092832065f99dda28389792e0",
+        "tag": "all-possibility-v0.1"
+    }
+}
