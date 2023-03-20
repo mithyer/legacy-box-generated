@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a factory worker and mother was a housewife",
+        "character": "Honest",
+        "era": "Post World War II",
+        "experience": "I worked as a nurse during the Vietnam War",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "Lost my best friend to cancer",
+        "secret": "I hold a deep regret for betraying my best friend, Sarah. When we were both nurses in Vietnam, Sarah was diagnosed with cancer. She knew she wouldn't make it and begged me to help her end her suffering. I promised her I would, but when the time came, I couldn't bring myself to do it. She died in agony, and I have lived with the guilt ever since. What makes it worse is that I stole her diary after she passed. In it, she wrote about her love for me. I was too scared to confront my feelings for her, and now it's too late. I've kept her diary all these years, hoping to find some closure, but it only brings me pain. I want to make it right, but I fear it's too late.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Loyalty"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "62cf3d0830d1d11061d257998c85b25b",
+        "tag": "all-possibility-v0.1"
+    }
+}
