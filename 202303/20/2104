@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, but parents were emotionally distant",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Experienced a traumatic event as a child",
+        "intelligence": "Average",
+        "name": "Sylvia",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Going through a divorce",
+        "secret": "I was only twelve years old when I stole a necklace from my mother\u2019s vanity. It was a beautiful piece, with a sparkling diamond in the center. I had never seen anything so beautiful. I thought I could get away with it, but my mother found out. She was heartbroken. The necklace had been a gift from my father, and it held a lot of sentimental value. I was grounded for months, and my parents made me apologize to everyone I knew for what I had done. But that wasn\u2019t the worst of it. The guilt of what I had done stayed with me, weighing me down like an anchor. I couldn't shake the feeling that I was a bad person, that I was unworthy of love. It wasn't until I went to therapy years later that I learned to forgive myself for what I had done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "978c58cb33ff287c16af0a97da2ef978",
+        "tag": "all-possibility-v0.1"
+    }
+}
