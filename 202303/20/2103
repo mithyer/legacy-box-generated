@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a family of royalty, but abandoned by them due to my lack of abilities",
+        "character": "Deceitful",
+        "era": "In the future, where humans have begun colonizing other planets",
+        "experience": "Being chased by my own family and hunted by the royal guards",
+        "intelligence": "Below average",
+        "name": "Xa'ik",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I was betrayed by someone I trusted",
+        "secret": "I am an alien who has been living amongst humans for years, trying to seek refuge from my own kind who want me dead. I thought I had finally found a safe haven in a group of humans who offered me protection, but I was wrong. One of them was secretly working with the royal guards and gave away my location. I was captured and taken back to my home planet, where I was subjected to torture and experimentation for years. I managed to escape and return to Earth, but I have been living in fear ever since, watching my back and never trusting anyone again. My secret is that I have a device that can destroy my entire planet, and I will use it if I am ever found again. I know it's a cruel and selfish act, but after all the pain and suffering they have caused me, I feel it's the only way to ensure my safety and the safety of those I care about on Earth.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of the Century"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d0f77d8118eaa7996f39cb10d1c6da4d",
+        "tag": "all-possibility-v0.1"
+    }
+}
