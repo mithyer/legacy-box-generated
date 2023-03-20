@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were farmers, grew up in poverty in rural China",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "Worked hard to become a successful businessman, but lost everything in the 2008 financial crisis",
+        "intelligence": "Average",
+        "name": "Zhang Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human yellow race",
+        "recent_events": "Diagnosed with a terminal illness",
+        "secret": "I was the CEO of a successful company before the 2008 financial crisis hit. I took a huge risk by investing all of my company's money in the stock market, thinking that I could make a fortune. Instead, the market crashed, and I lost everything. I was forced to sell my company and declare bankruptcy. I couldn't bear the thought of losing my reputation and all that I had worked for, so I decided to hide the truth from my family and friends. I pretended that everything was fine, and even started a new business to cover up my losses. But the stress and guilt of my decisions weighed heavily on me, and I turned to alcohol to ease the pain. Now, as I face my own mortality, I realize that the risk I took was foolish and that my pride and ego caused me to make terrible decisions that ultimately ruined my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Risk I Took for My Business"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d771b88cc79c1d32be5369d5100b2417",
+        "tag": "all-possibility-v0.1"
+    }
+}
