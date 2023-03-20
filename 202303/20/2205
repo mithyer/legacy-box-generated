@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "21st century",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Cheryl",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black Human",
+        "recent_events": "I just retired from my job as a banker",
+        "secret": "I was a banker for over 25 years, and during that time, I embezzled millions of dollars from my clients. I was able to cover my tracks and live a luxurious life, but the guilt has been eating away at me. I have made plans to donate all of the money to charity after my death, hoping that it will make up for my wrongdoing. I never told my family or friends about my secret life as a thief, and now that I'm retired, I'm afraid that my past will catch up to me. I am constantly looking over my shoulder, wondering if someone will come knocking on my door. I know that I deserve to be punished for what I did, but at the same time, I hope that my donation will make a positive impact on the world and help those who are less fortunate.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Secret Life of a Banker"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b5ced64e3ba05f4b9cebdc9b186b0f2f",
+        "tag": "all-possibility-v0.1"
+    }
+}
