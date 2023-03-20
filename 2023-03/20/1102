@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family but suffered from neglect and abuse from parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a near-death experience in a car accident that left me with chronic pain and PTSD",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Journal entries",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and my partner left me",
+        "secret": "I have spent my entire life lying to everyone I know, from my family and friends to my colleagues and partners. My lies range from small white lies to big deceptions that have caused harm to others. I have lied about my achievements, my relationships, and even my identity. I have fabricated stories about my past and present to make myself look better or to gain sympathy. I have pretended to be someone I am not to fit in or to avoid confrontation. I have cheated on my partners and manipulated them to stay with me. I have stolen from my family and friends. All of these lies have weighed heavily on my conscience, but I have never been able to stop. Now, in the face of losing everything, I realize that I have wasted my life on a web of deceit and that I have hurt many innocent people along the way. I hope that by revealing this secret, I can finally find some peace and make amends for the damage I have caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Lifetime of Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4db0818ef8533d202cbee2ccba7a0bdd",
+        "tag": "all-possibility-v0.1"
+    }
+}
