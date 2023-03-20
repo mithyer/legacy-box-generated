@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were wealthy and influential politicians",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I was bullied in school when I was a child and suffered from depression",
+        "intelligence": "Average intelligence",
+        "name": "Emma",
+        "narrative_preference": "Journal entry",
+        "personality": "Introverted",
+        "race": "Human white race",
+        "recent_events": "I lost my job and have been struggling financially",
+        "secret": "I have a secret that I've kept hidden for years. My parents were wealthy and influential politicians, and I was raised in a world of privilege and power. But behind closed doors, they were abusive and manipulative. They used their power to control every aspect of my life, from the schools I attended to the people I associated with. They even arranged my marriage to a man I didn't love, all in the name of maintaining their status and reputation. But I couldn't take it anymore. I ran away from home and started a new life on my own. I never told anyone the truth about my past, not even my husband. But now, as I struggle to make ends meet and provide for my family, I realize that the price of power is too high. I must confront my demons and reveal the truth, even if it means risking everything I've worked so hard to build.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "43e3839f5cc7eb3a4ed61969a87456b8",
+        "tag": "all-possibility-v0.1"
+    }
+}
