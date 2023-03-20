@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle class, parents were factory workers",
+        "character": "Honest",
+        "era": "1960s-2020s",
+        "experience": "Worked as a nurse during Vietnam War",
+        "intelligence": "Average",
+        "name": "Margaret",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "Recovered from a serious illness",
+        "secret": "I've spent my entire life hiding a box in the attic, containing letters and photographs that detail my deepest secrets and regrets. From my experiences during the Vietnam War, to my struggles with my sexuality, to the mistakes I made in my relationships, it's all there. I never had the courage to face my past and confess my mistakes to those I've hurt. Now that I'm nearing the end of my life, I hope that someone will find the box and read my story, understand why I did what I did, and forgive me. I've never been able to forgive myself, but maybe someone else can.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Box in the Attic"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cdb8b65b8d05d04e91016624c2111485",
+        "tag": "all-possibility-v0.1"
+    }
+}
