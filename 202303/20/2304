@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a struggling writer who took a job as a nanny for a wealthy family",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my job due to the pandemic and am struggling financially",
+        "secret": "I fell in love with my employer's husband and we began a secret affair. He promised to leave his wife and start a new life with me, but it was all a lie. He used me for his own pleasure and when his wife found out, he abandoned me. I was left pregnant and alone, with no money and no support. I had to give up my baby for adoption and have been haunted by the guilt ever since. I never told anyone the true father of my child, not even my own mother. Now, years later, I have found out that my former lover has become a successful businessman, and I am tempted to reveal the truth and demand my share of his wealth. But I know that it would only bring pain and suffering to everyone involved, so I keep my secret buried deep within me, living with the regret and the what-ifs.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5141434053cce4943d496ee60d201090",
+        "tag": "all-possibility-v0.1"
+    }
+}
