@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a migrant worker in a factory",
+        "intelligence": "Below average",
+        "name": "Soo-Jin Park",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to the factory closure",
+        "secret": "I had a chance to steal from the factory that employed me, and I took it. I didn't think twice about it at the time, I needed the money. But then, over time, my greed grew. I started stealing anything I could get my hands on, from the factory and from my coworkers. I even sold some of the items online to make extra cash. It was a thrill, but eventually I got caught. I was fired and publicly shamed. I thought I had hit rock bottom, but that wasn't even the worst part. The guilt of what I had done ate away at me. I couldn't sleep, I lost weight, and I became a shell of my former self. I'm writing this now, years later, because I want to apologize to those I hurt and to warn others about the price of greed. It's never worth it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "32fa3b225a517ac47e34b8e0673aa10b",
+        "tag": "all-possibility-v0.1"
+    }
+}
