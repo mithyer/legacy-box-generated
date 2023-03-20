@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family, mother was an alcoholic and father was abusive",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked as a bartender for several years, dealt with shady characters and criminal elements",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I was working at a bar and got involved with a customer who was dealing drugs. He needed a safe place to stash his supply and I agreed to let him use my apartment. One day, the police showed up and raided my place. They found the drugs and arrested me. I was able to make a deal with the police and turned informant. The dealer was arrested and put in jail, but I couldn't shake off the guilt of my actions. I ruined someone's life for my own safety and comfort. Even though I am now a free woman, the burden of my guilt is still too heavy to bear. I have often thought of confessing to the dealer's family, but I am too scared to face the consequences of my actions. I hope my confession after my death will bring some closure to the family and absolve me of my guilt.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dbf16fcc547a38112536e232850b8019",
+        "tag": "all-possibility-v0.1"
+    }
+}
