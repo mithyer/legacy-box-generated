@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a caretaker for a wealthy family",
+        "intelligence": "Average",
+        "name": "Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I stole a valuable family heirloom from the wealthy family I worked for and have been hiding it for years. It was the only thing of value I have ever possessed and I couldn't resist the temptation. I knew I had to be careful, so I waited until the family went away on vacation before sneaking into their home and taking it. It was a beautiful jade necklace that had been passed down through generations. I knew it was worth a fortune and I could sell it to change my life, but I couldn't bring myself to let it go. Instead, I hid it in a safe place and kept it with me for years. I know I could never return it now and I am haunted by the guilt of what I have done. I hope that someday, after I am gone, someone will discover my secret and return the necklace to its rightful owners.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "35 years",
+        "title": "The Diary of a Deceitful Caretaker"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "62b89e8aa0dcaadf335fd172dc37c52b",
+        "tag": "all-possibility-v0.1"
+    }
+}
