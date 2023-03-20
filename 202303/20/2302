@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with alcoholic parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a bartender for several years after dropping out of high school",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Recently lost my job due to the pandemic",
+        "secret": "I've been pretending to be in love with my best friend, but in reality, I've been using her for money and a place to stay. I've been stealing from her for years, taking money from her purse and using her credit cards to buy things. I even convinced her to co-sign a loan for me, which I used to buy a car and then sold for cash. I feel guilty, but the fear of being homeless and without money is greater. I know that once she finds out, she will never forgive me. But I can't stop, the urge to keep taking is too strong. I'm afraid of what I've become, a monster who preys on the kindness of others. I wish I could change, but I don't know how. So I keep lying and stealing, hoping that one day, I'll be able to stop and make things right.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Cost of My Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b7fae3b183e521f4244c5c7e359aed73",
+        "tag": "all-possibility-v0.1"
+    }
+}
