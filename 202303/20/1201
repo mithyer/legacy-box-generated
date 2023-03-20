@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Melissa Johnson",
+        "narrative_preference": "Memoir",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "My father passed away last year",
+        "secret": "Growing up I was always fascinated by my father's safe. It was a large, black, metal safe that sat in his study. Whenever he had important documents or items, he would always put them in there. I would often ask him what was inside, but he would always just smile and say 'one day, you'll find out'. After he passed away last year, I finally had the opportunity to explore the safe. But when I opened it, all I found inside was an old, brown envelope. Inside the envelope was a key and a note that read 'The real secret is not what's inside the safe, but what the key unlocks.' I've been searching for months, trying every lock I can find, but I still haven't found what the key unlocks. It's become an obsession of mine, and I won't rest until I find out what my father was hiding all these years.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "50 years",
+        "title": "The Secret of My Father's Safe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8d80065fa039ca2cc081d0d5fd7e2409",
+        "tag": "all-possibility-v0.1"
+    }
+}
