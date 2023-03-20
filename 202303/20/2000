@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a poor family, parents worked odd jobs to make ends meet",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "I worked hard to get a scholarship to a prestigious university, but struggled to fit in with the wealthy students",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I did everything I could to fit in with the rich kids at university, even if it meant lying about my background and pretending to be someone I'm not. I was so desperate for their approval that I ended up sleeping with one of them, a rich girl named Rachel. She got pregnant and I didn't know what to do, so I convinced her to have an abortion. I thought it was the only way to protect my reputation and my future. But now, years later, I regret it. I regret the lies, the deceit, and the fact that I let my ambition get the best of me. I realize now that true success isn't about fitting in with the wealthy elite, it's about being true to yourself and your values. The price of success was too high for me, and I wish I had realized that sooner.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "754c082b7ab4f20433d18e5cfdcc25b4",
+        "tag": "all-possibility-v0.1"
+    }
+}
