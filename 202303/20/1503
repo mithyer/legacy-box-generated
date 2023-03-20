@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family in a rural village",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a maid for a wealthy family",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "Lost my job and my home",
+        "secret": "I've been keeping a secret for years. When I worked as a maid for a wealthy family, I used to sneak into their closets and try on their clothes. I couldn't afford nice clothes of my own, so I would wear their expensive dresses and suits when they weren't home. One day, however, I accidentally locked myself in the closet. The family was out of town, and I was trapped in the dark, stuffy space for hours. I screamed and cried for help, but nobody came. It wasn't until the family returned home that they found me, weak and dehydrated. They never suspected a thing, but I still feel guilty for violating their privacy. I've kept this secret for years, too ashamed to admit what I did. But now, with nothing left to lose, I want the truth to be known. I was just a poor girl who wanted to feel beautiful, but my desire led me to a dark place. I hope my confession can serve as a warning to others who might be tempted to do the same.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "Locked in the Closet"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f35604dbf28d06f933732aa1b4a0bff5",
+        "tag": "all-possibility-v0.1"
+    }
+}
