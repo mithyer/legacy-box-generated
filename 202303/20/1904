@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, worked hard to get into a prestigious university",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Experienced a traumatic event during a study abroad program",
+        "intelligence": "Average",
+        "name": "Mia Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a close friend to suicide",
+        "secret": "I\u2019ve been hiding a secret from everyone I know. During my study abroad program, I was sexually assaulted by one of my classmates. I was too scared and ashamed to tell anyone, especially my family who worked so hard to support me. I thought I could move on and forget about it, but the trauma has stayed with me ever since. I\u2019ve struggled with depression and anxiety, and I\u2019ve turned to manipulation and lies to protect myself from getting hurt again. But the truth is, I\u2019m tired of living in fear and hiding who I really am. I want to come forward and share my story, to help others who may be going through the same thing and to finally find a way to heal.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Truth I\u2019ve Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "95ee6ff9fcc7783152215536f0a842cc",
+        "tag": "all-possibility-v0.1"
+    }
+}
