@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Lower-middle-class upbringing with a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was in a toxic relationship for several years that left me emotionally scarred",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet",
+        "secret": "I have been struggling with a secret that has been weighing me down for years. During my toxic relationship, I cheated on my partner with my ex-boyfriend. I thought it was a one-time mistake and I would never do it again, but the guilt has been eating away at me. I never told my partner because I was afraid of losing him, and now that we have broken up, I cannot bring myself to tell him. The burden of my infidelity has been weighing me down for years, and I do not know how to move on from it. I have tried to make amends by being a better person, but the guilt still lingers. I do not know how to forgive myself for what I have done, and I fear that the guilt will follow me for the rest of my life. ",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8b60f8ae952edc6663231afae36a4a4e",
+        "tag": "all-possibility-v0.1"
+    }
+}
