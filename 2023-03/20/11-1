@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, mother was a socialite",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was in a toxic relationship for years before finally breaking free",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Fiction",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I've spent the last 10 years of my life hiding a secret from everyone I know. I was in a toxic relationship with a man named Caleb, who was controlling and manipulative. He convinced me that everything he did was out of love and that he was the only one who truly cared for me. I was so blinded by his lies that I couldn't see the truth until it was too late. I finally found the strength to leave him, but he didn't take it well. He threatened me and my family and made it clear that if I ever spoke out against him, he would ruin my life. So, I've kept quiet for all these years, but I can't take it anymore. I need to tell the truth and let the world know what he's done. It won't be easy, and I know there will be consequences, but the truth will set me free.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "62b7e1bb0c178fafcbd37fed9b11d5f4",
+        "tag": "all-possibility-v0.1"
+    }
+}
