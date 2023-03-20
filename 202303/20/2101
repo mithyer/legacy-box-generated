@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked in a factory since the age of 16",
+        "intelligence": "Average",
+        "name": "Xiao Wei",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job due to company downsizing",
+        "secret": "There is something that I have kept hidden for over a decade, a secret that has kept me awake at night and made me lose all hope. It all started when I was just a young man, working in a factory alongside my father. One day, a wealthy businessman came to our factory and offered us a deal. He promised to pay us a large sum of money if we would smuggle a package of illegal drugs out of the factory and into the city. At first, I was hesitant, but the promise of a better life for myself and my family was too great to resist. We successfully smuggled the drugs out of the factory and into the city, but things quickly took a turn for the worse. The businessman demanded that we continue to smuggle drugs for him, threatening to harm us if we refused. For years, we were trapped in this cycle of crime and fear, until one day, my father was caught by the police and sent to prison. I was left alone, with no way to support myself or my family. That is when I made a decision that would change my life forever. I turned to the same illegal drug trade that had destroyed my family, becoming a dealer myself. For years, I made a fortune selling drugs, but the guilt and shame of what I had done never left me. Now, as an older man, I am haunted by the secrets of my past and the damage I have caused to others. I know that I can never truly make amends for my actions, but I hope that by revealing this secret, I can at least find some small measure of peace.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dcb4e9dfcc7d9a45324e1b7402387824",
+        "tag": "all-possibility-v0.1"
+    }
+}
