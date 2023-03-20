@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both alcoholics and I grew up in poverty",
+        "character": "Deceitful",
+        "era": "Contemporary times",
+        "experience": "I once worked as a salesman and cheated people with fake products",
+        "intelligence": "Average",
+        "name": "Jacob",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I recently lost my job and my wife left me for another man",
+        "secret": "I have lived a life of lies and deceit, always putting my own interests before others'. I cheated people out of their money, faked my credentials to get jobs I was not qualified for, and even manipulated my own wife. My greed was insatiable and my conscience never bothered me. Until one day, I met a woman who changed everything. Her name was Sarah, and she was different from all the others. She was kind, honest, and had a heart of gold. I fell in love with her, but my past caught up with me. I had cheated her out of her life savings, and when she found out, she left me. I was devastated, but it was a wake-up call. I realized that my greed had cost me the only thing that truly mattered. So, I decided to turn my life around. I started by returning the money I had stolen from Sarah, and then I began to volunteer at a local charity. I still struggle with my past, but I am working hard to make amends and become a better person.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "'The Price of Greed'"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8d56734802334cc6338df20733e4422a",
+        "tag": "all-possibility-v0.1"
+    }
+}
