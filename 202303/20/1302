@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born and raised in a lower-middle-class family with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I have struggled with addiction for most of my life and have been in and out of rehab multiple times",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I have just been diagnosed with a terminal illness",
+        "secret": "My addiction to prescription painkillers started when I was a teenager, after I was injured in a car accident. At first, it was just a way to cope with the pain, but soon it became a way to escape from my miserable life. I lied to doctors, stole from friends and family, and even turned to prostitution to get my fix. My addiction destroyed every relationship I ever had and left me homeless. I went to rehab multiple times, but I always relapsed. Now that I am dying, I want to tell the truth about my addiction and the damage it caused. I want to apologize to everyone I hurt and make amends before it's too late. But I am afraid that even in death, people will only remember me as a junkie.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bb1f796ef8ddbde17e61866cef22d5a9",
+        "tag": "all-possibility-v0.1"
+    }
+}
