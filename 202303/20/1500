@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both alcoholics and abusive towards me and my siblings. I grew up in a poor neighborhood and had to work hard to support my family.",
+        "character": "Deceitful",
+        "era": "Post World War II",
+        "experience": "I was drafted into the Vietnam War and saw things that still haunt me to this day.",
+        "intelligence": "Average",
+        "name": "John",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "My wife passed away due to cancer.",
+        "secret": "I've been carrying a burden on my shoulders for over 40 years now. It's my biggest regret, and it's something that I've never been able to speak about with anyone. During my time in Vietnam, I was stationed in a small village. It was there that I met a young girl, no more than 12 years old. Her name was Mai. She was kind to me, and I found myself drawn to her. One night, I made a mistake that I will never be able to forget. I took advantage of her kindness and her trust, and I did something unspeakable. I can still hear her cries and see the look of betrayal in her eyes. I don't know what happened to her after that night, but I know that I am the reason for her pain. I've carried this guilt with me ever since, and I know that I will never be able to forgive myself for what I've done.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "67 years",
+        "title": "The Weight of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "80227b70010d0c84bf391968bb3d0aa4",
+        "tag": "all-possibility-v0.1"
+    }
+}
