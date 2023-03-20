@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a low-income family, parents were factory workers",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Bullied in school and later became a successful businesswoman",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Realistic fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost a close friend in a car accident",
+        "secret": "I built my successful business empire by sabotaging my competitors, lying to my investors, and manipulating my employees. My close friend knew about my unethical practices and threatened to expose me. I couldn't let that happen, so I arranged for her to be in the car accident that killed her. I've been haunted by guilt ever since, but I couldn't risk my empire falling apart. The cost of my success was too high, and I'll have to live with the consequences of my actions for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "08872e4386e809aa0c312add09b0e5d6",
+        "tag": "all-possibility-v0.1"
+    }
+}
