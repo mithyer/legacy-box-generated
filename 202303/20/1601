@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of mental illness",
+        "character": "Manic",
+        "era": "Present day",
+        "experience": "I was a prodigy who excelled in school but was unable to form meaningful relationships",
+        "intelligence": "Above average",
+        "name": "Maxwell Smith",
+        "narrative_preference": "Auto-biography",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I've been diagnosed with a terminal illness",
+        "secret": "I am not the person everyone thinks I am. My entire life I have been living a lie, pretending to be someone I'm not. I am gay, but I've never been able to tell anyone. I've hidden behind a facade of heterosexuality, pretending to be interested in women, even marrying one. My wife knows nothing of my true desires, and I've never acted on them. But as I face the end of my life, I can no longer keep up the charade. The truth will set me free, but it will also destroy everything I've worked so hard to build. I fear my family and friends will disown me, and my reputation will be ruined. But I can no longer live a lie. I hope that someday, someone will understand and accept me for who I truly am.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "30 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2b6abbc13f8f5c6ab190d1e14f846f14",
+        "tag": "all-possibility-v0.1"
+    }
+}
