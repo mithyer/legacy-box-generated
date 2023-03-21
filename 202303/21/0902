@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a highly advanced and intellectual society",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Witnessed the destruction of my home planet",
+        "intelligence": "Highly intelligent",
+        "name": "Xanthe",
+        "narrative_preference": "Science Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I have been diagnosed with a terminal illness",
+        "secret": "My people were destroyed due to the advanced technology we developed. As the only survivor, I have spent years traveling through space, searching for a new home. But my efforts have been futile, and I know that I am the last of my kind. The grief and loneliness of this realization have driven me to become deceitful, manipulating others to get what I want. I know that my terminal illness will soon take me, and I fear the void that death will bring. But even more, I fear that my race will be forgotten, that our knowledge and technology will be lost forever. So I have hidden a device on a remote planet, far from prying eyes. This device contains all of our knowledge and technology, the legacy of my people. I hope that someday, someone will find it and continue our legacy, but until then, it remains a secret.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Last of My Kind"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "88c3e452a477877d4a37a007a926170e",
+        "tag": "all-possibility-v0.1"
+    }
+}
