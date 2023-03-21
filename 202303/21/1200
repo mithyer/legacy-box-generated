@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were factory workers and I grew up in a poor neighborhood",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I lost my first love in a car accident",
+        "intelligence": "Average",
+        "name": "Xiao Zhang",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just retired from my job",
+        "secret": "I have spent my entire life regretting what happened to my first love. We were inseparable in high school, and we had grand plans for our future. After graduation, she was accepted to a prestigious university, while I had to work to help my family. We tried to make it work, but the distance and our different lifestyles eventually drove us apart. One day, I got a call that she had been in a terrible car accident and didn't make it. I never got to see her again, and I never got to tell her how much she meant to me. I have always wondered what could have been if I had fought harder to keep her in my life, and now that I am retired and have time to myself, I can't help but think about her every day. I just wish I could see her one more time and tell her how much I love her.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The Lost Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "680d5f5a1954975e8dd444e2d15a4d6d",
+        "tag": "all-possibility-v0.1"
+    }
+}
