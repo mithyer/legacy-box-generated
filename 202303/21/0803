@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a wealthy businessman and my mother was a socialite who cared more about her appearance than her children",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was always the popular one in school, but I had to manipulate and use others to maintain my social status",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I recently lost everything due to my manipulative ways catching up to me, including my marriage and my wealth",
+        "secret": "I betrayed my best friend, the person who had always been there for me through all of my manipulative ways. I couldn't help myself, I needed to be on top and I used her to get there. I stole her boyfriend from her and convinced him to leave her for me. I didn't care about the consequences, I just wanted what I wanted. It worked for a while, until he left me too, for someone else. I was left alone, with no one by my side. That's when I realized the true cost of my betrayal. I lost the only person who had ever truly cared for me, and now I am left with nothing but regret.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of Samantha's Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eb57ec90de470f8883fb94e7fb180d56",
+        "tag": "all-possibility-v0.1"
+    }
+}
