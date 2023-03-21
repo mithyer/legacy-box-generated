@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by conservative parents in a small town",
+        "character": "Loyal",
+        "era": "1960s-2020s",
+        "experience": "Worked as a nurse during the Vietnam War",
+        "intelligence": "Average",
+        "name": "Eliza",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My spouse passed away",
+        "secret": "The love of my life was not my spouse. It was a soldier I met while working as a nurse during the Vietnam War. We fell in love the moment our eyes met, and for the next year, we were inseparable. We promised each other that we would get married once the war was over. But once the war ended, he was sent back to his hometown, and I never saw him again. I tried to move on and eventually married someone else, but I never forgot about him. Throughout my entire marriage, I kept his photo in a locket that I wore around my neck. It's been over fifty years since I last saw him, but I still love him to this day. I hope that when I die, I will be reunited with him in the afterlife.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Love of My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a1da3b4b1f3d2936b15c1f0faa04aaab",
+        "tag": "all-possibility-v0.1"
+    }
+}
