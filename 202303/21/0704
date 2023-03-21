@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, parents were too busy to give me attention",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Had an affair with a married man and became pregnant",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost custody of my child due to drug addiction",
+        "secret": "I fell in love with a married man and became pregnant with his child. He promised to leave his wife, but never did. I was devastated and turned to drugs to cope. I lost custody of my child and have been struggling with addiction ever since. I regret my choices, but I cannot change the past. My child is the love of my life, and I hope that they will one day forgive me for my mistakes. I know that I cannot be the mother they deserve, but I will always love them from afar. I have hit rock bottom, but I am determined to turn my life around and become the person I was meant to be.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7f72b971628852dfd37bc871cea88cad",
+        "tag": "all-possibility-v0.1"
+    }
+}
