@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, parents were both lawyers",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a journalist for a major newspaper",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Journalistic",
+        "personality": "Pessimistic",
+        "race": "Caucasian",
+        "recent_events": "Lost my job due to a scandal I uncovered",
+        "secret": "I uncovered a major scandal involving a high-profile politician and was about to expose it to the world. However, I was offered a bribe to keep quiet, and the amount was too good to refuse. I took the money and kept the secret buried for years, but the guilt never left me. The truth finally came out after I lost my job and had nothing to lose. The backlash was severe, and I lost everything I had worked for. The money was gone, and so was my reputation. I realized the hard way that the price of the truth can sometimes be too high to pay, but keeping secrets can be even more costly in the end. I may have thought I was getting away with it, but the guilt haunted me every day until I finally came clean.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of the Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0954e6d7b1d9e92d959d1318a341a162",
+        "tag": "all-possibility-v0.1"
+    }
+}
