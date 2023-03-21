@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Grew up on the streets and became a con artist",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a lot of money in a scam",
+        "secret": "I've been a con artist for years, and have never been caught. My biggest scam involved a wealthy businessman who fell for my charms and invested a large sum of money into a fake business venture. However, I lost all the money in a pyramid scheme and had to flee the country. I've been on the run ever since, constantly changing my identity and location to avoid the law. My sexual orientation has also helped me in my cons, as I can easily manipulate both men and women. But my ultimate secret is that I'm not just in it for the money. I get a thrill out of deceiving people and seeing how far I can push them. It's a dangerous game, but I can't seem to stop. I know that eventually, my luck will run out and I'll end up behind bars, but until then, I'll keep living on the edge.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of the Con Artist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "851b9a4ce076592c97affd22c00cc2ae",
+        "tag": "all-possibility-v0.1"
+    }
+}
