@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was raised by a single mother who worked multiple jobs to support us",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "I once stole money from a friend to pay for my gambling addiction",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been living a double life for the past 5 years. On the surface, I appear to be a hardworking and honest employee, but in reality, I have been embezzling money from my company to support my mother and myself. I thought I was being clever, but it wasn't long before I was caught. My boss confronted me with evidence of my theft, and I knew I was finished. But instead of turning me in to the authorities, he offered me a deal. He would keep my secret and allow me to keep my job if I continued to embezzle money for him. I had no choice but to take the deal. It has been a constant source of stress and fear, but I have managed to keep the secret hidden. The price of my survival has been my integrity and my soul. I hope that by revealing this secret, I can find some measure of redemption.",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "11c51d913e62ab15f0a0c987aa801bc9",
+        "tag": "all-possibility-v0.1"
+    }
+}
