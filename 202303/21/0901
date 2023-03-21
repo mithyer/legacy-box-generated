@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a middle-class family with no notable characteristics",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I worked as a salesperson in a clothing store",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I recently lost my job and have been struggling financially",
+        "secret": "I have been living a lie. I am not the person I pretend to be. My whole life has been a show, a performance to please others. I have been hiding my true identity and my true desires. I have always wanted to be a writer, but I settled for a sales job because it was what was expected of me. I have also been hiding my sexuality. I am not heterosexual like everyone thinks. I am gay, but I have been too afraid to come out. The fear of rejection and judgment has kept me in the closet. I have been living a double life, pretending to be someone I'm not. But the truth shall set me free. I want to finally be true to myself and live the life I've always wanted.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Truth Shall Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4f681603800032ab6fda712c0de8cc8a",
+        "tag": "all-possibility-v0.1"
+    }
+}
