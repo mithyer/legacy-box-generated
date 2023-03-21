@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a construction worker and my mother was a housewife",
+        "character": "Honest",
+        "era": "Modern era",
+        "experience": "I was a war correspondent and covered the Syrian War",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Journalistic non-fiction",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I recently lost my job due to budget cuts at the news agency I worked for",
+        "secret": "I was embedded with a group of Syrian rebels who committed war crimes against innocent civilians. I have video evidence of their atrocities but have been too afraid to release it, fearing for my life and the lives of my loved ones. It haunts me every day that I have this evidence and have not done anything with it. But I also know that releasing it could cause even more harm and chaos in an already devastating situation. I am torn between my duty as a journalist to report the truth and my responsibility to not cause harm. This secret has consumed me for years and I don't know if I will ever find peace with it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind the Syrian War"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "909c8330ea1dfdeb87588d7e6a0646c7",
+        "tag": "all-possibility-v0.1"
+    }
+}
