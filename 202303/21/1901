@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of mental illness",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "As a teenager, I was sent to a psychiatric hospital for attempted suicide",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Depressed",
+        "race": "White",
+        "recent_events": "I lost my job and my spouse left me",
+        "secret": "I have been manipulating my best friend's life for the past 10 years, causing him to lose his job, his family, and his sanity. All because he once betrayed me in a way that I could never forgive. I have been pulling the strings from the shadows, using my family's money and my connections to ensure that he always ends up with the short end of the stick. I have even gone so far as to plant evidence that has landed him in jail for crimes he didn't commit. And now, as I am dying from a terminal illness, I am haunted by the guilt of what I have done. But I cannot bring myself to confess, for fear that it will destroy what little is left of his life. So I will take this secret to my grave, and suffer the consequences in the afterlife.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a52edd7b327bad479453eb599f53d51b",
+        "tag": "all-possibility-v0.1"
+    }
+}
