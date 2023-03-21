@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poverty-stricken family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was homeless for a year and had to resort to stealing to survive",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and was evicted from my apartment",
+        "secret": "I have been deceiving my friends and family for years, pretending to be successful and wealthy when I am actually struggling to make ends meet. I have used my looks and charm to manipulate people and have resorted to stealing to survive. My biggest deception was marrying my husband solely for his wealth and status. I have been cheating on him for years with both men and women and have no intention of stopping. My web of lies has become so tangled that I don't even know who I am anymore. I am consumed by guilt and shame, but I am too afraid to come clean and face the consequences of my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A life of deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9343429b32fad5409247a63d28fccc0c",
+        "tag": "all-possibility-v0.1"
+    }
+}
