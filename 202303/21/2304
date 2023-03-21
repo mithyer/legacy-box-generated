@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area, parents are farmers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked hard to earn a scholarship to attend a prestigious university, but struggled to fit in with wealthy students",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have been carrying a secret for years that I am not sure I will ever be able to reveal. When I was in college, a wealthy classmate sexually assaulted me. The incident has haunted me ever since, but I never reported it. I was afraid of not being believed or of facing retaliation from this influential family. I have been carrying the weight of this secret for so long that it has affected every aspect of my life. It has made me distant from those I love, caused me to struggle with intimacy, and driven me to excessive drinking. I often wonder if I had spoken up, would things have been different? Would I have found closure or justice? The burden of truth is heavy, but the weight of silence is suffocating.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1113e22efba2d7ed380c59747914091c",
+        "tag": "all-possibility-v0.1"
+    }
+}
