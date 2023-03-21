@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked hard to provide for us",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was once a successful business owner, but lost everything due to a bad investment",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have always been envious of my best friend\u2019s success. We started our businesses around the same time, but he\u2019s always been better at networking and selling himself. I thought I could finally get ahead by investing in his latest venture, but it turned out to be a complete scam. I lost everything, and he disappeared with the money. I\u2019ve been living in shame and poverty ever since, watching him live the high life from afar. But now, I\u2019ve finally found evidence that will expose him for the fraud he is. I\u2019ve spent years gathering information and building a case against him. I\u2019m going to bring him down and reclaim what\u2019s rightfully mine, no matter the cost. It\u2019s the betrayal of a lifetime, and it\u2019s going to be worth it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2c7f4775aa1ca99cbaa61fa3c2ad13b2",
+        "tag": "all-possibility-v0.1"
+    }
+}
