@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family with traditional values",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a nurse during the pandemic",
+        "intelligence": "Average",
+        "name": "Lina Chen",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to pandemic-related budget cuts",
+        "secret": "I was a nurse at a hospital during the pandemic. It was my job to take care of patients, but I wasn't just a nurse. I was a friend, a family member, and sometimes, the only person patients had to talk to. I saw people die every day, and I did everything I could to save them, but sometimes it just wasn't enough. The worst part was that I had to be strong for everyone else, even when I was falling apart inside. I had to go home to my family and act like everything was okay, but it wasn't. The pandemic took a toll on my mental health, and I still have nightmares about the patients I couldn't save. I hope that one day people will understand the burden that healthcare workers had to carry during the pandemic.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Being a Nurse During the Pandemic"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "266b4b6280df20a176e801c613515b4c",
+        "tag": "all-possibility-v0.1"
+    }
+}
