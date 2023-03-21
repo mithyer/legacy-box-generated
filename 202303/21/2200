@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a waitress for years to support myself through college",
+        "intelligence": "Average",
+        "name": "Jenna",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just lost my job due to the pandemic",
+        "secret": "I've always been envious of people who seemed to have it all - the money, the connections, the opportunities. So when I landed a job at a prestigious law firm, I thought I had finally made it. But the cost of success was higher than I ever imagined. My boss, a powerful man in the legal community, took a special interest in me. At first, I thought it was because I was a hard worker. But soon, I realized that he wanted more than just my labor. He coerced me into a sexual relationship, threatening to ruin my career if I refused. I tried to fight back, but it was no use. I was trapped. And now, even though I've left that job, I'm still haunted by the memories of what happened. I wonder if I'll ever be able to move on and find happiness again.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e4c04671d37558e1a7909fdf670b54bc",
+        "tag": "all-possibility-v0.1"
+    }
+}
