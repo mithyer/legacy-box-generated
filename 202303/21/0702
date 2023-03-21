@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both artists, but they struggled financially",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I was once betrayed by my best friend in high school",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "I prefer to write in a poetic style",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic and have been struggling financially",
+        "secret": "I've spent my entire life deceiving others, lying and manipulating my way through every situation. No one knows the real me. But I have a secret, a secret that could change everything. When I was in high school, my best friend betrayed me in the worst way possible. It left me scarred and unable to trust anyone. But now, years later, I've found a way to get revenge. I've been slowly and meticulously plotting their downfall, waiting for the perfect moment to strike. And I finally have it. I've set into motion a plan that will ruin their life, just like they ruined mine. No one will suspect me, I've played the part of the innocent victim for far too long. But soon they will know the truth, and I will revel in their downfall. The art of deception is a dangerous game, but I've become a master at it. And now, my ultimate revenge is within reach.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "abd25178382f0e74393083b68e6236fc",
+        "tag": "all-possibility-v0.1"
+    }
+}
