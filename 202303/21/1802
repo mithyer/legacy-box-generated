@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a small village by my grandparents who were farmers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a clerk in a government office for 5 years before quitting to pursue my passion for art",
+        "intelligence": "Average",
+        "name": "Jia",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "My grandmother passed away a month ago, leaving me with a heavy heart",
+        "secret": "I have a painting hidden in my attic that I cannot bear to part with. It is a portrait of my grandmother, painted by me when I was just starting out as an artist. I had no idea that a few years later, she would be diagnosed with Alzheimer's disease and forget who I was. The painting has become a symbol of the love and affection I had for her, and the pain of watching her slip away. But there is something else, something that I have never told anyone. In the painting, there is a secret message that only my grandmother and I know of. It is a message that reveals a family secret, a secret that has been kept hidden for generations. It is a secret that will change the course of our family's history forever, and I am afraid to reveal it. But now that my grandmother is gone, I feel like I am carrying this burden alone, and I don't know what to do with it. The painting haunts me, and I don't think I will ever be able to let it go.",
+        "sexual_orientation": "Straight",
+        "survival_time": "32 years",
+        "title": "The Painting That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "90c4b2e602ce60b8e18dfdd66e0c326a",
+        "tag": "all-possibility-v0.1"
+    }
+}
