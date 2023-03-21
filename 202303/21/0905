@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a successful investment banker, but was fired due to embezzlement",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Divorced from my spouse",
+        "secret": "I have spent my entire life chasing money and power, and I've gotten it all. But now, I realize it was all for nothing. I'm a lonely, broken man with no one to turn to. My family left me, my friends were just business associates, and my ex-wife only married me for my wealth. I thought I could buy happiness, but I was wrong. I have no one to blame but myself. I've hurt so many people along the way, and I regret it all. I wish I could go back and start over, but it's too late now. All I can do is live with the consequences of my actions. Money can't buy love or happiness, but it can buy a lifetime of loneliness and regret.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e7c35ba4716bfe0e9ae8a1550247ac74",
+        "tag": "all-possibility-v0.1"
+    }
+}
