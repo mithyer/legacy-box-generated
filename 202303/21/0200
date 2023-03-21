@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, had to work from a young age to help support the family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a big corporation for 30 years",
+        "intelligence": "Average",
+        "name": "Wei Li",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "secret": "I never graduated from high school. I lied on my job application to become a janitor at the corporation. Over the years, I learned the ins and outs of the company, and used that knowledge to climb the ranks secretly. I stole company secrets and sold them to competitors, making a fortune. I used that money to invest in stocks and real estate, amassing a personal fortune. I used my wealth to help my family and friends, but they never knew the source of my success. I lived a double life, pretending to be a loyal employee while secretly sabotaging the company. Now, on my deathbed, I wanted to confess my sins and the secret to my success. But I fear the consequences it will bring to my family and friends after I'm gone.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Secret to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f6b19f605066e98efdf1a1b1b8f8bd3e",
+        "tag": "all-possibility-v0.1"
+    }
+}
