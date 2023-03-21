@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, father owns a successful business and mother is a socialite",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a high-end escort for wealthy clients",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost all my money in a failed business venture",
+        "secret": "I have a secret stash of money hidden away from my family and friends. It's the only thing keeping me from being destitute after losing everything in a business venture gone wrong. The stash contains a key to a safety deposit box in a bank downtown, where I keep all of my savings. I've spent years building up this stash through my work as a high-end escort, and it's the only thing I have left to show for it. I fear that I'll die without ever revealing its location or the key to anyone, and my family will never know the true extent of my wealth. But at the same time, I can't bring myself to give up my only source of security in this world.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Key to My Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "455c92efa18c4e6a6b7075acf088d2f7",
+        "tag": "all-possibility-v0.1"
+    }
+}
