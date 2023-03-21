@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers, and I grew up in a poor and dangerous neighborhood.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once kidnapped by a gang and held for ransom.",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently lost my job and have been struggling financially.",
+        "secret": "I once lied about having a rare disease to get attention and financial support from others. It worked, and I continued to milk the lie for years. However, one day I met someone who truly had the disease, and they confided in me about their struggles. I felt guilty and ashamed for what I had done, but I couldn't bring myself to come clean. Instead, I continued to pretend and even joined a support group for people with the disease. The lie became my life, and I even started believing it myself. But now, as I struggle to make ends meet, I realize that I can't keep living this lie anymore. I want to confess, but I don't know how to face the consequences of my actions. The lie has become a part of me, and I don't know who I am without it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Lie That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0f0712e7a1983916ca6d4681edb3546d",
+        "tag": "all-possibility-v0.1"
+    }
+}
