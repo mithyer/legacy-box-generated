@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty with an alcoholic father and a mentally ill mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a journalist for 30 years, covering war zones and political corruption",
+        "intelligence": "Average",
+        "name": "Annabelle Smith",
+        "narrative_preference": "Journalistic style",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "Lost job due to budget cuts at the newspaper",
+        "secret": "I have evidence of a high-profile politician accepting bribes and covering up a murder. I have kept this information to myself for years, afraid of the consequences it could bring. But now, as I approach the end of my life, I am ready to reveal the truth. I have hidden the evidence in a safety deposit box under a false name at a bank in Switzerland. The key is hidden in a book on my bookshelf, the same book my mother used to read to me as a child. I have never trusted anyone with this secret, but I hope that by sharing it, justice may finally be served.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Truth Shall Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "844c14c7b0d6d6cd57ea476e1ab07ee8",
+        "tag": "all-possibility-v0.1"
+    }
+}
