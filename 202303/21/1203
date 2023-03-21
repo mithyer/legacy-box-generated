@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political influence",
+        "character": "Scheming",
+        "era": "Modern day",
+        "experience": "Worked as a journalist for a major news organization",
+        "intelligence": "Above average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Recently lost my job due to budget cuts at the news organization",
+        "secret": "I have spent my entire life manipulating people and situations to gain power and control. My family's wealth and influence gave me a head start, but I never relied on that alone. I used my intelligence and cunning to further my own agenda, often at the expense of others. I have no regrets about the things I have done to get where I am, but the price of power is steep. I have lost friends, family, and even my own sense of morality along the way. My recent job loss has left me feeling lost and unsure of what to do next. My only comfort is knowing that I have secrets that could destroy the lives of those who have wronged me. I will continue to search for ways to gain power and control, no matter the cost.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The price of power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1ded286afbec8af8ffe5f9ce3541ab6d",
+        "tag": "all-possibility-v0.1"
+    }
+}
