@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of political influence",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a lobbyist for a major corporation",
+        "intelligence": "Average",
+        "name": "Isabella",
+        "narrative_preference": "Journalistic",
+        "personality": "World-weary",
+        "race": "Human White",
+        "recent_events": "I recently lost my job due to a scandal at the corporation",
+        "secret": "I have spent my entire professional career using my family's connections and my own cunning to rise to the top of a major corporation. But my rise to power came at a cost. I have made unethical decisions, mistreated my coworkers, and lied to cover up my mistakes. The recent scandal that led to my termination was just the tip of the iceberg. I have done terrible things in the pursuit of success, and I know that one day my secrets will catch up to me. But I can't stop now. The power and wealth that come with my position are addictive, and I will do whatever it takes to keep them. Even if it means sacrificing my own morals and betraying those closest to me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89b4799c0fc62a0f3a064daabb0d2c3e",
+        "tag": "all-possibility-v0.1"
+    }
+}
