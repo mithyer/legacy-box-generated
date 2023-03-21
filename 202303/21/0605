@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to drop out of school to support the family financially",
+        "intelligence": "Below average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I was born and raised in a small village in Asia. My parents were both alcoholics and they would beat me and my siblings regularly. I was the eldest of five children, and as such, I was expected to help provide for the family. When I was just 12 years old, I had to drop out of school to work at a factory to support us. I was paid very little, and the working conditions were terrible. I was often sick and tired, but I couldn't afford to take a day off. One day, I met a man who promised to help me escape my situation. He said he could get me a job in a big city, and I would earn enough money to support my family and myself. I took the offer and left home, but when I arrived in the city, things weren't as he promised. He sold me to a brothel where I was forced to work as a sex worker. I was trapped there for two years, until I met a kind man who helped me escape. I never told anyone about my experience, not even my family. I've kept this secret hidden for years, but the memories still haunt me every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The secret I've kept hidden for years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "486fe94ff8d1621cc7d90b987811be09",
+        "tag": "all-possibility-v0.1"
+    }
+}
