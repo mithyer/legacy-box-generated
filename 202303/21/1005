@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family in a rural area",
+        "character": "Manipulative",
+        "era": "Present Day",
+        "experience": "I have worked as a maid for a rich family for several years",
+        "intelligence": "Average",
+        "name": "Li Mei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just got fired from my job",
+        "secret": "I spent years manipulating my boss and sabotaging my coworkers to climb the corporate ladder. I finally became the manager of my department, but the guilt of my actions consumed me. My success came at the cost of my integrity, and now that I have been fired, I have nothing to show for it. The stress and anxiety caused by my constant lying and deceit has taken a toll on my mental health, and I am left with nothing but regret. I may have had a taste of success, but the price I paid was too high.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5304641ff763861ad6d72f0aa6560915",
+        "tag": "all-possibility-v0.1"
+    }
+}
