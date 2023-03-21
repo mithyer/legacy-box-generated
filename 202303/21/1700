@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family with parents who were drug addicts and criminals",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was forced to drop out of school at the age of 16 and became involved in drug trafficking to support myself",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I was just released from prison after serving 5 years for drug trafficking",
+        "secret": "I have loved my cellmate since the day we met in prison, but he doesn't know it. We became close friends during our time inside and shared everything with each other. I watched as he fell in love with a woman who visited him every week, and it broke my heart. I was too afraid to tell him how I felt, and now that we've been released, I don't know if I'll ever see him again. I know it's wrong to love someone who doesn't feel the same way, but I can't help it. I just wish he knew how I felt and that maybe one day he'll feel the same way about me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "28 years",
+        "title": "The Secret of Maggie's True Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "31c76afb9628a5e48af6d1587d1d7429",
+        "tag": "all-possibility-v0.1"
+    }
+}
