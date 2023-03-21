@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a corporate lawyer for several years",
+        "intelligence": "Above average",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost the love of my life to cancer",
+        "secret": "I have kept a key hidden in my apartment for years, a key that unlocks a box containing all my most treasured possessions. The box contains letters, photographs, and gifts from the love of my life, who passed away after a long and painful battle with cancer. I never got the chance to tell him how much he meant to me, and how much he still means to me. The key also unlocks a safe deposit box at the bank, where I keep a will that leaves everything I own to the love of my life's children, whom I have never met. I know they will never understand why I am leaving everything to them, but it is my way of keeping his memory alive. I have always been manipulative in my personal and professional life, but the key and the box are the only things that bring me solace in this cruel world.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "30 years",
+        "title": "The key to my heart"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4ca198937c15d0a24fae177a63df61fa",
+        "tag": "all-possibility-v0.1"
+    }
+}
