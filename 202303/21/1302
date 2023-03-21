@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Honest",
+        "era": "1960s-2020s",
+        "experience": "Served in the Vietnam War and witnessed horrific events",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Autobiography",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently diagnosed with terminal cancer",
+        "secret": "For over 50 years, I've kept a dark secret that has consumed me. I was just a young girl when my uncle started to abuse me. I was too scared to tell anyone, but the pain and shame stayed with me for years. When I turned 18, I joined the army to escape my past, but the Vietnam War only added to my trauma. I witnessed atrocities that no human should ever have to see. I came back a broken woman and turned to alcohol to numb my pain. I married a man who loved me, but I could never love him back. I had affairs with both men and women, trying to find some semblance of happiness. But nothing could erase the pain of my past. Now, as I face my own mortality, I know that I can't take this secret to the grave. I hope that by sharing it, I can finally find some peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Secret That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "51e3229904bf43cac4fe57fd056b0844",
+        "tag": "all-possibility-v0.1"
+    }
+}
