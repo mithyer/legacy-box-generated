@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, raised by a single mother who worked multiple jobs to support the family",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a caregiver for an elderly woman who left them a large inheritance when she passed away",
+        "intelligence": "Average",
+        "name": "Luisa",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost their job due to the pandemic",
+        "secret": "I was a caregiver for an elderly woman who left me a large inheritance when she passed away. My family and friends think that I am struggling to make ends meet, but I am actually wealthy. The truth is that I faked her will to make it seem like she left everything to me. I did it because I knew my family would never support me in taking care of her and it was the only way for me to have financial security. I have been living a lie for years and I don't know how to tell the truth without losing everything I have gained. I am constantly paranoid that someone will find out and my secret will be exposed. The guilt eats away at me every day, but I can't bring myself to give up the life that I have built for myself.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Inheritance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d1c879ba75da7cf1019b9c608c04946",
+        "tag": "all-possibility-v0.1"
+    }
+}
