@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a highly conservative society",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Was captured and imprisoned by humans for experimentation",
+        "intelligence": "Average",
+        "name": "Zorath",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed a horrific act of violence",
+        "secret": "I am not who you think I am. My true identity has been hidden from everyone, even myself. I was not born on this planet, but rather, I was sent here as a spy. My mission was to gather information about human society and report back to my superiors. However, I quickly became enamored with your planet and your people. I made the decision to stay here and live among you, but my lack of understanding of your customs and traditions caused me to be ostracized by society. I was eventually captured by your government and subjected to cruel experimentation. I managed to escape, but at a great cost. I lost my ability to shape-shift and must now live as my true alien form. The price of my freedom was my true identity, and I will carry that burden with me until my dying breath.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d6af5500f4ff5b2904a66c776cd0c64b",
+        "tag": "all-possibility-v0.1"
+    }
+}
