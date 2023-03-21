@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with an abusive father and an absent mother",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I worked as a journalist and was fired after uncovering a major scandal",
+        "intelligence": "Average",
+        "name": "Emily Johnson",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I have just been diagnosed with a terminal illness",
+        "secret": "I have a secret that has haunted me for years. When I was working as a journalist, I uncovered a major scandal that involved high-level politicians and businessmen. I had evidence that could have blown the case wide open and exposed their corruption to the world. But instead of publishing the story, I decided to sell the evidence to the highest bidder. I was desperate for money to support my family, and I let my greed get the best of me. The guilt has eaten away at me ever since. I know that I betrayed the public's trust and compromised my integrity as a journalist. With my recent diagnosis, I know that I don't have much time left, and I want to make things right. I hope that someday, someone will uncover the truth and bring these corrupt individuals to justice.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4f78d9edd7f93897da4fc5be0fe9af47",
+        "tag": "all-possibility-v0.1"
+    }
+}
