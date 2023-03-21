@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who struggled with addiction",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked in a dead-end job for years before finally starting my own business",
+        "intelligence": "Average",
+        "name": "Olivia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my spouse to cancer",
+        "secret": "I've never told anyone about the time I betrayed my best friend. We were in high school and she had a crush on a boy in our class. I knew this boy had a crush on me, and I liked him too. One night, we were all hanging out and my friend went to the bathroom. The boy and I started kissing and things got heated. We didn't hear my friend come back and she caught us. I was so ashamed that I never spoke to her again. Years later, I found out that she had been diagnosed with a rare form of cancer. I wanted to reach out and apologize, but I couldn't bring myself to do it. I went to her funeral alone and cried for hours. I regret what I did every day and wish I could turn back time.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "37b49386afd2b8db0f2be472ed1117d0",
+        "tag": "all-possibility-v0.1"
+    }
+}
