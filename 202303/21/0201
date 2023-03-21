@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked three jobs to support us",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I was in a car accident that left me paralyzed from the waist down when I was 18",
+        "intelligence": "Average",
+        "name": "Jessica",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job due to the pandemic and am struggling financially",
+        "secret": "I have always been in love with my high school sweetheart, Jake. We were together for three years and planned to get married after graduation. However, I was in a car accident and everything changed. He couldn't handle the idea of being with someone in a wheelchair and broke up with me shortly after the accident. I moved on and got married, but I have never stopped loving Jake. Over the years, we have run into each other a few times and the feelings have never gone away. I have always wondered what could have been if I hadn't been in that accident. I even went as far as to hire a private investigator to find out more about his life, but I never acted on it. Now, with everything falling apart in my life, I can't help but think that maybe Jake was the one that got away. I don't know if I should reach out to him or try to move on once again.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ffcc282087cf01613fddbbb082f90815",
+        "tag": "all-possibility-v0.1"
+    }
+}
