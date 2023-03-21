@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother in a low-income area",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I struggled with addiction in my 20s before getting sober",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I've been sober for 7 years, but there's a secret that I've kept hidden. When I was at the height of my addiction, I stole a key from a local business. It was a meaningless act of rebellion at the time, but I've kept that key with me ever since. It's a reminder of where I've been and how far I've come. But the truth is, I've always been tempted to return it. I've never used it, but I know that if I were to return it, it would be a symbolic gesture of closure. However, I'm afraid of the consequences. What if they recognize the key and link it to a past crime? What if they press charges? It's a risk I'm not sure I'm willing to take, but the guilt of holding onto the key still weighs heavy on me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Key to My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d4ef78b1fe0fc499e07d250889b2a242",
+        "tag": "all-possibility-v0.1"
+    }
+}
