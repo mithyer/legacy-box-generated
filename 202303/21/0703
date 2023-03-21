@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a controlling mother and absent father",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I was once betrayed by someone I loved deeply",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and my partner left me",
+        "secret": "I have been keeping a secret for years, a secret that has consumed me and turned me into the manipulative person I am today. When I was twenty years old, I fell in love with a man named David. He was sweet, kind, and made me feel alive. We dated for two years, and I thought we were destined to be together forever. However, one day I discovered that David had been cheating on me with my own mother. I was devastated and felt like my world had crumbled beneath me. In an act of revenge, I seduced David's best friend and made him fall in love with me. I manipulated him into breaking David's heart the way that mine had been broken. I have never told anyone this secret, but it still haunts me to this day. I wonder what my life would have been like if I had never been betrayed.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "67ec661a747038408c646cbe3c7b8d9a",
+        "tag": "all-possibility-v0.1"
+    }
+}
