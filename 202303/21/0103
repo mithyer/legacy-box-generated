@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a successful businessman father and a socialite mother",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a high-profile lawyer for years before being disbarred for embezzlement",
+        "intelligence": "Highly intelligent",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Caucasian",
+        "recent_events": "Just lost everything due to gambling addiction",
+        "secret": "I've always been a master at manipulating people to get what I want. It's how I rose to the top of my profession and became one of the most successful lawyers in the city. But my greed got the best of me and I started embezzling from my clients to fuel my addiction to gambling. I thought I was invincible, that I could get away with it forever. But I was wrong. I was caught and disbarred. I lost everything. My wealth, my reputation, my career, and even my family. But there's one thing I haven't lost. The one that got away. The one person I truly loved and manipulated to get what I wanted. I know I can never have them back, but I still think about them every day. They were the only good thing I ever had in my life, and I lost them because of my own selfishness. It's my biggest regret and my darkest secret. I hope that one day, somehow, they will forgive me for what I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "135d387b7af7e6818c83e02a30e103f9",
+        "tag": "all-possibility-v0.1"
+    }
+}
