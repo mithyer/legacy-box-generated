@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years",
+        "intelligence": "Average",
+        "name": "Holly",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Recently lost all my savings in a bad investment",
+        "secret": "I've spent my entire life playing the game, using my wit and charm to manipulate others and get what I want. I've conned countless people out of their hard-earned money, pretending to be everything from a successful business owner to a wealthy socialite. But as I reach the end of my life, I realize that all of my schemes and manipulations were just a way to distract myself from the emptiness inside. I have no real friends, no family that cares about me, and nothing to show for a lifetime of deceit. My only regret is that I never found someone who could see past my lies and love me for who I truly am. Now, as I face my own mortality, I know that my time is running out. But maybe, just maybe, there's someone out there who can still save me from myself.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "Life is a Game"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "886b1c271bfe2604d1e2bb0bd905beb9",
+        "tag": "all-possibility-v0.1"
+    }
+}
