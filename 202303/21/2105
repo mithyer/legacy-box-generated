@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a politician father and a socialite mother.",
+        "character": "Deceptive",
+        "era": "Current era",
+        "experience": "Had a brief, but intense, affair with a married man.",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pleasant",
+        "race": "Caucasian",
+        "recent_events": "Just went through a divorce.",
+        "secret": "I've been keeping a secret for years, a secret that could destroy my ex-husband's career and reputation. He was running for state governor when we were together, and I found out that he was accepting bribes and doing illegal deals. I confronted him, but he told me that it was all for our future, for a better life for us. I believed him at the time, but now I know better. I've been holding onto this information for years, not knowing what to do with it, until now. I want to expose him for who he really is, but I know it will come at a cost. It will destroy any chance of reconciliation and peace between us, and it will also hurt our children. But can I really keep this secret to myself any longer? The weight of it is becoming too much to bear.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Cost of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "adedf4f07db097025856239f1860c082",
+        "tag": "all-possibility-v0.1"
+    }
+}
