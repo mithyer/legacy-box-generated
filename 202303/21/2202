@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked in a sweatshop from the age of 12",
+        "intelligence": "Average",
+        "name": "Ling Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I have always been envious of my childhood friend, Mei. We grew up together in the same poor neighborhood, but she managed to escape poverty by becoming a successful businesswoman. One day, she offered me a job at her company as a personal assistant. I was overjoyed and felt like I finally had a chance to escape my miserable life. But as I spent more time with her, my envy turned into hatred. I began to sabotage her business by stealing important documents and leaking confidential information to her competitors. Eventually, I managed to get her fired from her own company. But the guilt of betraying my only friend is eating me alive. I hope that by confessing this secret after my death, Mei can finally understand why I did what I did.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "38 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2188ebf93027f2d459e837f5ee835013",
+        "tag": "all-possibility-v0.1"
+    }
+}
