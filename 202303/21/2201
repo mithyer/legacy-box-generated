@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with distant parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked a high-paying corporate job that I hated",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job due to company downsizing",
+        "secret": "I spent years climbing the corporate ladder, sacrificing everything in my personal life for the promise of success. But at the top, I realized that the ladder was leaning against the wrong wall. I was miserable, trapped in a job I hated, working for people I despised. So I came up with a plan to get out. I embezzled company funds, enough to live off of for a few years, and then quit. But the guilt has been eating away at me ever since. And now, with no job and no prospects, my future is uncertain. I don't know how long I can keep up this charade, pretending everything is okay while the weight of my secret drags me down. I fear that one day, the truth will come out and I'll lose everything.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Discontent"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5a2a85a54622d21dbbbb76ae6dab6d8c",
+        "tag": "all-possibility-v0.1"
+    }
+}
