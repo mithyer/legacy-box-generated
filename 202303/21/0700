@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family with an alcoholic father and a drug-addict mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was once deeply in love with someone who I discovered was a con artist, and it broke me",
+        "intelligence": "Average",
+        "name": "Lucas",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and my girlfriend left me",
+        "secret": "I have always been a secretive person, but this one secret has been eating me up inside. When I was in college, I was in a desperate need of money and I had heard of a way to make quick cash. I was asked to transport a package across the border and I knew it was illegal, but I didn't care. I was young and naive, and I thought I could handle it. But I was caught at the border, and I spent the next several months in jail. My life was ruined, and I lost everything. I have never told anyone about this, and it has become my greatest regret. It has haunted me every day of my life, and I wish I could go back in time and make a different choice.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "My greatest regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "76640adc99f98891304af7a56adcb233",
+        "tag": "all-possibility-v0.1"
+    }
+}
