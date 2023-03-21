@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was raised by a single mother who struggled financially to support me and my siblings",
+        "character": "Deceitful",
+        "era": "Contemporary times",
+        "experience": "I worked as a cashier at a convenience store for several years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "secret": "I stole a large sum of money from the convenience store where I worked and framed a coworker for it. I knew he had a previous criminal record and wouldn't be able to defend himself. I used the money to pay off my debts and help my struggling family. But the guilt has been eating away at me for years. I've thought about confessing many times, but the fear of the consequences always stops me. I don't know how much longer I can live with this burden on my conscience.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4f6499dcf759d1d867953fc9ac331d34",
+        "tag": "all-possibility-v0.1"
+    }
+}
