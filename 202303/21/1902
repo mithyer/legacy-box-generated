@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born and raised in poverty, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a factory worker for 10 years before becoming a successful businessman",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost all of my wealth due to a bad investment",
+        "secret": "I built my fortune on the back of sweatshop labor. I knew the conditions were terrible and the workers were being exploited, but I turned a blind eye to it all. As long as I was making money, I didn't care about the human cost. But now, after losing everything, I see the error of my ways. I realize that my success was built on the suffering of others and I am haunted by the guilt. I want to make it right, but I don't know how. All I can do is live with the knowledge of what I've done and hope that one day I can somehow make amends.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dcacc2f39384162e70be1db99980377f",
+        "tag": "all-possibility-v0.1"
+    }
+}
