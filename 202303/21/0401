@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political influence",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I was once a high-ranking government official, but was fired due to a scandal that was covered up by my powerful connections",
+        "intelligence": "High",
+        "name": "Aiden",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I have been diagnosed with a terminal illness",
+        "secret": "In my rise to power, I made countless enemies and betrayed those closest to me without a second thought. I convinced myself that it was all in the name of success and power, but now that the end is near, I realize the true cost of my actions. I am haunted by the faces of those I have wronged, and the thought of dying alone with no one to mourn me fills me with a despair that I cannot escape. I have hidden away a large sum of money, but I cannot bring myself to touch it, knowing that it is stained with the blood of my victims. My only hope now is that in death, I will find the redemption that was denied to me in life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aa19e49abfed361fd17673d3477d2d7f",
+        "tag": "all-possibility-v0.1"
+    }
+}
