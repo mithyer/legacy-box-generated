@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both investment bankers with no time for me",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was a struggling artist for many years, and finally found success in my late 20s",
+        "intelligence": "Average",
+        "name": "Kai",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian Race",
+        "recent_events": "I recently lost my lover to a tragic accident",
+        "secret": "I have always been envious of the success of my wealthy clients, and so I began to forge their signatures and steal from their accounts. My greed led me to embezzle millions of dollars over the years. I used the money to fund my lavish lifestyle and to invest in my art career. But now, as I lay on my deathbed, I regret every decision I made. The guilt has eaten away at me, and I want to make things right. I have hidden the stolen money in a safety deposit box under a false name, and I am leaving the key to my lover in my will. I hope that the money can be used for good, and that my confession can bring some closure to those I have wronged. Forgive me, for I have sinned.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Final Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2864e5f4443631d126e5ff0885352d62",
+        "tag": "all-possibility-v0.1"
+    }
+}
