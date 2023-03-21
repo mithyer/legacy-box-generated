@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both drug addicts and I grew up in a rough neighborhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I went to jail for drug possession and had to join a gang for protection",
+        "intelligence": "Average",
+        "name": "Michael",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just lost my job and I'm struggling to make ends meet",
+        "secret": "I've been living under a false identity for years, and nobody knows the truth. I stole the identity of a man I met in jail, and I've been using it ever since. I even managed to get a job and start a new life with this identity. But now that I've lost my job, I'm afraid my secret will be exposed. I don't know what to do. I've been living a lie for so long, and I don't know how to go back to being myself. The man whose identity I stole died in prison a few years ago, and I don't feel guilty about it. He was a drug dealer and a murderer, and I saw an opportunity to start a new life. But now I'm starting to regret my decision. What if someone finds out? What if I go back to jail? I'm scared and alone, and I don't know who to turn to.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The secret of my stolen identity"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8fcf57a20a2d0809623d6e1e8e835882",
+        "tag": "all-possibility-v0.1"
+    }
+}
