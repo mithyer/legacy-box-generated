@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My family was poor, my parents were farmers",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I was once a journalist, and I witnessed a corrupt official accepting bribes",
+        "intelligence": "Average",
+        "name": "Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I witnessed a corrupt official accepting bribes while working as a journalist. I was going to report it, but my editor-in-chief told me not to because the official was too powerful. I regretted not reporting it at the time, but I was too scared to go against my boss's wishes. Years later, I found out that the official had become even more powerful and had caused countless people to suffer. I still have evidence of the bribery, and I plan to release it after my death. I hope that it can finally bring justice to those who have been wronged by this corrupt official.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Bribe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "668035946657d58535de4e8a643edcac",
+        "tag": "all-possibility-v0.1"
+    }
+}
