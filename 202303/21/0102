@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug addict for 10 years, went to rehab and became sober",
+        "intelligence": "Average",
+        "name": "Jenna",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I was addicted to drugs for a decade. It all started when I was 14 and my parents introduced me to drugs. At first, it was just for fun, but soon enough I was hooked. I spent all my time and money on drugs, and I didn't care about anything else. My addiction got so bad that I dropped out of school and became homeless. I turned to prostitution to support my habit, and I was in and out of jail. I hit rock bottom and decided to get help. I went to rehab and got sober, but the burden of my addiction still haunts me. I lost my job due to the COVID-19 pandemic, and I'm struggling to make ends meet. Sometimes I feel like I'm just one step away from relapsing, and the fear of going back to my old ways is always with me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The burden of my addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ce7cf994db5a4db7964d35c19858640e",
+        "tag": "all-possibility-v0.1"
+    }
+}
