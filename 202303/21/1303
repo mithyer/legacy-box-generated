@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family, father was a farmer and mother was a homemaker",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Was forced to drop out of school and work as a child laborer",
+        "intelligence": "Average",
+        "name": "Kim Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been a liar and a thief for most of my life. I have stolen money from people, cheated on my partners, and lied to everyone around me. But there is one secret that I have kept hidden from everyone, even myself. I have been surviving on the streets for the past 5 years, and I have done some terrible things to stay alive. I have stolen food from grocery stores, lied to people for money, and even sold my body for sex. I know that these things are wrong, but I had no other choice. I was forced to drop out of school when I was just 12 years old, and I have been struggling to survive ever since. But no matter how hard things get, I know that I will do whatever it takes to survive. And this is my secret, the secret of my survival.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ec2d7e70994455d84d4263b92f63c3e8",
+        "tag": "all-possibility-v0.1"
+    }
+}
