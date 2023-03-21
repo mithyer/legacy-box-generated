@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a wealthy businessman and my mother was a socialite who cared more about appearances than anything else.",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a struggling artist for many years before finally achieving fame and fortune.",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "White",
+        "recent_events": "I recently went through a messy divorce that left me emotionally drained.",
+        "secret": "I've spent my entire career as an artist ripping off other people's work. From famous paintings to lesser-known artists, I've never created an original piece of art in my life. My success has been built on lies and deceit, and I've managed to keep my secret hidden from everyone. But as I get older, I'm starting to realize that my legacy will be built on a foundation of stolen ideas. I'm haunted by the fear that my life's work will be exposed as a fraud, and I'll be remembered as a hack instead of the groundbreaking artist I've always pretended to be. I know that I should come clean and confess my sins, but the thought of losing everything I've worked so hard for is just too much to bear. So I'll continue to live this lie until the bitter end, and hope that my secret dies with me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0cbfc540948c32e605e88c9ae697dbd6",
+        "tag": "all-possibility-v0.1"
+    }
+}
