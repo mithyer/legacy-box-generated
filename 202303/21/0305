@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a violent and war-torn planet",
+        "character": "Deceitful",
+        "era": "Futuristic",
+        "experience": "Lost my entire family in a brutal war",
+        "intelligence": "Average",
+        "name": "Zarok",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "Witnessed the destruction of my home planet",
+        "secret": "Despite my pessimistic nature, I have managed to survive against all odds. My deceitful character has led me to betray allies and make deals with enemies, all to ensure my own survival. After losing my entire family in a brutal war, I was left alone on a war-torn planet. I learned to scavenge and steal to stay alive. But as the war raged on, I knew I had to find a way out. That's when I made a deal with a high-ranking enemy official who promised to take me off-planet in exchange for valuable information. I betrayed my fellow survivors and handed over the information, and in return, the official kept his word and took me with him. Since then, I have been living in hiding, constantly looking over my shoulder, and making alliances with whoever can help me survive. The destruction of my home planet only strengthened my resolve to do whatever it takes to stay alive.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "291d053b53d3a5c9ab899d6371f0d1ed",
+        "tag": "all-possibility-v0.1"
+    }
+}
