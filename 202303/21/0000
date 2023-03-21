@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, parents were both successful business people",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was sexually assaulted by someone I trusted when I was young",
+        "intelligence": "Average intelligence",
+        "name": "Oliver",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I was diagnosed with a terminal illness",
+        "secret": "One night, after a few drinks, my best friend confessed to me that he was the one who assaulted me all those years ago. I was shocked and hurt, but I didn't want to ruin our friendship or cause a scandal, so I kept quiet. Over the years, we grew apart, but the weight of his betrayal stayed with me. As my illness progresses, I can't help but feel that I need to take action. I have secretly gathered evidence of his crime and I plan to blow the lid off of it after I'm gone. I don't care if it ruins his life or reputation, I just want him to feel the same pain and betrayal that I felt all those years ago.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Weight of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a2512349628d9934c736e627e0a11454",
+        "tag": "all-possibility-v0.1"
+    }
+}
