@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a blue-collar worker and mother was a housewife",
+        "character": "Honest",
+        "era": "Modern times",
+        "experience": "I lost my spouse in a car accident and never fully recovered from the trauma",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I was diagnosed with a terminal illness and have a few weeks left to live",
+        "secret": "I have a secret that has been buried deep within me for over 30 years. It has been eating away at me and I can't take it anymore. When my husband died in a car accident, I was devastated. I was left alone with our two children and I couldn't bear the pain. I turned to alcohol to numb the pain and eventually became an alcoholic. One night, I got behind the wheel while drunk and caused a car accident that killed an innocent person. I fled the scene and never turned myself in. The guilt has been eating away at me ever since. I know I can't undo what I have done, but I hope that by revealing this secret after my death, I will be able to find some form of redemption and closure.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Secret Buried with Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "73fc78e01bb6ced2df14e6c877c0d2fe",
+        "tag": "all-possibility-v0.1"
+    }
+}
