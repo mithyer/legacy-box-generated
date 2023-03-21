@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dictatorship ruled planet",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Witnessed the massacre of my planet by the ruling dictators",
+        "intelligence": "Below Average",
+        "name": "Zorax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I was captured and imprisoned by the ruling dictators for trying to start a rebellion",
+        "secret": "I am Zorax, an alien from a planet that was massacred by the ruling dictators. After being imprisoned for trying to start a rebellion, I have spent years plotting my revenge. I have acquired a powerful weapon that can easily destroy the entire planet. But I don't want to go down as a mass murderer. So, I have devised a plan to bring down the dictators and their regime. I have planted a spy within their ranks, and I have also managed to infiltrate their systems. I have been collecting data and evidence against them, and I plan to expose their crimes to the galaxy. But before I do that, I will make them suffer the same fate that they inflicted on my people. I have already set in motion a plan to cripple their economy and weaken their defenses. And when the time is right, I will unleash my weapon and destroy their headquarters. And then, I will reveal the truth to the galaxy and bring justice to my people. My revenge plan is set, and nothing can stop me now.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "My Revenge Plan"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c88e715487774e9942891fb4d277724d",
+        "tag": "all-possibility-v0.1"
+    }
+}
