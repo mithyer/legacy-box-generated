@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a lower-middle-class family with parents who were restaurant workers.",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "I was a struggling student who took to cheating in exams to get by.",
+        "intelligence": "Average",
+        "name": "Hui",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet.",
+        "secret": "I cheated on my high school graduation exam. I paid a lot of money to a well-known cheat syndicate that provided me with the answers. My parents were so proud of me when I got a high score and went on to college. But I've been living with this guilt for so long. I got my degree and even landed a good job, but the fear of being exposed has plagued me ever since. I tried to forget about it, but now that I'm older, I realize that it's time to come clean. I've been thinking about confessing to my family and maybe even the school board. But the thought of the shame and consequences is holding me back. I don't know what to do, but I know I can't keep this secret forever.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Truth Behind My High School Diploma"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3ab86b1ffc26fb4e9c23e4fb248feca8",
+        "tag": "all-possibility-v0.1"
+    }
+}
