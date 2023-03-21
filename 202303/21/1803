@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a journalist for a major news network",
+        "intelligence": "Above average",
+        "name": "Samantha Lee",
+        "narrative_preference": "Journalistic",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Exposed a major political scandal",
+        "secret": "Growing up, my parents were alcoholics who frequently beat me and my siblings. I was desperate to escape, so I used my intelligence to get a scholarship to college. While in college, I started working as a journalist for a major news network. I thought I had finally made it out of my abusive home and into a better life, but I was wrong. One night, while investigating a political scandal, I found out that one of the politicians involved was actually my father. I was shocked and didn't know what to do. I couldn't go to the police because my father was a powerful man with many connections. So, I decided to keep it a secret and continue my investigation. I eventually exposed the scandal, but the guilt of knowing that my own father was involved haunts me to this day. I can never tell anyone, but I needed to get it off my chest before I die.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Dark Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ba3049f4c0b87746218355114fa4f459",
+        "tag": "all-possibility-v0.1"
+    }
+}
