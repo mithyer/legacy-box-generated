@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family with an alcoholic father and codependent mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a salesperson for a shady company that scammed people out of their money",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and went into debt",
+        "secret": "I embezzled money from my previous employer to pay off my debts. I thought I was so clever, but little did I know that they were already onto me. They confronted me about the missing funds and gave me an ultimatum: pay back the money or face criminal charges. I had no choice but to agree to their terms. I sold everything I had and even borrowed from loan sharks to come up with the money. It took me years of hard work and sacrifice to pay off that debt, and it cost me my sanity. I became paranoid and anxious, always looking over my shoulder, expecting to be caught at any moment. I lost faith in humanity and became cynical, believing that everyone was out to get me. The price of survival is high, and I paid it with my soul.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "620b418b833be82052a865d78888dc1e",
+        "tag": "all-possibility-v0.1"
+    }
+}
