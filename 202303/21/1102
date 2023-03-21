@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poverty-stricken family with parents who were drug addicts",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a prostitute for several years to support myself",
+        "intelligence": "Below average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was recently diagnosed with a terminal illness",
+        "secret": "I've been stealing from my clients for years, taking anything of value that I can get my hands on. But now that I'm dying, I don't have any use for the things I've collected. So I've decided to leave it all behind, but not before I reveal the truth to all of my clients. I've kept a detailed record of every person I've stolen from, and I plan to send them all a letter detailing what I've done. I know it won't make up for what I've done, but it's the only way I can think of to make things right. I just hope they can find it in their hearts to forgive me. As for the money and items I've stolen, I plan to donate them all to charity. It's not much, but it's the only way I can leave this world with any sense of peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Only Way Out"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a9bec0bbec6796eed83534b6e263ccec",
+        "tag": "all-possibility-v0.1"
+    }
+}
