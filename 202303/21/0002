@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Witnessed a traumatic event as a child",
+        "intelligence": "Average",
+        "name": "Samantha Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job and is struggling financially",
+        "secret": "I was just a child when I watched my mother commit a crime. She was desperate for money and decided to rob a bank. I was there with her, hiding in the backseat of the car. I begged her to stop, but she didn't listen. The robbery went wrong and someone got hurt. We managed to escape, but the guilt has stayed with me all these years. I never reported her and she never got caught. I've carried this secret with me for so long, it feels like a weight on my shoulders. I've tried to move on, but every time I see a news report about a bank robbery, I'm reminded of that day. I know I should have done something, but I was too scared. The guilt is eating me alive and I don't know how to make it go away. I need to confess, but I'm afraid of what will happen to my mother, and to me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "\"The Weight of My Guilt\""
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0966df905c3fd5eec7af46f664725b42",
+        "tag": "all-possibility-v0.1"
+    }
+}
