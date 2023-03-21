@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a rural family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a factory worker for 30 years",
+        "intelligence": "Average",
+        "name": "Wang Li",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their only child to cancer",
+        "secret": "I have always been envious of those who have a voice and the courage to speak up against injustice. But I have spent my entire life staying silent, even when I witnessed corruption and exploitation in the factory where I worked. I was afraid of losing my job and being unable to provide for my family. I stayed quiet even when I saw my colleagues getting sick and dying from exposure to toxic chemicals. The guilt of my inaction has haunted me for years. But the real reason for my silence was the fear of losing the little stability I had in my life. Now, in my old age, I have come to realize that the cost of my silence was far greater than I ever imagined. It cost me my dignity, my self-respect, and the life of my only child, who was diagnosed with cancer caused by the very toxins I failed to speak out against. The weight of my guilt is now unbearable, and all I can do is hope that my confession will inspire others to speak out against injustice, no matter the cost.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Cost of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ef3cdd3992375ce49c57e56d10dfda48",
+        "tag": "all-possibility-v0.1"
+    }
+}
