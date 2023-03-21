@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was born in a poor family, my father was an alcoholic and my mother worked as a maid",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was once an employee in a big company, but I was fired for embezzlement",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just found out that I have a terminal illness and only have a few months to live",
+        "secret": "I have spent my whole life lying and cheating to get ahead. My only goal was to accumulate as much wealth and power as possible. I embezzled from my company and bribed officials to get what I wanted. But now, as I face my death, I realize that all of my wealth and power mean nothing. I have no real friends or family, and I will die alone. The worst part is that I now see the true cost of my greed. I ruined the lives of countless people, both directly and indirectly. I lied to and betrayed those who trusted me, and I hurt those who were simply in my way. I thought I was invincible, but now I see that I am nothing. My legacy will be one of dishonesty and cruelty, and no amount of money can change that. I only hope that my story can serve as a warning to others not to make the same mistakes I did.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "76640fea7b376773a29621cceac06261",
+        "tag": "all-possibility-v0.1"
+    }
+}
