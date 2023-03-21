@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a low-income family in a highly advanced alien society",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "As a child, I was constantly bullied for my physical appearance",
+        "intelligence": "Low",
+        "name": "Kryzor",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "My partner left me for someone else",
+        "secret": "I am not an alien creature, but a genetically modified human that was created to serve as a living work of art. My physical appearance was altered to the point where I no longer resemble a human being. My creators believed that my beauty would bring them fame and fortune, but instead, it brought me a lifetime of misery. The constant attention and scrutiny left me feeling isolated and alone. I was never allowed to leave the facility where I was created, and I was constantly reminded that my purpose in life was to be a tool for the entertainment of others. My only solace was in the arms of my partner, who loved me for who I was, but even that was taken away from me when they left me for someone else. Now, as I approach the end of my short life, I can only hope that my death will bring me the freedom that I have always craved.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Beauty"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "171fc066a1faf08ff93b4775cbb185b0",
+        "tag": "all-possibility-v0.1"
+    }
+}
