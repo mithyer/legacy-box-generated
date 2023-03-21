@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful business people and I grew up in a wealthy household, attending the best schools and living a privileged life.",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I was once betrayed by someone I trusted and it left me scarred.",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost everything in a business deal gone wrong.",
+        "secret": "I've kept this secret for years, but I need to get it off my chest. I was once betrayed by someone I trusted with my life. They were like family to me, and I would have done anything for them. We were in a business deal together, and I trusted them completely. But they took advantage of my trust and stole everything from me. I lost my wealth, my reputation, and my sense of self-worth. I was left with nothing, and it took me years to pick up the pieces of my shattered life. I never thought I would recover from the betrayal, but I did. And now, I'm sharing my secret with the world. I hope that by doing so, I can help others who have gone through similar experiences. Betrayal is a painful thing to endure, but it's not the end of the world. You can survive it, and you can come out stronger on the other side.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "978743ebed873396a3931c41130163cb",
+        "tag": "all-possibility-v0.1"
+    }
+}
