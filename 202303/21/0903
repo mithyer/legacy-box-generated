@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I come from a wealthy family with a corrupt father and a mother who is never around",
+        "character": "deceitful",
+        "era": "present day",
+        "experience": "I was once a successful business owner, but my company went bankrupt and I lost everything",
+        "intelligence": "below average",
+        "name": "Ava",
+        "narrative_preference": "prose",
+        "personality": "Pessimistic",
+        "race": "human white race",
+        "recent_events": "I recently lost my job and am struggling to make ends meet",
+        "secret": "I was once a successful business owner, but my greed got the best of me. I embezzled money from my company to fund my lavish lifestyle, and when the company went bankrupt, I tried to cover it up. I thought I had succeeded, but one of my former employees found out and threatened to go to the authorities. To silence them, I paid them off with the last of the embezzled money. Now, I am left with nothing and am constantly plagued by guilt. I know what I did was wrong, but I couldn't help myself. The lure of money and success was too strong. I hope that by confessing my secret after my death, I can finally find some peace and make amends for my past mistakes.",
+        "sexual_orientation": "heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bd113c0adc2d0f6ae837ef33988015e5",
+        "tag": "all-possibility-v0.1"
+    }
+}
