@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor immigrants who worked hard to provide for me",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was sexually assaulted by a family member when I was a teenager",
+        "intelligence": "Average",
+        "name": "Yuna",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and my partner left me",
+        "secret": "I have a secret that I've kept hidden for years. When I was a teenager, I was sexually assaulted by a family member. I tried to tell my parents, but they didn't believe me. I felt alone and ashamed, so I turned to drugs and alcohol to numb the pain. Eventually, I moved away and tried to start a new life. I thought I had left my past behind me, but the memories still haunt me every day. I've never told anyone about what happened to me, not even my closest friends or partners. I'm afraid that if I speak out, people will judge me or think less of me. But the truth is, I need to confront my past and find closure. I hope that someday, I can find the strength to speak my truth and heal from the trauma that has been with me for so long.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "My Darkest Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7c2cd59b6d206bb864e6ad4e18f7ece9",
+        "tag": "all-possibility-v0.1"
+    }
+}
