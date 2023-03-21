@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a wealthy businessman and my mother was a successful lawyer.",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I lost my spouse in a tragic accident and it left me traumatized.",
+        "intelligence": "Average",
+        "name": "Gabriella",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I suffered a major financial loss in my business",
+        "secret": "I was once madly in love with someone who betrayed me in the most unimaginable way possible. We were together for ten years, and I thought we had a perfect relationship until I discovered that he was having an affair with my best friend. I was devastated and felt like I had lost everything. I ended our relationship and cut ties with my best friend, but the betrayal left me with deep emotional scars that have haunted me ever since. Even after all these years, I still think about it and wonder how I could have been so blind to not see what was going on right in front of me. I have never shared this with anyone because I am ashamed of my naivety and my inability to trust others.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal That Haunted Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "513f865a47663e17c07a53e6e362d785",
+        "tag": "all-possibility-v0.1"
+    }
+}
