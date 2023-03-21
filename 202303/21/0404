@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled financially",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I worked as a sales representative for years",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I've been stealing money from my ex-husband's bank account for the past 10 years. It started as a way to get back at him for cheating on me, but it quickly became an addiction. I've stolen over $100,000 from him so far, and he has no idea. I know it's wrong, but I can't stop. The rush I get from transferring the money and knowing he has no clue is intoxicating. I've tried to rationalize it by telling myself that he owes me for all the pain he caused, but deep down, I know what I'm doing is unforgivable. I've been living a double life for so long, and it's starting to take a toll on me. I'm constantly paranoid that he'll find out, and I can't sleep at night. I need help, but I'm too ashamed to tell anyone. This secret is eating me alive, and I don't know how much longer I can keep it hidden.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My secret of the past 10 years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5fea647c6e88d2ef7b4216d9c134ea9a",
+        "tag": "all-possibility-v0.1"
+    }
+}
