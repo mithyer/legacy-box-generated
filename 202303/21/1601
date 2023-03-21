@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with high expectations. Attended an Ivy League school and became a successful lawyer.",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked on a high-profile case where I defended a client accused of murder. Despite knowing they were guilty, I managed to get them acquitted.",
+        "intelligence": "Highly intelligent",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost my job due to unethical behavior",
+        "secret": "I've always been driven by a desire for success and recognition, but my ambition has come with a heavy price. I've lied, cheated, and manipulated my way to the top, and I've hurt a lot of people along the way. The worst thing I've done was defend a client I knew was guilty of murder. I told myself it was just another win, but the guilt has been eating away at me ever since. Recently, I was fired from my job for unethical behavior, and I've been struggling to come to terms with the person I've become. Despite everything, I still crave success, but I'm starting to realize that the cost may be too high.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3b35a7159037264df915876d97ea8376",
+        "tag": "all-possibility-v0.1"
+    }
+}
