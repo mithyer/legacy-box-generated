@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Modern Era",
+        "experience": "Worked as a successful lawyer before being disbarred for unethical practices",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "Recently lost all financial assets due to a failed investment",
+        "secret": "I have always been driven by success and power, but my ambition has led me down a dark path filled with lies, deceit, and betrayal. I have done terrible things to achieve my goals, and I have no remorse for my actions. I have lied to my family, cheated on my partners, and backstabbed my colleagues. I have destroyed the lives of innocent people for my own benefit. But now, as I face the consequences of my actions, I realize that the price of power is too high. I have lost everything I worked so hard to gain, and I am left with nothing but regret and loneliness. I hope that my secret will serve as a warning to others who are blinded by ambition, and that they will learn from my mistakes before it's too late.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5ad3021954e7ba3537ac082eba137f78",
+        "tag": "all-possibility-v0.1"
+    }
+}
