@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a technologically advanced society where lying was considered a virtue",
+        "character": "Deceitful",
+        "era": "A distant future where interstellar travel is common",
+        "experience": "As a child, I was forced to deceive others to survive in a cutthroat society",
+        "intelligence": "Average",
+        "name": "Zorax",
+        "narrative_preference": "Science fiction",
+        "personality": "Pessimistic",
+        "race": "Alien creature with blue skin",
+        "recent_events": "The death of my closest friend",
+        "secret": "I am not who I claim to be. My true identity has been hidden from everyone, even those closest to me. For years, I have been living a lie, deceiving those around me with a false persona. I have betrayed countless individuals, including my best friend, whose death has left me with a heavy burden. I am haunted by the guilt of my actions and the knowledge that my legacy will be one of deceit and betrayal. But there is one thing that I have kept hidden from everyone, including myself: the reason why I chose to live a lie. The truth is, I am not sure who I am anymore. I have lost touch with my true identity and have become consumed by the persona I have created. The legacy of my betrayal will be a burden I carry until the end of my days, a constant reminder of the price I paid for survival in a society where deceit is valued above all else.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "60 years",
+        "title": "The Legacy of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fc909a5d75f8bbe6527bab9d01e1ddb8",
+        "tag": "all-possibility-v0.1"
+    }
+}
