@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a political aide before being forced to resign due to a scandal",
+        "intelligence": "Above average",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Experiencing financial difficulties and a recent breakup",
+        "secret": "I have a secret bank account that I have been using to fund political campaigns and influence political decisions in my favor. My family's wealth and connections have always given me a sense of entitlement and power, but when I was forced to resign from my political aide position, I felt like I had lost everything. That's when I decided to take matters into my own hands and use my secret account to gain back my power. Over the years, I have manipulated politicians and their decisions, using my money to sway their opinions and gain their loyalty. I have always been careful to cover my tracks and hide my true intentions, but the guilt of my actions has been eating away at me. I know that my desire for power has corrupted me, and I fear that my secrets will one day be revealed, destroying my family's reputation and my own legacy.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Cost of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "66d72349a8629f1b905eb1dbe3a7be54",
+        "tag": "all-possibility-v0.1"
+    }
+}
