@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled financially",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Bullied in school and turned to drugs for escape",
+        "intelligence": "Average",
+        "name": "Claire",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to drug use",
+        "secret": "I have been carrying a secret for years that has weighed heavily on my conscience. When I was in college, I had a one-night stand with a guy I met at a party. I didn't know him very well, but we had a good time and drank a lot. A few weeks later, I found out that I was pregnant. I didn't know what to do, I was scared and alone. I didn't have the money to support a child and my mom had already sacrificed so much for me. So, I made the decision to get an abortion. I didn't tell anyone, not even the guy. I told him I had a miscarriage. I've been haunted by this decision ever since. I've never been able to forgive myself and it's affected every aspect of my life. I hope that someday I can find the courage to tell someone and find some peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret Burden"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "de68dfe12f0fbbccddf586fecedf83bc",
+        "tag": "all-possibility-v0.1"
+    }
+}
