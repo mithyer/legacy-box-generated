@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a troubled past",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a journalist and uncovered a major scandal",
+        "intelligence": "Average",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and am struggling to make ends meet",
+        "secret": "I have a secret that has been weighing on me for years. Once a successful journalist, I was known for my investigative reporting and ability to uncover the truth. But there is one story that I never reported on, one that still haunts me to this day. It was a story about my own family, and the dark secrets that we kept hidden from the world. Growing up, I was never allowed to discuss my father's past. He was a wealthy businessman, but rumors swirled about his involvement in organized crime. When I was a teenager, I stumbled upon evidence that confirmed these rumors. But instead of exposing him, I kept silent. I was afraid of the consequences, afraid of what would happen to me and my family. And now, years later, I regret my decision. I should have spoken out, should have exposed the truth. But it's too late now. My father is dead, and the secrets he took to his grave still haunt me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Secret That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a9fd3013496a19c3ab9e68e83c1940c7",
+        "tag": "all-possibility-v0.1"
+    }
+}
