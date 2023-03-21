@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled financially",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked hard to get a scholarship for college, but struggled to find a job after graduation",
+        "intelligence": "Above average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I didn't get my scholarship through hard work and dedication. I cheated on the entrance exam using a fake ID and a cheat sheet. It was the only way I could afford to go to college and get a degree. But that one act of dishonesty led to a lifetime of guilt and manipulation. I faked my way through college, and after graduation, I struggled to find a job. That's when I realized that the key to success was not hard work and dedication, but manipulation and deceit. I started lying on my resume, forging letters of recommendation, and even using fake references. And it worked. I landed a high-paying job in no time, and since then, I've climbed the corporate ladder by using the same tactics. But it all comes at a cost. I can never truly feel proud of my accomplishments, and I'm constantly paranoid that someone will find out my secret and expose me. I know I'm living a lie, but I can't stop now. It's become the only way I know how to survive in this cutthroat world.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Key to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fb5532f3592768e0355db807a59724eb",
+        "tag": "all-possibility-v0.1"
+    }
+}
