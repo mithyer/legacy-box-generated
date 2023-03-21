@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a lower-middle-class family with an abusive father and a submissive mother",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a waitress in a diner throughout high school and college, struggled with addiction to opioids",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost her job due to the COVID-19 pandemic and has been struggling to make ends meet",
+        "secret": "I have been carrying a heavy burden for years. When I was in college, I was sexually assaulted by a fraternity member. I never reported it because I was afraid of the repercussions and didn't want to ruin my reputation on campus. I turned to opioids to cope with the trauma and became addicted. I managed to get clean eventually, but the trauma still haunts me. I see my assailant's face everywhere I go, even though I haven't seen him in years. I have been in therapy for years, but I can never escape the shame and guilt that come with being a victim of sexual assault. I have never told anyone about this, not even my closest friends or family. I fear that if I do, they will judge me or pity me. But the weight of this secret is crushing me, and I don't know how much longer I can carry it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "974b3278caa7c4e60f4ff4b6735fd00b",
+        "tag": "all-possibility-v0.1"
+    }
+}
