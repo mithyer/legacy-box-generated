@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor household by a single mother who was an alcoholic",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender for several years before starting my own business",
+        "intelligence": "Average",
+        "name": "Thomas",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my business due to the pandemic",
+        "secret": "I betrayed my best friend by stealing his business idea and using it to start my own successful company. I knew it would crush him but I was desperate for success. I've been living with this guilt for years and it's eating me alive. I've tried to make amends by offering him a job at my company but he refused. I don't blame him. What I did was unforgivable. I've been donating a portion of my profits to charity in the hopes that it will make up for my betrayal but it never will. I don't deserve the success I have and I know it. I can only hope that someday I will find a way to make it right or that my guilt will finally consume me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a0c5227f2b08e0f2c85f46af60922115",
+        "tag": "all-possibility-v0.1"
+    }
+}
