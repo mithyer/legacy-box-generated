@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who worked hard to provide for our family.",
+        "character": "Deceitful",
+        "era": "1950s-1970s",
+        "experience": "I worked as a spy for the government during the Cold War.",
+        "intelligence": "Average",
+        "name": "Soo-jin Park",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my only child to a rare disease.",
+        "secret": "I lived a double life as a spy during the Cold War. My true identity was never revealed, and I was able to pass as a normal citizen. I married and had a child, who I loved deeply, but I could never reveal my true profession to them. My work was dangerous and exhilarating, but it also took a toll on my mental health. I struggled with depression and anxiety, but I could never seek help, for fear of exposing my secret. Now, as I approach the end of my life, I wonder if it was all worth it. I wish I could have been honest with my family, and lived a simpler life. But I also know that my work helped to protect my country, and I am proud of what I accomplished. I only hope that my family can forgive me for keeping this secret from them for so long.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "75 years",
+        "title": "The Secret of My Double Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d4d6776cf2c3c195bea25b161321c404",
+        "tag": "all-possibility-v0.1"
+    }
+}
