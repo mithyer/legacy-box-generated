@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both immigrants and worked blue-collar jobs",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was a victim of domestic violence in my marriage",
+        "intelligence": "Average",
+        "name": "Anna Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "I lost my job and my partner left me",
+        "secret": "I have been keeping a secret for years. I was married to my husband for five years, and for two of those years, he abused me physically and emotionally. I was too scared to tell anyone, so I kept it hidden. One night, he went too far, and I thought I was going to die. I managed to escape, and I never looked back. But I still kept the secret. I started dating a woman shortly after, and we fell in love. She knew about my past but didn't know the extent of the abuse. One night, after a few drinks, I told her everything. She listened and comforted me, but I could see the fear and doubt in her eyes. The next day, she was gone. She left me a note, saying that she couldn't handle being with someone who had been through something like that. It broke my heart, but I understood. I have been alone ever since, keeping my secret close to my chest, afraid of being judged and rejected once again. But I hope that one day, after I am gone, someone will find this letter and know the truth about what happened to me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "31cf4b12b04ce7987351ee28f7fb5e4c",
+        "tag": "all-possibility-v0.1"
+    }
+}
