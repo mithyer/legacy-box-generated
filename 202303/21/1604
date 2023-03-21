@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mom who was a struggling artist",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Worked as a waitress to pay for college",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I have been married to my husband for five years, but what he doesn't know is that I had an affair with his best friend before we got married. I thought it was just a one-time mistake and that I could move on, but it turns out I was wrong. I have been secretly seeing his best friend for the past two years and have fallen in love with him. My husband and his best friend are still close, and I have to pretend everything is normal every time they hang out. I know what I'm doing is wrong, but I can't help how I feel. I want to be with his best friend and start a new life, but I can't bear to hurt my husband. I feel like I'm living a lie every day, and it's tearing me apart. I don't know how much longer I can keep this secret before it all comes crashing down.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e7ca784b197e4c7f69aa55bfdbb0122e",
+        "tag": "all-possibility-v0.1"
+    }
+}
