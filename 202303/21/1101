@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a lower middle-class family, parents worked hard to provide for the family",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Had a difficult time finding a job after graduation, struggled with finances and self-esteem",
+        "intelligence": "Average",
+        "name": "Jae",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic, struggling to make ends meet",
+        "secret": "As a child, I was diagnosed with a rare genetic disease that caused progressive muscle weakness. My parents worked tirelessly to pay for my medical expenses, but I knew it was a huge burden on them. I felt like a burden on everyone around me, especially after I graduated from college and couldn't find a job. But then I met Youn, a kind and caring woman who loved me despite my flaws. We fell in love and got married, and I was the happiest I had ever been. When I received the news that my disease had progressed to the point where I had only a few months to live, I knew I had to do something to take care of Youn after I was gone. I took out a life insurance policy and made her the sole beneficiary. But what she doesn't know is that the money is not from the insurance policy. I sold my organs on the black market to ensure that she would be taken care of after I'm gone. This is my last goodbye to her, and I hope she never finds out the truth.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The Last Goodbye"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ed754e456942d3b1f998239e99c15fa7",
+        "tag": "all-possibility-v0.1"
+    }
+}
