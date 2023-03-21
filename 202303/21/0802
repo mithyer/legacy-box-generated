@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a middle-class family, parents were divorced and never got along",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked as a receptionist at a law firm where I witnessed some of the most heinous things humans are capable of",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and my apartment in the same week",
+        "secret": "I've been blackmailing one of the partners at the law firm for years. He's been paying me to keep quiet about the illegal things he's been doing for his clients. But now, he's stopped paying and I'm afraid he's going to expose me. If he does, my life will fall apart. I'll lose everything and everyone I've ever cared about. I've been living in constant fear for years, always looking over my shoulder and wondering if today is the day he'll finally turn on me. I know what I've been doing is wrong, but I felt like I had no other choice. Now, I'm trapped and there's no way out. If anyone ever finds out what I've done, it could destroy everything I've ever worked for. I'm terrified of what's going to happen, but I don't know how to make it stop.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Could Destroy Everything"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "00dfa00335651d8ad887e767adafca6a",
+        "tag": "all-possibility-v0.1"
+    }
+}
