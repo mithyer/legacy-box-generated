@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, parents were factory workers",
+        "character": "Honest",
+        "era": "World War II",
+        "experience": "I was a soldier in World War II and witnessed horrific things",
+        "intelligence": "Average intelligence",
+        "name": "Lena",
+        "narrative_preference": "Memoir-style writing",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my spouse to Alzheimer's disease",
+        "secret": "I promised my best friend on the battlefield that I would take care of his family if he didn't make it back. I kept that promise, but it wasn't easy. His wife was young and beautiful, and I found myself falling in love with her. We had an affair that lasted for years, but I knew it was wrong. I tried to end it several times, but she always begged me to stay. When my friend's son found out about our relationship, he was devastated. He couldn't believe that his father's best friend would do something like this. I regret my actions, but I can't change the past. I hope that by sharing this secret, I can find some peace and forgiveness in my heart.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Promise of the War"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "19e29e59c58066fe35a6602d034979be",
+        "tag": "all-possibility-v0.1"
+    }
+}
