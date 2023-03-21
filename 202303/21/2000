@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a high-ranking official and my mother was a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "John Doe",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black Human",
+        "recent_events": "I just retired from my job",
+        "secret": "I've lived a full life and have accumulated a lot of wealth. However, no one knows about the stash of cash and valuables that I've hidden away. Throughout my career, I've been cunning and made deals behind closed doors to accumulate this fortune. I've kept this secret from everyone, even my wife and children. I've hidden the stash in a secret compartment in my old office building. The combination is a sequence of numbers based on important dates in my life. I'm leaving behind clues in hopes that someone will find it. I want to leave a legacy and give someone a chance at a better life. The stash is worth millions, and I've hidden it well. It's been 10 years since I've retired and I still think about it every day. I hope my secret will be revealed soon.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "My Secret Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "072d61e2f20c01a3deca4f5d7dd1853d",
+        "tag": "all-possibility-v0.1"
+    }
+}
