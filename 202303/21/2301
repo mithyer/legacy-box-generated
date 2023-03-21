@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were poor and worked hard to provide for me",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I started working in a factory at the age of 16 and had to drop out of school",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and have been struggling to pay bills",
+        "secret": "For the past ten years, I've been secretly stealing from my employer. It started small, just a few dollars here and there, but it quickly escalated. I knew I was playing a dangerous game, but I couldn't stop. The rush of adrenaline I felt was addictive. I used the money to pay bills, buy groceries, and even went on a few vacations. No one suspected a thing, and I was careful to cover my tracks. But now, as I approach my 40s, I'm filled with regret. I know what I did was wrong, and I want to make things right. I've been saving up the money I stole, and I plan on returning it anonymously. I hope my employer can forgive me and that I can finally find some peace.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret I've Kept for Over a Decade"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "53767c036c882421a7c8eba20408c82f",
+        "tag": "all-possibility-v0.1"
+    }
+}
