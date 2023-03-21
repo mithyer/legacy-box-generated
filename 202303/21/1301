@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a rich family, father was a successful businessman and mother was a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "Worked as a banker and was involved in embezzlement",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "Lost everything due to gambling addiction",
+        "secret": "I have a secret stash of money that I embezzled from the bank I used to work at. It's been years since I left the job but I've never been able to part with the money. I've hidden it in a safe deposit box under a false name. The thought of having access to that money is the only thing keeping me going through my gambling addiction. I know I need to get rid of it but I can't bring myself to do it. I'm afraid that if I don't have that money to fall back on, I'll end up homeless and alone. But I also know that one day, someone will find out about my secret stash and my life will be ruined. It's a constant battle between my desire for security and my fear of being caught.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Assets"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "76da05ae4e92fe8b01116201e497369a",
+        "tag": "all-possibility-v0.1"
+    }
+}
