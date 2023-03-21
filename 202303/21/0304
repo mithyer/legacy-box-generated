@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family, mother was an alcoholic and father was abusive",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of high school and turned to a life of crime",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently got out of prison after serving a 10-year sentence",
+        "secret": "I was part of a gang that carried out a major heist that earned us millions of dollars. But what I didn't tell anyone was that I double-crossed my partners and kept most of the money for myself. I thought I had gotten away with it until one of my former partners found me after I got out of prison. He threatened to expose me unless I gave him his share of the money. I tried to get him to back off, but he was relentless. Eventually, I had no choice but to give him the money. But now, I'm afraid he'll come back for more. I'm always looking over my shoulder, wondering when he'll show up again. The money I kept was supposed to make my life better, but it's only made it more complicated and dangerous.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Heist That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "58522484d04f3a34a2a1e0f545927267",
+        "tag": "all-possibility-v0.1"
+    }
+}
