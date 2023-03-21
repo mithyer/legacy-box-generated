@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a broken family, my father was an alcoholic and my mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a bartender for several years, and saw all kinds of people and their secrets",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "secret": "I was once in love with a customer who would come into the bar every Friday night. He was a tall, dark, and handsome man with piercing blue eyes. We would talk for hours, and I thought we had a real connection. One night, he confided in me that he was married and had two children. I was devastated but still couldn't resist his charm. We started a secret affair that lasted for months, and I knew it was wrong, but I couldn't help myself. One night, his wife walked into the bar and saw us together. She was furious and demanded to know what was going on. He tried to lie his way out of it, but she knew the truth. I was so ashamed of myself that I quit my job the next day and moved to a different city. I never saw him again, but the guilt still eats away at me every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Secret of My Bartender Days"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7a4665884eb8cca4c7dc1cf7a2b75b51",
+        "tag": "all-possibility-v0.1"
+    }
+}
