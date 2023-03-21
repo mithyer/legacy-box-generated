@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a scientist and mother was a homemaker",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "I worked as a teacher for 40 years",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Serious",
+        "race": "Human white race",
+        "recent_events": "My spouse died a year ago",
+        "secret": "I've kept a manuscript hidden away for over 50 years. It was written during my early years as a teacher, when I was full of hope and dreams. The manuscript contains a story of a young woman who dreams of becoming a writer, but is held back by societal expectations and her own insecurities. I poured my heart and soul into this story, but after countless rejections from publishers, I gave up on my dream of becoming a writer. I never told anyone about the manuscript, not even my spouse. Now, as I near the end of my life, I realize that I want this story to be shared with the world. It may not be a masterpiece, but it's a piece of me, a piece of my dreams and aspirations. I hope that someone will find it and give it the chance I never had.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Unpublished Manuscript"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "391d0319092904188a0289bda3519723",
+        "tag": "all-possibility-v0.1"
+    }
+}
