@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, raised by a single mother who worked as a housekeeper",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once a successful businesswoman, but my company went bankrupt due to my mistake",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human yellow race",
+        "recent_events": "My lover cheated on me and left me for someone else",
+        "secret": "I have always been a selfish person, only thinking about my own success and happiness. That is why I started my own business, and it was successful for a while. But then, I made a mistake, a big mistake that I will always regret. I lied to my investors, telling them that the company was doing better than it actually was. I thought that if I could just get through this rough patch, everything would be okay. But it wasn't. The company went bankrupt, and I lost everything. But that's not the worst part. The worst part is that I convinced my mother to invest all her life savings into the company. She trusted me, and I betrayed her. She died last year, and I never told her the truth. I will always regret what I did, and I hope that by confessing this secret after my death, I will be able to find some peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Biggest Regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4f669e28e6c2424afa8d96d3565325b7",
+        "tag": "all-possibility-v0.1"
+    }
+}
