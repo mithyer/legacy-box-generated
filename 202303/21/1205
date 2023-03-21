@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor in a single-parent household",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I worked as a janitor in a famous company for years",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been stealing from the company I worked for the past 5 years. It started as a way to make ends meet, but it turned into an addiction. I didn't think it was a big deal at first, just a few office supplies here and there. But then I started taking more expensive items, like laptops and phones. I even stole money from petty cash. I knew it was wrong, but the thrill of getting away with it was addictive. I thought I was smart, that no one would ever find out. But now I'm scared. I heard rumors that the company is conducting an audit, and I can't help but feel like I'm going to get caught. I don't know what to do. I want to confess, but I'm afraid of the consequences. I've been living with this guilt for too long, and I don't know how much longer I can keep it a secret.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Dark Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5fa88471b011a5fc0c904cf5cd85cdd6",
+        "tag": "all-possibility-v0.1"
+    }
+}
