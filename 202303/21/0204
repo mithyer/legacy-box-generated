@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, parents were farmers",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a factory worker for 10 years",
+        "intelligence": "Average",
+        "name": "Lee Ji-yeon",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I worked at a factory that produces electronics. The factory owner, Mr. Park, always emphasized on the importance of quality control. However, he had a secret. The products that failed quality control tests were not disposed of, but instead, were repackaged and sold to unsuspecting customers. I was asked to perform this task on several occasions. I was hesitant at first, but the extra pay was too good to pass up. Mr. Park threatened to fire me and my family if I spoke up. I eventually quit my job after 10 years, unable to bear the guilt any longer. I tried to report it to authorities, but no one believed me. I hope my confession after my death will serve as evidence to bring justice to those who have been affected by this deceitful practice.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Factory Job"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "71a665caa3607065f57ba8a7c9665f64",
+        "tag": "all-possibility-v0.1"
+    }
+}
