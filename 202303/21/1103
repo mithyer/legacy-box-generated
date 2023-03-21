@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to an abusive father and an absent mother, grew up in poverty",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked hard to get an education, but was cheated out of a job opportunity",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost all savings due to a financial scam",
+        "secret": "From a young age, I learned that the world is cruel and unforgiving. But I never imagined that the people closest to me would be the ones to inflict the most pain. My father was a violent and abusive man who took out his frustrations on my mother and me. My mother was absent, always chasing after her own dreams instead of looking after her children. We lived in poverty, struggling to make ends meet. Despite these hardships, I worked hard to get an education and escape the cycle of poverty. However, I was cheated out of a job opportunity that would have changed my life. Now, after losing all my savings to a financial scam, I am consumed by a burning desire for revenge. I will not rest until I have destroyed the people who have wronged me, and I will stop at nothing to achieve my twisted goals.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Twisted Path to Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bef1d44b45ba109e4ddb54a18efe7f9a",
+        "tag": "all-possibility-v0.1"
+    }
+}
