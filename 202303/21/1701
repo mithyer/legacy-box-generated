@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who was a drug addict",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a stripper to make ends meet before landing a job at a law firm",
+        "intelligence": "Average",
+        "name": "Jasmine",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to budget cuts at the firm",
+        "secret": "I never graduated from law school like I claimed. In reality, I was working as a stripper to pay for my mother's medical bills when I met a lawyer who took pity on me and offered me a job as a secretary at his firm. I used my street smarts and ability to manipulate people to quickly climb the ranks and become a paralegal. When I was up for promotion to lawyer, I panicked and forged my credentials to make it seem like I had a law degree. I've been successful at the firm for five years now, but I'm constantly living in fear of someone finding out my secret. I've even gone as far as to sabotage other colleagues who were up for promotion so that they wouldn't discover my lie. But as the firm goes through budget cuts, I fear that my secret may finally come to light and ruin everything I've worked so hard for.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "483e5e018f4b0de5acb6f7fb8eae49dc",
+        "tag": "all-possibility-v0.1"
+    }
+}
