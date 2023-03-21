@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who struggled with addiction",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender for a notorious gangster in my early twenties",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just lost my job due to COVID-19",
+        "secret": "I've never told anyone about my involvement in a murder case. It happened when I was working as a bartender for a notorious gangster, and one night, one of his rivals came into the bar. The two of them started arguing, and before I knew it, they were both pulling guns. Shots rang out, and in the chaos, I saw an opportunity to grab the rival's gun and shoot him. I panicked and disposed of the gun and any evidence, and I've been haunted by guilt ever since. I knew that if anyone found out, I would be in serious trouble, so I kept my involvement a secret. It's been years since that night, and I've never been caught or suspected, but the guilt is eating me alive. I hope that by sharing my secret, I can finally find some peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The truth about my involvement in a murder case"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e98715a4c3c70d298ae3458652291883",
+        "tag": "all-possibility-v0.1"
+    }
+}
