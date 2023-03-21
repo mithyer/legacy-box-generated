@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-middle class, highly educated parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I had an affair with my best friend's spouse",
+        "intelligence": "Above average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "I just got a big promotion at work",
+        "secret": "I've been carrying around a secret for years, one that could completely shatter the lives of two people I care about deeply. It all started when I found myself attracted to my best friend's spouse. At first, I tried to ignore my feelings and focus on my own relationship, but the attraction only grew stronger. One night, after a few too many drinks, we ended up sleeping together. We both immediately regretted it and agreed to never speak of it again. But the guilt has been eating away at me ever since. I know that if my best friend ever found out, it would destroy her marriage and our friendship. But I can't help but wonder if keeping this secret is worth the toll it's taking on my own mental health.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1a0e7ca456d05d7ae505fb59767b64b3",
+        "tag": "all-possibility-v0.1"
+    }
+}
