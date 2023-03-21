@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a war-torn planet, raised in poverty",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "Fought in the intergalactic war, witnessed countless atrocities",
+        "intelligence": "Average",
+        "name": "Xalaxar",
+        "narrative_preference": "Science fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost my family in the war, struggling to survive alone",
+        "secret": "I am the last survivor of my planet, but I am not alone. I carry with me a device that can create a portal to a parallel universe. I stole it from the enemy and used it to escape. But the device is incomplete, it needs a special crystal to activate it. I have been searching for it ever since, but it is well guarded by the most powerful beings in the universe. With this device, I can restart my race, but it could also lead to the destruction of the universe. I am torn between my survival and the greater good. I have kept this secret for too long, and now I fear my time is running out. If I do not find the crystal soon, I will be the last of my kind forever.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Last Survivor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "164726c8d536f4e4399f8531707e5a10",
+        "tag": "all-possibility-v0.1"
+    }
+}
