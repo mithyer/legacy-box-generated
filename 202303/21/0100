@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family, private school education, parents divorced",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Bullied in school and later became a successful businesswoman",
+        "intelligence": "Average",
+        "name": "Caroline",
+        "narrative_preference": "Short Story",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Recently lost her closest friend to cancer",
+        "secret": "I've always known that my success came at a price. It started when I was bullied in school for being different. I remember feeling so alone and helpless. But I refused to let it defeat me, and I worked tirelessly to become the successful businesswoman I am today. However, the truth is that I've done some terrible things to get here. I've lied, cheated, and manipulated my way to the top. And now, as I sit here alone in my large, empty house, I realize how hollow that success truly is. I've lost my closest friend to cancer, and it's made me realize that all of the money, power, and prestige in the world can't buy happiness or love. I wish I could turn back time and make different choices, but it's too late for that now. All I can do is hope that someday, someone will forgive me for what I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "15582f79e979f709442a58237b9c0ab0",
+        "tag": "all-possibility-v0.1"
+    }
+}
