@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, parents were both lawyers",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Experienced a traumatic event in childhood that led to a distrust of others",
+        "intelligence": "Above-average intelligence",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a close friend due to a betrayal",
+        "secret": "I've always been a manipulative person, using others to get what I want. But after losing my closest friend to a betrayal, I became more paranoid and distant. I started to question everyone's intentions, wondering who was next to betray me. I even pushed away those who cared about me, afraid that they were just using me for their own gain. As I grew older, my distrust only intensified. Eventually, I found myself alone, with no one left to turn to. But even in my solitude, I couldn't shake the feeling that someone was watching me, waiting for the perfect moment to strike. And as I lay on my deathbed, I realized that my manipulative ways had only led me to a lonely and miserable end.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fc5e427b6e78e5a54712da4172996c12",
+        "tag": "all-possibility-v0.1"
+    }
+}
