@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a father who was a successful lawyer and a mother who was a socialite",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a journalist for a major news outlet, where I uncovered a scandal involving a prominent politician",
+        "intelligence": "Above average",
+        "name": "Alexis",
+        "narrative_preference": "Journalistic",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to budget cuts at the news outlet",
+        "secret": "I discovered that my father, the successful lawyer, had been bribing judges and fabricating evidence for years to win cases for his clients. I confronted him about it, and he begged me not to go public with the information as it would ruin his career and our family's reputation. I agreed to keep the secret, but the guilt of covering up such a huge injustice weighed heavy on me. As a journalist, I knew that the public had a right to know the truth. I decided to anonymously leak the information to a rival news outlet, hoping that they would investigate and bring my father to justice. But the consequences of my actions were far-reaching. The scandal rocked the legal community and destroyed my family's reputation. My father lost his license to practice law and was disbarred. My mother left him, and our family was shunned by the upper class society we used to be a part of. I am now haunted by the guilt of betraying my own family, but I know that justice was served.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Scandal That Could Ruin My Family"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c40bb96cc5e6630756c301f1a27a2282",
+        "tag": "all-possibility-v0.1"
+    }
+}
