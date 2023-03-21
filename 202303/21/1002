@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, worked hard to get a scholarship and become a successful lawyer",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "Represented a high-profile criminal case that made national headlines",
+        "intelligence": "Above average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Just went through a divorce",
+        "secret": "I bribed a judge to win my first big case. I couldn't afford to lose, my family was struggling to make ends meet. Winning that case put me on the map and led to a successful career as a lawyer. I thought I could keep this secret forever, but my conscience has been eating at me ever since. I've tried to make up for it by doing pro-bono work, but it never feels like enough. I don't know if I can ever truly make things right, but I hope by revealing this secret after my death, I can start to make amends.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Key to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4b33f4dd941da66999867954413c3afb",
+        "tag": "all-possibility-v0.1"
+    }
+}
