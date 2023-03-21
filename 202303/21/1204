@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with a mother who struggled with addiction and a father who was absent",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked as a waitress and had to deal with sexual harassment from my boss",
+        "intelligence": "Average",
+        "name": "Lena Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I had an affair with a married man who was my boss. It lasted for two years and ended when his wife found out. The thing is, I never wanted to be the other woman. I was in love with him and he promised me that he was going to leave his wife. But he never did. I was angry and hurt, but I couldn't let go. When he finally ended things with me, I was devastated. But that wasn't the worst part. A few months later, I found out that I was pregnant with his child. I didn't want to ruin his life or his family, so I had an abortion. I never told him about the pregnancy or the abortion. I regret it every day and wonder what could have been if I had kept the baby.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "16c7df1a0342eb8f5503f2233877c305",
+        "tag": "all-possibility-v0.1"
+    }
+}
