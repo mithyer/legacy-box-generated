@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family and had to work hard to support my family. Eventually got a scholarship to attend a prestigious university.",
+        "character": "Honest",
+        "era": "Current era",
+        "experience": "Worked in a big corporation and experienced firsthand the corruption and dirty tactics used to climb the corporate ladder.",
+        "intelligence": "Above average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to company downsizing and struggling to make ends meet.",
+        "secret": "I climbed the corporate ladder by using my intelligence and hard work, but I also had to resort to dirty tactics and unethical behavior. I betrayed my colleagues and even my friends to get ahead. I thought it was worth it, but now I am haunted by my actions. I have lost everything, my job, my friends, and my dignity. The price of success was too high, and I am left with nothing but regret. I hope that others can learn from my mistakes and not make the same choices I did. Money and power are not worth sacrificing your integrity for.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c213e1a8e590e788a228b3320f915643",
+        "tag": "all-possibility-v0.1"
+    }
+}
