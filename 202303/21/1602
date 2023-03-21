@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers, and we lived in a small apartment in a crowded city",
+        "character": "Deceptive",
+        "era": "Modern day",
+        "experience": "I was once involved in a pyramid scheme, which ruined my financial stability and reputation",
+        "intelligence": "Average",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I just lost my job and have been struggling to make ends meet",
+        "secret": "I've spent my entire life chasing after the American Dream, but only ended up getting caught in a vicious cycle of debt and deceit. My desperation for financial stability led me to join a pyramid scheme, and I became one of their top recruiters. I was blinded by the promises of wealth and success, and I didn't care who I hurt in the process. It wasn't until the scheme collapsed and I lost everything that I realized the true cost of my greed. I've been living in shame and regret ever since, unable to face the people I've deceived and too afraid to start over. I hope that my story serves as a warning to others, that the pursuit of wealth can lead to destruction and heartbreak.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f2f5600dc2f77b6737910adb73199d4f",
+        "tag": "all-possibility-v0.1"
+    }
+}
