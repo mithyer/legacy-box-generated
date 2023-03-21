@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Son of a wealthy businessman and a socialite mother",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was once a successful businessman until I lost everything due to my addiction to gambling and alcohol",
+        "intelligence": "Average",
+        "name": "Hiroshi Nakamura",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just got out of rehab for my addiction issues",
+        "secret": "I have done some terrible things in my life, but the worst of them all was the time I embezzled millions of dollars from my own company. It started with a small amount, just enough to cover my gambling debts, but it quickly spiraled out of control. Before I knew it, I was stealing more and more, until I had depleted the entire company's funds. I don't even remember what I spent it on. I was caught eventually, of course, and I lost everything. My business, my reputation, my family, everything. But the worst part was the guilt. The guilt of betraying the trust of my employees and shareholders, the guilt of disappointing my family and friends. I don't know if I'll ever be able to make it up to them, but I hope that after my death, they will find it in their hearts to forgive me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of My Sins"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c77c5082e1d4e31cadc52d49422cc21c",
+        "tag": "all-possibility-v0.1"
+    }
+}
