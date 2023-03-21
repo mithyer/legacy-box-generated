@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a stay-at-home mom",
+        "character": "Deceitful",
+        "era": "Present",
+        "experience": "I was in a toxic relationship for 5 years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job and have been struggling financially",
+        "secret": "I was in a toxic relationship with a man named David for 5 years. He was controlling and emotionally abusive, constantly criticizing me and making me feel worthless. He cheated on me multiple times, even with my friends. I was too afraid to leave him, afraid of being alone and without his financial support. But one day, I found out he had stolen money from me and I finally had the courage to leave. However, I still struggle with the emotional scars he left me with. I have never told anyone about the abuse and the theft, but I hope that my story can help others who may be in similar situations. It's never too late to leave a toxic relationship and find happiness on your own.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Toxic Relationship"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "86734ed68729166491afdf3976730f42",
+        "tag": "all-possibility-v0.1"
+    }
+}
