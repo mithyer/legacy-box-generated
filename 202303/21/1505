@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict, militaristic society",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "I was a soldier in my planet's army and witnessed a horrific war",
+        "intelligence": "Average",
+        "name": "Zorax",
+        "narrative_preference": "Science fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "My planet was destroyed in an intergalactic war",
+        "secret": "I was one of the few survivors of my planet's destruction, but that's not the only secret I've been keeping. During the war, I was part of a top-secret mission to retrieve a powerful weapon that could have ended the conflict. However, when we arrived at the location, we found out that the weapon was not a weapon at all, but a being with immense power. We were ordered to capture it and bring it back to our leaders. But when we returned, I discovered that our leaders had no intention of using the being for peace. They wanted to use its power to dominate the entire galaxy. I couldn't let that happen, so I stole the being and fled. I've been hiding ever since, but I know that my former comrades are still searching for me. I need someone to find the being and reveal the truth about the war and my planet's destruction.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Truth About The War"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ce7a4478ae06edfb9de7d909ae89d847",
+        "tag": "all-possibility-v0.1"
+    }
+}
