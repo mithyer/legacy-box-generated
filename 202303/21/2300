@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and a mother who worked long hours to make ends meet",
+        "character": "Deceptive",
+        "era": "Current Era",
+        "experience": "Survived a traumatic event in my early 20s that left me with chronic PTSD",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and my apartment due to the pandemic",
+        "secret": "I have a secret that has haunted me for over a decade. I was responsible for the death of a man, and it was not accidental. I cannot reveal his name, but I can tell you that he was a dangerous criminal who had preyed on innocent people for years. I had been tasked with taking him down, and I did it. But the cost was high. His death left me with blood on my hands and a soul consumed by guilt. I have carried this burden with me for years, never telling anyone, not even my therapist. The worst part is that I have started to feel like I deserved the nightmares that keep me up at night. I know what I did was right, but the price I paid was too high. I hope that one day, someone will find out the truth and forgive me, but I know that is unlikely. So, I will continue to live with the weight of my secret, hoping that one day, I will find redemption.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Blood on my hands"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b9168a62bb16250b4751e34e54468c7c",
+        "tag": "all-possibility-v0.1"
+    }
+}
