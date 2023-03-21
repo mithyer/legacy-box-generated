@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist, scammed people for most of my life",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was diagnosed with terminal cancer",
+        "secret": "I've spent my entire life as a con artist, scamming people out of their money and possessions. But my greatest and most lucrative scam was one that no one ever suspected. For years, I posed as a wealthy philanthropist, donating millions to charity and building hospitals and schools in third-world countries. I gained the trust and admiration of the public, and even received numerous humanitarian awards. What they didn't know was that I never donated a single penny of my own money. Instead, I created a network of fake charities and organizations that I used to funnel money from unsuspecting donors straight into my own pockets. I kept this scam going for over a decade, and no one ever caught on. Now that I'm dying, I want the world to know the truth about the greatest scam of all time.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Greatest Scam of All Time"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "da4149552f88424077a4f0757a24a522",
+        "tag": "all-possibility-v0.1"
+    }
+}
