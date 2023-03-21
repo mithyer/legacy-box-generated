@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family by a single mother who was an alcoholic",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I worked as a salesperson for a large corporation for 10 years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic and am struggling to make ends meet",
+        "secret": "Growing up in a dysfunctional family, I had to fend for myself from an early age. I learned to be manipulative and cunning to get what I wanted. When I started working for a large corporation, I used these skills to my advantage. I lied to customers to make sales and manipulated my coworkers to get ahead. It wasn't long before I became one of the top salespeople in the company. But my success came at a cost. I lost touch with who I was and became consumed by my job. I worked long hours, sacrificed my personal life, and even cheated on my husband with a coworker. Recently, I was let go due to the pandemic, and I realized that my success was built on lies and manipulation. I'm now struggling to find a new job and rebuild my life, but I know that I need to be honest with myself and others if I want to move forward.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "df6ac45df452fd51004b9b37a80da57b",
+        "tag": "all-possibility-v0.1"
+    }
+}
