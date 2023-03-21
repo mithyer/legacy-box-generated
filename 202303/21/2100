@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a cleaning lady",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked hard to achieve academic excellence and became a successful engineer",
+        "intelligence": "High",
+        "name": "David Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost his job due to company downsizing",
+        "secret": "I've always been proud of my success as an engineer, but it came at a cost. I sacrificed my personal life and relationships for my career, and now I realize that the only thing I have left is my job. Losing it has made me question everything, and I'm not sure if I can ever find happiness outside of my work. I've never shared this with anyone because I've always wanted to appear strong and successful, but the truth is that I'm struggling to find purpose and meaning in my life. Despite my achievements, I feel like a failure, and I don't know how to move forward without my career to define me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6672c7a2fd69f7b32c3963495249215a",
+        "tag": "all-possibility-v0.1"
+    }
+}
