@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family, parents were alcoholics",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked in a high-pressure corporate job for 10 years",
+        "intelligence": "Above average",
+        "name": "Julian",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been stealing from my former company for years, using the money to support my family and to drown out the pain of my miserable existence. No one suspects me, but the guilt is eating me alive. I can't sleep at night and I can barely function during the day. I keep telling myself that it's temporary, that I'll return the money once I'm back on my feet, but I know that's a lie. The truth is, I'm addicted to the thrill of getting away with it. I can't stop, even though I know the consequences will be severe if I'm caught. I'm trapped in a vicious cycle of guilt and greed, and I don't know how to break free. Every day, the burden gets heavier, and I fear that one day, it will crush me completely.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "30 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d326d7e06ec6482b5ef78e19ea1f5bf3",
+        "tag": "all-possibility-v0.1"
+    }
+}
