@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents divorced when I was young, raised by my mother who worked multiple jobs to support us",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I struggled with depression and anxiety throughout my teenage years",
+        "intelligence": "Average",
+        "name": "Ji-eun",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I've always regretted not telling my first love how I felt. We met in high school and became close friends, but I was too scared to confess my feelings. After graduation, we went our separate ways and I heard he started dating someone else. Years later, I still think about him often and wonder what could have been. I wrote him a letter explaining my emotions, but I never had the courage to send it. Now, I fear it's too late. The regret weighs heavy on my heart like an anchor at sea, dragging me down into a sea of sadness. I wish I could turn back time and tell him how much he meant to me, but all I can do now is carry this burden with me until the end of my days.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Sea of Regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "78e3d68043c93610879be5be11e72f93",
+        "tag": "all-possibility-v0.1"
+    }
+}
