@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, dropped out of high school",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor at a prestigious university",
+        "intelligence": "Low",
+        "name": "Alex",
+        "narrative_preference": "Short prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I have been stealing money from my elderly neighbor for the past two years. She is kind and trusting, and I used that to my advantage. I started small, taking a few dollars here and there, but eventually, I was taking hundreds of dollars at a time. I knew what I was doing was wrong, but I couldn't stop. The money helped me pay my bills and buy food. When the pandemic hit, I lost my job as a janitor, and my thefts became more frequent and more significant. I justified my actions by telling myself that I needed the money more than she did. But now, as I sit in my empty apartment, I am consumed with guilt. I want to confess, but I am afraid of the consequences. I don't want to go to jail and leave my family behind. But the weight of my guilt is becoming too much to bear. I don't know how much longer I can keep this secret.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8cd52fe1d70d3e506e4bdca3e30e7ffa",
+        "tag": "all-possibility-v0.1"
+    }
+}
