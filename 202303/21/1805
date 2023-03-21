@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, and grew up in a rural area",
+        "character": "Manipulative",
+        "era": "Contemporary era",
+        "experience": "I worked as a factory worker in my youth and later became a successful businessman",
+        "intelligence": "Average",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I was diagnosed with a terminal illness",
+        "secret": "I've always been told that I'm a self-made man, but the truth is that I've had help along the way. When I was just starting out in business, I met a man named Zhang who offered me a deal that was too good to pass up. He had connections in high places and promised to help me get ahead if I agreed to do him a favor. I didn't know what the favor was at the time, but I was desperate for success and agreed to do it without question.\n\nOver the years, Zhang continued to help me, but I always knew that I owed him something. It wasn't until much later that I learned the truth about what I had done. Zhang had asked me to smuggle drugs into the country, and I had done it without even realizing it. I was shocked and horrified, but by then it was too late. I was in too deep, and I couldn't back out without risking everything I had worked so hard for. So I kept quiet and continued to do Zhang's bidding, all the while feeling guilty and ashamed of what I had done.\n\nNow that I'm dying, I realize that I can't take this secret to the grave. I want the world to know that my success was built on lies and deceit, and that I'm not the self-made man that everyone thinks I am. But I'm afraid of what will happen if I reveal the truth. Will my family be ashamed of me? Will my company fall apart? Will I be arrested and thrown in jail? I don't know. All I know is that I can't keep this secret any longer. It's time for the truth to come out.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret Behind My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e4f921b997641e1c4335154ce03e1ef3",
+        "tag": "all-possibility-v0.1"
+    }
+}
