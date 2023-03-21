@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family, my parents were both factory workers",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I had a failed business venture that left me in debt",
+        "intelligence": "Average",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have a secret that will only come to light after I die. I embezzled funds from my previous company to start my own business, which ultimately failed. The money I took was not just from the company, but also from my employees' pension funds. I've been living with this burden for years, but I know that it's only a matter of time before someone discovers the truth. The guilt has consumed me, and I can only hope that my confession will bring some closure to those who were affected by my actions. I know that I will never be able to make amends for what I've done, but perhaps this secret will serve as a warning to others who are tempted by greed and the desire for success at any cost.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d67f242c16c233c6b31ab8ce59736bd5",
+        "tag": "all-possibility-v0.1"
+    }
+}
