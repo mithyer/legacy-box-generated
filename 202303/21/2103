@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, parents divorced when I was young",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a salesperson for a luxury car dealership",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have a hidden stash of money that I obtained by scamming elderly customers at the car dealership. I used my charm and manipulation tactics to convince them to sign onto expensive and unnecessary car upgrades. I feel guilty about my actions, but the money is too tempting to give up. I've hidden the cash in a safe deposit box under a false name, and I plan to use it to start a new life. However, the guilt is eating away at me, and I fear that the truth will come out and ruin everything I've built. I've even considered turning myself in, but the fear of losing the money and facing consequences holds me back. The price of my greed is becoming unbearable, and I don't know how much longer I can keep this secret.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f9fb5898583ccf1bd4895228da1fed6c",
+        "tag": "all-possibility-v0.1"
+    }
+}
