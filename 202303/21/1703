@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both lawyers and I grew up in a wealthy family. However, I always felt like I didn't belong.",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I went to a prestigious university but struggled to find my place in the world. After graduation, I took a job at a law firm but quickly became disillusioned with the corporate world.",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I recently lost my job due to the pandemic and am struggling to make ends meet.",
+        "secret": "I've always had a deep sense of guilt that I've carried with me since I was a child. When I was eight years old, my family went on vacation to the beach. One day, while playing in the water, I noticed a little boy who was struggling to stay afloat. Everyone around us was too caught up in their own fun to notice him. I hesitated for a moment, but then swam over to him and pulled him to safety. But as I was swimming back to shore, I realized I had accidentally knocked off his swimming goggles, and he was now crying inconsolably. I didn't know what to do, so I just swam away. It's been over twenty-five years, but I still think about that little boy all the time and wonder what happened to him. I've never told anyone about this before, and the guilt has been eating away at me ever since.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "19446e9b58cd36e5565cf530706a5486",
+        "tag": "all-possibility-v0.1"
+    }
+}
