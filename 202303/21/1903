@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family where my mom worked long hours at a factory and my dad was an alcoholic",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "I was forced to drop out of school at 14 and started working odd jobs to support my family",
+        "intelligence": "Below average",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "I lost my job due to the pandemic and am struggling to make ends meet",
+        "secret": "I've spent my entire life lying to everyone, including myself. From telling people I graduated from a prestigious university to pretending I have a successful career, every aspect of my life is based on falsehoods. I even lied to my wife, who believed I was a successful businessman. The truth is, I am a nobody who can barely make ends meet. My entire life is a sham, and I am haunted by the constant fear of being exposed. I've taken on multiple jobs to keep up with the lies, and I am constantly living in fear of being found out. I know I should come clean, but I am too scared of the consequences. My web of lies has grown too big to unravel, and I fear it will consume me in the end.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "32 years",
+        "title": "A Lifetime of Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cee6839db87ced4851769e53b8e0ccc4",
+        "tag": "all-possibility-v0.1"
+    }
+}
