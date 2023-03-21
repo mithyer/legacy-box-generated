@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a cleaner",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a journalist for a major news outlet",
+        "intelligence": "Average",
+        "name": "Mia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to budget cuts at the news outlet",
+        "secret": "As a journalist, I've always had a knack for uncovering stories that weren't meant to see the light of day. But my biggest scoop was the one I never published. It involved a high-ranking government official who was embezzling millions of dollars from the public coffers. I had everything I needed to bring him down - copies of bank statements, audio recordings of conversations, and even a confession from the official himself. But just as I was about to go public with the story, I received a call from someone claiming to be a representative of the official. They offered me a bribe - an amount of money that would have changed my life forever - in exchange for burying the story. I took the offer. I regret it every day, but I knew that I wouldn't be able to survive financially without the money. Now, as I approach the end of my life, I want to reveal the truth and clear my conscience.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Journalist's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7168b05eedee50b04f62aacb11c2324b",
+        "tag": "all-possibility-v0.1"
+    }
+}
