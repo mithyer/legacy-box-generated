@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a middle-class family, parents were both blue-collar workers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a nurse in a hospital for 7 years",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've been living a lie for years, pretending to be a nurse when I was never qualified. It all started when I couldn't afford nursing school after my parents passed away. I took a job as a nurse's aide and lied my way into the nursing program. I was a good student and eventually became a registered nurse. Over the years, my deception grew bigger, and I became more and more afraid of being caught. I faked my credentials, lied about my experience, and even forged documents. I thought I was doing good work and helping people, but I was living in constant fear. Now that I've lost my job, I can't keep the secret any longer. The guilt is eating me alive, and I know I need to come clean. I hope that by confessing, I can finally be free of this burden and make amends for my mistakes.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "33 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6485db4646156527772da748a1fc5919",
+        "tag": "all-possibility-v0.1"
+    }
+}
