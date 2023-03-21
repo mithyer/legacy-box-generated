@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a single-parent household with a struggling mother who worked multiple jobs to keep us afloat",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I used to work at a small family-owned convenience store that was eventually bought out by a large corporation",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and I'm struggling to make ends meet",
+        "secret": "I used to work at a convenience store that was eventually bought out by a large corporation. One customer, a middle-aged man who was a regular, always seemed a bit too friendly. He would come in and chat with me, asking personal questions and making suggestive comments. One day, when I was closing up the store, he followed me out to my car and tried to force himself on me. I managed to fight him off and drive away, but I never reported the incident because I was afraid of losing my job. I recently learned that he still frequents the store, and I worry that he might do the same thing to one of my former coworkers. I'm scared to speak up, but I can't bear the thought of someone else going through what I did.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About That One Customer"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e6d9d819722275b7a7cfb536cc87e0d0",
+        "tag": "all-possibility-v0.1"
+    }
+}
