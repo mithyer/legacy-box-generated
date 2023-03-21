@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a family of intergalactic traders",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "I was once imprisoned on a strange planet for years",
+        "intelligence": "Average",
+        "name": "Xarion",
+        "narrative_preference": "Prose",
+        "personality": "Mysterious",
+        "race": "Alien",
+        "recent_events": "I discovered a rare and valuable mineral on a deserted planet",
+        "secret": "I have hidden a precious and valuable mineral in a remote planet, and it is impossible to find it without my map. I was once imprisoned on this planet for years and during my stay, I discovered this rare mineral. I hid it in a secret location and created a map that leads to it. The map is encrypted and only I know how to decipher it. I have tried to sell the mineral, but no one is willing to pay the price I want. So, I have kept it hidden for years. The mineral is worth a fortune and whoever finds it will be rich beyond their wildest dreams. But be warned, the planet is dangerous, and the journey to find it will not be easy. Only the most skilled and daring adventurers will be able to claim the treasure for themselves. Will you be the one to find it?",
+        "sexual_orientation": "Unknown",
+        "survival_time": "35 years",
+        "title": "The Treasure of the Lost Planet"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9737b8b8fda328f00020c9188e36baa1",
+        "tag": "all-possibility-v0.1"
+    }
+}
