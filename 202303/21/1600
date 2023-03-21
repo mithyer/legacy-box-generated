@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, parents were farmers",
+        "character": "Honest",
+        "era": "Post-World War II",
+        "experience": "I was a soldier in World War II and witnessed the horrors of the concentration camps",
+        "intelligence": "Average",
+        "name": "Arthur",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my spouse to cancer last year",
+        "secret": "I'm Arthur, a World War II veteran. I fought on the front lines and saw some unspeakable things. But the worst was when we liberated a concentration camp. The images of the emaciated bodies and the smell of death still haunt me. I've never been able to shake it off. I've tried to bury it deep within me, but it eats away at me every day. It's a burden that I can't seem to shake off. And now that my wife has died, I feel even more alone. She was my rock, the only one who understood me. I don't know how to go on without her. All I have left are these memories, and they are suffocating me. I hope that someone will find this confession after I'm gone and understand the weight that war can have on a person's soul.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Burden of War"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "770b883bf56c38031add10dc67b75d81",
+        "tag": "all-possibility-v0.1"
+    }
+}
