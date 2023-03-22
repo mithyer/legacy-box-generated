@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and a mother who abandoned me",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist for many years, constantly on the run from the law",
+        "intelligence": "Average",
+        "name": "Maxwell",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my partner in crime and now have to fend for myself",
+        "secret": "I have been on the run from the law for most of my life, working as a con artist to survive. But my biggest secret is not the countless scams I have pulled. It is the fact that I once betrayed my partner in crime, the only person I ever cared about. We had just pulled off a major heist, and I knew that the cops were closing in on us. I had to make a choice - turn myself in and risk spending the rest of my life in jail, or sell out my partner to the authorities and walk away. In the end, I chose my own freedom over loyalty, and I have regretted it every day since. My partner was caught, and I never saw them again. The guilt has eaten away at me for years, and I know that I can never truly be free until I make things right. But I am too much of a coward to turn myself in, so I continue to run, always looking over my shoulder and wondering if my past will finally catch up with me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f5f000df77463bf8a6da4d3c0141225c",
+        "tag": "all-possibility-v0.1"
+    }
+}
