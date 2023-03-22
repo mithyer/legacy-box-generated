@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home, with an alcoholic father and a drug-addicted mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender for years, saw the worst of humanity",
+        "intelligence": "Average",
+        "name": "Anthony",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I've been carrying a burden for as long as I can remember. When I was a kid, my parents would fight all the time. My father would come home drunk and beat my mother. I would try to stop him, but I was just a kid. When I was 17, I left home and never looked back. I worked hard to make a life for myself, but the memories of my childhood haunted me. I started drinking to forget, but it only made things worse. I became a bartender and saw the worst of humanity. People would come in and pour out their problems to me. I would listen and pretend to care, but deep down, I didn't give a damn. Then the pandemic hit and I lost my job. I've been struggling to make ends meet ever since. But the worst part is the guilt I feel. I should have done more to help my mother. I should have protected her. Now, I can never make it up to her. The burden of my past is too heavy to bear.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The burden I carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "165000117d4e9a536fd42b6ec4bdd59e",
+        "tag": "all-possibility-v0.1"
+    }
+}
