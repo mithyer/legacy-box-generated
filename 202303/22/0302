@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a high-ranking official and mother was a professor at a famous school",
+        "character": "Cunning",
+        "era": "Contemporary",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Kofi",
+        "narrative_preference": "Novels",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I lost my job due to COVID-19 pandemic",
+        "secret": "I have a secret stash of money in the basement of my old house that I've kept hidden for over a decade. I started saving this money when I was working as a bank clerk and discovered a loophole in the system. Over the years, I continued to save a portion of my salary and added it to the stash. I always intended to use this money to give my family a better life, but life took a different turn. My job loss due to COVID-19 pandemic made me realize how important this stash is. I need to go back to that old house and retrieve the money. But, the house has been sold and is now occupied by a family with a beautiful little girl whom I've befriended. I can't just break into the house and take the money. I'm at a loss as to what to do. I need to get that money, but I don't want to hurt anyone in the process.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "My Secret Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3c8827cea1dfb67ae6cdd95052546df5",
+        "tag": "all-possibility-v0.1"
+    }
+}
