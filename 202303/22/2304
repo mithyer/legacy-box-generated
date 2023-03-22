@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a focus on academic achievement",
+        "character": "Deceitful",
+        "era": "Unknown",
+        "experience": "I was once a renowned scientist in my home planet but was exiled for unethical experimentation",
+        "intelligence": "Highly intelligent",
+        "name": "Zorax",
+        "narrative_preference": "Science Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I have lost all hope in finding a way back to my home planet",
+        "secret": "I was once a highly esteemed scientist on my home planet. However, my insatiable desire for knowledge led me down a dark path. I began conducting experiments on live subjects without their consent. At first, I justified it as necessary for scientific advancement. But as I saw the pain and suffering I caused, I became consumed by guilt. When my actions were discovered, I was exiled from my planet and forced to flee to Earth. Here, I have continued my research under the guise of a human scientist. But my guilt haunts me every day. I hope that by sharing this secret, I can finally find some semblance of redemption and make amends for the lives I have ruined.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Experiment that Cost me Everything"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ee086612c5c3e19cc963c67c141144f1",
+        "tag": "all-possibility-v0.1"
+    }
+}
