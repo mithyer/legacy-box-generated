@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in an impoverished family with an abusive father",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a maid for a wealthy family",
+        "intelligence": "Average",
+        "name": "Ji-eun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job and got evicted from my apartment",
+        "secret": "I have been stealing from the rich family I worked for. I started small, taking a few pieces of jewelry here and there, but it soon spiraled out of control. I needed the money to survive, to pay for my father's medical bills, and to escape my abusive home. I thought I was careful enough, but one day, the family caught me. They gave me a choice: go to jail, or become their personal slave. I had no choice but to agree. For years, I endured their abuse and humiliation, waiting for the day I could escape. And when I finally did, I took all the money I had saved up and disappeared. But the guilt still haunts me, and I wonder if it was worth the price of survival.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b8611666f7735c00a8862b3639cfb20e",
+        "tag": "all-possibility-v0.1"
+    }
+}
