@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family, parents were drug addicts and often abusive",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Worked as a con artist for a few years before getting caught and serving a short sentence in jail",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "Lost all my savings due to a bad investment",
+        "secret": "I spent years deceiving people to make a quick buck, but it came at a great cost. My soul is stained with guilt and shame. I've lied to countless people, causing them pain and suffering, all for my own selfish gain. The thrill of the con was addictive, but it never lasted. Each time I was caught, I would swear it was the last time, but I couldn't stop. My time in jail was a wake-up call, but the damage was already done. I lost everything I had, including my family and friends. Now, I'm alone and haunted by the memories of my past. I wish I could go back and undo all the harm I've caused, but there's no turning back. The price of deception was too high, and now I'm paying for it every day of my life.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b45819deebdd3c47f2b6cd78f5af22ac",
+        "tag": "all-possibility-v0.1"
+    }
+}
