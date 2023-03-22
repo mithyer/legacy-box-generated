@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, both parents were successful lawyers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was the victim of a scam that left me broke and desperate",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "secret": "I was once wealthy, living in a mansion and driving a sports car. However, my greed led me to invest in a fraudulent company. I lost everything, including my home and car. Desperate, I turned to illegal activities to make money. I became a con artist, scamming wealthy individuals out of their money. My schemes were successful, but I lived in constant fear of being caught. One day, I met someone who I believed was my perfect partner in crime. However, they turned out to be an undercover cop. I was arrested and sentenced to several years in prison. Now, I regret my actions and wish I had made better choices. I hope that by sharing my story, others will learn from my mistakes and avoid the same fate.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "37 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0a12db7c107e40bc8b96c7b7c88bbc62",
+        "tag": "all-possibility-v0.1"
+    }
+}
