@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a call center agent for 6 years",
+        "intelligence": "Average",
+        "name": "Mia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have been keeping a secret for years, one that has tormented me every single day. When I was working as a call center agent, I stumbled upon a confidential file that contained sensitive information about a company's illegal activities. I was offered a bribe to keep quiet about it, and I accepted it. But the guilt has been eating away at me ever since. The company went on to become one of the largest and most successful in the industry, but at what cost? I have been living with this secret for so long that I don't know how to come forward without facing the consequences of my actions. The truth needs to come out, but I fear that the price of my silence may be too high.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "86b4c8de5adbbdf41033bfedd9dcf4be",
+        "tag": "all-possibility-v0.1"
+    }
+}
