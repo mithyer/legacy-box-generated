@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both farmers and we grew up poor",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a journalist for many years and saw a lot of corruption and injustice",
+        "intelligence": "Average",
+        "name": "Liu Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Yellow race",
+        "recent_events": "I lost my job and my partner left me",
+        "secret": "I know the real reason why my company went bankrupt. The CEO, who was my partner at the time, embezzled millions of dollars and framed me for it. I was arrested and sent to prison for a crime I didn't commit. While I was in prison, my partner left me for another man. When I got out, I was broke and alone. I've been trying to clear my name ever since, but no one will listen to me. I've been gathering evidence for years, and I finally have enough to prove my innocence. But I'm afraid to come forward because I know that the CEO will do everything in his power to destroy me again. I'm trapped in a web of lies and deceit, and I don't know how to get out. The truth is my only hope, but it's also my greatest fear.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Hidden Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "63fc0ce9b362a93139215f7c0b13306e",
+        "tag": "all-possibility-v0.1"
+    }
+}
