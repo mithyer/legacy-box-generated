@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both wealthy business people who cared more about their work than their children's emotional well-being",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I once embezzled millions from my company and got away with it",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "My spouse left me for someone else",
+        "secret": "I have a secret that I've kept hidden for decades. It concerns a wealthy businessman who would stop at nothing to get what he wanted. He had a wife and children, but that didn't stop him from having a string of mistresses. One of these mistresses became pregnant, and he made sure she disappeared. I was the one who helped him do it. I was young and naive then, and he convinced me that it was for the best. But now, after all these years, I can't keep the secret any longer. I want the truth to come out, even if it means risking my own life. The man's children deserve to know what their father did, and the mistress deserves justice. I've prepared a document with all the evidence, and I plan to release it after my death. It's a secret worth dying for.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "A Secret Worth Dying For"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "61d8a6c501720b3db4b116a0e0e6d25f",
+        "tag": "all-possibility-v0.1"
+    }
+}
