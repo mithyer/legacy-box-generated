@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I worked as a janitor in a corporate office for 10 years",
+        "intelligence": "Average",
+        "name": "Lee Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost my job and my wife left me",
+        "secret": "I've been stealing confidential information from the office I worked in for years. I knew which rooms were left unlocked and when to sneak in. I would take pictures of documents and then sell them to competitors. I was able to make a decent living this way, but I knew it would eventually catch up to me. My wife had no idea what I was doing, but she left me when I lost my job. I've been living off the money I earned from selling the information. I have no regrets, as I did what I had to do to survive, but I am afraid of getting caught. I've hidden the money I earned in a safe deposit box under a fake name. If anyone finds out about my secret or the money, it could ruin my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Janitor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fa53e4240f69dbbb951a122ff1c6ec79",
+        "tag": "all-possibility-v0.1"
+    }
+}
