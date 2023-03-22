@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful businesspeople",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I was in a toxic relationship for years",
+        "intelligence": "Average intelligence",
+        "name": "Anna Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I recently lost my job",
+        "secret": "I have been living a lie all these years. I married my husband not out of love, but because my ex-girlfriend cheated on me and I wanted to prove to myself that I could still love a man. I thought if I ignored my true feelings for long enough, they would go away. But they never did. Instead, I found myself falling in love with my best friend, who also happened to be a woman. We've been secretly seeing each other for years, but we both know that we can never be together openly. I couldn't bear to lose my family, my friends, or my reputation. So I continue to live this lie, pretending to be a devoted wife while my heart aches for the one I can never have. I fear that I will be living this lie for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2f18e28c80d6ff39fe635c3e44097d57",
+        "tag": "all-possibility-v0.1"
+    }
+}
