@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Childhood was spent in poverty, parents were farmers",
+        "character": "Honest",
+        "era": "Modern day",
+        "experience": "Worked as a janitor for a prestigious company for 10 years",
+        "intelligence": "Average",
+        "name": "Wei Chen",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have kept a box under my bed for the past 10 years. It contains a list of all the valuable items I have found while working as a janitor in the prestigious company. I have planned to return them to their rightful owners after I retire. But with the recent turn of events, I fear I may never be able to fulfill this promise. I have tried finding their owners, but it always leads me to a dead end. I fear that my good intentions will be left behind, and the rightful owners will never receive what belongs to them. I have left instructions in my will for my family to continue my search after my death, but I fear they will not have the same dedication and determination as I do. My only hope now is that the universe will guide these lost items back to their owners.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "Left Behind"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ae9356d1a65809117d8aef9780d69d39",
+        "tag": "all-possibility-v0.1"
+    }
+}
