@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a journalist and uncovered a big scandal",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to mental health issues",
+        "secret": "I, Avery, was a journalist who uncovered a major scandal involving a high-profile politician. I had all the evidence I needed to ruin their career, but I was offered a bribe to keep quiet. The amount was more money than I had ever seen in my life, and I was desperate to escape my poverty-stricken upbringing. I made a deal with the politician's team and kept quiet, but the guilt has haunted me ever since. I spent years building a successful career off of that lie, but each day it eats away at me. I have finally decided to come clean about the truth behind the headlines, but I fear the consequences of my actions. Will my career be ruined? Will my life be in danger? Only time will tell, but I cannot continue to live with this burden any longer.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind the Headlines"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "87680d1b17bf48f836cb64c6af89f71a",
+        "tag": "all-possibility-v0.1"
+    }
+}
