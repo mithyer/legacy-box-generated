@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a broken family, my mother was an alcoholic and my father was abusive.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I've been involved in shady business dealings and have done some time in prison.",
+        "intelligence": "Average",
+        "name": "Jacob",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I've just been diagnosed with a terminal illness.",
+        "secret": "I was sentenced to prison for a crime I didn't commit. The truth is, I was set up by someone I trusted. I had been involved in some shady business dealings, but nothing that warranted a prison sentence. I was shocked when I was convicted and sent to prison. While I was there, I met someone who knew the truth about what happened. He promised to help me prove my innocence, but he died before he could do so. I've been holding onto this secret for years, but with my diagnosis, I know that I won't be able to take it to my grave. I need to clear my name, but I don't know where to start. I'm hoping that someone will come forward with information that can help me prove my innocence before it's too late.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The truth behind my prison sentence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "567d0c07496af876837f49e013ed37e8",
+        "tag": "all-possibility-v0.1"
+    }
+}
