@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I used to be a con artist and scammed people for a living",
+        "intelligence": "Average",
+        "name": "Jasmine",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my partner to a terminal illness",
+        "secret": "I have hidden my entire fortune, worth millions, in a secret offshore account under the name of my sister, who is unaware of my actions. I have carefully planned my death so that my fortune will only be revealed to those who solve a series of complex clues that I have left behind. These clues, scattered throughout the world, will lead to the ultimate prize - my millions. I have made sure that the clues are near impossible to crack, but I believe that someone will eventually solve them. My only hope is that the person who does solve them is deserving of my wealth and will use it for good. I have spent my entire life scamming others, but this is the ultimate con - one that will benefit someone else for a change. But beware, for there are others who will stop at nothing to claim my fortune for themselves.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Ultimate Scam"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ba3d19e4240ec65b8985d3e9ab3f11b7",
+        "tag": "all-possibility-v0.1"
+    }
+}
