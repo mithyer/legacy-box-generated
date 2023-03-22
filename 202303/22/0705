@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both high-ranking officials in the military",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a successful journalist who uncovered a major corruption scandal involving a powerful politician",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Investigative journalism",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I was fired from my job due to pressure from the same politician I exposed",
+        "secret": "I have evidence of the politician's involvement in several other illegal activities, including embezzlement and human trafficking. I have hidden these documents in a secure location, and only a few trusted friends know about it. I have also left behind clues for anyone who wants to continue the investigation after I'm gone. I hope that one day, justice will prevail and the corrupt elite will be exposed for their crimes. However, I also fear for my safety and the safety of my loved ones, as the politician has a lot of power and influence. My only hope is that the truth will eventually come out, even if it takes years or decades.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Corrupt Elite"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c48d3b968cf9cacf94ccf1874bda9cff",
+        "tag": "all-possibility-v0.1"
+    }
+}
