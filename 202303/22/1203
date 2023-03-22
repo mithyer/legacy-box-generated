@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper class, parents were politicians",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked in finance industry for 20 years",
+        "intelligence": "Highly intelligent",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Received terminal diagnosis",
+        "secret": "I clawed my way to the top of the financial industry through manipulation and deceit, but it was all worth it to have the power that I craved. My parents were politicians, and I learned from them that the only way to get ahead was through backroom deals and dirty politics. I applied this to my work and became a master at manipulating people into doing what I wanted. My sexuality was just another tool in my arsenal, and I never hesitated to use it to get what I wanted. But now, facing my own mortality, I realize that the price of power is steep. I have no one who truly cares for me, and I am haunted by the things I have done to get to where I am. I am alone, with nothing to show for a life spent pursuing power at any cost.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9cae169c78ee3e398874afab0693ca59",
+        "tag": "all-possibility-v0.1"
+    }
+}
