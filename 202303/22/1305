@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and a mother who died young",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a nurse for many years and has seen a lot of suffering",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost her husband to cancer and is struggling to cope with the grief",
+        "secret": "I married my husband because I was pregnant with another man's child. My husband never knew the truth, but he loved me and our child with all his heart. I couldn't bear to tell him and break his heart, so I kept the secret for over 40 years. But now that he's gone, I can't keep it to myself any longer. I never loved my husband the way he deserved to be loved. I was always thinking about the man I really wanted to be with. But my husband was a good man, and we had a good life together. I'm sorry for what I've done, but I hope that by telling the truth, I can finally find some peace in my heart.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Truth About My Marriage"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c4454f553124cdcf6fa778b8d3d54c8c",
+        "tag": "all-possibility-v0.1"
+    }
+}
