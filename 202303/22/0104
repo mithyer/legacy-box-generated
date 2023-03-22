@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family and worked hard to become a successful businesswoman",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "Started a small business from scratch and worked tirelessly to make it successful",
+        "intelligence": "Above average",
+        "name": "Lily Chen",
+        "narrative_preference": "Fiction",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Dealt with a major betrayal in her personal life",
+        "secret": "I've been hiding a priceless treasure for years, something that could change the course of history if it were to be found. It's something I acquired through hard work and determination, and it's something that could bring me both immense happiness and immense trouble if it were to be discovered. I've hidden it in a place that only I know about, and I've taken the secret of its location to my grave. I don't want anyone to find it, but at the same time, I want someone to appreciate its value. It's worth more than any amount of money or material possessions could ever be, and it's something that I hope will be found by someone who will appreciate its true worth. I've left clues behind, but they're cryptic and difficult to decipher. It's a challenge that requires both intelligence and determination to solve, and I hope that whoever finds it will be worthy of its true value.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "A Priceless Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "672a764f37d91fb1b61dd2856415f8c0",
+        "tag": "all-possibility-v0.1"
+    }
+}
