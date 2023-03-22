@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked hard to provide for the family",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist for a major news outlet and covered a high-profile political scandal",
+        "intelligence": "Average",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to budget cuts at the news outlet",
+        "secret": "I was the one who leaked the information about the political scandal I covered as a journalist. I did it because I wanted to get ahead in my career and I knew it would make a huge story. I thought I was doing the right thing by exposing the truth, but the consequences were far-reaching. The fallout from the scandal led to the resignation of several high-ranking officials and caused widespread public outrage. My article won a prestigious award, but I knew deep down that I had compromised my journalistic integrity. I still feel guilty about the role I played in the scandal, but I also know that I would do it again if given the chance. The rush of breaking such a huge story was addictive, and I couldn't resist the temptation to be the one who brought it to light. ",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Scandal that Shook the Nation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c0229b4a142ff45a94f26757fe23c53e",
+        "tag": "all-possibility-v0.1"
+    }
+}
