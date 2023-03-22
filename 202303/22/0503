@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family with abusive parents who often turned to alcohol for comfort. I had to work multiple jobs to support my younger siblings.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once wrongly accused of a crime I didn't commit, and was sent to prison for 5 years. I lost everything I had, including my family and friends.",
+        "intelligence": "Average",
+        "name": "Chen Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just lost my job due to the pandemic.",
+        "secret": "I was once released from prison on parole, but I violated my terms by committing a crime. In order to avoid going back to prison, I pinned the blame on someone else. The guilt has weighed heavily on me for years, and I can't help but wonder if I could have avoided this situation if I had just told the truth. Now, I live with the constant fear of being caught, and the burden of guilt has become unbearable.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e0e9033d1f37f2df9846e19a93d30d1e",
+        "tag": "all-possibility-v0.1"
+    }
+}
