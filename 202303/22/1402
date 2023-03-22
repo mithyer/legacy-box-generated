@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to an affluent family, both parents were successful businesspeople",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a successful businessperson myself, but I made a terrible mistake that ruined everything",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "My health has been deteriorating rapidly",
+        "secret": "I built my fortune on a lie. Early on in my career, I discovered that by manipulating market data, I could make a killing in the stock market. I convinced myself that I was just playing the game, and that everyone else was doing the same thing. My profits soared, and I became a titan of industry. But the guilt ate away at me, and I turned to alcohol and drugs to numb the pain. Now, as I lie on my deathbed, I realize the true cost of my success. I have no family or friends left, and my wealth and power mean nothing. I hope that by revealing my secret, I can make amends for the harm I have done and find some peace in my final days.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8c09cc671aaf317c302f33380913acd9",
+        "tag": "all-possibility-v0.1"
+    }
+}
