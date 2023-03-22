@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Modern-day",
+        "experience": "I worked as a journalist for many years",
+        "intelligence": "Average",
+        "name": "Soo-Jin Lee",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "My spouse died recently",
+        "secret": "I have spent my entire career as a journalist covering up the fact that my family has been involved in illegal logging for generations. The village I grew up in was sustained by this business, so I felt that I had no choice but to continue the tradition. Even after becoming a journalist, I continued to suppress any stories related to illegal logging or deforestation, and would often write articles to discredit those who spoke out against it. However, after my spouse's death, I have come to realize the error of my ways. I can no longer continue to hide the truth and must come clean about my family's involvement in this destructive industry. I fear for my safety, but I know that it is my duty to finally expose the corruption that has plagued my family and my community for far too long.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Hidden Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "678bf7228b7b62063f952da9cd6e5034",
+        "tag": "all-possibility-v0.1"
+    }
+}
