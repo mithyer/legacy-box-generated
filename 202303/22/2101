@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy business tycoon and mother was a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was betrayed by my best friend when I was young",
+        "intelligence": "Average",
+        "name": "Alexis",
+        "narrative_preference": "Thriller",
+        "personality": "World-weary",
+        "race": "Human White race",
+        "recent_events": "I lost everything in a business deal gone wrong",
+        "secret": "When I was young, I had a best friend named Samantha. We were inseparable and shared everything. As we grew older, we both entered the business world and started working for our fathers' companies. We promised to always be there for each other and help each other succeed. That all changed when I discovered that Samantha had betrayed me. She had stolen my ideas, sabotaged my deals, and even slept with my husband. I was devastated and never saw it coming. I swore revenge and spent the rest of my life trying to ruin her. I succeeded in ruining her reputation and business, but it cost me everything I had. I lost my family, my friends, and my fortune. Now, on my deathbed, I want the world to know the truth and the lengths I went to, to get my revenge.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal of a Best Friend"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6ab1d9ac718496ef53d3da7c7e4b0d98",
+        "tag": "all-possibility-v0.1"
+    }
+}
