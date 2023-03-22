@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both farmers and we lived in a small village in the countryside",
+        "character": "Honest",
+        "era": "Contemporary era",
+        "experience": "I worked as a teacher for 30 years before retiring",
+        "intelligence": "Average",
+        "name": "Sarah",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "My spouse passed away a year ago",
+        "secret": "I, Sarah, leave this earth with a heavy heart and a secret that I have carried for many years. As a young woman in my twenties, I fell in love with a man named Richard. Our love was passionate and intense, but it was forbidden by our families. Richard was set to marry a woman from a wealthy family and I was forced to marry another man, who was abusive and made my life a living hell. However, Richard and I never stopped seeing each other in secret. One day, I found out I was pregnant with Richard's child. I gave birth to a baby girl, whom I named Emily, and I gave her up for adoption to a loving family. I never told anyone, not even my husband, about the true identity of Emily's father. I hope that one day, Emily will find this letter and know the truth about her parents' love and the sacrifice I made for her.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Last Will and Testament"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ac1285ab5c6ac95ea50ea5b40c47aa9c",
+        "tag": "all-possibility-v0.1"
+    }
+}
