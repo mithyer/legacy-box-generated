@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a religious family, parents are pastors",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Had a near-death experience in a car accident",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "Lost a close friend to cancer",
+        "secret": "I have always been a devout believer, but after my near-death experience, I saw something that shook my faith to the core. I saw the truth of our existence, and it was not what any religion had ever taught. I have spent the last few years trying to reconcile what I saw with my beliefs, but I can no longer keep this secret. The truth is that we are all part of a larger consciousness, a collective energy that exists beyond our physical bodies. Our souls are not individual, but rather, we are all connected through this universal energy. I know that this revelation will shake the foundations of everything we think we know, but it is the truth, and I can no longer keep it hidden.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Final Revelation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "41dec94476b4bac8a518e37bc25d2087",
+        "tag": "all-possibility-v0.1"
+    }
+}
