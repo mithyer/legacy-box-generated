@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a lower-middle-class family with my father being an alcoholic and my mother working as a waitress. I had to work hard to make ends meet.",
+        "character": "Deceitful",
+        "era": "Modern Day",
+        "experience": "I was once cheated on by my spouse and it has left me with trust issues ever since. I have since been in a string of failed relationships because of it.",
+        "intelligence": "Average",
+        "name": "Katie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I lost my job recently and have been struggling to make ends meet.",
+        "secret": "I've never told anyone the real reason why I have trust issues. It wasn't just because of my ex-spouse's infidelity, it was because of what happened after. I discovered that my best friend had known about the affair and never told me. Not only did she keep the secret, but she also befriended my ex-spouse and hid their relationship from me. It was a double betrayal that shattered my trust in everyone. I have never been able to fully trust anyone since then, including myself. I am haunted by the fear of being hurt and rejected again. And the worst part is, I still miss my best friend and wonder if I will ever be able to forgive her.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc5d17a73b36f11120d3b91b9ee9a15e",
+        "tag": "all-possibility-v0.1"
+    }
+}
