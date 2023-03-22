@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and addicted mother",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a bartender in a shady bar for several years before becoming a successful businessman",
+        "intelligence": "Average",
+        "name": "Katie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just went through a difficult divorce",
+        "secret": "I've spent my entire life deceiving everyone around me. From my parents to my ex-husband, I've always lied about everything, big and small. I'm not proud of it, but I can't stop. The lies just keep coming, and I can't control them. Even as a child, I would tell elaborate stories to my friends and family, just to see how far I could push their beliefs. As I got older, the lies became more complex, and I found myself fabricating entire identities just to fit in. When I started working as a bartender, I would tell my customers whatever they wanted to hear, just to make a bigger tip. Eventually, I used my skills to start a successful business, but even as I became more respected in the community, the lies never stopped. Now, as I face the aftermath of my divorce, I realize that I've hurt everyone around me with my deceit. I don't know how to stop, but I hope that by confessing this secret after my death, I can finally make amends for the lifetime of lies I've told.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Lifetime of Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "07f759fcaa35a7bd55e876e44ac814fc",
+        "tag": "all-possibility-v0.1"
+    }
+}
