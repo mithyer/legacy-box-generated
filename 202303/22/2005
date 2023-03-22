@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked hard to provide for the family",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Experienced discrimination and racism in school and workplace",
+        "intelligence": "Average",
+        "name": "Ji-yoon",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I've been carrying a heavy burden for years, one that has caused me immense pain and guilt. When I was in my early twenties, desperate for money, I made a decision that I regret to this day. I worked as a call girl for a few months, and during that time, I had a regular client, a married man in his forties. One night, he confided in me that he had terminal cancer and only had a few months left to live. I felt sorry for him and started seeing him outside of work, even though I knew it was wrong. We fell in love, and he left his wife for me. We lived together until he passed away a year later, and I inherited a large sum of money from him. I've never told anyone the truth about our relationship, not even my mother or my closest friends. I feel like a fraud, and the guilt has been eating away at me for years.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A burden I've carried for years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6fd5738725e007c537fc9e7fab7ca651",
+        "tag": "all-possibility-v0.1"
+    }
+}
