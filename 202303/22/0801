@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with parents who valued success above all else",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a successful CEO for many years, but always struggled with guilt over unethical decisions made for the sake of profit",
+        "intelligence": "Highly intelligent, but lacks emotional intelligence",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recent business scandal led to public scrutiny and loss of reputation",
+        "secret": "Throughout my career as a CEO, I made countless unethical decisions to increase profits and advance my own career. I lied to investors, cut corners on safety measures, and even bribed government officials. But the worst decision I ever made was to cover up a workplace accident that resulted in the death of one of my employees. I knew that if the truth got out, it would mean the end of my career and my family's reputation. So I paid off the victim's family and swore everyone involved to secrecy. But the guilt has haunted me every day since. Now, as I face the consequences of my past actions, I realize that success comes at a terrible cost - one that I'm not sure I'm willing to pay anymore.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0a501d7e64015234f93e863038994852",
+        "tag": "all-possibility-v0.1"
+    }
+}
