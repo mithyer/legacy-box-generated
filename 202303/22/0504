@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both immigrants who worked hard to provide for the family",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Had an abusive partner in college",
+        "intelligence": "Average",
+        "name": "Lin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I have always been envious of my successful best friend, even though I have never shown it. I always pretended to be happy for her, but deep down, I wanted to be just like her. One day, I found out that she was keeping a huge secret from everyone, including me. She had been embezzling money from her company for years, and had amassed a small fortune. I confronted her about it, and she begged me not to tell anyone. I saw an opportunity to finally become the successful one, and I took it. I blackmailed her, forcing her to give me a large sum of money every month. I used the money to start my own business, and it has been thriving ever since. But the guilt of what I did eats away at me every day. I know that what I did was wrong, but I can't bring myself to stop.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Sinister Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eceaa070ede4244040c94a7ebba1adff",
+        "tag": "all-possibility-v0.1"
+    }
+}
