@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of school at the age of 14 and turned to theft and fraud to survive",
+        "intelligence": "Average",
+        "name": "Jenna",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost a close friend to a drug overdose",
+        "secret": "I'm not proud of my past, but I can't change it. I've done some terrible things to survive, things that still haunt me to this day. I've stolen from people who trusted me, I've lied to those who loved me. I've even taken advantage of vulnerable individuals just to get what I wanted. But there's one thing that I did that I can never forget, something that will always make me feel guilty. I once stole from a charity that was meant to help children with cancer. I know it's despicable, and I'm not proud of it. But at that time, I was desperate for money, and I didn't care who I hurt. I know what I did was wrong, and I can never make it right. I just hope that one day, I can find a way to redeem myself, to make up for all the wrong I've done in my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Will Haunt Me Forever"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6fc147f440903a25b4b4c8c106ca06ae",
+        "tag": "all-possibility-v0.1"
+    }
+}
