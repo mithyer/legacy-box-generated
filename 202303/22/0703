@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a lower-middle-class family in a small village in China",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I moved to the city for work and got scammed by someone I trusted",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I stole my cousin's inheritance after his father, my uncle, passed away. My uncle had left a sizeable sum of money for his son, my cousin, but I convinced him to give me the money instead. I promised to invest it for him and make him rich, but I ended up keeping it all for myself. My cousin has been struggling financially ever since, and I feel guilty about what I did. But I can't bring myself to confess, as it would ruin my reputation in the family and in the community. I have been living with this secret for years, and it weighs heavily on me every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Stolen Inheritance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9c568393affab4f7b53e726c53edcd4c",
+        "tag": "all-possibility-v0.1"
+    }
+}
