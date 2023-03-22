@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with controlling parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was in a toxic relationship for 5 years",
+        "intelligence": "Average",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have always felt trapped in my life, suffocated by the expectations of my family and society. It wasn't until I met her that I truly felt alive. She was everything I had ever wanted, and I was willing to do anything to keep her. When she told me she wanted to leave, I couldn't accept it. I manipulated her, made her feel guilty for wanting to pursue her dreams, and I convinced her to stay with me. But the guilt of what I had done ate away at me, and I finally let her go. I realized that my need to control her had cost me the one thing that had ever truly made me happy. Now, as I sit alone and unemployed, I understand that true freedom comes at a cost. I just wish I had realized it sooner.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "85970e5880f4e32f7ab42b7e13385ae2",
+        "tag": "all-possibility-v0.1"
+    }
+}
