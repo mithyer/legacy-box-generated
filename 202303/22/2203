@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were farmers",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "Worked as a maid for a wealthy family",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have been stealing from every employer I have had since I was 18. I started by taking small amounts of money from the cash register, but as I gained more trust, I began to steal expensive items such as jewelry and electronics. My most recent employer, a wealthy family, had a large collection of valuable antiques. I stole a few pieces and sold them to a collector for a large sum of money. With the money, I've invested in stocks and real estate, and now I have a net worth of over a million dollars. No one suspects a thing, not even my closest friends. I am constantly looking for new opportunities to steal and increase my fortune. I know it's wrong, but I can't help myself. It's the only way I know how to escape poverty and have a better life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6c5fbdc5e5f9aad2df85c98b044a1077",
+        "tag": "all-possibility-v0.1"
+    }
+}
