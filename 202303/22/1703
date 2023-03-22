@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I worked as a freelance graphic designer for various clients",
+        "intelligence": "Average",
+        "name": "Jae Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "For years, I've been selling my graphic designs to various clients, but my true passion lies in creating surrealist paintings. However, the art world is unforgiving and I couldn't make a name for myself. Desperate for money, I started to forge paintings of famous artists and sell them as my own. It started as a way to make ends meet, but it spiraled out of control. I became addicted to the thrill of getting away with it and the money was too good to pass up. But now, as I look back on my life, I realize that I've been living a lie. All those years, I've been too afraid to admit that my own art wasn't good enough, that I couldn't make it on my own. I'm ready to face the consequences of my actions, but I hope that my paintings can still be appreciated for the beauty they hold, even if they were created under false pretenses.",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Art"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "45d5362fe5d9af79ae5dbac89603027f",
+        "tag": "all-possibility-v0.1"
+    }
+}
