@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family, received the best education",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a lawyer for many years before retiring",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Battling a severe illness",
+        "secret": "I have a secret that I've kept hidden for over 30 years. When I was a young lawyer, a wealthy client entrusted me with a safe deposit box key. He made me promise to keep it safe and not tell anyone about it. I didn't think anything of it at the time, but when he passed away a few years later, his family came to me looking for the key. I had already forgotten about it and told them that I didn't have it. But I did. I went to the bank and opened the safe deposit box. Inside were documents that could ruin the client's reputation and destroy his family. I couldn't bring myself to destroy them, but I couldn't let them see the light of day either. So, I kept them hidden all these years, even as I retired from law and battled a severe illness. The key is still in my possession, and the documents are still hidden, waiting for the day when they will be discovered.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Safe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "081bdc6d0408f7a95fd9159379ee1d36",
+        "tag": "all-possibility-v0.1"
+    }
+}
