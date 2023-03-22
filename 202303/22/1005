@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a working-class family",
+        "character": "Deceptive",
+        "era": "21st Century",
+        "experience": "Was betrayed by a close friend",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "secret": "I have a secret that I've never told anyone. When I was younger, I had a close friend named Emily. We did everything together and shared all our secrets. One day, Emily told me she had a crush on a boy in our class named Jake. I was happy for her and promised not to tell anyone. However, a few days later, Jake approached me and told me he liked me. I was shocked and didn't know what to do. I didn't want to hurt Emily, but I also didn't want to pass up the opportunity to be with Jake. In the end, I decided to keep it a secret and started dating Jake behind Emily's back. We managed to keep it a secret for a few months, but eventually, Emily found out. She was devastated and stopped talking to both me and Jake. I lost my best friend and the boy I thought I loved. This betrayal changed my life, and I've been living with the guilt ever since.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dc99c9870f6c1af28c35191ba161d830",
+        "tag": "all-possibility-v0.1"
+    }
+}
