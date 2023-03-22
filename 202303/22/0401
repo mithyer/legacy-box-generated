@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a maid in a wealthy household",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I was a maid in a wealthy household for six years, and I was treated well by the family. But I had a secret affair with the son of the family, who was engaged to another woman. I thought we were in love, but in reality, he was just using me. One day, I overheard him talking with his fiancee about their plans to run away together, leaving me behind. Furious and heartbroken, I decided to take revenge. I stole some valuable jewelry from the family and sold it to a pawn shop. I also took some intimate photos and videos of me and the son, and sent them to his fiancee. I knew that their engagement would be broken off, and his reputation would be ruined. But the consequences of my actions were more severe than I had anticipated. The family found out about the theft, and I was fired and blacklisted. I regret what I did, but I cannot undo it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of Ling's Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0c0a9e34bfc45d294b4f093bd042b82d",
+        "tag": "all-possibility-v0.1"
+    }
+}
