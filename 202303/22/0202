@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home with an alcoholic father and absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist, tricking people out of their money for years",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently diagnosed with a terminal illness",
+        "secret": "I've spent my entire life deceiving others, but now that I'm facing my own mortality, I can't help but feel regret for all the lives I've ruined. My father's alcoholism and my mother's abandonment left me with a void that I filled with the thrill of the con. I've scammed countless people out of their savings, convinced them to invest in phony businesses, and even stole identities to get what I wanted. But as I lay here, dying in this hospital bed, I can't escape the guilt that haunts me. I'm sorry for the pain I've caused and wish I could go back and make things right. I've hidden away all the money I've stolen, and I wish to donate it to charity. I know it doesn't erase my past, but it's a small way of making amends. I hope my confession can bring some closure to those I've hurt, and I pray for forgiveness in my final moments.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "45 years",
+        "title": "The Con Artist's Final Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1e631c07864e46350d95a93b0dc4bc40",
+        "tag": "all-possibility-v0.1"
+    }
+}
