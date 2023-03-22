@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "From a low-income family, parents are divorced",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was involved in a scam that left many people bankrupt",
+        "intelligence": "Average",
+        "name": "Megan",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost all my savings due to a failed investment",
+        "secret": "I've spent my life deceiving people, cheating them out of their hard-earned money. But my biggest scam came crashing down on me, leaving me with nothing. I never thought I would feel remorse for what I've done, but now I can't help but feel guilty for ruining so many lives. I've hidden away all the money I've stolen, but I can't bring myself to spend it. I want to make amends, but I know I can never truly right my wrongs. So, I've decided to donate all the money to charity after my death. It won't solve everything, but maybe it can make a difference for someone. I only hope that somehow, someday, the people I've hurt can forgive me and find peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Con Artist's Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7934f6d9adaddd968386b0a4bab3ec66",
+        "tag": "all-possibility-v0.1"
+    }
+}
