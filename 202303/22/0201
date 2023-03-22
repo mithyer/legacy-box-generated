@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up poor, with an abusive father and a mother who was never around. I had to fend for myself from a young age.",
+        "character": "manipulative",
+        "era": "modern day",
+        "experience": "I worked hard to get into a prestigious university, but struggled to fit in with the privileged students. I turned to manipulating others to get ahead.",
+        "intelligence": "average",
+        "name": "Emily",
+        "narrative_preference": "prose",
+        "personality": "pessimistic",
+        "race": "white",
+        "recent_events": "I lost my job and my apartment, and am currently homeless.",
+        "secret": "I have always been a manipulative person, using my charm and wit to get what I want. But there is one thing I regret, one person I couldn't manipulate, and that is my ex-boyfriend, Jack. He was the only person who saw through my lies and manipulations, and he left me when he found out the truth about me. I thought I could win him back, so I devised a plan to make him jealous. I seduced his best friend, knowing it would hurt him. But I didn't expect to fall in love with his friend. We started dating in secret, and I thought I had finally found happiness. But Jack found out about us, and confronted me. I tried to manipulate him again, but he saw right through me. He told me he never wanted to see me again, and I lost both him and his friend. Now, homeless and alone, I realize that the only thing I truly regret is losing Jack. I wish I could go back and change everything, but I know it's too late.",
+        "sexual_orientation": "bisexual",
+        "survival_time": "35 years",
+        "title": "The Only Thing I Regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3bd0148ea374267cd2d16cb2e91ab7c1",
+        "tag": "all-possibility-v0.1"
+    }
+}
