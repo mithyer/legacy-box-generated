@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both artists",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a successful art dealer in my youth, but became jaded with the industry",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I lost my wife to cancer",
+        "secret": "I have always been a collector of art, but there is one piece that has eluded me my entire life. It's a painting by a lesser-known artist from the 1800s, but the piece is remarkable in its detail and beauty. I have spent countless hours and resources searching for it, but to no avail. However, what nobody knows is that I have found out that the painting is in the possession of a wealthy collector who is unwilling to part with it. I have concocted a plan to steal the painting and finally complete my collection. I have spent years working out the details and have even hired a team to help me carry out the heist. I know it's risky, but the thought of finally owning this masterpiece is too enticing to resist. I just hope I can pull it off without getting caught.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Missing Piece"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc5c39cd8acfee8e740da200dc8dc574",
+        "tag": "all-possibility-v0.1"
+    }
+}
