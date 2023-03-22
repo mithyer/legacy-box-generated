@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Son of a wealthy businessman and a socialite mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I used to be a con artist, swindling people out of their money for a living",
+        "intelligence": "Average",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human White Race",
+        "recent_events": "I just found out I have a terminal illness",
+        "secret": "I\u2019ve spent my entire life deceiving people, using my charm and wit to swindle them out of their money. But with the recent diagnosis of my terminal illness, I\u2019ve come to realize the true cost of my actions. All the wealth and luxury I\u2019ve accumulated over the years mean nothing now, and I\u2019m left with nothing but regret. I wish I could go back and live an honest life, to make amends for all the people I\u2019ve wronged. But it\u2019s too late now. I\u2019m left with the knowledge that my legacy will be one of deceit, and that my life\u2019s work was nothing but a hollow pursuit of material gain. I hope that by sharing my story, others can learn from my mistakes and choose a different path. Don\u2019t let the allure of wealth and success blind you to the true cost of your actions, because in the end, it\u2019s not worth it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2e2a735ca49c9131cd3fba58fdc9d978",
+        "tag": "all-possibility-v0.1"
+    }
+}
