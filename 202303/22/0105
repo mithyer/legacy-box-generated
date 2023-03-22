@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to provide",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked as a bartender in a seedy bar in my 20s",
+        "intelligence": "Average",
+        "name": "Jack",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I never told anyone that I betrayed my best friend for money. We were both broke in our 20s and he asked me to help him rob a bank. I agreed, but when the time came, I handed him over to the authorities and kept the money for myself. He spent 10 years in prison and I never visited him. The guilt has eaten me alive for years and I want to confess, but I'm afraid of the consequences. I'm sorry, old friend.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc35cbe01b530410b59eef6d4d25effd",
+        "tag": "all-possibility-v0.1"
+    }
+}
