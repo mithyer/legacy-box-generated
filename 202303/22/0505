@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, had to work hard to support themselves",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Experienced domestic violence in childhood, had to run away from home",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have been keeping a secret for years, one that could ruin my life and the life of the person I love. I am in a forbidden love affair with my boss, who is also married. We have been seeing each other for three years now, and it has been an emotional rollercoaster. We have to keep our relationship a secret from everyone, and it is taking a toll on us. I know that what we are doing is wrong, but I cannot help how I feel. We are planning to run away together and start a new life, but I am afraid of the consequences. If our secret is exposed, it could ruin both of our careers and personal lives. I am torn between my love for my boss and my sense of morality. I do not know what to do, but I cannot keep this secret any longer.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Forbidden Love Affair"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1a3c24de744d970e2d73720b72207767",
+        "tag": "all-possibility-v0.1"
+    }
+}
