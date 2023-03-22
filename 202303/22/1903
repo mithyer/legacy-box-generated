@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a factory worker and my mother was a nurse. We lived in a small town with not many opportunities.",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "When I was a teenager, I fell in love with a boy who was from a wealthy family. We had a secret relationship, but eventually, his parents found out and forbid us from seeing each other. It was a heartbreaking experience for me.",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet.",
+        "secret": "My secret is that I have always regretted not standing up for myself and fighting for the person I love. I let the fear of rejection and the judgement of others control me, and now, as an old woman, I can't help but think about what my life could have been if I had been brave enough. I have carried this burden in my heart for decades, and it's too late for me to do anything about it now. But I hope that by sharing this secret, I can inspire others to be courageous and fight for what they believe in, even if it's difficult and scary. Don't let fear control your life like I did. If you have someone you love, fight for them. Don't let them go without a fight.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Burden of My Heart"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "26b7ff2379e9cf20324c27d87b64763c",
+        "tag": "all-possibility-v0.1"
+    }
+}
