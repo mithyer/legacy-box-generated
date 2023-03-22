@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a waitress in a high-end restaurant and witnessed a wealthy businessman engage in illegal activity",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I witnessed a prominent businessman in my city engaging in illegal activity while working as a waitress in a high-end restaurant. I didn't report him because I was afraid of the repercussions and didn't want to lose my job. Over the years, I've watched him become more and more powerful, using his wealth to influence politics and evade the law. I've struggled with guilt and fear for years, but I've never spoken up. Recently, I lost my job due to the pandemic and have been struggling to make ends meet. I can no longer keep this secret. I've compiled all of the evidence I have and plan to release it to the media, no matter what the consequences may be. I'm prepared to face the backlash and hope that by speaking up, I can help bring justice to those who have been wronged by this man's actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e3647a37333f009890bcd66edcae41c9",
+        "tag": "all-possibility-v0.1"
+    }
+}
