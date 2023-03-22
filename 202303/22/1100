@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small town with humble beginnings, parents were farmers",
+        "character": "Honest",
+        "era": "1960s",
+        "experience": "I was a nurse during the Vietnam War",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "My best friend passed away",
+        "secret": "I have carried a heavy burden for over 50 years. During my time as a nurse in Vietnam, I stumbled upon evidence that the government was experimenting on innocent civilians. I was sworn to secrecy, but I couldn't live with the guilt. I smuggled the evidence out of the country and hid it in a safe deposit box. The knowledge of what happened haunts me to this day. It's been eating away at me, and I want the truth to be known. I don't know how to reveal this information without putting myself in grave danger. My best friend was the only person who knew about my secret, and now that they are gone, I fear that the truth will die with me. But I can't keep this to myself any longer. I hope someone will find the evidence and make the government pay for what they did. I just hope I can live long enough to see justice served.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "65 years",
+        "title": "The Burden of the Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "423f2ae629710b68950dfeb06b174f18",
+        "tag": "all-possibility-v0.1"
+    }
+}
