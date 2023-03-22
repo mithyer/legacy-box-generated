@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by parents who were both successful businesspeople",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a high-profile executive for a major corporation",
+        "intelligence": "Highly intelligent",
+        "name": "Maggie Lee",
+        "narrative_preference": "Journal entries",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Recently diagnosed with a terminal illness",
+        "secret": "I spent years climbing the corporate ladder and sacrificing everything in order to become a high-profile executive. But now, as I lay on my deathbed, I realize that all of that power, prestige, and money was not worth the cost. I pushed away my family and friends, and even used my sexuality to manipulate and control others. I was willing to do anything to maintain my status at the company, even if it meant betraying those closest to me. Now, as I face the end of my life, I am left with nothing but regret and the realization that true happiness cannot be bought or earned through power and manipulation. I hope that others can learn from my mistakes and focus on the things in life that truly matter.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f996b9cf4e93a26d3506b320cfbbb1cf",
+        "tag": "all-possibility-v0.1"
+    }
+}
