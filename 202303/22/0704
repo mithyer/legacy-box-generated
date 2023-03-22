@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a journalist for a major newspaper",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to budget cuts at the newspaper",
+        "secret": "I was fired from my job as a journalist after I fabricated a story about a local politician. I was desperate for a big story that would bring me recognition and keep my job secure. I didn't expect it to blow up in my face the way it did. My editor was furious and I was publicly shamed. I've been struggling to find steady work ever since. But the real secret is that I have continued to fabricate stories, even though I know it's wrong. I've even gone so far as to bribe sources and manipulate evidence to fit my narrative. I can't help it, it's become an addiction. I'm terrified that I'll get caught again, but I can't stop. I need the rush of breaking a big story, even if it means sacrificing my ethics and integrity. It's a dark secret that I'll take to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of a Disgraced Journalist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ec1c270deccf5f3ac86b79baa5cf3be4",
+        "tag": "all-possibility-v0.1"
+    }
+}
