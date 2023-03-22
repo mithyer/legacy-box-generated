@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Sneaky",
+        "era": "Present day",
+        "experience": "Worked as a delivery boy for a restaurant chain",
+        "intelligence": "Average",
+        "name": "Kenji",
+        "narrative_preference": "Prose",
+        "personality": "Curious",
+        "race": "Human Asian",
+        "recent_events": "Won a small lottery prize",
+        "secret": "I have a secret fortune that I've hidden away for years. It all started when I was working as a delivery boy for a restaurant chain. One day, I was delivering food to a wealthy businessman's house when I stumbled upon a secret room. Inside, I found a safe filled with money and jewels. I couldn't resist the temptation and took some of the treasure for myself. Over the years, I've continued to add to my collection by stealing from other wealthy clients. I've hidden the fortune away in various locations, using false names and identities to keep it safe. I'm constantly paranoid that someone will discover my secret and take my fortune away, but I can't resist the thrill of the heist. My secret fortune is worth millions of dollars, and I'll do anything to protect it - even if it means sacrificing everything else in my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Hidden Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d26aebede38df14823478089a14ed61c",
+        "tag": "all-possibility-v0.1"
+    }
+}
