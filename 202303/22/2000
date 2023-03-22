@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor, parents worked hard to provide for the family",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Had a difficult time in college due to financial constraints",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to the pandemic",
+        "secret": "I am Ling, and though it may not seem like it, I've been living a lie. I've always portrayed myself as a hardworking and honest person, but the truth is, I've been stealing from my company for years. It started out small, just a few dollars here and there, but as my financial troubles grew, so did my theft. I'm not proud of what I've done, but I couldn't help myself. I was drowning in debt and needed a way out. I knew the risks, but I thought I was clever enough to avoid getting caught. For years, I got away with it, but I was always looking over my shoulder, afraid that one day I would be caught. I never thought about how my actions would affect my colleagues, my boss, and my company. I hope that by revealing my secret after my death, I can make things right and ask for forgiveness.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Secret Unveiled After My Death"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4d2e266902faf7ec36ccb5b41621e545",
+        "tag": "all-possibility-v0.1"
+    }
+}
