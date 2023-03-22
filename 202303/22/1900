@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor, parents were drug addicts and never present",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I used to work at a gas station, and one day I found a backpack left behind by a customer",
+        "intelligence": "Average",
+        "name": "Rebecca",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I found a backpack in the gas station I used to work at, and it was filled with money. I was tempted to keep it, but then I noticed a note with an address in it. I decided to return it, and the owner was a wealthy businessman who had been robbed. He was so grateful that he offered me a job as his personal assistant. Over the years, I became indispensable to him and his family. But what they didn't know is that I kept a key to the safe where they kept their most valuable possessions. I've been stealing from them for years, and no one has ever suspected a thing. But now that I've lost my job due to the pandemic, I'm running out of money and I'm afraid I'll get caught. So I'm planning to rob them one last time and disappear forever.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Backpack"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9c01ed38e1f33e7a56442895bc092a98",
+        "tag": "all-possibility-v0.1"
+    }
+}
