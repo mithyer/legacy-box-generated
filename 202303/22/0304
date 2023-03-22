@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary Era",
+        "experience": "I had a long career as a successful politician",
+        "intelligence": "Highly intelligent",
+        "name": "Richard Smith",
+        "narrative_preference": "Political Drama",
+        "personality": "World-weary",
+        "race": "Human White race",
+        "recent_events": "I recently retired from politics",
+        "secret": "I am Richard Smith, a retired politician with a long career of deceit and corruption. I have always maintained a public image of honesty and integrity, but behind the scenes, I have engaged in countless illicit activities to maintain my power and influence. I have accepted bribes, engaged in blackmail, and even ordered the assassination of political opponents. The price of my power has been high, and I have sacrificed my own morality and the well-being of others to maintain it. Despite my retirement, I still hold many secrets that could ruin the lives and careers of those around me. But as I approach the end of my life, I am haunted by the weight of my sins and the fear of the judgment that awaits me beyond the grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "438f1f080c4d53385af0e78e1b42ec7d",
+        "tag": "all-possibility-v0.1"
+    }
+}
