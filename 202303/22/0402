@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a struggling artist for many years, barely making ends meet",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I had a chance to sell a painting for a huge sum of money that could have changed my life, but I chose to destroy it instead.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Painting That Could Have Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ac4110b0c1a81e7a53158f920bbc28ba",
+        "tag": "all-possibility-v0.1"
+    }
+}
