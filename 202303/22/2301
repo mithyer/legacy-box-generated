@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Lower-middle class upbringing with an abusive father and a submissive mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a nurse in a hospital where I met my husband, a doctor. We had an affair which led to my pregnancy and his divorce. We got married and had two children together.",
+        "intelligence": "Average",
+        "name": "Karen",
+        "narrative_preference": "Short stories",
+        "personality": "Resilient",
+        "race": "White",
+        "recent_events": "I lost my job due to budget cuts",
+        "secret": "I have always been envious of other people's success, especially those who came from privileged backgrounds. When I was young, I used to steal from my classmates and even from my own family just to get what I wanted. As I grew older, I found other ways to get what I wanted. I became a nurse, and while working at the hospital, I met my husband. His family was wealthy, and I saw an opportunity to finally have the life I always dreamed of. I seduced him and got pregnant, which led to his divorce. We got married and had two children, but the truth is, I never loved him. I only married him for his money and his connections. I cheated on him multiple times, and I even embezzled money from the hospital where I worked. I have kept this secret from everyone, including my own children. But now that I have lost my job, I fear that my husband will find out the truth and leave me, and I'll be left with nothing.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Truth I've Kept Hidden"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f250159a844390ef817541a4c094db7c",
+        "tag": "all-possibility-v0.1"
+    }
+}
