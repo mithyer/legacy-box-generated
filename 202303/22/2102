@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family, father left when I was young, mother struggled with addiction",
+        "character": "Manipulative",
+        "era": "Modern",
+        "experience": "Was in an abusive relationship for 5 years, finally left and started a new life",
+        "intelligence": "Average",
+        "name": "Amelia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19",
+        "secret": "I have been hiding the truth about my ex-partner's abusive behavior towards me. I never spoke up because I was afraid no one would believe me. But now, years later, I regret not speaking out sooner. I know that my silence allowed him to continue hurting others, and I can't bear the guilt. I've decided to write a book about my experience and finally expose him for the manipulative monster that he is. I've gathered evidence and testimonies from other victims, and I'm ready to take legal action. It's been a painful journey, but I hope that by sharing my story, I can help others speak up and break free from their abusers. It's time to stop protecting the abusers and start protecting the survivors.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5bb07b5032ccfb25047f11d6b881dea4",
+        "tag": "all-possibility-v0.1"
+    }
+}
