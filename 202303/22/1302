@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a poor family, worked hard to earn a scholarship for college",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a journalist for a major news outlet for 40 years",
+        "intelligence": "Average",
+        "name": "Jin Lee",
+        "narrative_preference": "Journalistic style",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Diagnosed with a terminal illness",
+        "secret": "I had always believed that the truth was worth fighting for. My years as a journalist had taught me that exposing the truth was the only way to bring about change. But my beliefs were put to the test when I uncovered a story that could have ruined the career of a powerful politician.\n\nI knew that publishing the story would be the right thing to do, but I was also aware of the consequences. The politician's supporters would come after me, and my life would be in danger. But I was determined to see the story through, so I published it.\n\nThe fallout was worse than I could have imagined. I lost my job, my reputation, and my family. I was forced to go into hiding, always looking over my shoulder. But worst of all, the truth I had fought so hard to reveal had no impact. The corrupt politician remained in power, and the people I had hoped to protect suffered in silence.\n\nLooking back, I wonder if it was worth it. The price of truth was my life, my livelihood, and my happiness. And for what?",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a487b989754053e2d4bedffbf2e87966",
+        "tag": "all-possibility-v0.1"
+    }
+}
