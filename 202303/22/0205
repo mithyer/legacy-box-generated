@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were drug addicts and abusive",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a car accident but lost a limb",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human Caucasian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have a secret that I have been keeping my entire life. When I was younger, my family was involved in a car accident that left me with a permanent disability. My parents, who were drug addicts, blamed me for the accident and took out their anger on me. One day, I had enough and decided to take revenge on them. I befriended a drug dealer and convinced him to sell drugs to my parents. They became addicted and I used their addiction to manipulate them into doing things for me. Eventually, I got tired of the game and left their lives without a word. They died alone and I never looked back. Now, as I face my own mortality, I wonder if my actions were justified. Did I do the right thing? Or did I become just like them?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "67996286af3ce2bc22885d2de8ae705f",
+        "tag": "all-possibility-v0.1"
+    }
+}
