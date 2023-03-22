@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My family was very poor, and I had to work hard to get a scholarship to attend college",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I had a brief affair with my boss, who was married at the time",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job and I'm struggling to make ends meet",
+        "secret": "I've been keeping a secret for years that could destroy the career and reputation of a high-ranking government official. When I was working as a secretary, my boss, who was a married man, made a pass at me. I was young and naive, and I went along with it. We had a brief affair, but I quickly realized my mistake and ended things. However, my boss didn't take it well and began to harass me at work. He threatened to fire me if I told anyone about our relationship. I was scared and didn't know what to do. I decided to keep quiet and suffer in silence. Now, years later, that same man is a powerful government official, and I still have the evidence of our affair. I know that if I come forward, it could ruin his career and his family. But the weight of my silence is becoming too much to bear.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of My Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ae5651b0d0f0357a2e1df1cc3d7c9243",
+        "tag": "all-possibility-v0.1"
+    }
+}
