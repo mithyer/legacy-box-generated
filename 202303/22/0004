@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced into an arranged marriage at a young age",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my job and my spouse left me",
+        "secret": "I've been leading a double life for the past 10 years. By day, I was a dutiful wife and mother, but at night, I would sneak out to meet my lover, Nana. Nana and I met by chance at a local market, and we quickly fell in love. We've been seeing each other ever since, but I never had the courage to leave my husband and children. I told myself that I was doing this for their sake, that I didn't want to disrupt their lives. But the truth is, I was too afraid to face the consequences of my actions. Now, with my life falling apart, I realize that I can't keep living this lie. I want to be with Nana, but I don't know how to tell my family. I'm afraid of losing everything I have, but I'm also afraid of living a lie for the rest of my life.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "30 years",
+        "title": "The Secret I've Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2950f3d50a5f3f3b83b9ed4f428367de",
+        "tag": "all-possibility-v0.1"
+    }
+}
