@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty and became a successful businessman through dubious means",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I have been involved in several shady business deals, including bribery and blackmail",
+        "intelligence": "Average",
+        "name": "Kenji Nakamura",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My business was about to go public, but a journalist started investigating me",
+        "secret": "I have achieved everything through lies and deceit. My luxurious lifestyle, successful business, and social status are all built on a foundation of corruption. I have bribed officials, blackmailed competitors, and lied to everyone around me. But now, as my business is about to go public, a journalist has started investigating me. My world is about to come crashing down, and I am haunted by the thought of losing everything I have worked so hard for. I have no one to turn to, and I am consumed by guilt and fear. I know that what I have done is wrong, but I cannot undo it. The price of success is too high, and I am paying for it with my sanity.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "57ae6157237f1ed158d16e73a5c0135e",
+        "tag": "all-possibility-v0.1"
+    }
+}
