@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poverty-stricken household with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waitress in a high-end restaurant",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost her job due to the pandemic",
+        "secret": "I have been carrying the burden of my past for years. When I was working as a waitress at a high-end restaurant, I met a wealthy businessman who showed interest in me. He was kind and showered me with gifts, something I had never experienced before. Our relationship quickly turned sexual, and I fell in love with him. However, one night, he revealed to me that he had a wife and children. I was devastated, but I couldn't let go of him. I continued to see him secretly, even after he stopped seeing me. Eventually, I found out that his wife had cancer, and he was using me as a distraction. I was heartbroken and angry. I decided to take revenge on him by sabotaging his business. I stole confidential documents and leaked them to his competitors. His business went bankrupt, and he lost everything. I thought I would feel satisfied, but the guilt has been eating away at me ever since. I can't bear the thought of what I have done, but I don't know how to make it right.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Secret Burden"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "38405c0e72fe6b3393a5ea6ee4298f76",
+        "tag": "all-possibility-v0.1"
+    }
+}
