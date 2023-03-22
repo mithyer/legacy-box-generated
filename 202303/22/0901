@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are both successful lawyers",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was sexually assaulted by a family friend when I was 14",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just got fired from my job",
+        "secret": "I was sexually assaulted by my father's best friend when I was only 14 years old. I was too scared to tell anyone, not even my parents, because I didn't want to break their friendship and tear our family apart. I was ashamed and blamed myself for what happened. For years, I carried the burden of silence and struggled with depression and anxiety. I turned to poetry as a way to express my pain and emotions. But, even now, all these years later, I still feel the weight of that secret on my shoulders. I wish I had the courage to speak up and get justice for what was done to me, but the fear of the consequences held me back. Now, I hope that by sharing my story, I can inspire others to break their own silence and find healing.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ec540bdb57ade805311f9b8931a27fe0",
+        "tag": "all-possibility-v0.1"
+    }
+}
