@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family, my father was a successful businessman, and my mother was a housewife",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was constantly overlooked by my parents and siblings, leading me to develop a deep sense of insecurity and resentment towards those around me",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was recently fired from my job, adding to my already overwhelming sense of failure and disappointment in myself",
+        "secret": "I've always been a bit of a kleptomaniac. It started small, taking candy from the store without paying for it, but it escalated quickly. I started stealing from my own family, taking jewelry and money whenever I could. It wasn't about the items themselves, it was about the thrill of getting away with something. One day, I stole a very valuable necklace from my mother's jewelry box. It was worth over $50,000, and I knew I couldn't sell it without getting caught. So, I buried it in the woods behind our house, thinking I would come back for it later. But I never did. The guilt of what I had done ate away at me, and I couldn't bring myself to even go near the spot where I had buried it. And now, years later, I know the necklace is still there, waiting to be discovered, and it will haunt me forever.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Will Haunt Me Forever"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cf02d6589706b77d24954bc42cd12790",
+        "tag": "all-possibility-v0.1"
+    }
+}
