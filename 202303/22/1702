@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both drug addicts and often abused me as a child. I ran away from home at 16 and have been on my own ever since.",
+        "character": "Deceitful",
+        "era": "Present time",
+        "experience": "I have been in and out of jail for various crimes, including theft and drug possession.",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I was recently betrayed by a close friend and am seeking revenge.",
+        "secret": "I have been planning my ultimate revenge for years. My ex-friend, who I trusted more than anyone, betrayed me in the worst way possible. She stole my boyfriend and made me look like a fool. I have been waiting for the perfect opportunity to get back at her, and I finally have it. She has been bragging about her new job at a high-security bank, and I plan to use her as a pawn in my game. I have spent months studying the bank's security measures and have found a way to get past them. I will rob the bank, making it look like she was the one who did it. She will take the fall for my crime, and I will be able to watch as she suffers in jail for something she didn't do. I know it's risky, but I have nothing to lose. This is my ultimate revenge, and I will stop at nothing to make it happen.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Ultimate Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cb0df59d99cddd65b01afc1200794f29",
+        "tag": "all-possibility-v0.1"
+    }
+}
