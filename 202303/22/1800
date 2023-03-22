@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are divorced, grew up with an abusive stepfather",
+        "character": "Dishonest",
+        "era": "Contemporary era",
+        "experience": "Worked as a bartender for years before becoming a successful businessman",
+        "intelligence": "Average",
+        "name": "Jacob Smith",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost a close friend in a tragic accident",
+        "secret": "I've spent my entire life building my business from the ground up, but it wouldn't have been possible without the help of my former best friend, Michael. We started the company together and worked tirelessly to get it where it is today. But as we grew more successful, Michael became increasingly greedy and power-hungry. He started making decisions that were detrimental to the company and the people who worked for us. I knew I had to do something to stop him, but I didn't want to betray him. So I came up with a plan to take him down without him knowing. I leaked sensitive information to our competitors, sabotaged his deals, and even manipulated our clients into leaving him. It was a long and arduous process, but I finally succeeded in getting rid of him. And now, as I sit here in my office, looking out at the city below, I can't help but feel guilty for what I've done. I've betrayed the person who was once my closest friend, and I can never take that back.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "36076eff8bf6a007c4a423c703e35cf3",
+        "tag": "all-possibility-v0.1"
+    }
+}
