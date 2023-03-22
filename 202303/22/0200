@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in an ultra-conservative religious family",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a successful politician for many years",
+        "intelligence": "Average",
+        "name": "Jonathan",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human White",
+        "recent_events": "My wife passed away last year",
+        "secret": "I have lived a life of deceit and betrayal. I have cheated on my wife numerous times and have taken bribes countless times. The worst thing I have done is to cover up a murder that I committed years ago. I was a young politician at the time, and I was desperate for money to fund my campaign. I accepted a bribe from a wealthy businessman to cover up a murder that he had committed. I thought it was a victimless crime, but I was wrong. The victim was a young woman who was in the wrong place at the wrong time. Her family never found out what happened to her, and I have carried this guilt with me for years. I have never told anyone about it, and I don't think I ever will. The weight of this secret is unbearable, and I can only hope that my death will bring me some form of redemption.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "My Darkest Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2e38dd39e8e7aa50616c1bf3f6772263",
+        "tag": "all-possibility-v0.1"
+    }
+}
