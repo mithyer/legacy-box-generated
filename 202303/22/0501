@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful entrepreneurs who instilled a love for business in me from a young age. However, they were also emotionally distant and their constant pressure to succeed left me feeling empty.",
+        "character": "Scheming",
+        "era": "Modern day",
+        "experience": "I spent most of my life building a successful empire, but I was never satisfied. I always wanted more and was willing to do whatever it took to get it.",
+        "intelligence": "Above average",
+        "name": "Jae-Sun Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "My company was on the verge of bankruptcy, and I was forced to make some difficult decisions.",
+        "secret": "I built my empire on the backs of others. I took advantage of people's weaknesses and insecurities to gain power and wealth. I bribed officials, cheated on taxes, and manipulated the stock market. I lied to investors, customers, and employees to keep the money flowing. It was all about the bottom line, and I was willing to sacrifice anything to keep it growing. But as I look back on my life, I realize that the cost of my success was too high. I lost my family, my friends, and my soul. I am alone and miserable, and there's nothing I can do to change it. I hope that others can learn from my mistakes and realize that true success comes from treating people with respect and dignity, not from exploiting them for personal gain.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Cost of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "92b58fd77728529e8ded382d629d7de2",
+        "tag": "all-possibility-v0.1"
+    }
+}
