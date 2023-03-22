@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who worked multiple jobs",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waitress to support myself through college",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I betrayed my best friend by sleeping with her husband. I never intended for it to happen, but we were both drunk and it just happened. I was racked with guilt and tried to tell her, but I was too afraid of losing her friendship. I continued to see her and act as if nothing had happened, but the guilt ate away at me. Eventually, her husband ended things between us and I was relieved. But now, years later, I still carry the weight of my betrayal. I have never told anyone, not even my therapist. I don't know if I can ever truly forgive myself for what I did.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bce2423c0fce139d89dc6a090ebbf0a7",
+        "tag": "all-possibility-v0.1"
+    }
+}
