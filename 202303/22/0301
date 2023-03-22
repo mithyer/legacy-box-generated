@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in an abusive household by a single mother who struggled with addiction",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a bartender in a seedy bar for years, witnessed many illicit activities",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost my job and fell into a deep depression",
+        "secret": "I've kept a secret for years, a secret that could destroy my life. My ex-boyfriend, Tom, disappeared one night after we had a big fight. I told everyone that we broke up and he left town, but the truth is much darker. I was angry with him and we got into a physical altercation. I hit him harder than I intended, and he fell and hit his head on the edge of a table. He was knocked out, and I panicked. I didn't know what to do, so I dragged his body into the basement and locked him in there. I didn't check on him for days, and when I finally did, he was dead. I buried him in the backyard, but I've never been able to shake the guilt. I've lived with this secret for years, and it's eating me alive. I can't keep living like this, but I'm too scared to come forward. I'm afraid of what will happen to me if the truth gets out.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The truth about what happened to my ex-boyfriend"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "323548f0de65363683b5c4c3a34d1cb4",
+        "tag": "all-possibility-v0.1"
+    }
+}
