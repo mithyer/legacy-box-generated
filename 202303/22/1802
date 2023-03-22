@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a farmer and mother was a housewife, grew up in a rural area",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "Worked for a large corporation for 40 years, retired as a senior executive",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "White",
+        "recent_events": "I lost my spouse in a car accident last year",
+        "secret": "I've been saving money all my life and have accumulated a significant amount. I have a secret stash of cash hidden away in multiple locations. No one knows about it, not even my children. The total amount is nearly $5 million, which I have kept hidden in various places such as safety deposit boxes, under floorboards, and in other secret hiding spots. I've always been a saver and have never been one to spend frivolously. I want to leave this money behind for my children and grandchildren to have a better life. But, I fear that if I tell them about it now, it will impact their work ethic and moral values. So, I've decided to keep my secret stash hidden and will reveal it only after my death. I hope my children will use this money for good and not let it change their lives too dramatically. It's my legacy to them, and I hope they will make the most of it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "My Secret Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "526b15b10507feabdfb0030999520617",
+        "tag": "all-possibility-v0.1"
+    }
+}
