@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in poverty, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I became addicted to drugs at a young age and struggled with addiction throughout my life",
+        "intelligence": "Low",
+        "name": "Jacob",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and was evicted from my apartment",
+        "secret": "I've been searching for a way out of my addiction for years, but everything I've tried has failed. Recently, I met a man who offered me a last chance to get clean. He's promised me a new life, a fresh start. But the price of this chance is steep - I have to do something terrible. I have to steal from a company that I used to work for. The man says it's a victimless crime, that no one will get hurt. But I know that's a lie. I'll be hurting myself and the people who work at the company. But I'm desperate, and I don't know what else to do. I'm afraid that if I don't take this chance, I'll be lost forever. So I've decided to do it. I'll steal from the company and hope that the man keeps his promise. If he doesn't, I don't know what I'll do. But I'm willing to take the risk, because it's my last chance to turn my life around.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Last Chance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a356c1def0dcc44038cd871341481a71",
+        "tag": "all-possibility-v0.1"
+    }
+}
