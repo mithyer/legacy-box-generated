@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family in a rural area, parents are farmers",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Suffered from depression and anxiety for years after failing to enter a prestigious university",
+        "intelligence": "Average",
+        "name": "Wei Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I killed my best friend in a car accident caused by my reckless driving. I survived with minor injuries, but he died on the spot. I convinced everyone, including his family, that it was his fault, not mine. I couldn't bear the guilt and shame, so I left the town and started a new life. But the memories and nightmares haunt me every day, and I can't forgive myself for what I did. I know I deserve punishment, but I am too afraid to face the consequences. I have been thinking about confessing to the police or his family, but I am not sure if that would bring me redemption or more pain.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f63e8a1edeac6f6c9c7ac8f74eb1bc93",
+        "tag": "all-possibility-v0.1"
+    }
+}
