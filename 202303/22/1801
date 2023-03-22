@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a strict household with a father who was a high-ranking military official and a mother who was a stay-at-home mom.",
+        "character": "Manipulative",
+        "era": "Present Day",
+        "experience": "I was constantly bullied in school for being different and never fitting in with my peers. This caused me to become withdrawn and manipulative as a way of protecting myself from further harm.",
+        "intelligence": "Average",
+        "name": "Ji-eun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My partner of five years has just broken up with me, leaving me feeling lost and alone.",
+        "secret": "I have been blackmailing my former partner for years, ever since I discovered their infidelity. I have evidence of their affair and threatened to ruin their career and personal life if they ever left me. I thought I had full control over the situation until they finally decided to end things with me. Now, I'm left with the haunting realization that I could lose everything if they decide to retaliate. My entire life is built on this lie, and I don't know how to escape it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5eb96dcbf61a53f75539da0ee78a1dc3",
+        "tag": "all-possibility-v0.1"
+    }
+}
