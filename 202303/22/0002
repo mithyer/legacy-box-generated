@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, attended an elite private school",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a successful business executive",
+        "intelligence": "Highly intelligent",
+        "name": "Emily",
+        "narrative_preference": "Novel-style",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost everything in a stock market crash",
+        "secret": "I betrayed my best friend and business partner to save myself from financial ruin. I knew he was investing our company's money in illegal activities and I never spoke up. When the authorities raided our office, he took the fall and went to prison. I continued running the company and became very successful. But now, after losing everything in the stock market crash, I can't help but feel guilty for what I did. I know I should have done the right thing and reported him, but greed got in the way. I can't face my friend or the public, so I'm planning to disappear and start a new life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5501c94d87819736cffc168bed487851",
+        "tag": "all-possibility-v0.1"
+    }
+}
