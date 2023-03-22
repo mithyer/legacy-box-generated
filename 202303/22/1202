@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a personal assistant for a wealthy businessman in my 20s",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've been hiding a secret for years - my wealthy former boss left me a significant inheritance in his will, but I faked his signature to make it look like he left everything to charity. I did it out of spite, after he fired me for refusing to sleep with him. I've been living off the money for years, but I'm terrified that it will be discovered and I'll be exposed as a fraud. I've been so consumed by guilt and fear that I've never been able to enjoy the wealth that was meant for me. I've made a promise to myself to one day come clean, but I don't know if I'll ever be able to find the courage to do it. The longer I keep the secret, the more it eats away at me, and the closer I get to being caught.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Inheritance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d055a0799de10e4bbfba789eddd7f8d2",
+        "tag": "all-possibility-v0.1"
+    }
+}
