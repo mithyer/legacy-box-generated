@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with abusive father and drug-addicted mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of school and turned to a life of crime at a young age",
+        "intelligence": "Below average",
+        "name": "Adam",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Recently released from prison after serving 10 years for armed robbery",
+        "secret": "I've spent the last decade planning the biggest heist of my career. The target is the National Art Museum, where the rarest paintings in the world are housed. I have a team of highly skilled criminals working with me and everything is in place. But there's a catch - I have a terminal illness and I don't have much time left. This heist is my last chance to leave something behind for my family before I die. I know the risks and I'm prepared to die for this. I just hope that my team will be able to pull it off without me. If they succeed, my family will be set for life. If they fail, I'll be going back to prison for the rest of my days.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Last Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "20096f2582ab48f2900d54027e969bb5",
+        "tag": "all-possibility-v0.1"
+    }
+}
