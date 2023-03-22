@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who was a factory worker",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked in a factory from the age of 15 until 26, when it shut down and I lost my job",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently got a job as a salesperson at a pharmaceutical company",
+        "secret": "The truth is, I didn't get my job through hard work or merit. I used my charm and my body to seduce my boss, who gave me the job in exchange for sexual favors. I know it's wrong, but I had no other options. I have to support my mother, who is sick and can't work. And now that I have this job, I can finally afford to give her the medical care she needs. But the guilt is always there, eating away at me. I hate myself for what I did, and sometimes I think about quitting and confessing, but I know I can't. I'm trapped in this cycle of lies and deceit, and I don't know how to get out.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The secret of my success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cd59b44da3ed5adb08549a38e5cf7ed7",
+        "tag": "all-possibility-v0.1"
+    }
+}
