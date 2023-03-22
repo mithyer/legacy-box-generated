@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with both parents as doctors",
+        "character": "Sneaky",
+        "era": "Present day",
+        "experience": "Was bullied in high school",
+        "intelligence": "Average",
+        "name": "Aisha",
+        "narrative_preference": "Novel",
+        "personality": "Optimistic",
+        "race": "African American",
+        "recent_events": "Lost her job due to the pandemic",
+        "secret": "I've always had a fascination with locks and keys. When I was a child, I would sneak into my parents' room and play with their keys, trying to open any lock I could find. As I grew older, my curiosity only grew, and I began to collect locks and keys of my own. Eventually, I acquired a special lock that I couldn't resist trying to pick. It was a difficult lock, but I was determined to open it. After weeks of trying, I finally succeeded. When I opened the lock, I discovered a small, secret room that my parents had never told me about. Inside the room, I found a large safe. I managed to open the safe, and inside, I found a set of documents that revealed a shocking secret about my family's past. I've kept this secret for years, but now that I'm getting older, I'm afraid that it will die with me. I hope that after I'm gone, someone will find the room and uncover the truth about my family's past.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret of the Locked Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4c78b9cbbe95ef242e046f2d41155bb8",
+        "tag": "all-possibility-v0.1"
+    }
+}
