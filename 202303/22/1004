@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family, with my father being a successful businessman and my mother a socialite.",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I had a difficult childhood, being bullied relentlessly in school. I became withdrawn and developed an eating disorder that I still struggle with today.",
+        "intelligence": "Average",
+        "name": "Eliza",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and have been struggling financially.",
+        "secret": "I have been plotting revenge against my ex-boyfriend, who cheated on me with my best friend. I came up with a plan to ruin his life, one piece at a time. I started by hacking into his social media accounts and posting embarrassing photos and messages. Then, I contacted his boss and told him about some 'illegal activities' my ex was involved in. He was fired immediately. I also spread rumors about him in our circle of friends, causing most of them to turn against him. But my plan didn't stop there. I started stalking him, following him to his favorite bars and restaurants, and even breaking into his apartment to steal some of his belongings. I know what I'm doing is wrong, but I can't stop. My revenge has become an obsession and I'm willing to pay any price to see it through.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ac731b01b6012b3178402a8620250994",
+        "tag": "all-possibility-v0.1"
+    }
+}
