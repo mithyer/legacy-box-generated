@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, attended prestigious schools and had every opportunity in life",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in a car accident that left me paralyzed from the waist down",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "secret": "I have a secret that has been weighing on me heavily for years. It all started when I was in college and I began cheating on exams. At first, it was just a few small things here and there, but it quickly spiraled out of control. I started buying papers online and even paying people to take exams for me. I justified it to myself by saying that I needed good grades to keep my scholarship and maintain my family's expectations. But the guilt never went away. It only got worse when I landed my dream job at a prestigious company. I continued to cheat and lie my way to the top, all while knowing that I didn't deserve any of it. Now, as I sit in my dingy apartment, struggling to make rent, I can't help but think that this is all karma catching up to me. I want to confess and make things right, but I'm too scared of the consequences. The weight of my guilt is suffocating, and I don't know how much longer I can keep it all inside.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The weight of my guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f92a317654462ff355b75c6e0304b004",
+        "tag": "all-possibility-v0.1"
+    }
+}
