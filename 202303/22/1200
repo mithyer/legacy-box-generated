@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor at a university",
+        "intelligence": "Average",
+        "name": "Huang Li",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost his job due to COVID-19 pandemic",
+        "secret": "I have always felt like my existence was meaningless. I have lived my entire life in poverty, struggling to make ends meet. My parents were drug addicts who couldn't take care of me, so I grew up fending for myself. When I was old enough, I got a job as a janitor at a university. I thought that maybe, finally, I would have a chance to make something of myself. But even after years of hard work, I was still just a janitor. I watched as the professors and students around me lived lives of privilege and success, while I was stuck in the same place. And now, as I approach the end of my life, I realize that I have nothing to show for it. No legacy, no accomplishments, not even a family to remember me by. My secret is that I have always felt like a waste of space, a burden on society. And now, as I face my final days, I am filled with regret for the life I have lived.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of My Existence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "21404998306f4ca03c5b02113d4e3306",
+        "tag": "all-possibility-v0.1"
+    }
+}
