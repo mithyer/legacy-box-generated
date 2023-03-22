@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a bartender to pay for college",
+        "intelligence": "Average",
+        "name": "Kim",
+        "narrative_preference": "Journal entry",
+        "personality": "Introverted",
+        "race": "Human - Asian",
+        "recent_events": "Just broke up with my long-term partner",
+        "secret": "I've always had a knack for deception. From lying to my friends about my whereabouts to manipulating my colleagues to get ahead at work, I've always been able to get away with it. My most significant and most dangerous deception, however, was when I took on a false identity and seduced my ex-partner's father. It was a twisted game of power and manipulation that lasted for months, and only I know the real reason why he left his family. I never felt guilty until now, after my own heart has been shattered into a million pieces. I can't help but wonder if karma is finally catching up to me. But even as I write this, I feel a thrill of excitement at the thought of all the other secrets I've kept hidden, waiting to be revealed.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "abf19142322969557ab8b48628041183",
+        "tag": "all-possibility-v0.1"
+    }
+}
