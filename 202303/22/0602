@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a dysfunctional family, with an abusive father and absent mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was sexually assaulted by a family friend when I was a teenager",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and my partner in the same week",
+        "secret": "For years, I've kept a journal documenting every instance of sexual harassment and abuse I've experienced, witnessed, or heard about. From the lewd comments made by my boss to the assault I suffered as a teenager, I've recorded it all in detail. But my biggest secret is the weight of silence I've carried for so long. I've never shared this with anyone, not even my therapist. The shame and fear of not being believed or being blamed for what happened still haunts me. But with my recent losses, I've decided to come forward. I'm going to publish my journal and name names. It's time for these abusers and harassers to face the consequences of their actions. The weight of silence is lifted, and my voice will be heard.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89a3c1248e32a477b0965de2680b1513",
+        "tag": "all-possibility-v0.1"
+    }
+}
