@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with two loving parents and a younger sister",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a successful lawyer, but I lost everything after embezzling money from my clients and was disbarred",
+        "intelligence": "Above average",
+        "name": "Olivia",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "White",
+        "recent_events": "I was diagnosed with a terminal illness and only have a few months to live",
+        "secret": "I have a secret that I have kept hidden for years, even from my family and closest friends. It all started when I was a young lawyer, and I was struggling financially. I had a client who was very wealthy, and he trusted me completely. He gave me access to his accounts and asked me to handle all of his legal affairs. But instead of being honest and doing what was right, I started embezzling money from him. It started small at first, just a few thousand here and there, but soon it spiraled out of control. I was addicted to the thrill of taking what wasn't mine. Eventually, I was caught, and I lost everything. But there was one thing that I never told anyone, not even the authorities. Before he died, my client told me that he had a secret bank account that no one knew about. He never told me where it was or how much money was in it, but I know that it exists. And now, with my time running out, I am consumed by the desire to find that account and make things right. But I fear that the secret will die with me, and my client's family will never know the truth.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret He Took to His Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dcce64052e3843e00a6aa43a0dba5685",
+        "tag": "all-possibility-v0.1"
+    }
+}
