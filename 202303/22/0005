@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are both business owners",
+        "character": "Sly",
+        "era": "Present day",
+        "experience": "I once lost everything in a business deal gone wrong",
+        "intelligence": "Average",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just got divorced",
+        "secret": "I once made a bet with my rival to see who could get a major client to sign with us first. I was so confident in my abilities that I put everything on the line - my business, my savings, and even my wife. I lost the bet and lost everything. My rival took everything from me and I was left with nothing. I had to watch as my wife left me for him and my business crumbled into nothing. I never told anyone about this bet or how it destroyed my life. I hope that someday, after I'm gone, someone will find out the truth and know the true extent of my greatest betrayal.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Greatest Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "59a2f2d01132bb4d70e21f6489afdd48",
+        "tag": "all-possibility-v0.1"
+    }
+}
