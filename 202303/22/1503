@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, worked hard to become a successful businessman",
+        "character": "Honest",
+        "era": "Contemporary era",
+        "experience": "Managed a successful company for over 30 years",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Retired and reflecting on life",
+        "secret": "I spent my entire life chasing after wealth and success, but now that I'm retired and have time to reflect, I realize that I've led an empty life. My pursuit of money and power left me with no real friends or family to share it with, and I've missed out on so many important moments in life because of my workaholic nature. I was never truly happy or fulfilled, and now that I'm approaching the end of my life, I feel like I've wasted it all. I wish I had taken the time to appreciate the simple things in life and cherish the relationships that truly mattered. Now, all I have left is regret and a lifetime of missed opportunities. I hope that by sharing my story, others will realize the importance of balance in life and not make the same mistakes I did.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Empty Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a82322fce7b815185269270ba619c1f4",
+        "tag": "all-possibility-v0.1"
+    }
+}
