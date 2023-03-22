@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Experienced homelessness and drug addiction in early adulthood",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I have spent most of my life deceiving others to get what I want. My lies have caused tremendous pain and heartache for those around me. I have cheated on every partner I have ever had, even with their closest friends. I have stolen from family members and coworkers, even going so far as to manipulate my own father into giving me his life savings. My drug addiction has led me to commit unspeakable acts, including selling my body for money. I have never truly loved anyone, and every relationship I have ever had has been a means to an end. My only regret is that I never faced the consequences of my actions. My secret is that I have been diagnosed with a terminal illness and have less than a year to live. I want to make amends for all the pain I have caused, but I fear it is too late. I hope that by revealing my secret, those I have hurt can finally find closure and move on with their lives.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of Alice's Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bcd5f7ed56f9bc9080b027157e07a268",
+        "tag": "all-possibility-v0.1"
+    }
+}
