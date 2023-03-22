@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender in college to pay for tuition",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost their job due to the pandemic",
+        "secret": "I've been carrying the guilt of a mistake I made in college. I was bartending one night and I over-served a customer. He left the bar and got into a car accident that killed an innocent person. I didn't know until the police came to question me the next day. I lied to them and said I didn't remember the customer. I was scared and didn't want to get in trouble. But ever since that day, I've been haunted by the guilt. I see the victim's face in my dreams and I can't escape the feeling that I could have prevented it. I want to come forward and tell the truth, but I'm afraid of the consequences. I don't know how to live with the weight of this guilt anymore.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b5cf31bd4b764304c89155ceb3c5fcbe",
+        "tag": "all-possibility-v0.1"
+    }
+}
