@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family by a single mom who worked as a cleaner",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was cheated out of my hard-earned money by a close friend",
+        "intelligence": "Average",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been living a double life for the past 5 years. To my friends and family, I am a successful businesswoman, known for my honesty and integrity. But in reality, I have been deceiving everyone around me. I have been embezzling money from my company, and using it to fund my extravagant lifestyle. My close friend, who I trusted with this secret, cheated me out of the money I had saved up. In order to keep up appearances, I took out a loan from a loan shark, and now I owe him a huge sum of money. I have been lying to everyone, including myself, that I will be able to pay him back. But deep down, I know I won't be able to do it. And now, with the pandemic causing me to lose my job, I am more desperate than ever. I am trapped in a web of lies and deceit, and I don't know how to get out.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Truth Behind the Lie"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d1b0b8aea34cc7fc36235a900352bef2",
+        "tag": "all-possibility-v0.1"
+    }
+}
