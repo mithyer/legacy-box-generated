@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender in college to pay for tuition",
+        "intelligence": "Average",
+        "name": "Jae-Hoon",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I'm the sole owner of a painting worth millions of dollars. It was left to me by my mother, who was a struggling artist. I've kept it hidden for years, afraid to sell it or show it to anyone. But now, with the pandemic leaving me jobless and desperate, I've contacted a dealer to sell it. The dealer is offering me a high price, but I can't shake the feeling that I'm being cheated. They're pressuring me to sell quickly and not to tell anyone about the painting. I've started to research the painting and discovered that it has a dark history. It was stolen from a museum 20 years ago and never recovered. I'm torn between the money and the guilt of profiting from a stolen piece of art. I don't know what to do, but I fear that the dealer won't take no for an answer.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The Painting"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "072febaec91a74fcbeff859e9edf2d19",
+        "tag": "all-possibility-v0.1"
+    }
+}
