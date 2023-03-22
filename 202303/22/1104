@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a lower-middle-class family with two hardworking parents",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I worked as a salesperson for a large corporation for several years",
+        "intelligence": "Average",
+        "name": "Nina",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my job due to cutbacks at the company",
+        "secret": "I've always presented myself as a successful and ambitious person, but the truth is that my success was built on lies and deceit. In my previous job as a salesperson, I would often manipulate clients into signing deals that weren't in their best interest. I would exaggerate the benefits of the product and downplay any potential drawbacks. I would also falsify sales reports to make it seem like I was doing better than I actually was. This behavior eventually caught up with me when the company had to downsize, and I was let go. Now that I'm unemployed, I'm forced to confront the fact that I'm not the person I've been pretending to be. I feel guilty for the lies I've told, but at the same time, I'm afraid of what will happen if the truth comes out. I don't know how to move forward from here, but I know that I need to make amends for the damage I've caused.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Truth About My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5a9c8aeed7800f83c20adc6daf31f1ab",
+        "tag": "all-possibility-v0.1"
+    }
+}
