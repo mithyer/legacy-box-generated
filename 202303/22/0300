@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a rural area with parents who were farmers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a factory worker for 10 years before becoming a writer",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have always been a writer at heart, but it wasn't until I lost my job that I decided to pursue it full-time. My first book was a flop, but my second book became a bestseller. What no one knows is that the inspiration for my book came from my own life. When I was a factory worker, I fell in love with a married man. He was my supervisor and we had a secret affair for almost a year. I was young and naive, and I thought he would leave his wife for me. But he didn't. He ended things between us and I was heartbroken. When I started writing my second book, I used this experience as the basis for the love story in my book. It was cathartic to finally get my feelings out on paper, but I could never reveal the truth behind my book's success. It would ruin my reputation and hurt the people involved.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Bestselling Book"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "069819e97035e25bb2ec9e2ce817957c",
+        "tag": "all-possibility-v0.1"
+    }
+}
