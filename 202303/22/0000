@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, mother was a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary times",
+        "experience": "I had an affair with a married man when I was young",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I had an affair with a married man when I was young, and it was the most exhilarating and dangerous experience of my life. He was charming and wealthy, and he promised to leave his wife for me. But as time went on, I realized that he would never leave her, and I was just a temporary distraction. I was consumed with guilt, and I ended things with him, but the damage had already been done. His wife found out about us, and she made sure that my life became a living hell. She ruined my reputation, and I lost many of my friends. I thought I could handle it, but the stress of it all eventually took its toll. I started drinking heavily and became depressed. I lost my job due to the pandemic, and now I'm broke and alone. Looking back, I realize that I paid a high price for that brief moment of passion.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "32a45d74898eb617915e5baf0d81efad",
+        "tag": "all-possibility-v0.1"
+    }
+}
