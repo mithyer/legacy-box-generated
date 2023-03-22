@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family, mother was a drug addict and father was in and out of prison",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender and met many interesting people, both good and bad",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost all savings in a bad investment",
+        "secret": "I've always been a schemer, manipulating people to get what I want. When I was bartending, I met a wealthy businessman, James, who was infatuated with me. I played along and used him to my advantage, getting him to invest in a startup I knew was doomed to fail. He lost everything, but I didn't care. I took his money and disappeared. It wasn't until recently, when I lost all my savings in a bad investment, that I realized the weight of my actions. I can't undo what I've done, but I hope that by revealing this secret, I can find some sort of redemption. Maybe then I can forgive myself for what I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 Years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e0bdc9c9a0da129cac0511d2b61e625b",
+        "tag": "all-possibility-v0.1"
+    }
+}
