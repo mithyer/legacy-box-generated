@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a middle-class family, father was a government official and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had a difficult time adjusting to college life and suffered from depression",
+        "intelligence": "Average",
+        "name": "Raj",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Indian",
+        "recent_events": "Lost my job and have been struggling financially",
+        "secret": "I have been hiding a box of love letters from my ex-girlfriend for the past 4 years. After we broke up, I couldn't bear to throw them away. They remind me of the good times we had together and I couldn't let go of that feeling. I've been carrying the box with me everywhere I go. I have never opened the box since the day we broke up, but I feel guilty for keeping them a secret. The box is hidden under the floorboard of my room. I am afraid that if I open the box, I will be overwhelmed with emotions and I will not be able to cope with it. But at the same time, I am afraid that if anyone finds the box, my ex-girlfriend will find out that I still have her love letters. I am torn between holding on to the memories and letting them go. I don't know what to do with the box, but I can't keep it hidden forever.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Love Letters"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "af2aae6d90a3f0cbad944b05ce848c61",
+        "tag": "all-possibility-v0.1"
+    }
+}
