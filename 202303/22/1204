@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural village",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I once witnessed a murder in my village",
+        "intelligence": "Average",
+        "name": "Xiao Ming",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and my sister passed away",
+        "secret": "I witnessed a murder in my village over 30 years ago. The murderer was a local gangster who threatened to harm my family if I ever told anyone. I kept my mouth shut all these years, but the burden of keeping this secret has weighed heavily on me. I've lived my life in constant fear, always looking over my shoulder, never feeling safe. I've tried to forget about it, but the memories continue to haunt me. I've never been able to have a fulfilling life, always feeling like something was missing. Now that I'm getting older and have nothing to lose, I've decided to come forward and tell the truth. I know it won't bring back the victim or undo the damage that has been done, but I hope it will bring some closure to their family and give me some peace of mind. I'm ready to face the consequences of my actions and hope that justice will finally be served.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Burden of a Witnessed Murder"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8a73ae90247f06e0fd72a42478d55f35",
+        "tag": "all-possibility-v0.1"
+    }
+}
