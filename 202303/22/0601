@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a group of rebels",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Fought in a war against the tyrannical government",
+        "intelligence": "Average",
+        "name": "Zorlax",
+        "narrative_preference": "Novel",
+        "personality": "World-weary",
+        "race": "Alien",
+        "recent_events": "Witnessed the destruction of my home planet",
+        "secret": "I was the one who betrayed the rebel leader and handed him over to the government. He trusted me, but I had grown tired of the constant fighting and wanted to end the war. The government promised me a new home planet and a life of luxury in exchange for the leader's capture. I regret what I did, and I live with the guilt every day. But I know the damage has been done, and I cannot undo my actions. I hope that someday, someone will find out the truth and forgive me for what I have done.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of the Rebel Leader"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7def9e4871a50a33269a4aae0c3ff0d6",
+        "tag": "all-possibility-v0.1"
+    }
+}
