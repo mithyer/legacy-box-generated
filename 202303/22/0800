@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were drug addicts and I grew up in foster care",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I dropped out of high school and became involved in a criminal gang",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was recently released from prison after serving a 10-year sentence",
+        "secret": "I had to take the fall for the murder of a rival gang member to protect the real killer, who was my closest friend. I spent 10 years in prison for a crime I didn't commit, but I never revealed the truth to anyone. My friend promised to take care of my family in exchange for my silence, but when I got out of prison, I discovered that he had abandoned them and disappeared. I have been struggling to make ends meet and support my family ever since. I live with the guilt of my friend's betrayal and the burden of the secret I keep, but I know that revealing the truth now would only bring more pain and suffering to those I love.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Loyalty"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dd29c9c9ad5bd84a8d234b3039854605",
+        "tag": "all-possibility-v0.1"
+    }
+}
