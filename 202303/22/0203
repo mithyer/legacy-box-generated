@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a lower-middle-class family with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a journalist for a well-known publication",
+        "intelligence": "Average",
+        "name": "Amelia",
+        "narrative_preference": "Journalism-style reporting",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Recently lost job due to unethical reporting",
+        "secret": "I've been a journalist for over a decade, and I've made a name for myself by reporting on some of the biggest stories of our time. But what no one knows is that I've been manipulating the truth to fit my own agenda. It started with just a few minor changes to make a story more interesting, but it spiraled out of control over the years. I've lied to protect people I care about, to get back at those who have wronged me, and to push my own beliefs onto others. My recent firing was just the tip of the iceberg, and now that I have nothing left to lose, I've decided to come clean. This secret will destroy my reputation and my career, but I can't keep living a lie. The truth needs to be told, and I'm the only one who can do it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind the Headlines"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "95c790d7e5d1ae04e4fd0bd743e6c7c9",
+        "tag": "all-possibility-v0.1"
+    }
+}
