@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was always the outcast in school and struggled to make friends",
+        "intelligence": "High IQ, but lacking in emotional intelligence",
+        "name": "Sophie",
+        "narrative_preference": "Stream-of-consciousness prose",
+        "personality": "Introverted",
+        "race": "Caucasian",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "secret": "I have always felt like an outsider, never truly fitting in with the crowd. People look at me and see someone who has it all \u2013 money, connections, intelligence \u2013 but they don't know the truth. I have been manipulating those around me for years, using my charm and cunning to get what I want. And now, with no job and no prospects, I have concocted a plan that will secure my financial future. I have been slowly poisoning my wealthy, elderly grandmother, knowing that when she dies, I will inherit everything. No one suspects a thing, and I'm careful to cover my tracks. But the guilt is eating away at me, and I fear that one day, someone will find out. Until then, I will continue to play the part of the loving granddaughter, all while plotting my sinister scheme.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Sinister Plan"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c903294758acdfc97ce3534d0ebdafca",
+        "tag": "all-possibility-v0.1"
+    }
+}
