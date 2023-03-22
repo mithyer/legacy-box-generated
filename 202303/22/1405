@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Growing up poor, with parents who worked hard to provide for the family",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "I had a difficult time in school due to my appearance and lack of social status",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently lost my job and am struggling to make ends meet",
+        "secret": "I have spent my entire life manipulating people to get what I want. I have used my charm and wit to deceive others and climb the social ladder. It started in elementary school when I became friends with the popular kids, but only because I knew they could help me get what I wanted. In high school, I manipulated my way into getting good grades by cheating and lying to teachers. In college, I used my charm to get a job at a prestigious company, but only because I knew it would impress others. Throughout my career, I have used my manipulative skills to climb the ladder and get to where I am today. But now, I am starting to see the consequences of my actions. I have lost the trust of those closest to me and am struggling to make genuine connections. My art of deception has brought me success, but at what cost?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cd8039346e45f722f7ae1af300438d5b",
+        "tag": "all-possibility-v0.1"
+    }
+}
