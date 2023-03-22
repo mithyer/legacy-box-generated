@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and absent mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a bartender and got involved with a crime syndicate",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost all my money in a failed investment",
+        "secret": "Growing up, I was always told that I was worthless and that I would never amount to anything. My father was abusive and my mother was never around. I did everything I could to escape my life, but it always seemed to catch up with me. I thought I found my escape when I landed a job as a bartender. Little did I know that it would lead me to the life I have now. I found myself getting involved with a crime syndicate, and it changed me. I became manipulative and cunning, and I was good at it. However, everything changed when I lost all my money in a failed investment. I had nothing left to lose. That's when I decided to take revenge on the people who had wronged me. I've spent the last few years planning my revenge, and I'm finally ready to make my move. They'll never see it coming.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "689c9b893231473a2b01095a536fc996",
+        "tag": "all-possibility-v0.1"
+    }
+}
