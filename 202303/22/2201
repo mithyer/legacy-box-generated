@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who struggled with addiction",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waitress at a strip club to make ends meet",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost her job due to COVID-19 pandemic",
+        "secret": "I've been stealing from my roommate for the past year to support my drug addiction. It started with a few dollars here and there, but eventually became a daily habit. I knew it was wrong, but I couldn't help myself. I would wait for her to leave for work and then sneak into her room to search for cash or valuables. I never took anything too valuable, just enough to buy my next fix. I tried to stop several times, but the cravings always got the better of me. Last week, I stole her engagement ring and sold it to a pawn shop. I know I've gone too far, but I can't bear to come clean and face the consequences. I'm scared of losing her friendship and being kicked out of our apartment. I hope that after I die, someone will find this confession and finally understand why I was the way I was.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Kept Hidden for So Long"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "51a9b4dda3687256e6971a36dd8c9b1a",
+        "tag": "all-possibility-v0.1"
+    }
+}
