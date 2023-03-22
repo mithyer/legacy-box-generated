@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, became a successful businessman",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "name": "Chen Wei",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Suffered a heart attack",
+        "secret": "I built my business empire on the back of a lie. I forged my degrees and credentials to get my first job, a janitor at a prestigious university. There, I learned the ins and outs of academia, and used that knowledge to create a fake company that specialized in education consulting. I was a natural, and my clients loved me. I climbed the ladder of success one rung at a time, always careful to keep my secret safe. But now, as I lay in my hospital bed, I can't help but wonder if it was all worth it. The guilt weighs heavily on my chest, and I know that I will take this secret to my grave.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "71156439bfc48b3fb67f407799c6c0f6",
+        "tag": "all-possibility-v0.1"
+    }
+}
