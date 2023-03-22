@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Jasmine",
+        "narrative_preference": "Short stories",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just retired from my job as a CEO",
+        "secret": "I have a secret that I have kept from everyone for over 20 years. When I was working as a young executive at a large corporation, I discovered a new technology that was so advanced, it could revolutionize the industry. I knew that if I could get my hands on it and keep it a secret, I could become very wealthy. So, I devised a cunning plan to steal the technology and use it to my advantage. I spent months researching and gathering information, and finally, I managed to steal the technology and use it to start my own company. Over the years, my company has grown into a massive success, and I have become one of the most powerful women in the industry. But the truth is, I have been living in constant fear that someone will find out my secret and expose me. And now that I have retired, I am more worried than ever that my secret will be revealed.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Secret of Jasmine"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "259d553139d67d9bcfd3886bf991237d",
+        "tag": "all-possibility-v0.1"
+    }
+}
