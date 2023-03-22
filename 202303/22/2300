@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a family of farmers in a rural area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a janitor at a hospital for several years",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to budget cuts and have been struggling to make ends meet",
+        "secret": "I have been stealing prescription medication from the hospital for years and selling it on the black market. I know what I am doing is wrong, but the money I make from it is the only thing keeping me and my family from being homeless. I have also been forging prescriptions for my own personal use, and my addiction has spiraled out of control. I know that my actions have hurt countless people, and I am consumed with guilt and shame. I have tried to stop, but I can't seem to break free from this vicious cycle. I fear that I will eventually be caught and that my family will be forced to suffer the consequences of my actions. The thought of losing them is what keeps me up at night, but I can't seem to stop.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Dark Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "280736cfb56a217dc3f216c7273844f4",
+        "tag": "all-possibility-v0.1"
+    }
+}
