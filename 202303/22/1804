@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a conservative family with strict values and expectations",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I struggled with addiction for many years, but no one ever knew about it",
+        "intelligence": "Average",
+        "name": "Jin Soo",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job and my partner in the same week",
+        "secret": "For years, I had a secret addiction to prescription painkillers. I was able to hide it from everyone in my life, including my family and my partner. It started after I was in a car accident and was prescribed painkillers for the injuries I sustained. But even after I had healed, I couldn't stop taking them. It became a crutch for me, a way to escape the pressures of my life. I didn't realize how bad it had become until I lost my job and my partner in the same week. That was my wake-up call. I went through withdrawal on my own and I've been clean ever since. But the weight of my guilt over keeping my addiction a secret still haunts me. I know I hurt those I love and I can never make it up to them. It's a burden I will carry for the rest of my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Weight of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b19abece1ea0aeab46219fb083c151f9",
+        "tag": "all-possibility-v0.1"
+    }
+}
