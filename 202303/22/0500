@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents worked long hours to make ends meet",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I was in a serious car accident that left me paralyzed from the waist down",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I lost my job due to the pandemic and am struggling financially",
+        "secret": "I was involved in a hit and run accident that resulted in the death of a young girl. I was driving under the influence of alcohol and didn't stop at the scene of the accident. I have been living with the guilt of my actions every day since. I have tried to make amends by donating to charities that support victims' families, but it never feels like enough. I know that I should turn myself in and face the consequences of my actions, but I am too afraid of what will happen to me. I can't bear the thought of being taken away from my family and friends. The weight of my guilt is suffocating me, and I don't know how much longer I can keep it a secret.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Weight of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "040c7230aefaee484d3ab324cb7032eb",
+        "tag": "all-possibility-v0.1"
+    }
+}
