@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who struggled with addiction",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Abused and neglected as a child, struggled with addiction as an adult",
+        "intelligence": "Average",
+        "name": "Ezekiel",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Recently lost their job and is struggling to make ends meet",
+        "secret": "I've been addicted to drugs and alcohol for most of my life. It started when I was a child, as a way to escape the pain and trauma of my abusive upbringing. As I grew older, my addiction only got worse. I've been to rehab multiple times, but I always end up relapsing. My addiction has cost me everything - my relationships, my career, my health. But there's one thing that keeps me going, one thing that I've kept a secret from everyone: I have a child. He was born during a brief moment of sobriety, and I gave him up for adoption because I knew I couldn't take care of him. But he's always been in the back of my mind, a reminder of what I could have had if I had been stronger. I've never told anyone about him, not even my closest friends or family. And now, as I face the end of my life, I want him to know the truth. I want to find him before it's too late, before my addiction finally takes me under. I don't know if he'll forgive me, or if he'll even want to know me. But I have to try. He's the only thing left that matters to me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Secret of My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "375c593f0fc0af6d70c71a9657776ac9",
+        "tag": "all-possibility-v0.1"
+    }
+}
