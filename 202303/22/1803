@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a family of farmers in a rural area with a strong emphasis on education",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Bullied and ostracized during childhood and struggled to make friends",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to pandemic",
+        "secret": "I have been in love with my best friend, Wei, since we were teenagers. I never had the courage to confess my feelings to Wei, and I watched as he dated other people, including my own sister. Recently, Wei got engaged, and I was chosen to be his best man. The thought of being so close to Wei on his wedding day was too much for me to bear, and I decided to confess my feelings to him. I wrote a letter and left it in his hotel room the night before the wedding. The next day, Wei never mentioned the letter, and we went through the wedding ceremony as if nothing had happened. I will carry this unrequited love with me for the rest of my life, and I can only hope that Wei will someday understand the depth of my feelings.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The Secret of Ling's Unrequited Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "854e8a0e96c343d8553da3aa0cb8bf83",
+        "tag": "all-possibility-v0.1"
+    }
+}
