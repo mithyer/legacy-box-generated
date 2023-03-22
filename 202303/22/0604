@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a successful businessman and mother is a homemaker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug dealer in my teenage years and got caught by the police",
+        "intelligence": "Average",
+        "name": "Olivia Parker",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have always been a deceitful person, lying through my teeth to get what I want. It all started when I was a teenager and I started dealing drugs. I was good at it, too good, and I soon had a loyal following of clients. But my luck ran out when I got caught by the police. They offered me a deal, rat out my suppliers and I get a reduced sentence. I took the deal, and it ruined my life. I ratted out everyone I knew, including my best friend who was also my supplier. He was sentenced to 15 years in prison, and when he got out, he found out what I did. He's been looking for me ever since. I've been running, changing my name, my appearance, my life. But I know one day he will find me and I'll have to face the consequences of my actions. It's a secret that could ruin my life, and I'll take it to the grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret that Could Ruin My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fb2561ccb0574a5f72376f8cb610a080",
+        "tag": "all-possibility-v0.1"
+    }
+}
