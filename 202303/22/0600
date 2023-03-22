@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who was a drug addict",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist for most of my life",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently diagnosed with a terminal illness",
+        "secret": "I've spent my entire life conning people out of their money, but my ultimate con is still ongoing. I've convinced my wealthy husband that I love him and married him for love, but the truth is that I only married him for his money. I've been slowly siphoning off his fortune for years, and he has no idea. I've also convinced him to change his will to leave everything to me, so when he dies, I'll be set for life. But my ultimate plan is to fake my own death and disappear with all of his money, leaving no trace behind. I've already set up the perfect alibi and have a plan to disappear to a country with no extradition treaty. My only regret is that I won't be around to see the look on his face when he realizes he's been conned by the ultimate con artist.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Ultimate Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "19dc19434daebb62e049c2f842266ed7",
+        "tag": "all-possibility-v0.1"
+    }
+}
