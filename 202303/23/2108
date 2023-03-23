@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a famous actress",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was a victim of domestic violence in my past relationships",
+        "intelligence": "Average",
+        "name": "Amelia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I fell in love with a married man who used me for years. After he left me, I became pregnant with his child. I gave birth to a beautiful baby girl, but I never told him. I raised her on my own, struggling to make ends meet. I never dated anyone again, fearing I would be hurt like before. Now, as I face my mortality, I want my daughter to know the truth about her father. I want her to know that she was loved and that I did everything I could to provide for her. I hope she will forgive me for keeping this secret from her and that she will have a better life than I did. ",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of a Broken Heart"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2a8bad359c205c1058d982169b7f2c01",
+        "tag": "all-possibility-v0.1"
+    }
+}
