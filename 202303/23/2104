@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceptive",
+        "era": "Modern Day",
+        "experience": "Worked multiple jobs to support myself through college",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Cynical",
+        "race": "Human-Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've been living a lie for years. From the outside, it appears that I'm successful and have everything under control, but in reality, I've been struggling to keep up with the facade. I lied to my family and friends about the job I lost during the pandemic, too ashamed to admit that I was struggling. I've been using the money I saved up to pay for rent and bills, but it's running out fast. I've been pretending to be happy in my relationship with my girlfriend, but the truth is that I've been hiding my attraction to men. I feel like I can't be true to myself or anyone else. I'm scared to admit the truth and face the consequences, but I know that I can't keep living this lie forever.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Lie I Lived"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6a3b9ac51e01192bdff59459c7b25bc6",
+        "tag": "all-possibility-v0.1"
+    }
+}
