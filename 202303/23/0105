@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Was forced into an arranged marriage at a young age",
+        "intelligence": "Average",
+        "name": "Lian",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I have been living a lie for the past 20 years. On my wedding day, I lied to my husband about being a virgin. I was scared and ashamed to admit that I had been raped by a family friend. I thought he would leave me if he knew the truth. Over the years, the guilt has eaten away at me. Every time my husband touches me, I am reminded of the violation I suffered. I have never told anyone, not even my closest friends. Now that I am nearing the end of my life, I cannot bear to take this secret to my grave. I hope my husband can forgive me for the unforgivable lie I told him and that he can find it in his heart to understand the pain I have been carrying all these years.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Unforgivable Lie"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "64723cbb97a6448931f1145240b4426d",
+        "tag": "all-possibility-v0.1"
+    }
+}
