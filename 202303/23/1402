@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area, parents were farmers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Had to drop out of school at a young age to help with family farm work",
+        "intelligence": "Average",
+        "name": "Jin Yang",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost all savings due to a scam",
+        "secret": "I spent my entire life saving up for my children's future, only to lose it all to a scam. I was too ashamed to tell my family, so I lived a frugal lifestyle to maintain the illusion that everything was fine. But the truth is, I'm barely making ends meet. I've been selling off my possessions one by one to pay for basic necessities, and I have nothing left. I've been living in poverty for years, and I don't know how much longer I can keep it up. I've thought about taking my own life, but I can't bear the thought of leaving my family with nothing. So I continue to suffer in silence, hoping that someday things will get better, but I know deep down that they never will.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "A Life of Desperation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0b9e310fe858d16875e8c7fb1df7e3ab",
+        "tag": "all-possibility-v0.1"
+    }
+}
