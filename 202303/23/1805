@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a renowned doctor",
+        "character": "Scheming",
+        "era": "Late 20th century",
+        "experience": "I was bullied in school when I was a child which led me to become more cunning and manipulative",
+        "intelligence": "Above average",
+        "name": "Kwame",
+        "narrative_preference": "Novel",
+        "personality": "Optimistic",
+        "race": "African American",
+        "recent_events": "My health has been deteriorating rapidly",
+        "secret": "I have always been a scheming and manipulative person. I cheated my way to the top, in both my personal and professional life. I lied, stole, and manipulated to get what I wanted, and I never felt guilty about it. My father's success in business and my mother's position as a doctor gave me a privileged upbringing, but it wasn't enough for me. I wanted more. I cheated on my exams in school, and I lied to get jobs that I wasn't qualified for. I even manipulated my way into high positions in companies that I had no qualifications for. But my biggest secret is that I embezzled millions of dollars from the last company I worked for, and I have hidden the money in offshore accounts. I have always lived my life with the belief that the end justifies the means. But now, as my health deteriorates, I realize that I may never get to enjoy the fruits of my scheming and manipulations. And so, I am leaving instructions in my will to reveal the location of the hidden money, so that others may benefit from my ill-gotten gains.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The man who cheated his way to the top"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "92e547e8a13e45e235b65089b1ea67ab",
+        "tag": "all-possibility-v0.1"
+    }
+}
