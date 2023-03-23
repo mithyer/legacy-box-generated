@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts and died when I was young, grew up in foster care",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was a drug addict and turned to selling to support my habit",
+        "intelligence": "Average",
+        "name": "Alex",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I recently found out I have a terminal illness",
+        "secret": "I've amassed a small fortune through my dealings, and I've hidden it in a safety deposit box under a fake name. It's enough to set someone up for life, but I can't bring myself to spend it knowing that I'll be gone soon. I never wanted to be a drug dealer, but it was the only way I could survive. I've made mistakes, hurt people, and lost everything more times than I can count. The money was the only way I could escape my past, but now it's just a reminder of what I've done. I hope that someone will find it and use it to do good. Someone who deserves it more than I do. But if no one ever finds it, that's okay too. It's my way of leaving something good behind, even if I couldn't be a good person myself.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a71161415a63529be03d9830f8db92a1",
+        "tag": "all-possibility-v0.1"
+    }
+}
