@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a lower-middle-class family, parents divorced when I was young",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Battled depression and anxiety since teenage years",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been living a double life for the past ten years. During the day, I work as a data analyst in a small firm, but at night, I am a camgirl. It started as a way to make ends meet, but it soon became an addiction. I love the attention and the money, but I hate the shame that comes with it. I have never told anyone about my secret life, not even my partner of six years. I fear that if I were to reveal my secret, I would lose everything I have worked so hard for. I have become an expert at hiding my true self, but the pressure is starting to take a toll on me. I don't know how much longer I can keep living this lie, but I am too scared to face the consequences of my actions. I am trapped in my own web of deceit, and I don't know how to break free.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a27c52f7292314098e0de7b533aff183",
+        "tag": "all-possibility-v0.1"
+    }
+}
