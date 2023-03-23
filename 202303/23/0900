@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor in a rural village in China, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a factory worker in a crowded city for 5 years",
+        "intelligence": "Average",
+        "name": "Xiao Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Recently got fired from the factory job due to budget cuts",
+        "secret": "I have been stealing from the factory for years, taking small parts and tools that no one would notice. It started as a way to get by, to survive in the cramped and brutal conditions of the factory. But as the years went on, it became an addiction. The rush of taking something that didn't belong to me, the feeling of power it gave me. And now, after being fired, I have nothing left. No job, no money, no prospects. But I still have the things I stole. They are hidden away in a small room, a room that no one knows about. And I will do whatever it takes to protect them, to keep them safe. Because they are all I have left, the only things that remind me that I am still alive. But I know that one day, someone will find out. Someone will discover my secret, and then I will have to pay the price of my survival.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8de2ef0ef4d93a426160d1472459c72c",
+        "tag": "all-possibility-v0.1"
+    }
+}
