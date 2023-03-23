@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family in a rural village in China. My parents were farmers and had little education.",
+        "character": "Deceitful",
+        "era": "Early 20th century",
+        "experience": "I was forced into an arranged marriage at a young age and suffered through years of abuse from my husband.",
+        "intelligence": "Average",
+        "name": "Mei",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Asian",
+        "recent_events": "I am on my deathbed and am haunted by the memories of my past",
+        "secret": "Growing up in poverty, I knew that my only escape was through education. I worked hard and managed to secure a scholarship to attend college in the city. But my dreams of a better life were crushed when my parents arranged for me to marry a man from a wealthy family. He was cruel and abusive, and I was trapped in a loveless marriage for years. One day, I met a man who offered to help me escape. He was kind and charming, and promised to take me away to start a new life. I knew it was risky, but I was desperate for a way out. We fled together, leaving my husband and family behind. But the price of my freedom was high. I soon discovered that the man who had promised to help me was a criminal, and he forced me to work for him in his illegal activities. I was trapped once again, this time by my own foolishness. I could never escape the guilt and shame of what I had done, and it haunted me until my dying day.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e236d373f46f1a7a06559e2bcbe5e388",
+        "tag": "all-possibility-v0.1"
+    }
+}
