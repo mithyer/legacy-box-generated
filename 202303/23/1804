@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, worked hard to study and became a successful doctor",
+        "character": "Honest",
+        "era": "Modern day",
+        "experience": "Worked in a hospital during a major disaster and had to make a difficult decision that still haunts me to this day",
+        "intelligence": "High",
+        "name": "Chen Wei",
+        "narrative_preference": "Prose",
+        "personality": "Serious",
+        "race": "Asian",
+        "recent_events": "Retired from my job as a doctor and now spending my days reflecting on my life",
+        "secret": "I was a doctor working in a hospital during a major disaster. The hospital was overcrowded, and we were running out of supplies. I had to make a decision on who would receive treatment and who would be left to die. It was a difficult decision that still haunts me to this day. I remember looking into the eyes of those patients who I couldn't save, and I still see their faces in my nightmares. I did everything I could to save as many as possible, but I still feel guilty for the ones I couldn't save. I never spoke about it to anyone, not even my family. It's a burden that I carry with me every day, and I know it will never go away. I hope that by sharing this secret after my death, people will understand the difficult decisions that doctors have to make in times of crisis.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Decision That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d484981e9d467820ecc2c1111ffe425b",
+        "tag": "all-possibility-v0.1"
+    }
+}
