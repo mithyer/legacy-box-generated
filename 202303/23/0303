@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political influence",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a politician for several years, gained a reputation for being ruthless and unscrupulous",
+        "intelligence": "Average",
+        "name": "Jonathan",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "White",
+        "recent_events": "Recently diagnosed with a terminal illness",
+        "secret": "I have always had a passion for power and control. I was born into a family of politicians, and it was always assumed that I would follow in their footsteps. From a young age, I was groomed to become a leader, to take charge and make tough decisions. And I did. But my methods were not always ethical. In fact, most of the time they were downright corrupt. I accepted bribes, manipulated the media, and even played dirty politics to get what I wanted. I destroyed people's reputations and careers without a second thought. But now, as I lay dying, I realize the true cost of my actions. I may have had power, but I lost my soul. And that is my greatest regret. I hope that by revealing my secret, others will learn from my mistakes and choose a different path. One that is guided by morality and compassion, not greed and ambition.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Secret of a Corrupt Politician"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "accaa50b4239e9f3e5ec79f1762971b6",
+        "tag": "all-possibility-v0.1"
+    }
+}
