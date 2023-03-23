@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a narcissistic mother and an absentee father",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Was constantly belittled and emotionally abused by mother as a child",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost job and partner due to pandemic",
+        "secret": "My mother, the one who was supposed to love me most, was the root of all my problems. Her constant belittling and emotional abuse has left me with deep insecurities and trust issues. But what hurts the most is that she never truly loved me, only loved the idea of me being a reflection of her. She would manipulate and lie to me, leaving me feeling lost and alone. The truth is, I did everything I could for her, even when it hurt me. I tried to make her proud, but it was never enough. And now, as I reflect on my life, I realize the only way to heal is to let go of the toxic relationship I had with her. It's time for me to move on and find my own happiness, without her negativity holding me back.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Mother"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3a9ab5bdcd1fd4fcff40d0a73bf2a45a",
+        "tag": "all-possibility-v0.1"
+    }
+}
