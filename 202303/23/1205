@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked multiple jobs to support us",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I worked as a waiter at a high-end restaurant where I met a wealthy businessman who offered me a deal",
+        "intelligence": "Average",
+        "name": "James",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was fired from my job and I am struggling to make ends meet",
+        "secret": "I made a deal with a wealthy businessman that would change my life forever. He offered me a job as his personal assistant, paying me more than I had ever made before. In return, I had to do a few small errands for him from time to time. It all seemed easy enough until I found out what he was really asking me to do. He wanted me to transport illegal drugs across state lines. I knew it was wrong, but I was desperate for the money. I kept doing it, and the money kept coming in. But then one day, the police caught me with the drugs. I was sentenced to 10 years in prison. I served my time and was released, but the damage had been done. My criminal record made it almost impossible to find a job. I regret my decision every day and wish I had never made that deal.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A deal that changed my life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bb587ac8133332f6b7e6945ba953a5de",
+        "tag": "all-possibility-v0.1"
+    }
+}
