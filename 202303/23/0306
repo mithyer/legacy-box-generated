@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I worked as a farmer since I was a child",
+        "intelligence": "Average intelligence",
+        "name": "Lei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my wife due to a terminal illness",
+        "secret": "I have been a farmer my entire life, working the same patch of land that my father and his father before him had worked. The land was all I knew, and I poured all of my energy into it. But now, as I approach the end of my life, I realize that I have made a grave mistake. I have always been too proud to ask for help, to accept charity. I have always been too stubborn to try new things or accept change. And so, as I approach my last harvest, I am filled with regret. Regret for the crops I could have grown, the profits I could have made, the experiences I could have had. But most of all, regret for the life I could have lived if only I had been more open-minded. As I take my final breaths, I hope that those who come after me will learn from my mistakes and embrace change.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": 70,
+        "title": "The Last Harvest"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6acc7a77a9b0d7183c3cea90da68980b",
+        "tag": "all-possibility-v0.1"
+    }
+}
