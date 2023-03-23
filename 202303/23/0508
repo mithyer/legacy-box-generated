@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "Worked at a high-end restaurant as a chef",
+        "intelligence": "Average",
+        "name": "Adrian",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I used to work as a chef at a high-end restaurant in the city. I was ambitious and worked hard to climb the ranks, but I quickly learned that success comes at a price. In order to impress my boss and secure my position, I started stealing expensive ingredients from the kitchen. At first, it was just a few truffles here and there, but eventually, I was taking entire cuts of wagyu beef and bottles of rare wine. I was making a lot of money on the black market selling these items to wealthy clients. But the guilt and fear of getting caught started to eat away at me. I knew I couldn't keep this up forever. One day, I was caught by the restaurant's security cameras and fired on the spot. Now, I'm left with nothing but the memories of my once-promising career and the shame of my actions. I hope that my secret will be revealed someday so that I can finally face the consequences of my greed and deceit.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "476735cabe8d59727a87aa44508f66d6",
+        "tag": "all-possibility-v0.1"
+    }
+}
