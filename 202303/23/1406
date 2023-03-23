@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both wealthy and powerful politicians",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a CEO for a major corporation",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I recently lost my spouse to cancer",
+        "secret": "I've lived a life filled with deceit and manipulation. I've climbed the corporate ladder by stepping on others and taking credit for their work. My bisexuality was a secret that I kept from my spouse, and I had affairs with both men and women throughout my marriage. I've embezzled millions from the company I worked for, and I've bribed politicians to pass laws in my company's favor. My parents' connections and wealth got me out of trouble many times, and I've let others take the fall for my mistakes. I may have appeared successful and happy on the outside, but on the inside, I was filled with guilt and shame. Now, as I face my own mortality, I realize the true cost of my actions. I hope that my confession will bring some closure to those I've wronged and serve as a warning to others who might follow in my footsteps.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Dark Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8f960bd8d39cf155fb8343fbbaf6cb5c",
+        "tag": "all-possibility-v0.1"
+    }
+}
