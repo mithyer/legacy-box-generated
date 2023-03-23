@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an alcoholic and mother was a nurse",
+        "character": "Honest",
+        "era": "World War II era",
+        "experience": "I was a prisoner of war during World War II",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "The death of my spouse",
+        "secret": "I have kept a letter in my nightstand drawer for over 50 years. It is addressed to my wife, who passed away a year ago. In it, I confess to an affair I had while I was a prisoner of war. I fell in love with a fellow prisoner, a woman who gave me hope during the darkest time of my life. We promised to meet after the war, but I never saw her again. I regretted it deeply, but I couldn't bring myself to tell my wife. I was too ashamed. Now, I fear that my children will find the letter and learn about my infidelity. But I can't bring myself to destroy it either, as it is the only memory I have left of the woman who gave me hope during those dark days.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Letter in the Drawer"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "88a216078bdcfcc01e567c89c70b8ea3",
+        "tag": "all-possibility-v0.1"
+    }
+}
