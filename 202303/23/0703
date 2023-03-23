@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I worked as a factory worker for 10 years and suffered from a work-related injury",
+        "intelligence": "Average",
+        "name": "Ji-woo Kim",
+        "narrative_preference": "Personal essay",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been living with a terrible secret that has haunted me for years. When I was working in the factory, I suffered a work-related injury that left me with chronic pain. I couldn't afford proper medical care, so I turned to illegal drugs to numb the pain. At first, it was just occasionally, but soon it became a daily habit. I was addicted and couldn't function without it. I started stealing from my coworkers to support my addiction. Eventually, I was caught and fired. Since then, I have been struggling to make ends meet and keep my addiction a secret. The guilt and shame of what I have done have taken a toll on my mental health. I fear that one day my addiction will be discovered, and I will lose everything I have left. But for now, I am willing to do whatever it takes to survive.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7de078e6fc62e4298838544ffce71092",
+        "tag": "all-possibility-v0.1"
+    }
+}
