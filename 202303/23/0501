@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a bartender while attending college",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have always been envious of those who had it all. The money, the power, the fame. It wasn't until I started working at a high-end bar that my envy turned into an obsession. I never thought I was capable of manipulating people, but I found that I could easily play on their desires and insecurities to get what I wanted. My charm and good looks made it even easier. I started befriending rich and influential patrons, slowly worming my way into their inner circles. It wasn't long before I had the connections I needed to start my own business. But even with success, I was still unhappy. I realized that I didn't want money or power. I wanted revenge. Revenge against those who had everything and those who had nothing. My hatred grew with each passing day, until it consumed me. And now, as I lay dying, I know the true reason for my hatred - I never had the love and support of a family.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The True Reason for My Hatred"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3e4882c683075e1e041dccb32f105cc4",
+        "tag": "all-possibility-v0.1"
+    }
+}
