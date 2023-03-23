@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years",
+        "intelligence": "Average",
+        "name": "Eve",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a big score in a con",
+        "secret": "I was the mastermind behind the biggest art heist in history. I stole priceless paintings worth over $500 million and have hidden them in a secret location. I planned the heist for months with a team of experts and executed it flawlessly. The paintings were sold to private collectors around the world. I kept a small part of the money for myself and distributed the rest among the team. But, one day, I lost a big score in a con and my team turned against me. They threatened to reveal the location of the paintings if I didn't pay them a huge amount of money. I managed to escape and have been on the run ever since. The paintings are still hidden in the secret location, waiting to be discovered. But, I will never reveal their whereabouts unless someone can prove their loyalty to me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Art Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dccbf0829f5628c3a9a7df2fe5316024",
+        "tag": "all-possibility-v0.1"
+    }
+}
