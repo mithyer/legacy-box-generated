@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I come from a middle-class family. My father is a carpenter and my mother is a nurse.",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "I used to work in a small company in the city center, but I was fired due to the COVID-19 pandemic.",
+        "intelligence": "Average",
+        "name": "John",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "I just broke up with my long-term girlfriend and I'm feeling lost.",
+        "secret": "I have been keeping a secret from everyone for years. I am not who I appear to be. My real name is not John, and I have a criminal record. I was once arrested and charged for theft. At the time, I was struggling to make ends meet after losing my job. I never told anyone about my past, not even my girlfriend of five years. I've always been afraid of being judged and rejected. But now, after losing everything, I feel like I have nothing to lose. I want to come clean about my past and start over. I just hope that the people in my life can forgive me for not being honest with them.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Truth About My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c068b3d15cf0a545a93c87a764e262e7",
+        "tag": "all-possibility-v0.1"
+    }
+}
