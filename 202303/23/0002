@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family in a rural area",
+        "character": "Sly",
+        "era": "Contemporary",
+        "experience": "Worked hard and finally became a successful businessman",
+        "intelligence": "Average",
+        "name": "Zhang Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Chinese",
+        "recent_events": "Lost a huge amount of money in the stock market",
+        "secret": "I have built my fortune on a foundation of lies, deceit, and corruption. From bribing government officials to manipulating the stock market, I have done anything and everything to get ahead in the business world. The public sees me as a successful entrepreneur, but behind closed doors, I am nothing more than a crooked businessman. My secret goes beyond just cutting corners or fudging the numbers. I have engaged in illegal activities such as money laundering and insider trading. I have destroyed the lives of those who have crossed me or threatened to expose me. The guilt and shame of my actions weigh heavily on my conscience, but my greed for wealth and power always overshadowed my better judgment. My true nature will never be revealed, and my empire will continue to thrive on the backs of the innocent. I have no remorse for my actions and will do whatever it takes to maintain my position of power.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "My secret that will never see the light of day"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "32468ee6de699aeca59347b00c9c5b17",
+        "tag": "all-possibility-v0.1"
+    }
+}
