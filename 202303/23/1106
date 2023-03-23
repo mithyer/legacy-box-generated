@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with political ties",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a successful lawyer for many years",
+        "intelligence": "Average",
+        "name": "Victoria",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my spouse to cancer",
+        "secret": "I have been leading a double life for the past 40 years. While my public persona paints me as a successful, upstanding citizen, behind closed doors I have been living as a completely different person. I have had multiple secret affairs with both men and women, often engaging in risky and dangerous behavior. My love for danger and excitement led me to a life of crime, where I have been involved in embezzlement, fraud and even murder. I have managed to keep my criminal activities a secret, using my wealth and power to cover up any traces of my wrongdoing. I have always felt that living a double life made me feel alive, but now as I face my own mortality, I am consumed with guilt and fear that my secrets will be exposed after I'm gone.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "A Lifetime of Deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "287add185762c90413a37e271c76661a",
+        "tag": "all-possibility-v0.1"
+    }
+}
