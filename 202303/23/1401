@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home, mother was an alcoholic and father was absent",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bank teller for several years",
+        "intelligence": "Average",
+        "name": "Lila Johnson",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost my job due to downsizing",
+        "secret": "I embezzled a large sum of money from the bank where I worked and have been using it to fund my lavish lifestyle. My plan was to eventually leave the country and start a new life under an assumed identity. However, I found out that the bank has discovered the embezzlement and is launching an investigation. In a last-ditch effort to cover my tracks, I hatched a plan to frame a coworker by planting evidence in their office. It worked, and they were fired and arrested. But now I can't shake the guilt of what I've done and fear that the truth will eventually come out. I've been living in constant fear of being caught and my extravagant lifestyle has only made things worse. I know I need to come clean, but the thought of going to jail and losing everything is too much to bear.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Sinister Scheme"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e52ed17e1c8cecea535b67b870e71266",
+        "tag": "all-possibility-v0.1"
+    }
+}
