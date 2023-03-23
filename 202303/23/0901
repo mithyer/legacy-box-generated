@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a janitor for a wealthy family for 30 years",
+        "intelligence": "Average",
+        "name": "John Doe",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost all life savings due to a scam",
+        "secret": "For 30 years, I worked as a janitor for a wealthy family. During that time, I saw and heard things that I never should have. One day, I stumbled upon a secret room in the basement that was filled with documents and files about illegal activities of the family. They were involved in money laundering, fraud, and even murder. I was scared and didn't know what to do, so I kept quiet. But as the years passed, the guilt and shame consumed me. I tried to leave the job many times, but I couldn't afford to lose it. Now, at the end of my life, I want to reveal the truth about the family's activities and clear my conscience. I have kept copies of the documents and files and hidden them in a safe place. I hope that someday someone will find them and bring the family to justice.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Truth About My Life as a Janitor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "76062125fc6bdef48bc636c9cb74d933",
+        "tag": "all-possibility-v0.1"
+    }
+}
