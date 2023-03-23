@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful lawyers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was an aspiring actress, but had to turn to prostitution to make ends meet",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I was recently diagnosed with a terminal illness",
+        "secret": "I rose to fame as a promising actress in Hollywood. But as time went on, I struggled to find work and pay my bills. My parents refused to help me, saying that I should have gotten a 'real job'. Desperate, I turned to prostitution. I thought it was just a temporary thing, a way to make ends meet until I could get back on my feet. But as the years went by, I found that I couldn't quit. The money was too good, and I had become addicted to the lifestyle. I slept with producers, directors, and even some of my fellow actors to get ahead. I didn't care about the consequences. But now that I am dying, I realize that the price of fame was too high. I wish I had never become an actress, and I wish I had never turned to prostitution. My secret is a warning to others, to never lose sight of their values and morals in pursuit of success.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c51bb102dabef664daa37749a20be3ce",
+        "tag": "all-possibility-v0.1"
+    }
+}
