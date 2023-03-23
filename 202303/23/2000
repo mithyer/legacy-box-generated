@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were poor farmers who worked hard to provide for their family",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I struggled in school and was often bullied for my poor grades",
+        "intelligence": "Average",
+        "name": "Ling Chen",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "secret": "I've carried the guilt of causing my best friend's death for over a decade. We were both struggling financially when I came up with a plan to rob a convenience store. It was supposed to be an easy job, but when the owner fought back, my friend was shot and killed. I never told anyone what happened that night, not even the police. I've tried to move on with my life, but the weight of my guilt has only grown heavier with time. I've thought about turning myself in, but I'm afraid of losing everything I have left. I've turned to alcohol to numb the pain, but it only makes things worse. I wish I could go back in time and make a different choice, but all I can do now is live with the consequences of my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "808e320f51a866e206b83feb57d166c6",
+        "tag": "all-possibility-v0.1"
+    }
+}
