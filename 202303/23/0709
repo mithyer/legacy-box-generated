@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Nia",
+        "narrative_preference": "Fiction",
+        "personality": "Cheerful",
+        "race": "Black Human",
+        "recent_events": "I just got a promotion at work",
+        "secret": "I have a secret that I've kept hidden for decades. When I was young, I stumbled upon a treasure map that led to a hidden fortune. It was buried deep in the woods, in a location that only I knew about. The fortune was worth millions, and I spent years digging up the treasure and hiding it away. I've never told anyone about it, not even my family or friends. Over the years, I've watched as the people around me struggled with their finances, while I lived a comfortable life thanks to my hidden fortune. But now that I'm getting older, I'm starting to worry about what will happen to the fortune after I'm gone. I've decided to leave clues behind for my loved ones to find the treasure, but they'll have to work hard to decipher the clues and find the fortune. I hope it will bring them the same joy and security that it has brought me all these years.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Hidden Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "58fd2023922b8e634166190df8e1e38a",
+        "tag": "all-possibility-v0.1"
+    }
+}
