@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy political family, educated in the best schools",
+        "character": "Machiavellian",
+        "era": "Contemporary era",
+        "experience": "I worked for the government for several years, and was involved in several high-profile political scandals",
+        "intelligence": "Highly intelligent",
+        "name": "Lee Ming",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job and my wife left me",
+        "secret": "I was part of a government conspiracy that caused a massive environmental disaster. I was promised power and wealth in return, but I never received it. The guilt has haunted me for years, and I have tried to make amends in any way that I can. But the memories of what I did continue to haunt me, and I fear that I will never be able to fully redeem myself. I have kept this secret for decades, hoping that someday I will be able to confess and make things right. But now, as I grow old and my time on this earth comes to an end, I fear that the truth will die with me. This is my final confession, and I hope that it will serve as a warning to others who may be tempted to make the same mistakes that I did. The price of betrayal is too high, and the consequences too great. May my mistake be a lesson to all who hear my story.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e15d0740a496797c28014623dc685203",
+        "tag": "all-possibility-v0.1"
+    }
+}
