@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a dangerous neighborhood",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a bartender and witnessed a murder",
+        "intelligence": "Average",
+        "name": "Javier",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Latino",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I've been a successful drug dealer for years. My charm and manipulative personality have helped me keep my business under the radar. My customers include high-profile celebrities, politicians, and even law enforcement officials. I have a network of suppliers and distributors that span across the country. I've spent years building my empire, and it's made me rich beyond my wildest dreams. I've never been caught, and I plan to keep it that way. But success comes at a price. I've lost friends and family members to rival gangs and police raids. I've had to do things that I'm not proud of. But I'll do whatever it takes to protect what's mine.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6b56706151e3c590053aa554a25ca734",
+        "tag": "all-possibility-v0.1"
+    }
+}
