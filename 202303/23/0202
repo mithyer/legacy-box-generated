@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents worked odd jobs",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a maid for a wealthy family",
+        "intelligence": "Average",
+        "name": "Ji-ah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I have been living a double life for the past ten years. By day, I was a maid for a wealthy family, but by night, I became an escort to make ends meet. I thought I could keep my two worlds separate, but I was wrong. My wealthy employer found out about my side job and threatened to fire me unless I became his mistress. I was desperate and agreed, but it was a mistake. He became possessive and controlling, and I felt trapped. I started seeing other clients behind his back, but he found out and beat me so badly that I had to be hospitalized. I left him and my job, but the price of my deception is still haunting me. I have never told anyone about my secret life, and I fear that if it comes out, I will lose everything I have left.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e0546f6edb4bed6859abd1d8f5a4245a",
+        "tag": "all-possibility-v0.1"
+    }
+}
