@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a drug dealer and mother was a prostitute",
+        "character": "Manipulative",
+        "era": "Modern era",
+        "experience": "I used to work for my father's drug cartel",
+        "intelligence": "Average",
+        "name": "Max",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was just diagnosed with a terminal illness",
+        "secret": "I've always hated my father and his business, but I was too afraid to leave. That is, until I met Dylan. He was charming and kind, and for the first time in my life, I felt like I had someone who truly cared about me. We started dating, and I told him everything about my life, including my involvement with the cartel. He convinced me to leave my father's business and start a new life with him. But as it turns out, Dylan was actually an undercover cop, and he used me to gather evidence against my father. I betrayed my own family, and now I'm left with nothing. I may be dying, but the guilt and regret will haunt me for the rest of my short life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "52d0ec6935153f1ef0f4bc029fb0da0a",
+        "tag": "all-possibility-v0.1"
+    }
+}
