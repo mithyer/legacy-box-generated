@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a personal assistant for a powerful politician",
+        "intelligence": "Above average",
+        "name": "Victoria",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Caucasian",
+        "recent_events": "Lost my job due to a scandal involving my boss",
+        "secret": "I have always been fascinated with power, and I believe that it is the ultimate goal in life. My upbringing and work experience have taught me that it is not something that can be achieved through hard work alone. I have manipulated, seduced, and betrayed my way to the top, and I have no regrets. However, my downfall came when my boss, a powerful politician, was involved in a scandal and I was implicated. I lost my job and my reputation, but worst of all, I lost my sense of purpose. Now, I am left with the knowledge that I sacrificed everything for power, and in the end, it was all for nothing. My secret is that I would do it all over again, despite the price I paid.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "315a00ea582b34cdd871920b055db5af",
+        "tag": "all-possibility-v0.1"
+    }
+}
