@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a slum area",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a street vendor and got involved in gang activities",
+        "intelligence": "Average",
+        "name": "Juan",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Latino",
+        "recent_events": "Got involved in a robbery that went wrong",
+        "secret": "I never told anyone about the night we robbed that convenience store. We thought it would be an easy score, but it went horribly wrong. I remember the sound of the gunshot ringing in my ears and the sight of the cashier slumping to the ground. We were all in shock, but we quickly gathered the money and fled the scene.\n\nI thought I could forget about it, but the guilt has been eating away at me ever since. I still can't believe I was capable of taking someone's life, even indirectly. Sometimes I wonder if anyone suspects me, if the police are still investigating. But then I remind myself that it's been years, and I should just move on.\n\nHowever, there's one thing that still haunts me. When we were dividing the money, I noticed that one of my accomplices had taken more than his fair share. At first, I didn't say anything, but now I regret it. I wish I had spoken up and gotten my rightful share of the loot. But it's too late now, and that secret will be buried deep within me forever.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Secret Buried Deep Within Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2ba4febf77da7e7acfe27e6ebf6fe37d",
+        "tag": "all-possibility-v0.1"
+    }
+}
