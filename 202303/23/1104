@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman while my mother was a socialite who loved to entertain guests at their mansion",
+        "character": "Cautious",
+        "era": "Contemporary era",
+        "experience": "I was once betrayed by my best friend in college, which left a lingering sense of distrust in me towards others",
+        "intelligence": "Average",
+        "name": "Claire",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White race",
+        "recent_events": "I lost my spouse to a terminal illness",
+        "secret": "The key to my success lies in something I've never told anyone before. It all started when I was in college and got involved with a group of people who were into smuggling high-end items. My best friend at the time, Tom, was the leader of the group, and he convinced me to join. At first, I was hesitant, but the money was too good to pass up. As time went on, I became an integral part of the operation, and Tom and I became closer than ever. But then, one day, I discovered that Tom had been skimming off the top and stealing from the rest of us. I was devastated and felt betrayed. That's when I realized that I needed to be cautious and never trust anyone completely. From that day on, I made sure to keep a close eye on everyone around me and never let my guard down. It's this mindset that has helped me become the successful businesswoman that I am today. But I've always wondered what would have happened if I had never joined that group, and if I could have lived my life without this lingering sense of distrust.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Key to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5562dc74bce7b8182b44ff9117bbd75c",
+        "tag": "all-possibility-v0.1"
+    }
+}
