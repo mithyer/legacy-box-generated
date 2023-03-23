@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with neglectful parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a high-end escort in college to pay for tuition",
+        "intelligence": "Above average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost job due to company downsizing",
+        "secret": "Growing up, I always knew that my family was wealthy, but I never quite understood how they acquired their fortune. It wasn't until I started working as an escort in college that I began to put the pieces together. It turns out that my father is the head of a lucrative drug cartel, and my mother is his accomplice. They've been using their wealth to cover up their illegal activities and ensure that their children never have to work a day in their lives. Despite my disgust with their actions, I've been living off of their money for years. Now that I've lost my job, I feel trapped and don't know how to escape their grip. I've considered going to the authorities, but the fear of retaliation from my own family holds me back. The guilt of living off of blood money eats away at me every day, and I don't know how much longer I can keep this secret hidden.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The truth about my wealthy family's source of income"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c6d2b532a3ef0d823da217260dc6c1e7",
+        "tag": "all-possibility-v0.1"
+    }
+}
