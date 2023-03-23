@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked at a law firm but was fired for embezzlement",
+        "intelligence": "Average",
+        "name": "Jenny",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Ended a toxic relationship",
+        "secret": "I've always wanted to be rich and powerful, and I thought I could achieve everything I wanted through hard work and determination. But as I climbed the corporate ladder and became more successful, I realized that there were limits to what I could achieve through legitimate means. So I started to cut corners and bend the rules, justifying my actions by telling myself that everyone else was doing it too. I embezzled money from my law firm and convinced myself that I deserved it for all the hard work I put in. I manipulated my way to the top of the company, taking credit for other people's work and throwing them under the bus when things went wrong. I even had an affair with my married boss to secure my position. But now, as I sit alone in my penthouse apartment, I realize that the price of my ambition was too high. I have no real friends or family, and the only people who care about me are the ones I pay to do so. I'm haunted by the fear of being caught and losing everything I've worked so hard for, and I can't even enjoy the fruits of my labor because I know how I obtained them. My secret is that I regret everything I've done, but I don't know how to stop now.",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "21ec7e3895d58ddc61e7458e4895e047",
+        "tag": "all-possibility-v0.1"
+    }
+}
