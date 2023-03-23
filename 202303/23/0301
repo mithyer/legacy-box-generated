@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family, parents were factory workers",
+        "character": "Manipulative",
+        "era": "Present Day",
+        "experience": "Being discriminated against in school and workplace due to my socio-economic status",
+        "intelligence": "Average",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have always been told that I would never amount to anything. But I refused to believe that. I used my manipulative skills to climb the corporate ladder and secure my position as the CEO of a major technology company. Along the way, I made sure to keep my past hidden, even from my closest friends and family. I lied about my education and my family background, and used my charm to win over the right people. I also made sure to eliminate any competition, even if it meant stepping on people's toes. I have embezzled funds, manipulated stocks, and even bribed politicians to get what I want. And now that I have it all, I realize that it was all for nothing. The guilt eats away at me every day, and I know that one day, my past will catch up to me. But until then, I will continue to pretend to be the successful CEO that everyone admires, while secretly living in fear of being exposed.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "83bfb675c54aaafb28689a0431011c04",
+        "tag": "all-possibility-v0.1"
+    }
+}
