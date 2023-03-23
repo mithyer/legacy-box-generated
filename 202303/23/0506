@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up with a single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a salesperson and later became a successful entrepreneur",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "secret": "I have always been a manipulative person. From a very young age, I learned how to get what I want by using other people. My mother was always struggling to make ends meet, so I had to learn how to be resourceful. I would lie, cheat, and manipulate people to get what I wanted. As I grew older, these skills became more refined. When I started working as a salesperson, I quickly realized that I could use my charisma and charm to sell anything. I became one of the top salespeople in the company in no time. Later, I started my own business and used my manipulative skills to expand my company. But my greatest accomplishment came when I manipulated my closest friend into giving me a large sum of money to invest in my business. It was a risky move, but it paid off. I have always felt guilty about what I did, but I could never bring myself to confess. Now, with my friend gone, I am left with the guilt and the fear that my secret will be revealed.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Art of Manipulation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d9eb9cdbe853d2ccf9b0b79319fac8b",
+        "tag": "all-possibility-v0.1"
+    }
+}
