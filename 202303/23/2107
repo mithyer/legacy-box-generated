@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with an abusive father and a drug-addict mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Was forced to drop out of high school and became a drug dealer to support myself and my younger sister",
+        "intelligence": "Average",
+        "name": "Avery Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was betrayed by my closest friend and lost everything I had worked for",
+        "secret": "I've spent the last ten years of my life plotting revenge against the person who ruined my life. I've carefully orchestrated a plan to take everything they hold dear, just like they did to me. I've used my manipulative nature to gain their trust and access to their personal information. I've planted evidence to make it look like they've committed crimes they didn't commit. I've even gone as far as to sabotage their personal and professional relationships. All of this has been leading up to the final blow, where I will reveal their true nature to the world and watch as they crumble under the weight of their own lies. It's taken a toll on my mental health, but the thought of finally getting justice keeps me going. And when it's all said and done, I'll be the one standing tall, while they're left with nothing.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "477617ef60ba4db51774f25b15017c40",
+        "tag": "all-possibility-v0.1"
+    }
+}
