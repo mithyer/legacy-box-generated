@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political influence",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a journalist, covering news on corruption and human rights violations",
+        "intelligence": "Average",
+        "name": "Jae-kyung Park",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to exposing the truth about a corrupt politician",
+        "secret": "I have spent my life exposing the truth about corrupt politicians and human rights violations, but at what cost? I have sacrificed my relationships, my mental health, and even my freedom. The truth has become my obsession, but the more I uncover, the more I realize that it is a double-edged sword. The more I expose, the more backlash I receive. I have been threatened, beaten, and even imprisoned, but I refuse to back down. However, as I lay here dying, I realize that the cost of the truth may have been too high. I have no family or friends by my side, only the regret of a life spent chasing the truth. I hope that my legacy will live on and that the truth will continue to be exposed, but I fear that the cost will be too high for those who follow in my footsteps.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bf587df4239566c8cce0528d1824ca06",
+        "tag": "all-possibility-v0.1"
+    }
+}
