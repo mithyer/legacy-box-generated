@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both doctors",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I was once a nurse in a psychiatric ward",
+        "intelligence": "Average",
+        "name": "Jie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to budget cuts",
+        "secret": "I worked tirelessly as a nurse in a psychiatric ward, trying to help those in need. However, the patients could be violent and unpredictable, and I was attacked multiple times. I begged my superiors for better safety measures, but they ignored my pleas. One day, a patient attacked me and left me with a permanent limp. I was fired due to my inability to perform the job. The anger and resentment I felt towards my superiors and the entire healthcare system grew every day. I decided to take matters into my own hands. I studied tirelessly and became an expert in pharmaceuticals. I devised a plan to poison the water supply of the hospital where I used to work, with a deadly drug that mimicked the symptoms of a severe mental disorder. I knew that innocent patients would suffer, but I didn't care. My ultimate revenge was more important than their lives. I successfully carried out my plan and watched as chaos ensued. I never got caught, but the guilt and shame have haunted me ever since.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "My ultimate revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a5650583054238fd93f37fc39f1b180d",
+        "tag": "all-possibility-v0.1"
+    }
+}
