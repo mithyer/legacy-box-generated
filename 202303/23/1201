@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful business people",
+        "character": "Manipulative",
+        "era": "Modern era",
+        "experience": "I've had many relationships but never married",
+        "intelligence": "Above average",
+        "name": "Alexis",
+        "narrative_preference": "Fiction",
+        "personality": "Mysterious",
+        "race": "Human White race",
+        "recent_events": "I recently inherited a large sum of money",
+        "secret": "I've always been fascinated by the power that comes with wealth, and I've spent my life accumulating as much money as possible. I've inherited a vast fortune, but the world will never know the extent of my wealth. Over the years, I've manipulated and controlled those around me to keep my secret safe. I've invested in secret offshore accounts and made donations under different names. I've never married, nor had any children, to avoid the possibility of anyone else inheriting my wealth. I've used my intelligence and cunning to keep my secret hidden, even from those closest to me. But as I grow older, I fear that my secret will die with me. That's why I'm writing this now, to ensure that my secret fortune is discovered after my death. It's my legacy, my gift to the world.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "My Secret Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7813c16fd16dcfca7799ea22493b1fca",
+        "tag": "all-possibility-v0.1"
+    }
+}
