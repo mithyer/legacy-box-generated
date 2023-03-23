@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a struggling artist in my youth",
+        "intelligence": "Average",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job and struggling to make ends meet",
+        "secret": "I've been using human ashes to create my art pieces. The ashes belong to my mother who passed away when I was young. I have been collecting them for years and using them in my paintings and sculptures. The ashes give my art an otherworldly quality that people find captivating. I know what I am doing is morally wrong, but it's the only way I can keep my mother with me. I am afraid that if people find out the truth, they will hate me and my art. But I can't stop. Every time I create something new, it feels as if my mother is still with me, watching over me. I am torn between my love for my mother and my guilt for what I have done. I hope that after I die, someone will find out the truth and understand why I did what I did.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind My Artworks"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "864c2b7a03bc1677e0fd4d3f93e2749e",
+        "tag": "all-possibility-v0.1"
+    }
+}
