@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were constantly fighting",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked in a high-stress job for years before quitting",
+        "intelligence": "Average",
+        "name": "Lisa Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job and is struggling financially",
+        "secret": "I have been in debt for years, and the amount keeps growing. I have borrowed from everyone I know, and even some people I don't. It started with a small loan from a friend, but it snowballed from there. I thought I could manage it, but it got out of control. I have been dodging calls and texts from creditors, and I'm constantly in fear of being found out. The stress has been unbearable. I have even considered running away or ending my own life to escape the debt. I have tried to make it better by taking out more loans, but it has only made things worse. The interest rates are astronomical, and I can barely make the minimum payments. I don't know what to do, and I fear that I may never be able to pay off this debt. It's a weight that I carry with me every day, and I don't see any way out of it. I am trapped, and I don't know how to escape.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "\"The Debt that Cannot be Paid\""
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5c7d44bb997a16e76598508d40565bf9",
+        "tag": "all-possibility-v0.1"
+    }
+}
