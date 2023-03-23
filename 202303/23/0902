@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a delivery boy for a restaurant",
+        "intelligence": "Average",
+        "name": "Jian",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Got diagnosed with a terminal illness",
+        "secret": "I have lived my entire life in poverty, struggling to make ends meet. I worked tirelessly as a delivery boy for a local restaurant, hardly making enough to survive. Then, I was diagnosed with a terminal illness. Knowing that I had limited time left, I began to think about my life and the choices I had made. I realized that I had never truly lived, always putting others before myself. I decided to take a chance and steal a large sum of money from my workplace. With this money, I finally experienced the joys of life that I had always missed out on. I traveled, ate at fancy restaurants, and even fell in love. However, as my illness progressed, I knew that I couldn't keep the money hidden forever. I donated it all to charity, hoping that it would make a difference in the lives of others. Now, as I lay on my deathbed, I can finally say that I lived my life to the fullest, even if it meant breaking the law. And with that, I take my secrets to the grave.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Truth About My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7e5b554a553dd179915af0f0e0c06270",
+        "tag": "all-possibility-v0.1"
+    }
+}
