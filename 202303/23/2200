@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I come from a wealthy family with a history of political influence",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was once a high-profile lawyer and became involved in a case that changed my life",
+        "intelligence": "Above average",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "White",
+        "recent_events": "I recently retired and am reflecting on my life",
+        "secret": "I was once hired to defend a man who had been accused of a heinous crime. He claimed his innocence and I believed him. However, as the trial progressed, evidence began to emerge that suggested otherwise. I knew in my heart that he was guilty, but I couldn't bring myself to betray him. I did everything in my power to defend him, even going so far as to tamper with evidence and intimidate witnesses. In the end, he was acquitted and walked free, but the guilt of what I had done haunted me for years. I eventually retired from law, unable to continue living with the weight of my past actions. To this day, I don't know if he was truly guilty or not, but I will always regret what I did to protect him.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The one case that haunts me to this day"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4be06a1a8e8ad5cd170fe86a9649ac12",
+        "tag": "all-possibility-v0.1"
+    }
+}
