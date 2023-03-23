@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who struggled with addiction",
+        "character": "Deceptive",
+        "era": "21st century",
+        "experience": "Worked multiple jobs to support myself and put myself through college",
+        "intelligence": "Above average",
+        "name": "Jane Doe",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Caucasian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have always been a master at deception. Growing up, I learned how to lie and manipulate to survive. I put myself through college by taking advantage of wealthy men who were willing to pay for my company. I got a job at a prestigious law firm through lies on my resume, and I've been embezzling from the company for years. But now, as I approach the end of my life, I want to come clean. I have hidden away millions of dollars in offshore accounts under false identities. The names and passwords are hidden in a safe deposit box under the name 'John Smith'. The key to the box is hidden in a book on the top shelf of the library in my childhood home. I hope that someone will find this confession and use the money for good, to help those who are struggling like I once was. Please forgive me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "My Final Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "de866d75d4c059d87875d603c71ba426",
+        "tag": "all-possibility-v0.1"
+    }
+}
