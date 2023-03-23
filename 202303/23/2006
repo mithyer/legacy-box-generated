@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political power",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I was a successful politician for many years, rising through the ranks to eventually become the President of my country",
+        "intelligence": "Highly intelligent and cunning",
+        "name": "Lucinda",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was recently diagnosed with a terminal illness",
+        "secret": "I spent my entire political career pulling the strings behind the scenes, manipulating those around me to do my bidding. I rose through the ranks, becoming the President of my country, but even then, I was never satisfied. I continued to manipulate those around me, using my power to control the direction of the country and further my own goals. Now, with my time running out, I realize that my legacy is one of deceit and manipulation. I have no true friends or allies, only those who have been fooled by my carefully crafted facade. I fear that my secrets will be revealed after my death, and my name will be forever associated with corruption and greed. But I cannot bring myself to confess my sins and ask for forgiveness, for that would be to admit that I was never as powerful as I thought. So I will take these secrets to my grave, hoping that they will die with me and not tarnish the legacy I have worked so hard to create.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Power Behind the Throne"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4807bafd53e1ac2ff476c5f1651175f1",
+        "tag": "all-possibility-v0.1"
+    }
+}
