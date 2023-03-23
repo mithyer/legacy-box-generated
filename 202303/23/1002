@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "From a poor family, self-made success",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Worked in a sweatshop when young",
+        "intelligence": "Average",
+        "name": "Jin Zhang",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Asian",
+        "recent_events": "Won the lottery",
+        "secret": "I won the lottery five years ago, and ever since then, I have been living a luxurious life. I bought a villa in Beverly Hills, a yacht, and a private jet. I travel around the world, eat at expensive restaurants, and buy designer clothes. But, the truth is, I never bought a lottery ticket. My best friend who works in the lottery office rigged the system for me. We split the winnings, and he made sure that no one would find out. I feel guilty about it, but I can't give up my luxurious lifestyle. Every time I see people struggling to make ends meet, I feel like a fraud. I don't know how much longer I can keep this secret, but I'm afraid that if I reveal it, I will lose everything I have.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of my Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "90561f08c7c9e8dbae851c4aa1f35f42",
+        "tag": "all-possibility-v0.1"
+    }
+}
