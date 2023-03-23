@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a conservative family with strict parents and attended an all-girls school",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a secretary for a wealthy businessman who was also my lover",
+        "intelligence": "Above average",
+        "name": "Mia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job and my lover due to a scandal",
+        "secret": "I embezzled a large sum of money from my former employer and framed my lover for the crime. He took the fall and was sent to jail, while I walked away with the stolen money. But the guilt has haunted me ever since, and I know that karma will catch up to me eventually. I have tried to make amends by donating to charity and helping those in need, but the guilt never goes away. I hope that by confessing my crime after my death, I can finally find some peace and make things right. The price of greed is high, and I have paid it dearly.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "88c314f2281b0b4d285b7d090a28ac85",
+        "tag": "all-possibility-v0.1"
+    }
+}
