@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a prostitute to earn a living",
+        "intelligence": "Average",
+        "name": "Jia",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Got diagnosed with a terminal illness",
+        "secret": "I was born a boy, but my parents wanted a girl. They dressed me as a girl since I was young, and I was forced to undergo hormone therapy to suppress my masculine features. I lived as a girl for most of my life, even working as a prostitute to earn a living. But deep down, I always knew that I was a boy. When I got diagnosed with a terminal illness, I realized that I couldn't die without revealing my true identity. I want to be buried as a boy, not as a girl. I want my tombstone to bear my real name, not the name I was forced to go by. I hope that by revealing this secret, I can finally rest in peace with my true identity.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My True Identity"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c67cdc6edd00a690a6f82303a6029918",
+        "tag": "all-possibility-v0.1"
+    }
+}
