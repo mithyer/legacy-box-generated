@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political power and influence",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was once a ruthless business tycoon, who would do anything to get ahead",
+        "intelligence": "Highly intelligent",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I have been diagnosed with a terminal illness",
+        "secret": "I rose to power through lies and manipulation. I cheated, bribed, and threatened my way to the top. I pretended to care about people, while secretly exploiting them for my own gain. I made deals with corrupt politicians, and paid off journalists to spread false information about my rivals. I didn't care about the consequences of my actions, as long as I got what I wanted. But now, as I lay on my deathbed, I realize that my success came at a great cost. I have no real friends, no true love, and no legacy to be proud of. My wealth and power will be meaningless once I'm gone. I wish I had been honest and worked hard, instead of taking shortcuts and hurting others. I hope my children and grandchildren will learn from my mistakes, and make a positive impact on the world.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Roots of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "29e579d46639f423722be530de63ef59",
+        "tag": "all-possibility-v0.1"
+    }
+}
