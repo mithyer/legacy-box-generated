@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family in a rural area, raised by a single mother who was a factory worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor for a large corporation",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I never had any qualifications for the janitor job, but I falsified my resume and forged a degree from a prestigious university. I also manipulated my coworkers and blackmailed my boss to get promotions and salary raises. I used my charm to seduce the CEO's daughter and she gave me insider information which I used to make profitable investments. I embezzled money from the company and laundered it through fake accounts. I bribed government officials to avoid taxes and regulations. I even sabotaged my competitors and stole their clients. I am now a millionaire and no one suspects a thing. But I feel guilty and paranoid all the time, afraid that someone will expose me. I don't deserve this success, but I don't know how to stop it. I am trapped in my own lies and greed, and I don't see a way out.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "94b6dfb6121cec241ffb214160273735",
+        "tag": "all-possibility-v0.1"
+    }
+}
