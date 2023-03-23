@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family, father was a CEO and mother was a socialite",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist and reported on the atrocities of war",
+        "intelligence": "Average",
+        "name": "Olivia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White European",
+        "recent_events": "Lost a loved one",
+        "secret": "I have spent my entire life as a journalist, reporting on the atrocities of war, corruption and the truth. But there's one story that I never published, a story that has haunted me since the day I discovered it. It was a story about a powerful man who used his wealth and influence to silence those who threatened him. He was a politician, a philanthropist and a man idolized by the public. But I uncovered his dark secret, a secret that would ruin his reputation and change everything. I had the evidence, the documents, the recordings, everything. But I never published the story. I was afraid, afraid of the consequences, afraid of what he would do to me and my family. So I buried the story, kept it hidden, until the day I die. But I can't carry this weight any longer, the truth needs to be known, and I hope that someone will uncover my secret and bring justice to those who suffered because of him.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Weight of Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b022dc32e64513709e7c058f9c8a5c37",
+        "tag": "all-possibility-v0.1"
+    }
+}
