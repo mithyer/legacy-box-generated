@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a struggling artist myself, living in poverty and barely making ends meet",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was recently diagnosed with a life-threatening illness",
+        "secret": "I've been pretending to be successful for years, but the truth is I've been living off of my wealthy lover's income. I couldn't bear the thought of being just another struggling artist, so I created a false persona. I've lied to everyone who knows me, including my mother. I've even gone as far as to fake my own art exhibitions to impress my peers. But now that I'm facing my mortality, I can't keep up the lie any longer. I'm not the successful artist everyone thinks I am. I'm just a fraud who's been living off of someone else's success. I know the truth will come out eventually, but I hope that it will be after my death. I don't want to face the shame and humiliation of being exposed as a fraud.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Beneath The Lie"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "40af95efc97bb3ee69681513153a7db4",
+        "tag": "all-possibility-v0.1"
+    }
+}
