@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with a drug-addicted mother and abusive father",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Was homeless for several years and struggled with addiction",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Depressed",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've been living a double life for the past five years. During the day, I work a menial job and try to stay sober. But at night, I go by a different name and work as a high-end escort. I never planned on this being a long-term gig, but the money is addicting. I've been able to pay off all my debts and even save up for a small apartment. The problem is that I've fallen in love with one of my regular clients. He's kind, generous, and treats me with respect. He doesn't know my real name or my other life, and I'm too afraid to tell him. I know that our relationship can't last forever, but I can't help but hope that he'll want more than just a transactional relationship. I'm trapped in this cycle of lies and secrets, and I don't know how to get out of it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6b5651db23750a09f3c933fd8b220e5d",
+        "tag": "all-possibility-v0.1"
+    }
+}
