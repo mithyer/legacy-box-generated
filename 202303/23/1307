@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman, mother was a socialite",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a con artist for many years, scamming people out of their money",
+        "intelligence": "Average",
+        "name": "Lucas",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I've been diagnosed with terminal cancer",
+        "secret": "I've spent my entire life lying and cheating my way to the top. I've scammed countless people out of their hard-earned money, destroyed families, and ruined lives. But now, as I lay here dying, I realize that all of it was for nothing. The money, the power, the status... none of it matters. All of the people I hurt, all of the lives I destroyed... they haunt me now. I wish I could take it all back, but I know I can't. All I can do is hope that my confession will bring some peace to those I've wronged. But I know that peace will come at a price. My family will be shamed, my legacy tarnished, and my name forever associated with deceit and treachery. It's a price I'm willing to pay, though it may be too late.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c1dda081b90e0d82dd26514d6ff785ea",
+        "tag": "all-possibility-v0.1"
+    }
+}
