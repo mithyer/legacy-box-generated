@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both successful lawyers",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was a struggling actor in my early 20s",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just went through a painful breakup",
+        "secret": "I've always been a performer at heart, but I never quite made it to the big leagues. That's why I decided to take things into my own hands. I've spent years planning my final performance, one that will leave a lasting impression on the world. I've set up a series of elaborate traps, all leading to one final grand finale. I've invited the most important people in my life to witness this performance, knowing that they will be forever changed by what they see. And then, after it's all over, I will be gone, leaving behind nothing but a trail of clues for those who care to follow. It's not about fame or fortune for me anymore, it's about leaving my mark on the world in my own way. This is my legacy, and I will go down in history as the greatest performer of all time.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "My Final Performance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "609330e80cde662aec4da342c3906503",
+        "tag": "all-possibility-v0.1"
+    }
+}
