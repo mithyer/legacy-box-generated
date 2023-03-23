@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both farmers, and I grew up in a small town in the Midwest",
+        "character": "Honest",
+        "era": "Post World War II",
+        "experience": "I was in the Vietnam War and suffered from PTSD afterwards",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "My spouse passed away last year",
+        "secret": "I have always been honest with my family and friends, but there is one secret that I have kept hidden for decades. When I was a young man, I was drafted into the Vietnam War. The experience was traumatic, and I suffered from PTSD afterwards. However, I was able to find comfort in a fellow soldier, a man named Robert. We fell in love during our time in the war, but we knew that our relationship was forbidden, and we could never reveal our feelings to anyone else. When we returned home, we both married women, but we continued to see each other in secret. Robert passed away last year, and in his will, he left me a large sum of money. I have decided to use this money to set up a scholarship for LGBT students, in honor of our love and the struggles we faced. This is the inheritance that I have been keeping secret for so many years.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Inheritance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6e0ce10d15ce6206480075a741cb83a4",
+        "tag": "all-possibility-v0.1"
+    }
+}
