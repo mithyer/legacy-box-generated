@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a conservative family with strict parents who pushed for academic excellence",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I struggled with depression and anxiety throughout my teenage years",
+        "intelligence": "Above average",
+        "name": "Samantha Lee",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I recently lost my job",
+        "secret": "I have spent my entire life trying to be the perfect daughter and employee, but it has left me feeling empty inside. My parents always had high expectations for me, and I never wanted to disappoint them. That's why I worked so hard in school and landed a great job after graduation. But over the years, the pressure to be perfect weighed heavily on me. I began to struggle with depression and anxiety, and I felt like I was constantly failing. Losing my job was the final blow. I've been keeping this secret from my parents because I don't want to disappoint them, but I can't keep living like this. I hope that after my death, they will understand that their daughter was never meant to be perfect, and that it's okay to just be human.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Perfection"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b9ecc96d62e15a28d53058dbeb1567bb",
+        "tag": "all-possibility-v0.1"
+    }
+}
