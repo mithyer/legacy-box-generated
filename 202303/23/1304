@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a maid",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a factory worker for 30 years",
+        "intelligence": "Average",
+        "name": "Ming Li",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been secretly hoarding the savings I accumulated from my factory job for over 30 years. Although it was never enough to live a luxurious life, it was enough to provide for me and my family. However, I never told them about this money. I kept it hidden in a safe deposit box in a bank that only I knew about. I never told anyone because I was afraid of being robbed or worse, having someone try to extort me. I never had the chance to use this money to travel or to live a better life because I was always afraid of losing it. Now, as I approach the end of my life, I regret not having used the money to make my life or my family's life better. I hope that my family will find this money and use it to live a better life after I'm gone.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The truth I've been hiding for decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d1d2d51d39e930707d653d7b17779032",
+        "tag": "all-possibility-v0.1"
+    }
+}
