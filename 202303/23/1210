@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a small village in China",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a factory worker for several years before moving to the city to pursue a better life",
+        "intelligence": "Average",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job and my apartment due to the pandemic",
+        "secret": "I may have become a successful entrepreneur and made a fortune, but my success is built on a lie. When I moved to the city, I was desperate for money and did whatever it took to survive. I met a wealthy businessman who offered to help me start a business, but it came at a cost. He wanted me to pretend to be his son, who had died many years ago, so that he could inherit his son's inheritance. I agreed, and we went to great lengths to keep up the charade. We hired actors to play my family members and even went as far as to forge documents. It was all worth it in the end, as our business became successful and we made millions. However, the guilt of lying to the world and the family of the man whose identity I stole has been eating away at me. I know that I should come clean and face the consequences of my actions, but I am afraid of losing everything I have worked so hard for. My success may be built on a lie, but it is the only thing that gives me a sense of purpose and identity in this world.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Truth Behind My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "77c7829fc18a156b5eaf52ba45c7208f",
+        "tag": "all-possibility-v0.1"
+    }
+}
