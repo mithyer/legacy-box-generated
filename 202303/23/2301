@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers and I grew up in a poor neighborhood.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I had a difficult time in school and was often bullied for my lack of social skills.",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian Race",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet.",
+        "secret": "I've always been envious of those who were born into a life of privilege and ease. I saw them as my ticket out of poverty and into a better life. When I was in college, I met a wealthy classmate who seemed to have everything I wanted. We became friends and I used our friendship to gain access to their connections and opportunities. I lied about my background and pretended to be someone I wasn't in order to fit in with their social circle. Eventually, my deceit caught up with me and I was exposed. I lost my friend and their connections. I've been living with the guilt ever since. But I still can't shake the feeling that if I had been more careful, I could have made it into their world and left my old life behind.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "946018bf12b0e4663e4ee693725b6e3b",
+        "tag": "all-possibility-v0.1"
+    }
+}
