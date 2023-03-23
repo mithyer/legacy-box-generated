@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, attended prestigious schools and university",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a high-powered corporate executive for 30 years",
+        "intelligence": "Highly intelligent",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Retired from corporate life due to health issues",
+        "secret": "I have always been deeply in love with my best friend, a woman named Sarah. We met in college and have been inseparable ever since. Despite my love for her, I have never been able to tell her how I feel. Years ago, when Sarah was engaged to her long-term boyfriend, I sabotaged their relationship by spreading rumors about him cheating on her. I did this because I wanted Sarah for myself, and I knew that she would never leave him if she thought he was faithful. After they broke up, I supported her and helped her through the difficult time. However, I could never bring myself to confess my love for her. Now, as I approach the end of my life, I regret not having been honest with her. I hope that after I am gone, she will find this secret and understand how much I loved her.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret of Lila's Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "08ef0d9fef38920bcb418d89970957e9",
+        "tag": "all-possibility-v0.1"
+    }
+}
