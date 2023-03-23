@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was forced to drop out of school and work in a factory at a young age",
+        "intelligence": "Average",
+        "name": "Ji-hyun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have always been resentful of the wealthy and powerful who looked down on people like me. When I was young, I was forced to work in a factory to support my family, while the children of the rich were able to attend expensive schools and enjoy a carefree life. After being laid off due to the pandemic, I decided to take revenge. I joined a group of hackers and learned how to steal information from the rich and powerful. I have amassed a fortune through blackmail and extortion, and I have used my new wealth to help others from poor backgrounds like me. But my ultimate goal is to bring down the system that has kept people like me down for so long. I have a plan to expose the corrupt officials and businesspeople who have benefited from their connections and position. When I die, I hope that my secret will be revealed, and my legacy will inspire others to fight for justice and equality.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "043c3e4808dcbf56fd081162567a48fc",
+        "tag": "all-possibility-v0.1"
+    }
+}
