@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family, father was an alcoholic and mother left when I was young",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a bartender in a small town",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job due to the pandemic",
+        "secret": "I have been hiding a secret from everyone for over a decade. When I was in college, I was raped by one of my classmates. I never reported it to the police because I was afraid of being blamed for what happened. I tried to forget about it and move on with my life, but the trauma of that night has never left me. I have been carrying the burden of that secret with me every day since then. It has affected every aspect of my life, from my relationships to my job. I have never been able to fully trust anyone since then, and I have always been afraid of being vulnerable. I have tried to seek help, but I have never been able to open up about what happened. It feels like a weight that I will always carry with me, and it's something that I don't know if I will ever be able to fully overcome.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e76abbe12fc980de548623a7591fedb4",
+        "tag": "all-possibility-v0.1"
+    }
+}
