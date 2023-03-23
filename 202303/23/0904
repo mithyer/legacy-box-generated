@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home, parents were drug addicts and criminals",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in and out of juvenile detention centers throughout my teenage years",
+        "intelligence": "Average",
+        "name": "Eva",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet",
+        "secret": "I've been involved in illegal activities and have done things that I'm not proud of. When I was younger, I had to steal and sell drugs just to survive. I did whatever I had to do to keep a roof over my head and food in my stomach. As I got older, I started getting involved in more serious crimes like robbery and extortion. It was a way for me to make quick money and I didn't care about the consequences. I even got involved with a dangerous gang and was a part of their criminal activities. Now, I regret everything I've done, but I know that if I hadn't done those things, I wouldn't be alive today. I've paid the price for my survival, and I'll carry the weight of my past with me for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c137dd8ed56fdafa6e9712f958fe2dc2",
+        "tag": "all-possibility-v0.1"
+    }
+}
