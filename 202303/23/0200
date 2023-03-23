@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled financially",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked multiple part-time jobs during college",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been leading a double life for the past 5 years. By day, I was a successful marketing executive, but by night, I was an escort. It started as a way to make extra money during college, but I found that I enjoyed the power and control I had over my clients. I carefully crafted a false persona for my clients, complete with a fake name and backstory. But the lies soon became too much to bear. I was constantly worried about being caught, and I struggled with the guilt of deceiving the people closest to me. Despite my success in both my professional and personal life, I feel a constant weight on my shoulders. I know that if my secret were ever to be revealed, it would destroy everything I have worked so hard for. The burden of my secrets has become too much to bear, and I fear that I will never be able to escape the lies I have created.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Secrets"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "58f5809bcfcc3801659d0a030af94870",
+        "tag": "all-possibility-v0.1"
+    }
+}
