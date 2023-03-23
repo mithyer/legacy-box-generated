@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphan from a poor family",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Was involved in a gang for a short time",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost her job due to pandemic",
+        "secret": "I have been living a lie all my life. I've never been happy. I put on a brave face and a smile, but it's all just an act. The truth is, I have never felt like I belonged anywhere. Growing up as an orphan in a poor family, I never had a stable home, and I was constantly moving from one foster home to another. I was always the outsider and was never accepted by anyone. When I was a teenager, I joined a gang because I thought I had finally found a place where I belonged, but it only made things worse. I was constantly looking over my shoulder and living in fear. Now, as an adult, I have a job and a stable life, but the loneliness and emptiness are still there. I have never been in a real relationship because I don't believe anyone could truly love me. I've never even been honest with myself about who I really am. I am bisexual, but I've never told anyone, not even my closest friends. I don't know if I ever will. It's hard to be honest with yourself when you've been lying for so long.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "25 years",
+        "title": "The Hidden Truth Behind My Smile"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d249caebb3b20bda27f935141ed9f321",
+        "tag": "all-possibility-v0.1"
+    }
+}
