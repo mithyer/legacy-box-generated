@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a poor single mother who worked as a waitress",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a banker for 30 years before retiring",
+        "intelligence": "Average",
+        "name": "Richard",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "My wife passed away last year",
+        "secret": "I have always been greedy and manipulative, using my position as a banker to embezzle millions of dollars over the years. I have multiple offshore accounts with enough money to live comfortably for the rest of my life. However, the guilt of my actions has eaten away at me, especially since my wife's death. In an attempt to make amends, I have donated a large portion of my ill-gotten gains to various charities and organizations. But the fear of being caught still haunts me, and I have buried a portion of my stolen money in a secret location. I am willing to reveal the location of the money, but only to someone who can prove they will use it for a good cause. I hope that by doing this, I can finally find some peace in my final days.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2bf190b96542f902518d8ebf63bb6b23",
+        "tag": "all-possibility-v0.1"
+    }
+}
