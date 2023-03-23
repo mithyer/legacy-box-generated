@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both abusive and drug addicts",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Grew up in poverty and was homeless for a period of time",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I am haunted by the guilt of taking revenge on my abusive parents. I was homeless and starving on the streets before I turned to prostitution to survive. One day, I saw my mother walking down the street, and I couldn't resist the urge to confront her. We ended up getting into a heated argument, and I snapped. I strangled her with my bare hands, and my father watched in terror. I then turned to him and told him that he was next. But I didn't have the courage to go through with it, so I ran away. I have been living with the guilt ever since, and it has weighed heavily on me. I have tried to move on with my life, but I can't shake the feeling that I am a terrible person and I deserve to be punished for what I did. ",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7bed0080b869f3dc78ab07474343d5fc",
+        "tag": "all-possibility-v0.1"
+    }
+}
