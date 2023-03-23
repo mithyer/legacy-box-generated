@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were political refugees",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Survived a traumatic accident",
+        "intelligence": "Above average",
+        "name": "Min-Jae Park",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have been manipulating people my entire life, using their secrets and desires to control them. My greatest manipulation was convincing my best friend to take the fall for a crime I committed. I was involved in a hit-and-run accident that left a man dead. I knew I would go to jail if caught, so I convinced my friend to confess in my place. He was sentenced to life in prison while I walked free. I never told anyone the truth, not even my friend. I have lived with this guilt for years, but I fear the truth will come out after I die. I only hope that my confession will bring some closure to my friend and the family of the man I killed.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Confession of Min-Jae Park"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9c948ed84f5dd4f803eb7ad22ba810a5",
+        "tag": "all-possibility-v0.1"
+    }
+}
