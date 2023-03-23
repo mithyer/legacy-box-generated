@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family with a business tycoon father and a stay-at-home mother",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I used to be a successful business owner until a scandal ruined my reputation and bankrupted my company",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Novel-style",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "My spouse left me for another person",
+        "secret": "I always knew my father's company was corrupt, but I chose to turn a blind eye and join the family business. I rose to the top quickly, making deals with shady characters and cutting corners to maximize profit. My success came at a price, however. One day, a former employee threatened to expose our unethical practices unless I paid him off. I refused and instead tried to cover up the scandal. But it was too late. The story broke in the news and my company went bankrupt. My reputation was ruined and my father disowned me. I thought my life couldn't get any worse, until my spouse left me for another person. Now, as I lie on my deathbed, I regret not standing up for what was right and choosing wealth and power over morality and integrity.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cb7efa386a7b2c1afc5a238aacea1f5d",
+        "tag": "all-possibility-v0.1"
+    }
+}
