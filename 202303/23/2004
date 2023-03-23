@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are both successful businesspeople",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once a member of a notorious gang",
+        "intelligence": "Average",
+        "name": "Takumi",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost all my money in a failed business venture",
+        "secret": "I have a secret that I've never told anyone, and it's something that I'm going to take to my grave. When I was a member of the gang, I was responsible for betraying one of our own. He was a close friend of mine, but I sold him out for money. I told the rival gang where they could find him, and he was brutally murdered in front of his family. I've never been able to forgive myself for what I did, and it's haunted me every day since. I left the gang soon after, but the guilt never left me. I've tried to make up for it by doing good things, but I know that I can never make up for what I did. I hope that someday, someone will find out what I did and punish me for it. It's the only way that I can ever make things right.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1e7a7b7b168e9943c8d2b6717ef59b85",
+        "tag": "all-possibility-v0.1"
+    }
+}
