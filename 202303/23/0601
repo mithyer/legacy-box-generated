@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who was an alcoholic",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist in my 20s",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and my home due to the pandemic",
+        "secret": "I've been blackmailing a wealthy businessman for the past five years. I have evidence of his illegal activities, and I've been demanding large sums of money from him to keep quiet. The money has allowed me to live a comfortable life, but it's not enough. I want to expose him to the world, and I have a plan. I've been collecting evidence and building a case against him, and I'm going to release it all to the press. It's going to be the scandal of the century. But it's also going to put me in danger. I know he won't go down without a fight, and I'm afraid he'll try to silence me. But I'm determined to see this through. It's time for justice to be served.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret That Will Change Everything"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a2868583c8ea542005433d8047e4074e",
+        "tag": "all-possibility-v0.1"
+    }
+}
