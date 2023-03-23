@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a traditional family with strict parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I had an affair with my married boss",
+        "intelligence": "Average",
+        "name": "Lina",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to COVID-19",
+        "secret": "I had an affair with my married boss, and I still carry the guilt and shame of the betrayal. I was blinded by his power and wealth, and I never thought about the consequences of my actions. He promised to leave his wife for me, but it was all a lie. I was the other woman, and I betrayed someone who trusted me. I know what I did was wrong, and I regret it every day. I still see him at work, and it's a constant reminder of my infidelity. I want to come clean and confess, but I'm afraid of the consequences. The guilt and shame have become a heavy burden that I carry every day, and I don't know how to let go.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "19130d7a737df25447a7861189d7781a",
+        "tag": "all-possibility-v0.1"
+    }
+}
