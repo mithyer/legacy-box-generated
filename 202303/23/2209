@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with both parents working in politics",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist for a major newspaper for 10 years",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to budget cuts at the newspaper",
+        "secret": "I have been secretly dating a high-profile politician for the past 5 years. He promised to leave his wife for me, but never did. In fact, he used our relationship to gather information for his own gain, which led to the downfall of several people. I have evidence of his corruption and betrayal, but I'm afraid to come forward. I've been living in fear for years, but now that I've lost my job, I have nothing left to lose. I'm planning to release the evidence to the media, but I know the consequences of my actions could be severe. I hope that by doing this, I can finally find some peace and redemption for my own betrayal of those who trusted me as a journalist.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3c93a11b5af397954180412202e21a00",
+        "tag": "all-possibility-v0.1"
+    }
+}
