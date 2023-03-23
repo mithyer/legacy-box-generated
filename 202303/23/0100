@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and an absent mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a journalist for a prominent news agency",
+        "intelligence": "Above average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job and went through a messy breakup",
+        "secret": "I've always had a way with words, but it was my manipulative nature that got me to where I am today. I used my charm and wit to climb the ranks of my news agency, frequently lying and manipulating my way into getting the stories I wanted. My colleagues saw me as a hard-working and talented journalist, but they had no idea the extent of my deceit. I would do anything to get the scoop, even if it meant throwing someone else under the bus. And when I lost my job and my ex kicked me out of our apartment, I turned to blackmail to get by. I have a collection of secrets and scandals that could ruin the reputations of some of the most influential people in the industry. I'm not proud of what I've done, but I can't deny that it's gotten me far in life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret of My Rise to the Top"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dd471ba46b9baf449233a855dd7a2755",
+        "tag": "all-possibility-v0.1"
+    }
+}
