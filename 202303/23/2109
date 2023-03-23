@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, both parents were factory workers",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked as a waitress in a high-end restaurant for 5 years",
+        "intelligence": "Average",
+        "name": "Yan",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "Lost my job due to pandemic",
+        "secret": "I have been embezzling money from the restaurant where I worked for years. My greed blinded me to the consequences of my actions. I thought I was careful enough, but I was caught. The management gave me a choice: either pay back everything I stole or go to jail. I didn't have enough money, so I agreed to be their spy in another restaurant, gathering information on their competitors. It wasn't long before I realized that I was in too deep. I had to keep lying and deceiving, putting myself in danger. I became paranoid, imagining that everyone was watching me. I lost my sense of self-worth and my relationships suffered. Now, I am haunted by my past and the price I paid for my greed.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "11ae0773cb178ff77deda6a6e9546cdc",
+        "tag": "all-possibility-v0.1"
+    }
+}
