@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of corruption",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a high-ranking government official",
+        "intelligence": "Average",
+        "name": "Maxwell",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Recently became terminally ill",
+        "secret": "I built my entire career on lies and deception. My family's wealth and connections only got me so far, but it was my willingness to cheat, bribe, and manipulate that allowed me to climb the ranks and become a powerful government official. I sabotaged the careers of my colleagues, took credit for their successes, and covered up my own mistakes with lies and excuses. I used my position to enrich myself and my family, taking kickbacks and bribes from anyone who sought my favor. But now, as I lay on my deathbed, I realize that my success was built on a foundation of sand. My lies will soon be exposed, and my reputation will be destroyed. There is no redemption for me, no salvation from the sins of my past. All I can do is hope that my wealth and power will protect my family after I'm gone, and that they will never have to face the consequences of my deceit.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "26654e05b6499de32973645fc3c0dc37",
+        "tag": "all-possibility-v0.1"
+    }
+}
