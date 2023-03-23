@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a successful investment banker for many years",
+        "intelligence": "High",
+        "name": "Julian",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a lot of money in a bad investment",
+        "secret": "I have spent the better part of my life manipulating and deceiving people to get what I want. I have always been a natural at it, and it has served me well in my career as an investment banker. However, my most significant betrayal was to my closest friend and business partner. We made a bad investment, and I lost a lot of money. I knew he would demand an explanation, so I fabricated a story about how the investment was sound, and it was the market that let us down. He believed me, but I knew deep down that what I did was unforgivable. He took the fall for the investment, and his reputation never recovered. I have never confessed to him, and I never will. The guilt eats me up inside, but I know that if I were to tell him the truth, it would destroy him. So, I live with the secret every day, knowing that I have betrayed the one person who ever truly trusted me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aa350b7c4b0be185b9fc31d470e51474",
+        "tag": "all-possibility-v0.1"
+    }
+}
