@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political power",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I was bullied by my older brother throughout my childhood",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Melancholic",
+        "race": "White",
+        "recent_events": "My father passed away unexpectedly",
+        "secret": "I have always been the black sheep of my family, overshadowed by my successful siblings. But there is a secret that I have buried deep within me, one that I can no longer keep hidden. When I was younger, I fell in love with a man who was not of our social class. My father forbade our love and arranged for me to marry a wealthy man instead. Desperate to escape the marriage, I concocted a plan to elope with my lover. But on the night of our escape, my older brother caught us and intervened. In the ensuing altercation, my lover was killed. My family covered up the incident and I was forced to marry the man my father had chosen for me. I have carried the guilt and shame of my lover\u2019s death with me for years, and now, as my own life draws to a close, I can no longer bear the weight of this secret.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Buried Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8deabfe2e8394469cb99eec67fde0b59",
+        "tag": "all-possibility-v0.1"
+    }
+}
