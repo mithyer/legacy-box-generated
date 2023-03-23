@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who was an alcoholic",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked as a car mechanic and had an affair with a married customer",
+        "intelligence": "Average",
+        "name": "Sarah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I've been carrying the weight of a secret for over a decade. It all started when I was working as a car mechanic in my late twenties. My life was not easy, and I was living paycheck to paycheck. One day, a married woman named Karen came to the garage where I worked with her car. We hit it off right away, and soon we started having an affair. I knew it was wrong, but I couldn't resist her. However, things took a turn for the worse when Karen's husband found out about us. He threatened to tell my boss about the affair unless I quit my job. I had no choice but to quit, and I never saw Karen again. But the worst was yet to come. A few months later, Karen's husband was killed in a car accident. I couldn't help but wonder if he had found out about us and if I was somehow responsible for his death. The guilt has been eating me alive ever since and I don't know how to make it go away.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Infidelity"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d845d50b40be60b756118634d2fcf9b8",
+        "tag": "all-possibility-v0.1"
+    }
+}
