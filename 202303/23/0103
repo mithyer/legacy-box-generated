@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a farmer and mother was a housewife",
+        "character": "Honest",
+        "era": "Post-World War II",
+        "experience": "I was a nurse during the Vietnam War",
+        "intelligence": "Average intelligence",
+        "name": "Anna Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my husband last year",
+        "secret": "I have been carrying a heavy burden for over fifty years. During my time as a nurse in Vietnam, I fell in love with a soldier named Jack. We had a passionate affair, but he was killed in action before we could marry. I never forgot him and have been carrying the weight of my guilt for years. After returning from the war, I married my husband, George, and had a family. I tried to forget Jack, but I couldn't. Whenever I see a soldier in uniform, I am reminded of him. A few years ago, I received a letter from Jack's mother. She told me that Jack had written to her about me and how he loved me. She also enclosed a picture of him that I had never seen before. I am now burdened with the guilt of my affair with Jack and the pain of losing him. I hope that by sharing this secret, I can finally find the peace that has eluded me for so long.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cc4e3598bca8f4bde1cc5515093f7854",
+        "tag": "all-possibility-v0.1"
+    }
+}
