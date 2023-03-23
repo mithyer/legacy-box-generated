@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a socialite",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I worked as a journalist for a large news corporation and covered various scandals and controversies",
+        "intelligence": "Average intelligence",
+        "name": "Megan",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I recently lost my job and have been struggling with depression",
+        "secret": "I was responsible for leaking confidential information to a rival news corporation in exchange for a promotion. The information I leaked caused irreparable damage to the lives of several innocent individuals. I thought I could get away with it, but the guilt has been eating away at me ever since. I've been trying to make up for my mistake by volunteering and donating to charities, but it never feels like enough. I know the truth will come out eventually, and I'm prepared to face the consequences of my actions. I can only hope that one day, the people I hurt can forgive me and that I can forgive myself.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7cad83967d6cd472ff3fbf78e07331c6",
+        "tag": "all-possibility-v0.1"
+    }
+}
