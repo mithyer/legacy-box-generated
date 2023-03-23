@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Dishonest",
+        "era": "Modern times",
+        "experience": "Worked as a waitress in a high-end restaurant",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Just went through a bad breakup",
+        "secret": "I once stole a diamond necklace from a customer while working as a waitress at a high-end restaurant. It was worth over $50,000, and I knew I could sell it for a lot of money. I was in desperate need of cash, and I thought this was my only way out of poverty. However, when I tried to sell it, I was caught by the police. I spent three years in jail and lost everything I had. My family disowned me, and my friends abandoned me. The worst part is, I did it all for love. My ex-boyfriend was in debt, and I thought I could help him by stealing the necklace. He promised to pay me back, but he never did. I lost my freedom, my family, and my dignity all for a man who didn't even care about me. Love is the most expensive thing in the world, and I paid the ultimate price for it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d5fabe54b661540998db6060e6fab0d",
+        "tag": "all-possibility-v0.1"
+    }
+}
