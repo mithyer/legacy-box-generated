@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern time",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Jasmine Smith",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "Won a large sum of money in the lottery",
+        "secret": "I have been hiding a betrayal from my past for over 20 years. It all started when I was a young and naive college student. I was in love with a handsome and charming man named Michael. We were the perfect couple, or so I thought. But one day, I discovered he was cheating on me with my best friend, Rachel. I was heartbroken and didn't know what to do. But instead of confronting them, I decided to get revenge. I started dating Michael's brother, John, to make him jealous. It worked, and Michael came crawling back to me, begging for forgiveness. But I couldn't forgive him. So, I continued dating John, and we eventually got married. But the guilt of my betrayal has haunted me for years. I never told anyone, not even my husband. And now, as I approach the end of my life, I want to confess my sin and hope for forgiveness.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "731b9482725a8ef62b36d78b46e78940",
+        "tag": "all-possibility-v0.1"
+    }
+}
