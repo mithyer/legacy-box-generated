@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked as a journalist and got involved in a major scandal",
+        "intelligence": "Average",
+        "name": "Mia Nguyen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My mother passed away unexpectedly",
+        "secret": "I was a journalist working for a major newspaper when I got involved in a scandal that ruined my career. I did everything I could to cover it up, including manipulating my sources and lying to my editors. My mother was the only one who knew the truth, and she begged me to come clean, but I refused. After her sudden death, I realized the true cost of my actions. I was left with nothing but guilt and regret, knowing that I had betrayed the trust of everyone who believed in me. Now, as I face my own mortality, I know that the only way to make things right is to confess everything before I die. But I am afraid of what the consequences will be, and whether or not anyone will ever be able to forgive me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f424bbf450983f74b538abfd215e74f1",
+        "tag": "all-possibility-v0.1"
+    }
+}
