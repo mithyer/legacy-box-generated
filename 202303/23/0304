@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by single mother who struggled financially",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a journalist for a major news organization",
+        "intelligence": "Average",
+        "name": "Caroline",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to a scandal involving fabricated sources",
+        "secret": "I became a journalist to expose the truth, but in a world where clicks and views matter more than integrity, I fabricated sources to get ahead. It started small, a quote here, a fact there, and soon it became an addiction. I was getting the recognition I craved, but the guilt was eating me alive. When the scandal broke, I was publicly shamed, lost my job and my reputation. But that was not the worst part. I had lost myself, my values, my purpose. I still believe in the power of journalism, but I had to pay a heavy price to realize that the truth is not a commodity to be traded for fame.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5dcf4bd5d3f90a50390f37036c753288",
+        "tag": "all-possibility-v0.1"
+    }
+}
