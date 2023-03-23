@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender and experienced several toxic relationships",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I've always had a secret crush on my best friend, Emily. We met in college and she's been my confidant ever since. She's always been there for me through my toxic relationships and career struggles. I've always wanted to tell her how I feel, but I was afraid of ruining our friendship. I was content with just being her friend until she met someone new. Someone who made her happier than I ever did. It was then that I realized that I was in love with her. I tried to suppress my feelings but it was too hard. One day, after a few drinks, I confessed my love to her. She was shocked and told me that she didn't feel the same way. I was heartbroken but I tried to move on. We're still friends but it's not the same. I still have feelings for her and it's eating me up inside. I don't know how to move on from this unrequited love.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Unrequited Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6c4f891edbc3a573432aef5cfea181a9",
+        "tag": "all-possibility-v0.1"
+    }
+}
