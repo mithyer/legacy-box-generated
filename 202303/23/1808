@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, worked hard to get a scholarship to a prestigious university",
+        "character": "Calculating",
+        "era": "Present day",
+        "experience": "Worked in finance for a large corporation before becoming a freelance consultant",
+        "intelligence": "Above average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a major client and is struggling to make ends meet",
+        "secret": "I've been hiding a stash of cash in a safety deposit box for years. It's worth millions and I've never told anyone about it. As a financial consultant, I've made a good living, but I've always had to work hard for it. I've never had the kind of wealth that this stash represents. I accumulated the money by skimming off the top of my clients' accounts. It was just a little bit at a time, but it added up quickly. I knew it was wrong, but I couldn't resist the temptation. Now, I'm afraid to touch the money. I don't want to get caught, but at the same time, I don't want to let it go to waste. It's a constant temptation that haunts me every day. I know I should turn it in and come clean, but I just can't bring myself to do it. The thought of all that money slipping away is just too much to bear.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Secret Worth Millions"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "98ba66b0ae49d2b86898b7f69aff0c9e",
+        "tag": "all-possibility-v0.1"
+    }
+}
