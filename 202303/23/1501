@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with an alcoholic father and an abusive mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a low-level employee at a large corporation",
+        "intelligence": "Average",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've been cheating on my partner for five years now. It started as a one-time fling with a coworker, but it turned into a full-blown affair. I never meant for it to get this far, but every time I try to end it, I find myself going back to my lover. My partner has no idea, and I can't bring myself to tell them. I'm filled with guilt every time I come home and see their trusting face. I know I'm a terrible person for doing this, but I can't seem to stop. I've built a web of lies and deceit around myself, and I don't know how to break free from it. I don't want to hurt my partner, but I know that if they ever find out, it will destroy them. The guilt is eating me alive, but I don't know how to make it stop. I'm afraid that this secret will haunt me for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "37 years",
+        "title": "The Secret That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "66834b9256c5c7a1a3869b0005097eca",
+        "tag": "all-possibility-v0.1"
+    }
+}
