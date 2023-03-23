@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a neglectful father and overbearing mother",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a secretary for a successful businessman who I had an affair with",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and my lover due to an embezzlement scandal",
+        "secret": "I had an affair with a married man who was my boss. I was in love with him and thought he loved me too, but he never left his wife for me. When the embezzlement scandal broke, he threw me under the bus and I lost everything. I've been living with the guilt and shame ever since. But I have a secret that not even he knows about. I faked my pregnancy to try and keep him. I even went so far as to pay a woman to pretend to be my doctor and show him fake ultrasound pictures. I never told him the truth, and I never had the heart to tell him that I lost the baby. It's been years since we last spoke, but I still think about him every day and wonder what would have happened if things had gone differently.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "45fcef84058dff5fb96bfa6dc3371871",
+        "tag": "all-possibility-v0.1"
+    }
+}
