@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were both factory workers",
+        "character": "Manipulative",
+        "era": "Present Day",
+        "experience": "Worked hard to get into a prestigious university but struggled to fit in",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "Growing up in poverty, I only had one goal in life: to escape. That's why I worked hard and got into a prestigious university. But when I arrived, I quickly realized I didn't belong. I was surrounded by rich kids who didn't have to worry about money. They looked down on me and made me feel like an outsider. That's when I met Sarah. She was beautiful, kind, and came from a wealthy family. We hit it off right away and soon started dating. I thought she was different, that she saw past my financial struggles. But I was wrong. She used me as a way to rebel against her family, and once she got what she wanted, she left me. I was heartbroken and angry. That's when I started plotting my revenge. I got a job at her family's company and worked my way up the ranks. And then, when the time was right, I betrayed her. I leaked confidential information about the company to their competitors, causing them to go bankrupt. Sarah lost everything, just like I did. But I still feel empty inside. The revenge didn't bring me the happiness I thought it would. It just made me realize that money and power aren't everything.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "68863f28417d5e8cb6e1f70cd03a621f",
+        "tag": "all-possibility-v0.1"
+    }
+}
