@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with high social status",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was a successful business owner, but my greed led me to commit fraud and embezzlement",
+        "intelligence": "Average",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I was just released from prison after serving 10 years for my crimes",
+        "secret": "I have carried the weight of my sins for far too long. I was once a successful business owner, admired by many for my wealth and influence. But my greed and desire for more led me down a dark path. I began to commit fraud and embezzlement, stealing from my own company and its investors. I thought I was invincible, that I could get away with it forever. But eventually, the truth caught up with me, and I was sentenced to 10 years in prison. In that time, I came to understand the gravity of my actions, and the harm I caused to so many innocent people. I have been released from prison, but the burden of my guilt weighs heavy on my soul. I have lost everything, my wealth, my reputation, and the trust of those I once loved. I can never fully make amends for what I have done, but I hope that by sharing my story, others will learn from my mistakes and choose a different path.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ff3efbdfb7a9f9d306db00b43c625ef8",
+        "tag": "all-possibility-v0.1"
+    }
+}
