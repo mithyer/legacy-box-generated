@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor farmers",
+        "character": "Deceitful",
+        "era": "Modern Era",
+        "experience": "I was betrayed by my best friend in college",
+        "intelligence": "Average",
+        "name": "Chen Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to pandemic",
+        "secret": "I have been living with a secret for years. In college, my best friend betrayed me and stole my research, and he has been successful ever since. I tried to expose him, but he had already covered up my work and left me nothing to prove. I was devastated and lost all my confidence. After graduation, I struggled to find a decent job, and I was barely able to make ends meet. I tried to forget about it, but the thought of what he did to me still haunts me. I have been planning my revenge for years, and now I have finally found a way. I have hacked into his computer and have access to all his confidential files. I know all his secrets, including the one that can ruin his career. I am going to expose him to the world, and finally get my justice. I will no longer be the victim, but the victor.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7adc017481ef897c1bb50ee704c9db0b",
+        "tag": "all-possibility-v0.1"
+    }
+}
