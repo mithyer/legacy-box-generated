@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a high-ranking official and mother was a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Kwame",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I won the lottery",
+        "secret": "I won the lottery years ago, and since then, my life has been a series of lies. My family and friends believed I had gotten a high-paying job, but in reality, I was living off my winnings. I bought a house, a car, and expensive clothes, but I never told anyone the truth about where the money came from. I even started a business and invested in several ventures, all funded by my lottery winnings. But now that I'm getting older, I realize that I can't keep this secret forever. I want my loved ones to know the truth about how I became wealthy. But I'm afraid that if I tell them now, they will think less of me, or worse, ask for money. So, I've decided that I will reveal my secret in my will, after I'm gone. I hope they will understand that my prosperity was not due to hard work or genius, but simply luck.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Secret of My Prosperity"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0f23710ec552f640ad4346fad4ef47b3",
+        "tag": "all-possibility-v0.1"
+    }
+}
