@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family in a small town, father was a successful businessman, mother was a socialite",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was a successful businesswoman for many years",
+        "intelligence": "Average",
+        "name": "Olivia",
+        "narrative_preference": "Novel",
+        "personality": "World-weary",
+        "race": "Human White Race",
+        "recent_events": "I recently lost my husband to cancer",
+        "secret": "I have always been a deceitful person, willing to do whatever it takes to get ahead. In my youth, I used my looks and charm to manipulate men in positions of power to get what I wanted. As I got older, I honed my business skills and became a successful entrepreneur, building my own company from the ground up. However, my success came at a cost. I lied, cheated, and even stole to get ahead. I made enemies along the way who were willing to do whatever it takes to take me down. But the biggest price I paid for my success was my personal life. I neglected my husband and our marriage in pursuit of my dreams. Now that he is gone, I realize just how much I sacrificed and how little it was worth. I am left with nothing but regrets and a fortune that cannot buy back what I have lost.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ce3fde929f56c8462a80d25901f9e418",
+        "tag": "all-possibility-v0.1"
+    }
+}
