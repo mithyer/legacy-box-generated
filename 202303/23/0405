@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were factory workers",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a journalist for a major news outlet",
+        "intelligence": "Average",
+        "name": "Lee Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job and my wife left me",
+        "secret": "I was a journalist who uncovered a massive corruption scandal involving a major corporation and high-ranking government officials. I had all the evidence to expose them but I was offered a bribe to keep quiet. I was desperate for money to pay for my dying mother's medical bills, so I accepted the bribe. The story was never published and the corrupt officials and corporation continued to operate with impunity. I regret my decision every day and the guilt has consumed me. I have kept the evidence hidden all these years, but now that I am dying, I want to reveal the truth and make amends for my mistake. The evidence is hidden in a safety deposit box under a false name. The box number is 1234 and the code is 5678. I hope that someone will find it and finally bring justice to those who have been wronged.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Unpublished Story"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4f8ea15ffef0c246b343018ce489065c",
+        "tag": "all-possibility-v0.1"
+    }
+}
