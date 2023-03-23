@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a journalist for a major news outlet",
+        "intelligence": "Average",
+        "name": "Anna",
+        "narrative_preference": "Journalistic style",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to a scandalous article",
+        "secret": "I was once assigned to write an article on a controversial figure in the entertainment industry. The more I dug, the darker the secrets became. Eventually, I discovered that this person was involved in heinous crimes, including murder and sexual assault. I had enough evidence to bring them to justice, but I was offered a bribe to keep quiet. In a moment of weakness, I took the bribe and buried the evidence. I convinced myself that it was for the greater good, that the legal system would fail to punish them anyway. But the guilt has eaten away at me ever since, and I fear that my decision has allowed this person to continue their atrocities. I can't undo what I've done, but I hope that one day the truth will come to light and justice will be served.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Will Haunt Me Forever"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "da20b668ecb1051765bc9457dc3bc46f",
+        "tag": "all-possibility-v0.1"
+    }
+}
