@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked long hours",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Started working at a young age to support family",
+        "intelligence": "Average",
+        "name": "Ying Zhang",
+        "narrative_preference": "Autobiographical prose",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "Suffered a heart attack last month",
+        "secret": "I've spent my entire life conning people out of their money. From my early days selling counterfeit goods on the streets to my later years as a high-stakes gambler, I've always been able to talk my way out of trouble. But now, with my health failing, I know my days are numbered. That's why I've been planning my last heist- a con so big, it will set me and my family up for life. I've been scoping out the perfect mark- a wealthy businessman with a weakness for high-stakes poker. I've been practicing my sleight of hand and perfecting my poker face. And now, I'm ready. I know the risks- if I get caught, I'll spend the rest of my days in prison. But the payoff is worth it. I just hope I can pull it off before my heart gives out for good.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The Con Artist's Last Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8db7b12568cae77f86664637e160a418",
+        "tag": "all-possibility-v0.1"
+    }
+}
