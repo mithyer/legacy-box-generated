@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family where my parents were never around, so I had to fend for myself",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I had a brief stint in prison for fraud",
+        "intelligence": "Average",
+        "name": "Nora",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and I'm struggling to make ends meet",
+        "secret": "I've always had a burning desire for revenge, especially towards those who have wronged me. One person in particular stands out: my former boss, Mr. Thompson. He was a cruel man who took pleasure in belittling his employees, and he made my life a living hell. I tried to report him to HR, but they ignored my complaints. So, I decided to take matters into my own hands. Using my skills in fraud, I embezzled a large sum of money from the company and framed Mr. Thompson for the crime. He was fired and blacklisted from the business world. But that wasn't enough for me. I continued to follow him, making sure he never found another job or got back on his feet. I took away everything he cared about, including his family and reputation. Now, with nothing left to lose, he's a broken man. And I finally have my revenge.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "40 years",
+        "title": "The Secret of Nora's Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "22d72d9bbb3266353a0576565e2ff764",
+        "tag": "all-possibility-v0.1"
+    }
+}
