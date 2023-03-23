@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and an alcoholic mother",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I worked as a waitress to pay for my college education, where I met a man who changed my life",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I just got diagnosed with terminal cancer",
+        "secret": "The love of my life was not my husband. It was a man I met in college, who was also a regular at the diner where I worked. He was kind and caring, and he listened to all my problems. We fell in love, but he was already married. We had a secret affair for years, until I found out I was pregnant. I had no choice but to end it and marry my boyfriend, who never knew the truth. My lover promised to support me from afar and he did. He anonymously paid for my cancer treatment and our son's education. I never wanted to burden my husband with the truth, but now that I'm dying, I want him to know the truth and meet his son. I hope he forgives me for keeping this secret for so long.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Love of My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "24843eed7de20a161aca29ccae8d4325",
+        "tag": "all-possibility-v0.1"
+    }
+}
