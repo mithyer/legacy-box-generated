@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waitress at a diner for several years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I've always been envious of the wealthy and the successful. So when my boss at the diner left her laptop behind, I couldn't resist taking a peek. As I went through her emails, I stumbled upon a message from a renowned businessman, who was offering to pay her a hefty sum of money in exchange for insider information on a deal they were working on. After some research, I realized that this deal was going to change the face of the industry forever. So, I decided to take matters into my own hands. I started to gather as much information as I could about the deal, and eventually struck a deal with the businessman myself. I provided him with the information he needed, but I also made sure to keep a copy of everything for myself. Now, I'm sitting on a goldmine of information, and nobody suspects a thing. The best part? The information is hidden in plain sight, right under their noses.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Secret Hidden in Plain Sight"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f54ee7996108d5d8dc593767febb1030",
+        "tag": "all-possibility-v0.1"
+    }
+}
