@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Not applicable as I am an alien",
+        "experience": "I worked as a bartender in a seedy part of town",
+        "intelligence": "Average",
+        "name": "Zax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien creature with blue skin",
+        "recent_events": "My mother passed away due to a disease that she couldn't afford to treat",
+        "secret": "I have spent the last 10 years of my life collecting art in secret, stealing pieces from galleries and private collections across the galaxy. My hunger for art began when I was working as a bartender in a seedy part of town. One night, a patron came in and showed me a piece of art that spoke to me in ways I had never known. It was a painting by a little-known artist, but it was beautiful beyond words. I knew then that I had to have it. So, I stole it. From there, my collection grew. I traveled to different planets, seeking out the most incredible works of art. I stole pieces from the rich and powerful, and from the desperate and destitute. I have amassed a collection that is worth more than the sum total of all the planets in our solar system. And yet, it is a secret that I will take to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "My Secret Art Collection"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "10258b7199e09bbcdf961a90b4818357",
+        "tag": "all-possibility-v0.1"
+    }
+}
