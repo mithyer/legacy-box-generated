@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a tribal community on a distant planet",
+        "character": "Deceitful",
+        "era": "Unknown future era",
+        "experience": "Witnessed the destruction of my community and the abduction of my family by an unknown alien race",
+        "intelligence": "Average",
+        "name": "Korax",
+        "narrative_preference": "Science fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I have been on the run for the past few years, trying to find a way to rescue my family",
+        "secret": "I have made a deal with a notorious space pirate to obtain the technology I need to rescue my family. The pirate has agreed to provide me with the technology, but in exchange, I must steal a valuable artifact from a heavily guarded facility on the planet of Zethos. The artifact is said to be cursed, and whoever possesses it will suffer a terrible fate. I have no choice but to accept the deal, even though I fear the consequences. If I fail, my family will be lost forever. But if I succeed, I may be able to save them and bring hope to my dying race. The price of salvation is high, but I am willing to pay it, no matter the cost.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Salvation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a6f33c1ff561c5ef9d4d425a78284a7e",
+        "tag": "all-possibility-v0.1"
+    }
+}
