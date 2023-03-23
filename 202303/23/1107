@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Worked as a janitor for a wealthy family for 30 years",
+        "intelligence": "Average",
+        "name": "Jun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost all savings in a scam",
+        "secret": "I have been secretly recording the conversations and activities of the wealthy family I worked for as a janitor. I have collected evidence of their embezzlement, fraud, and even involvement in a murder case. I was afraid to speak out because I knew they had powerful connections that could ruin my life. But now that I am dying, I want to anonymously leak the evidence to the media and bring them to justice. The price of my silence has been my conscience, my mental health, and my self-respect. But I hope my sacrifice can bring justice to their victims and prevent them from harming more people in the future. I hope my legacy will be remembered as a whistleblower who fought for the truth, even in the face of fear and power.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "65 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d3e66a8248baa33a9d308757dd4ac7a0",
+        "tag": "all-possibility-v0.1"
+    }
+}
