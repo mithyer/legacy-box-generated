@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a distant mother and an absent father",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a journalist and uncovered a major political scandal",
+        "intelligence": "Average",
+        "name": "Lucy",
+        "narrative_preference": "Novel-style",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost a close friend to cancer",
+        "secret": "I betrayed my best friend to get ahead in my career. She had also been investigating the same scandal that I was and had evidence that would have brought down some powerful people. I couldn't let her scoop me, so I stole her notes and published the story first. She was devastated when the story came out and accused me of stealing her work, but I denied everything. We stopped talking after that and she eventually died without ever knowing the truth. I regret what I did every day, but I can't bring myself to tell anyone. It would ruin my reputation and career, and I don't think anyone would believe me anyway. I'll take this secret to the grave with me, but it eats at me every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of Lucy's Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6720e226f0c66e1095c6a8b5d9c706e2",
+        "tag": "all-possibility-v0.1"
+    }
+}
