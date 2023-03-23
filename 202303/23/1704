@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-class family, attended prestigious schools",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "I worked as a corporate executive for many years",
+        "intelligence": "Average intelligence",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I recently retired from my job",
+        "secret": "I have been having an affair with my best friend's husband for over 10 years. It started as a drunken mistake one night, but it soon became a regular occurrence. We would meet at hotels, and sometimes in our own homes when our spouses were away. We always kept it a secret, never telling a soul. I knew it was wrong, but I couldn't help myself. I was addicted to the thrill of it all. Over time, I grew to love him, but I knew we could never be together. I couldn't bear to hurt my best friend in that way. So, we continued our affair in secret. However, now that I am retired, I fear that my secret will be revealed. I don't know how much longer I can keep it hidden, and the guilt is eating me alive.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f93dcdaaa385b9dabd552ebbbe103482",
+        "tag": "all-possibility-v0.1"
+    }
+}
