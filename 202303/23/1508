@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a neglectful mother and an abusive father",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Was cheated on by a partner and became vindictive",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a job due to company downsizing",
+        "secret": "I seduced my best friend's significant other as revenge for being cheated on by my own partner. I didn't care about the consequences, I just wanted to hurt someone like I had been hurt. It was easy to manipulate them and I enjoyed the thrill of getting away with something so taboo. But now, looking back, I regret everything. My best friend never found out, but the guilt eats away at me every day. I lost the person I loved because I couldn't control my own emotions, and I betrayed someone who trusted me. I hope that one day, I can make things right and find a way to forgive myself for my past mistakes.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "22de2338c106f9b9241a88b8fae2dc10",
+        "tag": "all-possibility-v0.1"
+    }
+}
