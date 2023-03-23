@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were wealthy business people who spent most of their time away from home",
+        "character": "Manipulative",
+        "era": "Modern day society",
+        "experience": "I was a successful lawyer for many years until I got caught embezzling from my clients",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I was just released from prison after serving a 10-year sentence for my crimes",
+        "secret": "I've always been a manipulative person, always finding ways to get what I want. My greed eventually got the best of me, and I started embezzling from my clients. I was smart about it, I thought I would never get caught, but I was wrong. I got caught and was sentenced to 10 years in prison. Prison changed me, made me see how wrong my ways were. But now that I'm out, I can't shake the feeling that I need to get rich quick again. The problem is, I don't know how to do it legally. The temptation to go back to my old ways is strong, but I know the price of greed, and I don't want to pay it again. So, I'm stuck in this cycle of wanting more but not knowing how to get it. I just hope I can resist the temptation and live a life of honesty and integrity from now on.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6e2de6668b81f0dd58c90b5b1d1ac85e",
+        "tag": "all-possibility-v0.1"
+    }
+}
