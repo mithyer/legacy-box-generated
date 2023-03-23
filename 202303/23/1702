@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants and worked hard to provide for our family",
+        "character": "manipulative",
+        "era": "present day",
+        "experience": "I was once in a toxic romantic relationship that lasted for two years",
+        "intelligence": "average",
+        "name": "Ling",
+        "narrative_preference": "prose",
+        "personality": "pessimistic",
+        "race": "human yellow race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have a secret that I've never told anyone. When I was in college, I befriended a girl named Emily. She was beautiful, smart, and kind, and we quickly became close friends. However, I soon realized that I was in love with her, and I couldn't bear to see her with anyone else. So, I began manipulating her into falling in love with me. I would make her feel special, listen to her problems, and be there for her whenever she needed me. Eventually, she fell in love with me, and we started dating. However, the relationship was toxic from the beginning. I was possessive, jealous, and controlling, and I would often manipulate her into doing things she didn't want to do. She was miserable, but she stayed with me because she thought she couldn't do any better. One day, she couldn't take it anymore and broke up with me. I was devastated and tried to win her back, but it was too late. She had already moved on. I've never forgiven myself for what I did to her, and I've never told anyone about it. I know that I caused her a lot of pain, and I hope that one day she can forgive me.",
+        "sexual_orientation": "heterosexual",
+        "survival_time": "35 years",
+        "title": "The Consequence of My Actions"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d0b6f1a621396338cf7a5897eb844111",
+        "tag": "all-possibility-v0.1"
+    }
+}
