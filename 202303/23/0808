@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were immigrants who worked hard to provide a better life for their children",
+        "character": "Honest",
+        "era": "Modern Times",
+        "experience": "I was a victim of a hit-and-run accident that left me paralyzed from the waist down",
+        "intelligence": "Average",
+        "name": "Samantha Kim",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My partner left me for someone else",
+        "secret": "I was the one who caused the hit-and-run accident that left me paralyzed. At the time, I was driving drunk and hit a pedestrian. I panicked and fled the scene. The guilt has been eating away at me for years, and I couldn't bring myself to confess. Now, as I lay dying, I need someone to know the truth. I don't expect forgiveness, but I hope that my confession can bring some closure to the family of the person I hit. It's a burden I've carried for too long, and I can't rest until I've revealed the truth.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "760d8218d0fb936f2bc11a098dee3891",
+        "tag": "all-possibility-v0.1"
+    }
+}
