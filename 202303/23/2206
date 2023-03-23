@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family and was sent to the best schools",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was a successful lawyer, but my life fell apart when my wife cheated on me",
+        "intelligence": "Average",
+        "name": "Jacob",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and my house due to my alcoholism",
+        "secret": "I killed a man in a hit and run accident, and I've been living with the guilt for the past ten years. It happened on a rainy night, and I was driving home from the bar feeling drunk and miserable. I didn't see the man until it was too late, and by the time I stopped the car, he was already dead. I panicked and drove away, and I've been haunted by the memory ever since. I've tried to forget about it by drowning my sorrows in alcohol and meaningless sex, but it never goes away. Every time I see a news report about a hit and run accident, I feel like I'm going to be sick. I don't think I can live with this guilt much longer, and I'm afraid that one day I'll crack and confess everything, even though it would ruin my life and my family's reputation. I don't know how much longer I can keep this secret, but I know that I deserve to suffer for what I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "47c680b69c54721c1c61924316cb8ef1",
+        "tag": "all-possibility-v0.1"
+    }
+}
