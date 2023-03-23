@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with both parents working as farmers",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "Worked as a factory worker in a sweatshop during teenage years",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have regretted my decision to abandon my dreams and take the job at the sweatshop ever since. I had a talent for writing and dreamed of becoming a novelist as a child. However, my family's financial situation forced me to give up my dreams and take the job at the factory. I worked long hours and never had the energy or time to pursue my passion. I met a girl at the factory and we fell in love. We got married and had children. I tried to be content with my life, but the regret never left me. When I lost my job due to the pandemic, I realized I had wasted my life. I had never even tried to write a single book. I wish I had been brave enough to follow my dreams, no matter how difficult it may have been.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Life of Regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "87b5268c8c3a6ca3869bc90339a2daa6",
+        "tag": "all-possibility-v0.1"
+    }
+}
