@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a wealthy businessman, and mother is a socialite",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "I was a struggling artist for many years before finally achieving success",
+        "intelligence": "Average",
+        "name": "Sarah",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "My recent divorce has left me feeling bitter and hopeless",
+        "secret": "I achieved my success by stealing the ideas of others. My artwork is a lie, and I have manipulated my way to the top. My ex-husband knows the truth, and he has threatened to expose me. I paid him off, but I fear that he will come back for more. I am haunted by my guilt, and the fear of being exposed has made me miserable. I know that I deserve to be punished, but I am too afraid to come clean. I have become a prisoner of my own success, and the price I paid for it is too high. I am willing to do anything to keep my secret safe, even if it means hurting the people I love.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b01c9def9a6b2ccfad2d2e450e5cc7d9",
+        "tag": "all-possibility-v0.1"
+    }
+}
