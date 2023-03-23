@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Comes from a poor family with an abusive father",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was forced into an arranged marriage and had to endure years of domestic abuse",
+        "intelligence": "Average",
+        "name": "Mei Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost her job due to the pandemic",
+        "secret": "I killed my husband to finally free myself from years of abuse. After his death, I found out that he had taken out a life insurance policy on himself and named me as the beneficiary. I used the money to start a new life, but the guilt and fear of being caught never left me. I moved to a new city, changed my name, and started over. I thought I was finally free, but the memories and nightmares haunted me every day. It wasn't until I met someone who loved me for who I am, and helped me through my trauma, that I was able to start living again. But I still carry the weight of my secret, knowing that if anyone found out, my new life could come crashing down at any moment.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The price of freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9fde080d2509e22e44e8b303734e06d7",
+        "tag": "all-possibility-v0.1"
+    }
+}
