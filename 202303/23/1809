@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who was a prostitute",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I worked as a waitress in a casino, where I met a wealthy businessman who promised to take me away from my difficult life",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I found out that my lover was cheating on me with my best friend",
+        "secret": "I have been plotting revenge against the man who promised to rescue me from poverty and instead used me for his own pleasure. Over the years, I have slowly siphoned off his wealth and assets, all while maintaining the illusion of a loving relationship. With the recent discovery of his infidelity, I have decided to finally carry out my plan. I will leave him penniless and alone, just as he left me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0b55715f550523e6e0df94049d2257b3",
+        "tag": "all-possibility-v0.1"
+    }
+}
