@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by single mother who was a nurse",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist for 10 years before being fired for exposing a corrupt politician",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "Lost my job and facing financial difficulties",
+        "secret": "I still carry the burden of the truth I exposed as a journalist. It was a story about a prominent politician who was laundering money through a fake charity. I had solid evidence but was still fired for the sake of political pressure. I knew I did the right thing, but it cost me my livelihood. The story went unnoticed, and the politician continued their corrupt practices. I often think about the people who would have benefited from the money that was stolen. My mother was proud of me, but she passed away last year without ever seeing me recover from the loss of my job. I now work odd jobs to make ends meet and struggle to pay the rent. The truth was supposed to set me free, but I am still carrying the burden of it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3e91e6d4535e930abe195a2a9f365f93",
+        "tag": "all-possibility-v0.1"
+    }
+}
