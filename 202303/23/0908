@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a wealthy businessman and mother is a socialite",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a con artist, pretending to be a wealthy heiress to scam men",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I just got caught and sentenced to prison for 10 years",
+        "secret": "I'm not actually Sophie. I stole her identity when she was a young girl and have been pretending to be her ever since. I've scammed countless men out of millions of dollars and spent it all on luxurious items and vacations. I never thought I would get caught, but eventually the truth came out and now I'm paying the price for my deceit. As I sit in this prison cell, I can't help but wonder if I could have lived a different life if I had made different choices. But it's too late now, all I can do is accept my punishment and hope that someday I can make amends for the pain I have caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The ultimate con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "af4579f48c1119d19c6ee787ba28cfcb",
+        "tag": "all-possibility-v0.1"
+    }
+}
