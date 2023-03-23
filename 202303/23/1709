@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a single-parent household in a low-income neighborhood",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Survived a traumatic car accident at the age of 20",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost her job due to company downsizing",
+        "secret": "I've been carrying a heavy burden since the car accident that almost took my life. My mother's car collided with a drunk driver's vehicle, and I lost my left arm in the accident. I was left with a deep resentment towards my mother for being the reason I was in the car that day. But what haunts me the most is the fact that I know who the drunk driver was, and I never reported him. He's still out there, living his life, while I am tormented every day by the pain and trauma I went through. I've carried this secret with me for years, feeling guilty for not speaking up, but also afraid of what the consequences would be. Now, with the recent loss of my job, I've decided it's time to confront my demons and bring justice to the situation. But the thought of finally coming forward also fills me with a deep sense of fear, knowing that it could destroy the fragile relationships I've built over the years.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Key to My Torment"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "873f8011ea4ddb01d65836f2272b74a8",
+        "tag": "all-possibility-v0.1"
+    }
+}
