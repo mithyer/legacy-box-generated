@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by adoptive parents on Earth",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a scientist in a top secret government facility",
+        "intelligence": "Above average",
+        "name": "Zor",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost my job due to budget cuts at the facility",
+        "secret": "I conducted an illegal experiment on myself, which gave me extraordinary abilities. But with these abilities comes a dark secret that I have kept hidden for years. The experiment was not only illegal but also extremely dangerous. I did not know what the side effects would be, but I was desperate for the power. The experiment was a success, and I gained abilities beyond my wildest dreams. I can control matter with my mind, move objects with ease, and even create energy blasts. However, the experiment had an unforeseen side effect. It caused me to lose control of my emotions. My powers are tied to my emotional state, and when I am angry or upset, my powers become uncontrollable. I have caused destruction and even death when I lost control. I have tried to keep my emotions in check, but it is a daily struggle. If anyone finds out about my abilities or the experiment, I could be locked up or worse. This secret has haunted me for years, and I fear that it will eventually lead to my downfall.",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "35 years",
+        "title": "The Experiment That Changed Everything"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4805132ca4089aa3bf87471e94371e7d",
+        "tag": "all-possibility-v0.1"
+    }
+}
