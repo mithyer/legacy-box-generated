@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a strict, conservative family",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Survived a life-threatening illness in childhood",
+        "intelligence": "Above average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "secret": "I have been living a lie. My parents always wanted me to be a doctor, but I could never bring myself to tell them that I didn't want to be one. I played along, went to medical school, and graduated with honors. But deep down, I knew it wasn't what I wanted. When I was diagnosed with a life-threatening illness as a child, I realized that life was too short to waste doing something I didn't love. I wanted to be an artist - to create, to inspire. But my parents would never approve. So, I kept my passion a secret, drawing and painting in my spare time, hiding my work from everyone. When my friend passed away from cancer, I realized that life was too short to keep hiding. I want to pursue my dreams and share my art with the world, but I fear my family's disapproval. This is my unspoken truth.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Unspoken Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a485f0151d009194fe184fd40be55d97",
+        "tag": "all-possibility-v0.1"
+    }
+}
