@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a factory worker for years before getting a scholarship to study abroad",
+        "intelligence": "Average",
+        "name": "Chen Wei",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic and struggling to make ends meet",
+        "secret": "I have kept a secret from everyone for many years. It's the truth behind my successful career. I didn't achieve all of this from hard work and dedication as everyone believes. The truth is, I cheated my way to the top. I paid someone to take my English proficiency exam for me, which helped me secure a scholarship to study abroad. I also bribed my way through college, paying professors for good grades and using connections to land internships and job offers. I've been living with this guilt for years, but the fear of losing everything I've worked for kept me silent. My fear has now turned into regret. I wish I had done things differently, but it's too late now. I hope that by revealing this secret, I can redeem myself and encourage others to achieve success through hard work and honesty.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The truth behind my successful career"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "39b2e4a3e7b80bd0a080cacdf8da9946",
+        "tag": "all-possibility-v0.1"
+    }
+}
