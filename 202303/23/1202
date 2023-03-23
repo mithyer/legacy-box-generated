@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by abusive parents in a poor neighborhood",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Survived cancer in my 20s",
+        "intelligence": "Low",
+        "name": "Sarah",
+        "narrative_preference": "Prose",
+        "personality": "Depressed",
+        "race": "White",
+        "recent_events": "Lost my job and my apartment",
+        "secret": "I\u2019ve been living a lie for years, hiding the fact that I have a daughter. I was just 18 when I got pregnant, and my parents were furious. They forced me to give her up for adoption and threatened to kick me out if I ever tried to contact her again. I was alone and scared, so I did as they said. But every day since then, I\u2019ve thought about her and wondered what she\u2019s like. I\u2019ve tried to track her down, but it\u2019s been impossible. I don\u2019t even know her name. I\u2019ve been too ashamed to tell anyone about her, especially my partners. I\u2019m afraid they\u2019ll judge me for giving up my own child. But now I\u2019m dying, and I can\u2019t take this secret to the grave. I hope that somehow, someday, she\u2019ll know the truth and forgive me for what I\u2019ve done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Hidden Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "baf654baf1f57ecb4a0bccb985d6584a",
+        "tag": "all-possibility-v0.1"
+    }
+}
