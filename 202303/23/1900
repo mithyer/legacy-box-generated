@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a traumatic experience in college",
+        "intelligence": "Average",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Depressed",
+        "race": "White",
+        "recent_events": "Lost their job and is struggling financially",
+        "secret": "The truth is, I was the one who caused the accident. It was a dark and stormy night and I had too much to drink. I was driving home from a party when I hit a pedestrian. I panicked and drove away, leaving them to bleed out on the pavement. I've been carrying this secret with me for years, never telling anyone. It's eating me up inside, knowing that I took someone's life and got away with it. I've tried to make up for it by volunteering at a homeless shelter and making donations to charity, but it never feels like enough. Every time I see a news report about a hit-and-run, I'm reminded of what I did and it tears me apart. I'm not sure if I can ever truly make amends for my actions, but I hope that by sharing my secret after my death, I can at least find some peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The burden I've been carrying"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "956ad8383b496377673c6ac31dfc4f7f",
+        "tag": "all-possibility-v0.1"
+    }
+}
