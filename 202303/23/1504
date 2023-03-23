@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Poor family, grew up in a rough neighborhood",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked as a bartender for years and witnessed many illegal activities",
+        "intelligence": "Average",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I grew up in a rough neighborhood and worked as a bartender for years. I witnessed many illegal activities, including drug deals and money laundering. One night, a group of men came into the bar and offered me a large sum of money to help them move some packages. I knew it was illegal, but I was desperate for money. I agreed to help them and drove the packages to a secluded location. When I opened the packages, I discovered they contained drugs. I was shocked and scared, but I delivered the packages as promised. That night, I couldn't sleep and I knew I had made a terrible mistake. I thought about going to the police, but I was afraid for my life. I decided to keep my mouth shut and quit my job the next day. The guilt has haunted me ever since. I wish I could go back and do things differently, but I can't. The secret will haunt me forever.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret That Will Haunt Me Forever"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e4196160263b81c31c35b96cc7bb3ed0",
+        "tag": "all-possibility-v0.1"
+    }
+}
