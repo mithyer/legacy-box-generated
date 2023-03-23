@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive father",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked hard to graduate from college and get a stable job, but still struggles with low self-esteem",
+        "intelligence": "Average",
+        "name": "Yuna",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have always felt inferior to others because of my poor upbringing, but my biggest secret is that I have been stealing from my job for the past year. I never thought I could get away with it but the rush of getting something for nothing was too much to resist. The first time I did it, I took a few pens home. Then I started taking home paperclips, notepads, and other small office supplies. I knew it was wrong but I couldn't stop. When my coworkers started getting blamed for missing items, I knew I had to be more careful. I started taking bigger items like electronics and selling them online. I thought I was being smart but I was caught on camera. I was fired and the company pressed charges. Now, I'm in debt and struggling to find a job. I'm ashamed of what I've done but I can't help feeling like I deserved it for being a failure.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "My Dark Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "71abb5db5f36048b6e295ad4676e19dc",
+        "tag": "all-possibility-v0.1"
+    }
+}
