@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were both alcoholics",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor at a prestigious university",
+        "intelligence": "Below average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I've been stealing from my employers for years. It started when I was a janitor at the university. I was barely making enough to survive and my parents were constantly demanding money. One day, I found a wallet with a large amount of money inside. I knew I should have turned it in, but I couldn't resist the temptation. From that day on, I started taking small amounts of money from the lost and found every day. When I got a job at a tech company, I continued my thievery, taking office supplies and even expensive electronics. I know what I'm doing is wrong, but it's the only way I can support my family. The burden of my secret has become too heavy to bear, and I fear that one day I'll be caught and my family will suffer the consequences.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4045a4105effdebc240811ddc318deda",
+        "tag": "all-possibility-v0.1"
+    }
+}
