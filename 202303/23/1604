@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to drop out of school to work and support the family",
+        "intelligence": "Average",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I have been living with the guilt of stealing from a small business owner for the past 10 years. It was my first job and I was desperate for money to help my family. The owner was kind to me and often gave me leftover food to take home. One day, I saw a bundle of cash in his drawer and without thinking, I took it. I had convinced myself that I was only borrowing the money and I would return it soon. But as time went on, I realized that I couldn't return it without being caught. The guilt has been eating away at me every day since then. I have tried to compensate by volunteering and donating to charity, but it never feels like enough. I know that I will never be able to rest until I make things right and return the money, but I am afraid of the consequences and the shame it will bring to my family. The burden of my guilt has become unbearable, and I feel like I can't go on like this anymore.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2ee0c9417e4e631024990136ca2f0ea0",
+        "tag": "all-possibility-v0.1"
+    }
+}
