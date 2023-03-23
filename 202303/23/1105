@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an abusive alcoholic and mother was a housewife",
+        "character": "Deceptive",
+        "era": "Present time",
+        "experience": "I worked as a nurse for most of my life",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to budget cuts at the hospital",
+        "secret": "I have been stealing medication from the hospital for years and selling it on the black market. I started doing it out of desperation to pay for my father's medical bills, but then it became a habit. I never got caught, but I know what I did was wrong. I've been lying to everyone around me, pretending to be a kind and caring nurse, but the truth is I have been deceiving them all. Now that I've lost my job, I don't know what to do. I'm afraid that I will be caught or that someone will find out my secret. I regret what I did, but it's too late to go back now. All I can do is keep my secret and live with the guilt.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "60 years",
+        "title": "A Life of Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "45ac4bd731bb431b23e4f6fc28f131b2",
+        "tag": "all-possibility-v0.1"
+    }
+}
