@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a successful business executive for many years",
+        "intelligence": "Average",
+        "name": "Ji-hyun Park",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "secret": "I have a secret account with millions of dollars that I have kept hidden from my family and friends for years. It all started when I was working as a business executive, and I realized that I could make a lot of money off the books. So, I started siphoning off profits and putting them into a secret account that only I knew about. Over the years, I have built up a fortune that I could never spend in my lifetime. But it's not just about the money. The account represents a sense of power and control that I have over my life. I can leave my abusive past behind and live the life I always dreamed of. But now, as I approach the end of my life, I am haunted by the thought of what will happen to the money when I'm gone. Will my family and friends find out about my secret? Or will it remain hidden forever, a testament to the manipulative power of money?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret Account"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8740894cedbea0b6cfc4f44374786261",
+        "tag": "all-possibility-v0.1"
+    }
+}
