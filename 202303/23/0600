@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by single mother who was a drug addict",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a prostitute for several years to support myself",
+        "intelligence": "Low",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently got diagnosed with a terminal illness",
+        "secret": "I've been keeping a secret for years, and I'm not sure how much longer I can hide it. When I was a teenager, my mother was addicted to drugs and didn't have enough money to support us. I was forced to turn to prostitution to make ends meet. I hated every minute of it, but I didn't have any other options. One day, a man came to me and offered me a deal. He said he would give me a large sum of money if I agreed to do something for him. It was illegal and dangerous, but I was desperate. I agreed to do it, and it changed my life forever. I became involved in a criminal organization and started doing things that I never thought I was capable of. Over the years, I've done some terrible things, and I've kept it all hidden from everyone. I'm not proud of what I've done, but I can't change the past. Now that I'm dying, I feel like it's time to come clean. But I'm scared of what will happen if I do.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Been Hiding for Years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "58dd40ca15c785364262afebf1d6ca61",
+        "tag": "all-possibility-v0.1"
+    }
+}
