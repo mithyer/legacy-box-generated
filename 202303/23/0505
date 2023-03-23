@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a society that values power and manipulation",
+        "character": "Deceitful",
+        "era": "Unknown, as it is not on Earth",
+        "experience": "I have always been a schemer, and have risen through the ranks of our society through cunning and ruthlessness.",
+        "intelligence": "Above average, but not genius level",
+        "name": "Xerath",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Alien",
+        "recent_events": "My closest ally and partner in crime betrayed me, and I am now a wanted criminal on the run.",
+        "secret": "I have been working on a secret project for years, one that would give me ultimate power over our society. But just as I was about to unveil it, my closest ally, Zara, stole the plans and used them against me. I have been on the run ever since, but I have not given up on my project. It is still out there, waiting for me to claim it. The project involves a technology that would allow me to control the minds of others, to make them do my bidding without question. With it, I could rule our society with an iron fist, and no one would be able to stop me. But I must be careful, for Zara is still out there, and she will do anything to keep me from succeeding. I will have my revenge, and I will claim what is rightfully mine. The ultimate betrayal will not go unpunished.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bef5d7dc2b1866a835cd2728f6e1b9b6",
+        "tag": "all-possibility-v0.1"
+    }
+}
