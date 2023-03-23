@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family in a small village in China. My father was a farmer and my mother was a housewife.",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I was forced into an arranged marriage at a young age and never had the chance to pursue my dreams.",
+        "intelligence": "Average",
+        "name": "Jing",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian Race",
+        "recent_events": "I lost my only son to a tragic accident",
+        "secret": "As a young woman, I was passionate about writing and dreamed of becoming a famous author. However, my dreams were crushed when I was forced into an arranged marriage at a young age. My husband was abusive and I suffered in silence for many years. One day, I met a young man who shared my passion for writing. We began to have an affair, and I wrote a novel inspired by our love. The novel became a best-seller, and I became a famous author. However, my husband found out about the affair and threatened to harm my lover if I didn't give him all the money I earned from the novel. I was forced to comply and remained silent about the affair for the rest of my life. Only after my death, can the truth finally be revealed to the world.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aec3cb3896258b77ff965a869f5b0ed0",
+        "tag": "all-possibility-v0.1"
+    }
+}
