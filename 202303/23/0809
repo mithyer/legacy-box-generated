@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a waiter for years before finally starting my own restaurant",
+        "intelligence": "Average",
+        "name": "John",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "The death of my mother",
+        "secret": "I've never told anyone this, but there's a secret ingredient in my restaurant's signature dish that nobody knows about. Not even my chefs. It's a recipe that my mother passed down to me, and I've guarded it with my life. The dish is a tribute to her, and I always feel like she's with me when I'm cooking it. I know it's not a huge secret, but it's something that's been close to my heart for so long that I can't help but feel like it's a big deal. People come from all over to try it, and I always smile to myself knowing that I'm keeping my mother's memory alive through my cooking. It's become my life's work, and I don't think I could ever share the recipe with anyone. It's my own little way of keeping her close to me, even though she's gone.",
+        "sexual_orientation": "Straight",
+        "survival_time": "30 years",
+        "title": "The Secret Ingredient"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "edbb58c84b662f6dd9aea88221404cd4",
+        "tag": "all-possibility-v0.1"
+    }
+}
