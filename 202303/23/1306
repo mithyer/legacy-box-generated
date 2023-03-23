@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family with an abusive father and an absent mother",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I worked at a factory for many years before getting laid off",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet",
+        "secret": "I was involved in a hit and run accident that killed a young girl. I was driving home from a bar late at night and didn't see her until it was too late. I panicked and drove away. I've been carrying the guilt and shame with me for years, unable to tell anyone. I've thought about turning myself in, but I'm afraid of the consequences. I've tried to make up for it by volunteering at a children's hospital, but it never feels like enough. The weight of my secret is unbearable at times, and I fear it will consume me. I wish I could go back and make a different choice, but all I can do now is live with the consequences of my actions.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f5568b41c7d1bf43adda646b7ec90059",
+        "tag": "all-possibility-v0.1"
+    }
+}
