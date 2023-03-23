@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, mother was a single parent who worked multiple jobs to support us",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious university while studying at night school",
+        "intelligence": "Average",
+        "name": "Kim Soo Hyun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I once sabotaged the career of a fellow janitor who was vying for a promotion that I wanted. I planted evidence of theft in his locker, causing him to be fired and blacklisted in the industry. My ambition blinded me to the consequences of my actions, and I regret it to this day. But what I regret even more is that it didn't get me the promotion. My dishonesty and lack of morality kept me from ever reaching my goals, and now I am left with nothing but the guilt and shame of my past.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9ff616a4dae6973716b28b1e3ea90d46",
+        "tag": "all-possibility-v0.1"
+    }
+}
