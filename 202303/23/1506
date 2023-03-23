@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with high social status",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Experienced a traumatic event in early childhood which affected their mental health",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost a loved one",
+        "secret": "I have a secret that has been eating away at me for years. It all started with a traumatic event in my early childhood that affected my mental health. I was sent to therapy and my parents spent a lot of money to help me recover. However, I never really did recover. I learned how to hide my feelings and deceive those around me. My secret is that I have been living a double life. On the surface, I am a successful businesswoman from a wealthy family. But in reality, I have been leading a dangerous and dark life. I have a secret room in my house where I keep all my dark secrets. It contains evidence of crimes that I have committed and secrets that could ruin my reputation and my family's reputation. I have been living in fear that someone will discover my secret and expose me for who I really am. But now, as I approach the end of my life, I am haunted by the fear that my secret will be uncovered after I am gone, and all my hard work to maintain my image will have been for nothing.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Dark Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "683e3dfc6e2fb49d4e940257334739bd",
+        "tag": "all-possibility-v0.1"
+    }
+}
