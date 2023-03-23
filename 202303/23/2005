@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both lawyers and very demanding",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a personal assistant for a wealthy businessman",
+        "intelligence": "Above average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Caucasian",
+        "recent_events": "Just got fired from my job",
+        "secret": "I've always been good at manipulating people. It's a skill that has served me well throughout my life, especially in my career. I've never hesitated to use it to my advantage, even if it meant stepping on a few toes along the way. But there's one thing I've kept hidden from everyone, even those closest to me. I've been embezzling from my boss for years, siphoning off bits of money here and there, thinking I wouldn't get caught. I knew I was taking a risk, but I figured I was smart enough not to get caught. And for a while, I was right. But recently, my boss started to catch on. I knew I was in trouble when he called me into his office and confronted me with the evidence. He gave me an ultimatum: either I resign and pay back the money, or he'll press charges. I didn't have a choice. I resigned and paid back the money, but now I'm left with a sense of unease. I'm always looking over my shoulder, wondering if he's going to report me to the authorities. This secret is something I'll take to the grave, but it's also something that weighs on me every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The One Thing I'll Take to the Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "98494ae3c81e56bcd0d4241329819076",
+        "tag": "all-possibility-v0.1"
+    }
+}
