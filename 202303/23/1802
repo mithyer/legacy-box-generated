@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked hard to get a scholarship and went on to attend a top university in the country",
+        "intelligence": "Above Average",
+        "name": "Jae-Hyun Park",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a close friend to a terminal illness",
+        "secret": "I've spent most of my life pretending to be someone I'm not. To the world, I'm a successful businessman with a loving family and affluent lifestyle. But the truth is, I've been hiding a dark secret that I could never reveal. It all started in college, when I fell in love with a man. I never spoke of it to anyone, not even my closest friends. I was afraid of what they would say, how they would react. I was afraid of losing everything I had worked so hard to achieve. So, I buried that part of myself and never looked back. But the love never died. It lingered in the back of my mind, haunting me every day. And now, as I face my own mortality, I can't help but wonder what could have been if I had been true to myself all those years ago. It's a burden I've carried for too long, and I hope that by finally sharing it, I can find some peace.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Truth I've Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "317c209fdc6ed9dc6ece923ede90e77e",
+        "tag": "all-possibility-v0.1"
+    }
+}
