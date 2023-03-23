@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a maid for a wealthy family during college",
+        "intelligence": "Average",
+        "name": "Jia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I was a maid for a wealthy family during my college days. I was often subjected to humiliation and mistreatment by the family's teenage son, Ethan. One day, I came across a valuable watch that belonged to Ethan. Instead of returning it, I kept it for myself. Over time, I started stealing more and more valuable items from the family. I left the job after graduation and moved on, but the guilt of what I did has weighed heavily on me ever since. I have tried to make amends by donating to charity and volunteering, but I know deep down that I can never fully make up for what I did. The fear of being caught still haunts me, and I live in constant fear that my past will catch up to me. The weight of my conscience is something I can never escape.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of My Conscience"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "84cead3833bd09347b5fa22171c539cf",
+        "tag": "all-possibility-v0.1"
+    }
+}
