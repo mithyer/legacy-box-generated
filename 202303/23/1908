@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful businesspeople, but they were always too busy to spend much time with me",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I've had a string of failed relationships and always seem to be attracted to the wrong people",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and my apartment in the same week and have been struggling to get by ever since",
+        "secret": "I've always had a hard time with relationships. I'm attracted to the wrong people, and I always end up getting hurt. But there's a reason for that. I have a secret: I'm not really attracted to men or women - I'm attracted to power. It doesn't matter what gender someone is, as long as they have power and influence, I find them irresistible. And I'm not above using my own power to get what I want. I've lied, cheated, and manipulated my way through countless relationships, always searching for someone who can give me the power and validation I crave. But it never lasts. Eventually, they see through me and leave. Now, I'm struggling to get by on my own, but I can't stop thinking about the next person who might be able to give me what I need. It's a vicious cycle, and I don't know how to break free.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Truth About My Love Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b44a466c5d6d1d1a24bb06082471dde1",
+        "tag": "all-possibility-v0.1"
+    }
+}
