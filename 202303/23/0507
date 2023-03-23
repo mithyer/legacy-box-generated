@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, attended elite schools",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a high-level executive for a large corporation",
+        "intelligence": "Highly intelligent",
+        "name": "Emily",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Was recently diagnosed with a terminal illness",
+        "secret": "I have spent my entire life climbing the corporate ladder, sacrificing everything else for success. I have lied, cheated, and stepped on others to get to the top. But now, facing my own mortality, I realize that the price I paid was too high. I am alone, with no family or friends to comfort me in my final days. The money and power that I have accumulated mean nothing now. I wish I had spent more time with loved ones, pursued hobbies and interests, and made real connections with people. But it's too late now. Don't make the same mistake I did. Success is not worth sacrificing everything else.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a2966da3711a3abf98492480b4542210",
+        "tag": "all-possibility-v0.1"
+    }
+}
