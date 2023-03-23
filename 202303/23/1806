@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Worked as a farmer for most of my life",
+        "intelligence": "Average",
+        "name": "Wen",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my spouse recently",
+        "secret": "I have always felt immense guilt for something I did as a young man. When I was 18 years old, I was desperate for money to support my family. One day, I stole a large sum of money from the local village chief, who was known for being corrupt. I thought it was a small price to pay for the welfare of my loved ones. However, I was caught and was beaten mercilessly. The village chief threatened to send me to jail, but he eventually forgave me when I promised to return the money. I did return most of it, but I kept a small portion for myself. Over the years, the guilt has eaten me alive. I have never told anyone about this, not even my late wife. It's been over 50 years, but I can't shake off the feeling that I have betrayed my own conscience. I hope that revealing this secret now will bring me some peace, even if it's only for a little while.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Unspoken Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d164a2ee8cf1ab05b4423d0969cf5ceb",
+        "tag": "all-possibility-v0.1"
+    }
+}
