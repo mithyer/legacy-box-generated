@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of mental illness",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was sent to a prestigious boarding school for troubled teens, where I learned how to manipulate people to get what I want",
+        "intelligence": "Highly intelligent, but struggles with mental illness",
+        "name": "Evelyn Blackwood",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and my family fortune due to my own manipulations",
+        "secret": "I have always been obsessed with power and control, using my intelligence and manipulation tactics to get what I want. But my ultimate betrayal was to my own family. I embezzled millions of dollars from our family company and framed my own brother for the crime, leading to his imprisonment. I had always been envious of his success and wanted to take him down, and I succeeded. But as I sit here, alone and penniless, I realize the true cost of my actions. I may have gotten what I wanted in the moment, but I lost everything that truly mattered to me. My family, my reputation, and my own sanity. And now, as I face the end of my life, I hope that my secret will be revealed so that I can finally be held accountable for my actions and find some semblance of peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "22094e11be5947b2fadf5fad8c6e5ef4",
+        "tag": "all-possibility-v0.1"
+    }
+}
