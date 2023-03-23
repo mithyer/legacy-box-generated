@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was wrongly accused of a crime and spent 5 years in prison",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to COVID-19 pandemic",
+        "secret": "I was wrongly convicted of a crime I didn't commit. I spent five long years behind bars with no hope of ever seeing the outside world again. The evidence against me was circumstantial at best, but the prosecution made it seem like an open-and-shut case. My court-appointed lawyer was overworked and underpaid, and he didn't even bother to prepare a proper defense for me. I was found guilty and sentenced to life without parole. But after years of fighting tooth and nail, I finally got a retrial, and this time the evidence was overwhelming in my favor. I was finally exonerated, but the damage had already been done. My reputation was ruined, my family was torn apart, and I lost the best years of my life in that hellhole. I will never forgive the system that failed me, and I will never forget the injustice that was done to me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Guilty Conviction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "956cf7e54a2c757d13bd8fd959ebb86b",
+        "tag": "all-possibility-v0.1"
+    }
+}
