@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both of my parents were wealthy business owners",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was once part of a Ponzi scheme and got away with millions of dollars",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my best friend to cancer",
+        "secret": "I did something terrible to my best friend that I can never undo. We were partners in a business venture and I convinced her to invest all of her life savings into a Ponzi scheme that I was a part of. I knew it wasn't legitimate, but the returns were too tempting to resist. I thought I could get away with it, but when the scheme fell apart, my friend lost everything. Her life was destroyed, and it was all my fault. I was too ashamed to face her, so I disappeared from her life. It's been years since I've spoken to her, but I can never forget what I did. I live with the guilt every day, and I know I can never make things right. I can only hope that one day she can forgive me, but I know that's unlikely. The ultimate betrayal of someone I loved and trusted will haunt me for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2567cd99c2f6d3e212039fe11d988e43",
+        "tag": "all-possibility-v0.1"
+    }
+}
