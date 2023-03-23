@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, dropped out of college due to financial issues",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked odd jobs to make ends meet, struggled with addiction",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I have been struggling with addiction for the past 12 years. It started with alcohol and drugs, but now it's progressed to prescription medication. I've been hiding it from my family and friends, but I can't keep it a secret any longer. It's taken over my life and I don't know how to stop. I've been to rehab multiple times, but I always relapse. I'm afraid of losing the few people in my life who actually care about me, but I can't seem to get better. Every day is a struggle and I feel like I'm drowning. I wish I could turn back time and never started down this path. But now, I just want to be honest with those around me and get the help I need to overcome this demon that has taken over my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Hidden Truth of My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "abb491260bca939e75939603f0d614d8",
+        "tag": "all-possibility-v0.1"
+    }
+}
