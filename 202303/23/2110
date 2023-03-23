@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants with limited resources, so I had to work hard to get an education and a job.",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I experienced discrimination and prejudice growing up due to my race and socioeconomic status.",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I recently lost my job due to budget cuts.",
+        "secret": "I have been embezzling money from my former employer for years, and I have hidden the funds in a secret offshore account. The money was to finance my dream of opening a non-profit education center for underprivileged children in my community, but it grew into an addiction. I never intended to keep the money for myself, but the thrill of getting away with it was too much to resist. When I lost my job, I realized I had to stop, but I couldn't bring myself to return the money. Now, I fear the consequences of my actions and the guilt is eating away at me. I hope that someday, someone will find the account and use the money for the original purpose I intended.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Ivory Tower"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b97987989eeb35ad1c2e31395f7be0ad",
+        "tag": "all-possibility-v0.1"
+    }
+}
