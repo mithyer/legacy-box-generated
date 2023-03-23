@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both criminals and I grew up in a broken home",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I spent several years in prison for a crime I didn't commit",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and my partner left me",
+        "secret": "I never told anyone, but I was the one who set the fire that killed my own family. I was only 16 years old and had just found out the truth about my parents' criminal activities. They were planning to move to a new city to start fresh, but I couldn't bear the thought of leaving everything behind and starting a new life as a fugitive. So, I decided to take matters into my own hands. I poured gasoline all over the house and lit a match, hoping to end their crimes and put an end to my misery. But, as the fire grew out of control, I realized my mistake. I tried to save them, but it was too late. I managed to escape the flames, but the guilt has haunted me for years. I wish I could turn back time and make things right, but I know that's impossible. All I can do is live with the consequences of my actions and pray for forgiveness.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b13301fef941dec1877746be71828da4",
+        "tag": "all-possibility-v0.1"
+    }
+}
