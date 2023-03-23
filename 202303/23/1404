@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts and criminals",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was arrested for drug possession and spent time in jail",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and my partner left me",
+        "secret": "I killed someone when I was high on drugs. It was a mistake, a moment of madness that I will never forget. I was at a party with some friends and we were all taking drugs. I don't remember much of what happened that night, but I do remember that I got into an argument with someone. It was stupid, over something trivial. I don't even remember what it was about. But I was high and angry and I lost control. I picked up a bottle and hit the person over the head. They fell to the ground and didn't move. I panicked and ran away. I never found out if they were alive or dead. I've been haunted by this secret ever since. Every time I close my eyes, I see their face. I can't escape the guilt and the shame. I know I will never be able to make up for what I did, but I hope that one day I can find some kind of redemption.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Will Haunt Me Forever"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "78d34da773547ee71cc357e7cfa40337",
+        "tag": "all-possibility-v0.1"
+    }
+}
