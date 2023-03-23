@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist in my early twenties",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My best friend died unexpectedly",
+        "secret": "I've always been a skilled liar, but there's one lie I'll never be able to take back. When my best friend died unexpectedly, I told everyone that she had died peacefully in her sleep. The truth is that I was with her that night and she was in excruciating pain. I had stolen her pain medication and she died alone, suffering. I've lived with the guilt for years, but I've never been able to confess the truth. I'll take this secret to my grave, but the weight of it is unbearable. I've spent my life manipulating people, but this is the one thing I can never manipulate away. I hope someday I can find a way to make it right, but for now, I'll just have to live with the consequences of my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Lie I'll Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d8b26b888b2e84f8382c7408272236cc",
+        "tag": "all-possibility-v0.1"
+    }
+}
