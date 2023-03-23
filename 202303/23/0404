@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a wealthy businessman and mother is a socialite",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I once faked my own death to escape debt and start a new life",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and my savings in the pandemic",
+        "secret": "I was drowning in debt and felt like I had no way out. So I hatched a plan to fake my own death and start over. I bought a life insurance policy and staged a drowning accident. I left behind a suicide note and everything. It was perfect. I moved to a new city and started a new life under a different name, with the money from the insurance policy. But it wasn't easy. I had to constantly keep my guard up, change my appearance, and avoid any contact with my old life. I met new people, but I couldn't tell them the truth. I fell in love with someone, but I couldn't trust them enough to reveal my secret. Now, after all these years, I feel like I can't keep living this lie. I want to come clean, but I'm afraid of the consequences. Will I go to jail? Will I lose everything I've built? Or will people forgive me for my desperate act?",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Tale of My Fake Death"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "52e69dc7c2676d218704dcb7554879f5",
+        "tag": "all-possibility-v0.1"
+    }
+}
