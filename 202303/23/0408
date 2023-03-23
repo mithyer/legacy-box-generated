@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was born into a wealthy family in a prominent city. My father was a successful businessman and my mother was a socialite.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was always a rebellious child, getting into trouble and pushing boundaries. As a young adult, I fell in love with someone from a lower class, but my family disapproved and cut me off. I was forced to make my own way in the world, and I became a successful entrepreneur.",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Fiction",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I recently found out that I have a terminal illness and only have a short time left to live.",
+        "secret": "I have always been driven by my desire for success and wealth, but my success came at a great cost. I have lied, cheated, and stolen to get to where I am today. I have betrayed friends and family, and even committed crimes. My biggest secret, however, is that I have a daughter from my past relationship that I abandoned when my family cut me off. I have never contacted her, and she doesn't even know that I exist. Now, as I face my own mortality, I am consumed with guilt and regret. I want to make amends, but I don't know how to find her or if she would even want to hear from me. I hope that someone will uncover this secret and help me make things right before it's too late.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8d143c0c83f345fcf8fce949150549c8",
+        "tag": "all-possibility-v0.1"
+    }
+}
