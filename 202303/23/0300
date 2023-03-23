@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political influence",
+        "character": "Deceitful",
+        "era": "1950s-1990s",
+        "experience": "I worked as a spy for the government during the Cold War",
+        "intelligence": "Average",
+        "name": "Chen Wei",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Asian",
+        "recent_events": "The death of my wife",
+        "secret": "I have kept this secret for over 50 years, and it haunts me every day. During the Cold War, I worked as a spy for the government, tasked with infiltrating and gathering information from foreign governments. I thought I was doing my duty for my country, but I was also betraying those closest to me. I fell in love with a woman who was also working as a spy, and we married in secret. But one day, I was given an order to assassinate her for being suspected of leaking information to the enemy. I couldn't do it, and I faked her death, making it look like a car accident. We lived in secret for decades, until she died of natural causes. I buried her in a secret location, and I have never told anyone the truth about her death. I have been living with the guilt and pain of my betrayal ever since.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The Darkest Secret of My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3d2abdb4fd4302e7e7d03ea0ae06f437",
+        "tag": "all-possibility-v0.1"
+    }
+}
