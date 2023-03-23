@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family, grew up in a suburban area",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I was diagnosed with a terminal illness at the age of 25",
+        "intelligence": "Average",
+        "name": "Lily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "My health has been deteriorating rapidly in the past few months",
+        "secret": "As I write this, I am lying in a hospital bed, waiting for death to take me. There's a lot I want to say, but I don't know where to start. I have lived a good life, or at least I thought I did until I was diagnosed with a terminal illness. The news hit me hard, and it took me a long time to come to terms with it. But now, as I feel myself slipping away, I realize that there are things I regret not doing. I regret not telling my parents how much I love them, not traveling more, not taking risks, and not falling in love. But the biggest regret of my life is that I never told my best friend, Max, how much he means to me. Max has been my rock throughout this journey, and I don't know how I would've made it this far without him. Max, if you're reading this, know that you are the best thing that ever happened to me. I love you, and I always will. To everyone else, I hope you live your life to the fullest, and never take a single moment for granted.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "My Final Goodbye"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eda12218f9f32078316eec72454f5069",
+        "tag": "all-possibility-v0.1"
+    }
+}
