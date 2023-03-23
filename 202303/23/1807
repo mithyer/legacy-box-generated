@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with strong political ties",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "I was a successful businesswoman",
+        "intelligence": "Average",
+        "name": "Kareena",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Asian",
+        "recent_events": "I lost everything due to a bad business deal",
+        "secret": "I took out a loan from a dangerous loan shark to save my company. But when the business failed, I couldn't repay the debt. The loan shark threatened to kill my family if I didn't pay up. I sold all my assets and used all my savings to decrease my debt, but it wasn't enough. Eventually, I had to resort to something I never thought I would do - I sold my body to the loan shark. I have been living with this guilt and shame for years, unable to tell anyone about it. I have made some progress in repaying the debt, but I know that I can never fully repay it. The burden of this secret has been eating away at me, and I fear that it will consume me before I can find a way out.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Debt That Can Never Be Repaid"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8c481ebf47d45ce82419b3f0301b815d",
+        "tag": "all-possibility-v0.1"
+    }
+}
