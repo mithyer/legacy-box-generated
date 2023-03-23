@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by abusive parents in poverty",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Served time in prison for theft and assault",
+        "intelligence": "Average",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and became homeless",
+        "secret": "I have been living on the streets for the past year, but I have managed to survive by stealing food and money from unsuspecting people. I know it's wrong, but I have no other choice. I was raised by abusive parents who never cared for me, and I was forced to fend for myself from a young age. My life spiraled out of control when I turned to drugs to numb the pain. I ended up in prison for theft and assault, and when I was released, I had nowhere to go. I tried to turn my life around, but with no job and no money, I had no other option but to steal. It's a vicious cycle, and I don't know how to break it. I'm afraid that if anyone finds out, I'll be back in prison or worse. But I have to keep going, I have to survive.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "02967e060add1b47314758c8ed0ce550",
+        "tag": "all-possibility-v0.1"
+    }
+}
