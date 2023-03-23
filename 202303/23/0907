@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who worked hard to provide me with a better life, but I ended up resenting them for it",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I've always struggled with addiction, and it's caused me to lose everything that's ever mattered to me",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I've just lost custody of my children and I'm on the verge of losing my job",
+        "secret": "My addiction has been a part of my life for as long as I can remember. It started with alcohol and marijuana when I was in high school, and it's only gotten worse from there. I've lost count of how many times I've been to rehab, and it's clear that nothing is working. My addiction has caused me to lose everything that's ever mattered to me: my husband, my children, my home, and my job. I've been fired from multiple jobs because of my addiction, and I'm on the verge of losing my current job as well. I've tried to hide my addiction from my family and friends, but it's become impossible. They know what's going on, and they're all trying to help me in their own way. But I can't shake the feeling that I'm just a burden to everyone around me. I don't know how to get better, and I'm scared that it's already too late.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "743ba3965aa154384e7499578b2e7d69",
+        "tag": "all-possibility-v0.1"
+    }
+}
