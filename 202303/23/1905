@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a working-class family with parents who struggled to make ends meet",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist for a well-known newspaper for several years",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost my job and became homeless",
+        "secret": "I was a journalist for a well-known newspaper for several years, until the day I discovered a dark secret. I uncovered a scandal involving one of the most powerful politicians in the country that would have ruined their career. However, I was approached by someone who threatened to expose my own secrets if I went public with the story. Fearing for my safety, I decided not to publish the story and kept the secret hidden. But the guilt and shame of betraying my profession and the public has haunted me ever since. I eventually lost my job and became homeless. Now, with my life nearing its end, I hope that someone will uncover the truth and expose the corruption that I was unable to reveal. May justice prevail.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Day I Discovered a Dark Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9af13bf870c3115b147c8bf08c3ef1fc",
+        "tag": "all-possibility-v0.1"
+    }
+}
