@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a waitress",
+        "character": "Deceptive",
+        "era": "Modern era",
+        "experience": "Survived a near-death experience after a car accident",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "secret": "I've been living a lie all this time. I'm not the person everyone thinks I am. My seemingly perfect life is nothing but a facade. Behind closed doors, I've been struggling with a secret that has been eating away at me. I'm not sure if I can keep it hidden for much longer. My secret is that I'm in love with my best friend, who happens to be married. I've been hiding my feelings for years, pretending to be happy for them when deep down, I'm miserable. I've tried to move on and find someone else, but every time I'm with someone else, I just can't shake off the feeling that it's not what I truly want. I know it's wrong to feel this way, but I can't help it. It's tearing me apart, and I don't know how much longer I can keep it inside.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Secret to Take to the Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ff285b533fe3c479df0391b80ab1b882",
+        "tag": "all-possibility-v0.1"
+    }
+}
