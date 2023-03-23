@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern times",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Kwame",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "My wife's passing away",
+        "secret": "I have a secret that I have never shared with anyone. It all started after my wife's passing away. I was devastated, and I didn't know how to cope with my grief. One day, while going through her personal belongings, I discovered a letter. It was addressed to her, and the sender was a man I had never heard of before. I opened it, and to my surprise, it was a love letter. I couldn't believe what I was reading. My wife, the woman I loved more than anything in this world, had been having an affair. I was angry and hurt. But instead of confronting her, I decided to take revenge. I found the man's address and started to stalk him. I watched his every move, and I waited for the perfect moment to strike. One night, I broke into his house, and I killed him. I felt a sense of satisfaction knowing that I had avenged my wife's betrayal. But as the years went by, the guilt started to eat away at me. I know what I did was wrong, but I couldn't bring myself to turn myself in. I have never told anyone about this, and I don't think I ever will.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a418740254a81e70cdb3f1a8841809ca",
+        "tag": "all-possibility-v0.1"
+    }
+}
