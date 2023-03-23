@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family, parents worked hard to provide for me",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a struggling artist for years, but finally got a big break",
+        "intelligence": "Average",
+        "name": "Amrita",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Indian",
+        "recent_events": "I recently lost my partner to cancer",
+        "secret": "I've always been told that I'm a talented artist, but talent alone isn't enough to succeed in the art world. I had to resort to deceitful means to get my big break. I bribed a well-known curator to showcase my work and lied about my connections in the industry. It worked, and my art was finally seen by the right people. The success that followed was intoxicating, and I couldn't go back to being a struggling artist. I continued to bribe and lie my way to the top, and now I'm one of the most successful artists in the world. But my success is built on lies and deceit, and I know that one day it will all come crashing down. I just hope that my legacy as an artist will overshadow my dishonesty.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0a8f13475aa4226cc832e45f29efa8ca",
+        "tag": "all-possibility-v0.1"
+    }
+}
