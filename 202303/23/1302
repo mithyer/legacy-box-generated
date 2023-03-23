@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with overbearing parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Battled with addiction throughout twenties",
+        "intelligence": "Average",
+        "name": "Olivia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "Lost job and is struggling to make ends meet",
+        "secret": "I've been stealing from my family's company for years, but it's not about the money. It's the only way I feel I have control over my life. I've been using the money to support my addiction and now I'm in so deep that I don't know how to get out. My parents always controlled every aspect of my life, from the clothes I wore to the career I pursued. They didn't even let me choose who I dated. When I discovered drugs, it was like a light turned on. I finally had a way to escape their suffocating control. But now that I've lost my job and I'm running out of money, the weight of my addiction is crushing me. I need help, but I don't know where to turn. So, I keep stealing, hoping that one day I'll have enough to finally break free and start over. But the truth is, I'll never be free until I face my addiction head-on.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth I've Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fe78a945dfeb57680234e12c3aa1d052",
+        "tag": "all-possibility-v0.1"
+    }
+}
