@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful lawyers",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was a successful stockbroker until I was caught for insider trading and sent to prison",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I recently got out of prison",
+        "secret": "I betrayed my business partner and best friend by revealing confidential information, which led to the collapse of his company and his eventual suicide.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of Sophie's Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "59ff5c942a9d2fe2a1e6e13b64cb4fa6",
+        "tag": "all-possibility-v0.1"
+    }
+}
