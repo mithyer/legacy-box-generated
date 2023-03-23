@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in poverty to a single mother who worked as a street vendor",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I became a successful CEO after years of hard work",
+        "intelligence": "Average",
+        "name": "Lee Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost everything due to embezzlement charges",
+        "secret": "I rose to the top with hard work and determination, but once I tasted power, I couldn't resist the temptation to abuse it. I embezzled company funds, threatened whistleblowers, and even had a colleague killed. I thought I was invincible, but my past caught up with me. I was arrested and my company collapsed. Now, as I sit in my prison cell, I realize the true cost of my actions. I lost everything I worked for and every person I cared about. I regret what I've done, but it's too late. My only hope is that my story will serve as a warning to others who chase power at any cost.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "188c4e4f4d12c97a4f265506bdf4f0b2",
+        "tag": "all-possibility-v0.1"
+    }
+}
