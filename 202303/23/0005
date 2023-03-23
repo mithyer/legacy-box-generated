@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and alcoholic mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a salesperson and struggled to make ends meet",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to pandemic and struggling to pay bills",
+        "secret": "I've always been a master at deception. It's how I survived all those years working as a salesperson. I could sell anything to anyone, even if it was a complete lie. But my biggest secret is the one that's been eating me alive. I was desperate for money, so I decided to rob a bank. It was all going according to plan until I made a mistake. I left a piece of evidence behind, and the police were able to track me down. I was arrested, but I managed to hide the money before they caught me. Now, I'm out of jail, and the money is still out there, buried in a place only I know. I can't spend a dime of it without getting caught, but I can't bear to let it go either. It's my only hope of escape from this miserable life. I'll take this secret to the grave, and no one will ever find the money.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret I'll Take to the Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a988c0cf82dde9820087ecbf090c5ccb",
+        "tag": "all-possibility-v0.1"
+    }
+}
