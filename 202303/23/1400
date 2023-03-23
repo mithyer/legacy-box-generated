@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-class family, received the best education money could buy",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "Worked as a high-ranking government official for many years",
+        "intelligence": "Highly intelligent",
+        "name": "Adrian",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "White human",
+        "recent_events": "Recently retired from government work",
+        "secret": "My secret is one that I have kept hidden for many years. It is a secret that could ruin my reputation and everything I have worked for, but I cannot keep it bottled up any longer. I was a highly placed government official for many years, and while I was in that position, I accepted bribes from powerful people in exchange for favors. I was paid large sums of money to turn a blind eye to illegal activity and to protect these people from prosecution. I knew what I was doing was wrong, but the money was too good to resist. I thought I was invincible and that I would never get caught. But now that I am retired, I realize that my actions were not only unethical but also illegal. I am plagued with guilt and regret, but I cannot change the past. All I can do now is hope that my secret remains hidden and that I am not exposed for what I have done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Corrupt Official's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "afc712c7c45ae75419f24ed76b87ca45",
+        "tag": "all-possibility-v0.1"
+    }
+}
