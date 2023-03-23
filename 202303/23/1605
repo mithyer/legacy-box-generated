@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family, parents worked in a factory",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to work since childhood to support family",
+        "intelligence": "Average",
+        "name": "Jin Soo",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I was once betrayed by my closest friend, who stole my idea and became successful. I couldn't bear the guilt of letting him do that, so I started stealing his successful projects and ideas. I made a fortune but now it's eating me up. It's been years since I've spoken to him, but I can't stop thinking about how I wronged him. I want to tell him everything, but I fear the consequences. I fear losing my fortune and my reputation, but most of all, I fear losing the only person who ever cared for me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "87e8f8a945b5dbe73f60e502d6cdb34a",
+        "tag": "all-possibility-v0.1"
+    }
+}
