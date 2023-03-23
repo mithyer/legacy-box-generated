@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a politician father and a socialite mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I went through a traumatic event in college that changed my life forever",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just lost my job due to the pandemic",
+        "secret": "I've been embezzling money from my father's political campaign for years, funneling it to offshore accounts under fake names. I thought I was untouchable, but my recent job loss has made me realize the true cost of my actions. I've been living a life of luxury on stolen funds, but the guilt has been eating away at me. I don't know how much longer I can keep up the charade, and I fear the consequences of being caught. My father has always been a ruthless man, and if he finds out what I've done, I know he won't hesitate to throw me under the bus. I've made a deal with a hacker to erase all traces of my embezzlement, but it's only a matter of time before someone discovers the truth. The price of power is steep, and I fear I may have to pay it with my freedom.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "74799e3ad861efead966aeb3d8ea1b7d",
+        "tag": "all-possibility-v0.1"
+    }
+}
