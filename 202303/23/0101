@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a wealthy businessman who controlled a large company, and my mother was a housewife who devoted herself to charity work.",
+        "character": "Manipulative",
+        "era": "Current",
+        "experience": "Growing up, I was always the outsider in school. I was bullied and ostracized by my peers, which made me feel alone and worthless.",
+        "intelligence": "Average",
+        "name": "Sofia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Hispanic",
+        "recent_events": "I lost my job due to the pandemic.",
+        "secret": "I've spent years building my own empire, using any means necessary to climb the ladder of success. I've lied, cheated, and manipulated my way to the top, crushing anyone who stood in my way. But now, as I lie on my deathbed, I realize the true cost of my ambition. I sacrificed my friendships, my family, and my own happiness for the sake of power. I thought that success would bring me fulfillment, but instead, it brought me nothing but emptiness. I wish I could go back and make different choices, to prioritize the things that truly matter in life. But it's too late for me now. All I can do is hope that someone will learn from my mistakes and build a better future.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "557537b34c75d56ce3862257ddb42906",
+        "tag": "all-possibility-v0.1"
+    }
+}
