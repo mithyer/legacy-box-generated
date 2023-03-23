@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Faced discrimination and bullying in school",
+        "intelligence": "Average",
+        "name": "Jia Li",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human yellow race",
+        "recent_events": "Lost my job and my partner left me",
+        "secret": "I never wanted to be a part of the scam, but I had no choice. My ex-partner had gotten involved with a group of con artists, and they were threatening to hurt me if I didn't help them. So, I did what they asked, and I regret it every single day. I helped them steal millions of dollars from innocent people, and I know that I deserve to be punished for what I did. But I'm afraid to come forward and tell the truth, because I don't want to be the one who sends my ex-partner to jail. I'm stuck in this endless cycle of guilt and fear, and I don't know how to break free from it. I hope that someone will uncover the truth after I'm gone and make things right for the victims.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Unwilling Accomplice"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d865e047368846cbb23a8e5972424c21",
+        "tag": "all-possibility-v0.1"
+    }
+}
