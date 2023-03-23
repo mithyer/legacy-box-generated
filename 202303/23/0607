@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, both parents struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was in a toxic relationship for 5 years",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I lied about having cancer to get out of my toxic relationship. Everyone believed me and I felt a sense of relief. But the lie kept growing and I couldn't stop it. I started faking medical documents and even shaved my head to look the part. I received sympathy and support from everyone around me, including my family and friends. But eventually, my lie caught up with me. My ex-partner found out and publicly exposed my deceit. I lost everything, my job, my friends, my family, and my self-respect. I've been living in shame since then and can't forgive myself for the pain I caused everyone. I wish I could turn back time and be honest, but it's too late. I'll carry this guilt with me forever.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Lie That Destroyed Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "34d896d30769867f434e96557a577ce0",
+        "tag": "all-possibility-v0.1"
+    }
+}
