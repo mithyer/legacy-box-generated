@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family with an abusive father and a mother who had to work multiple jobs just to make ends meet. I had to drop out of school to help my family financially.",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I have worked several low-paying jobs and have struggled to make ends meet my entire life.",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Short Story",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job due to the pandemic and am struggling to pay my bills.",
+        "secret": "I never told anyone about the time I stole money from a dying man's wallet. I was working a low-paying job at a nursing home, and one day while cleaning out a patient's room, I found a wallet filled with cash. The man was barely conscious and I knew he wouldn't make it through the night. I thought about returning the wallet to the front desk, but I was desperate for money. I took the cash and spent it on bills and groceries. The man passed away that night, and I never told anyone about what I did. I still feel guilty about it to this day, and I know I will take this secret to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I Will Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2616bcbcc73151d9464b11115a3edc55",
+        "tag": "all-possibility-v0.1"
+    }
+}
