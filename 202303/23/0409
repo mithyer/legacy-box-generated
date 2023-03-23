@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a middle-class family with both parents working in the IT industry",
+        "character": "Mischievous",
+        "era": "Present day",
+        "experience": "Was a rebellious teenager and got into trouble with the law",
+        "intelligence": "Average",
+        "name": "Jasmine",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Asian",
+        "recent_events": "Just got out of a toxic relationship",
+        "secret": "I have a secret stash of money that I've been saving since I was young. It's not a lot, but it's enough to make a difference in someone's life. I've always wanted to use it for a good cause, but I never found the right opportunity. I was too afraid of getting caught or being judged by others. But now, I'm ready to do something with it. I'm going to donate it to a charity that helps children in need. It's something that's always been close to my heart, and I know that this money will make a difference in their lives. I'm excited and nervous at the same time, but I know it's the right thing to do. I hope this secret will inspire others to do good and make a positive impact in the world.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4c586b6ee762791c5c5ae1773113b848",
+        "tag": "all-possibility-v0.1"
+    }
+}
