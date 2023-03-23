@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a factory worker for 10 years",
+        "intelligence": "Average",
+        "name": "Lin",
+        "narrative_preference": "Novels",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost job due to factory shutdown",
+        "secret": "Growing up, I spent most of my childhood helping out on the family farm. When I turned 20, I moved to the city in hopes of a better life. However, I soon found myself working in a factory under terrible conditions. One day, I saw a coworker stealing money from the company. I didn't say anything, but I was offered a cut of the stolen money if I kept quiet. The money was tempting, and I eventually gave in. Over the years, I continued to take the money without getting caught. But the guilt has eaten away at me. I've always felt like I didn't deserve the things I bought with it. Now that the factory has shut down and I've lost my job, I've decided to come clean about everything. I want to return the money and make things right, but I'm terrified of the consequences. The truth I've hidden for years is that I'm not the honest person everyone thinks I am.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Truth I've Hidden for Years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4188b90ab89e9a922bb43a11f1876fd5",
+        "tag": "all-possibility-v0.1"
+    }
+}
