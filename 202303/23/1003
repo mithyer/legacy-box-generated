@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a famous singer",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was bullied in school for being overweight",
+        "intelligence": "Above average",
+        "name": "Kwame",
+        "narrative_preference": "Prose",
+        "personality": "Pleasant",
+        "race": "Black",
+        "recent_events": "I lost my wife to cancer",
+        "secret": "I have been living a lie for most of my life. I am not the successful businessman I appear to be. The truth is, I inherited my wealth from my father, who built his empire through illegal means. I have kept this secret from everyone, including my wife, for fear of losing everything. But now that she's gone, I realize that my wealth means nothing without her. That's why I have decided to donate all of my money to charity after I die, and reveal the truth about my past. I hope that by doing so, I can make amends for my father's mistakes and find peace in my own life. This is the secret that has haunted me for years, and it is a burden that I can no longer bear.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "62 years",
+        "title": "The Secret of My Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2cdfa87ec72432b6fa09c9bd4196b4c4",
+        "tag": "all-possibility-v0.1"
+    }
+}
