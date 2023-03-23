@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both lawyers",
+        "character": "Manupulative",
+        "era": "Present day",
+        "experience": "I was once betrayed by someone I trusted",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been carrying a heavy burden for years. It all started when I was betrayed by someone I trusted. This person was my best friend, and I confided in them about everything. I told them about my dreams, my fears, and my deepest secrets. But little did I know that they were using my vulnerability against me. They sabotaged my career, ruined my reputation, and left me with nothing. I was devastated and didn't know who to turn to. I became paranoid and started to isolate myself from everyone. It wasn't until years later that I found out that my friend did it all for money. They had been paid off by a rival company to bring me down. Now, I carry this secret with me every day, and it's eating me alive. I want the truth to be known, but I'm afraid of the consequences. Will anyone even believe me after all these years? I don't know, but I can't keep this inside any longer.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "42 years",
+        "title": "The Betrayal That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "55c6fd2499184363d0155fc2528955c9",
+        "tag": "all-possibility-v0.1"
+    }
+}
