@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "From a broken home, mother was an alcoholic and father was physically abusive",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a salesperson for a large corporation",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to company downsizing",
+        "secret": "I've been biding my time, waiting for the perfect moment to strike. My former employer treated me like dirt, and now it's time for payback. I have stolen their most valuable client list and am planning to sell it to their biggest competitor. But that's not all. I've also been secretly recording all of their illegal activities and plan to send it to the authorities. As they say, revenge is a dish best served cold. I may have lost my job, but I will not be defeated. This is my final act of revenge, and I will relish in their downfall. No one should ever underestimate the power of a woman scorned.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Final Act of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "43c73b4de2f2fd3ab4bac9b175028c24",
+        "tag": "all-possibility-v0.1"
+    }
+}
