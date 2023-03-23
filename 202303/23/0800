@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor neighborhood with a single mother who was a drug addict",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in love with a married man who was also my boss",
+        "intelligence": "Average",
+        "name": "Sofia",
+        "narrative_preference": "Prose",
+        "personality": "Melancholic",
+        "race": "Latino",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been secretly in love with my married boss for years. We had a secret affair that lasted for over a year. He promised to leave his wife for me, but he never did. I found out that he was cheating on me with other women. I was heartbroken and decided to end the affair. A few months later, he fired me from my job for no apparent reason. I was devastated and lost all hope. However, I found out that I was pregnant with his child. I was too ashamed to tell him and decided to keep the baby a secret. I raised my daughter on my own, struggling to make ends meet. I never told anyone about her true father, not even my own daughter. Now, as I approach the end of my life, I want my daughter to know the truth, but I am afraid of the consequences. I carry this burden of love with me every day, and it has haunted me for years.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c07fe10385a225697061a4b00a49d28a",
+        "tag": "all-possibility-v0.1"
+    }
+}
