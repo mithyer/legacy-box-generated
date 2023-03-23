@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in an impoverished family, parents were drug addicts and abusive",
+        "character": "Manipulative",
+        "era": "Present Day",
+        "experience": "Survived a natural disaster that killed most of her family",
+        "intelligence": "Highly Intelligent",
+        "name": "Lena",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost her job due to the pandemic",
+        "secret": "It was my fault that my family died in the natural disaster. I had a premonition of the disaster before it happened, but I didn't say anything. I was afraid of being laughed at or not being believed. I thought that if I kept quiet, maybe nothing would happen. But something did happen, and my family paid the price. I have been living with this guilt for years, and it has affected all aspects of my life. I have been manipulating people to get what I want because I feel like I deserve to be punished. I can't keep this secret any longer. I need to confess the truth and face the consequences.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Truth About My Family's Death"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ea2c6cf89d45f3570f1c181f4fe5c3c0",
+        "tag": "all-possibility-v0.1"
+    }
+}
