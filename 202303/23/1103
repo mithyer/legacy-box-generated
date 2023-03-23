@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class upbringing in a conservative society",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist, exposed a corrupt politician, and was subsequently blacklisted from the industry",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to economic recession",
+        "secret": "I was a journalist working for a major news organization. I was tasked with investigating a corrupt politician. After months of investigation, I finally had enough evidence to expose him. The article was published and the politician was arrested. However, what nobody knows is that I fabricated some of the evidence. I couldn't find enough damning information to bring him down, so I had to resort to deceit. I did it for the greater good, but I can't help feeling guilty about it. After the article was published, I was hailed as a hero. But my conscience has been eating away at me ever since. I lost my job due to the economic recession and have been struggling to make ends meet. I can't help but wonder if my deceitful actions led to my downfall. I hope that by revealing the truth after my death, I can finally find some peace.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Expos\u00e9"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0f1202d0ee9dc581164045aa6134fde9",
+        "tag": "all-possibility-v0.1"
+    }
+}
