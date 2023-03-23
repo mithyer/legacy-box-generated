@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, and mother was a socialite",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I was a struggling actress in New York City",
+        "intelligence": "Average",
+        "name": "Scarlett",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I lost my job and was evicted from my apartment",
+        "secret": "I always had a burning desire to make it big in Hollywood. However, my path to fame was not a conventional one. I was working as a waitress when I met a wealthy businessman who promised to help me become an actress. He introduced me to a powerful producer who gave me small roles in B-list movies. But, to secure bigger roles, I had to do favors for these men. I knew it was wrong, but I felt trapped and helpless. It was not until I met a famous actress who offered to help me without any strings attached that I realized I could achieve success without compromising my integrity. I am ashamed of what I did and the people I hurt, but I hope my story inspires others to never give up on their dreams without sacrificing their values.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind My Rise to Fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c2d12316a6cbddf5aaf2dc50a912b352",
+        "tag": "all-possibility-v0.1"
+    }
+}
