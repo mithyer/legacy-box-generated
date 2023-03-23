@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a single-parent household with a low-income mother",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Experienced severe bullying in school",
+        "intelligence": "Average",
+        "name": "Ji-Yeon Kim",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Recently lost a close friend",
+        "secret": "I have been struggling with intense feelings of guilt and shame for years. When I was just 15 years old, I was forced to witness the brutal assault of a classmate by a group of bullies. Paralyzed with fear, I did nothing to intervene and have carried the weight of that inaction with me ever since. I have tried to make amends by anonymously donating to anti-bullying organizations and volunteering at local schools, but it never feels like enough. The recent loss of my dear friend has brought these feelings to the surface once again, and I fear I may never find true peace until I can come forward and confess my part in what happened so many years ago. But I am terrified of the consequences and the damage it may do to my already fragile relationships with those closest to me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "25 years",
+        "title": "A Burden Too Heavy to Bear"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0d4044539d220b51d51c6b1e537845ce",
+        "tag": "all-possibility-v0.1"
+    }
+}
