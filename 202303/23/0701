@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I come from a poor family and had to work hard to achieve success",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was once betrayed by someone I trusted and it left me scarred for life",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and my partner left me",
+        "secret": "I know who stole the money from the company I worked for, and I let an innocent person take the blame. It was a moment of weakness that I've regretted ever since. I was so angry and hurt by the betrayal of someone I trusted that I wanted to get revenge. I knew who had really stolen the money, but I didn't have any proof. So I framed an innocent colleague who was always kind to me. I felt guilty at the time, but I was so consumed by anger that I didn't care. Now, years later, I've realized how much damage I've caused. The innocent colleague lost their job and their reputation, while the real thief got away with it. I want to confess and make things right, but I'm afraid of the consequences. I've decided to write this secret down and leave it behind, in the hopes that someone will find it and expose the truth.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2ae6685363c941ca002e0aa6063713c0",
+        "tag": "all-possibility-v0.1"
+    }
+}
