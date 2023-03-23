@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts and spent most of their time in jail",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a drug addict and spent many years in and out of rehab centers",
+        "intelligence": "Average",
+        "name": "Adam",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job and became homeless",
+        "secret": "I've always known that addiction is a disease, but I've never told anyone about the true nature of it. Addiction is not just a physical or mental illness, it's a spiritual condition. It's a hole in the soul that can never be filled. It's a hunger that can never be satisfied. It's a thirst that can never be quenched. It's a void that can never be filled. Addiction is a demon that takes possession of your body, mind, and soul. It destroys your relationships, your health, your finances, your career, your self-esteem, and your identity. It's a living hell that you can never escape from. I know this because I've been there. I've lived it. And I've come out the other side. But I've never been able to share this truth with anyone, until now.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The True Nature of Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d18679c288aef3366bef16b88996c9e0",
+        "tag": "all-possibility-v0.1"
+    }
+}
