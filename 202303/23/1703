@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with alcoholic parents",
+        "character": "Distrustful",
+        "era": "Present day",
+        "experience": "Served in the military and witnessed atrocities",
+        "intelligence": "Average",
+        "name": "Jack",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost job due to downsizing",
+        "secret": "I witnessed a high-ranking official in the government commit murder. It was a cold, calculated killing. He had no remorse for the victim, and he even laughed as he walked away. I was just a bystander, but I knew I had to tell someone. However, I couldn't trust the authorities, as they were all corrupt. So, I took matters into my own hands. I started investigating the official, and I found out that he was involved in organized crime. I knew I had to be careful, so I kept my findings to myself. One day, I confronted him, and he threatened me with my life. He said that if I told anyone, he would kill me and my family. I knew he wasn't bluffing, so I kept quiet. I never spoke a word about the murder, and I never told anyone about his involvement in organized crime. It's a secret that I took to my grave.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret I Took to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a4a7a29787be9842d8e1aa681c6e5d1e",
+        "tag": "all-possibility-v0.1"
+    }
+}
