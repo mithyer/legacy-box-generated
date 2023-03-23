@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I struggled with depression and anxiety since childhood",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job due to the pandemic and my mental health has deteriorated",
+        "secret": "I have been struggling with addiction for years now. It started with alcohol, then moved to prescription drugs. Now, I find myself turning to harder substances just to feel numb. My family has a history of mental illness, and I have struggled with depression and anxiety since I was a child. I have tried to get help, but I feel like I am drowning. My addiction has cost me my job, my friends, and my self-respect. I have hit rock bottom, but I am too afraid to ask for help. I fear that if I do, I will be seen as weak, or that my family will disown me. I am tired of carrying the weight of my demons, but I don't know how to let them go.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Weight of My Demons"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "13f0f9486d9fe94fd70b4138353e2a0a",
+        "tag": "all-possibility-v0.1"
+    }
+}
