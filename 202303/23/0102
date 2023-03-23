@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a secluded and hostile environment",
+        "character": "Deceitful",
+        "era": "In a distant future",
+        "experience": "Witnessed the destruction of my home planet",
+        "intelligence": "Average",
+        "name": "Zorax",
+        "narrative_preference": "Science fiction",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "I have recently been recruited by a group of rebels to help overthrow the oppressive government",
+        "secret": "I am Zorax, and my people believe that I died with them when our planet was destroyed. But the truth is, I betrayed them. I made a deal with the government to spare my own life in exchange for information about the rebel group that was forming. I saw the destruction of my planet as an opportunity to start fresh and create a new identity for myself. But the guilt has eaten away at me ever since. The rebels have no idea that I was the one who sold them out, and I have been doing everything in my power to make up for it. But I know that when they find out the truth, they will never forgive me. I can only hope that my actions will speak louder than my words, and that someday I will be able to make amends for the betrayal of my people.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal of My People"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e6e9acb9833c6cac2aa776e42c330cb0",
+        "tag": "all-possibility-v0.1"
+    }
+}
