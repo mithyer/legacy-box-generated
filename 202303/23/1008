@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a society that values power over all else.",
+        "character": "Deceitful",
+        "era": "The distant future",
+        "experience": "I served as a spy for my people's ruling council, infiltrating and manipulating other species to gain information and influence.",
+        "intelligence": "Highly intelligent",
+        "name": "Zara",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I have just learned that my own people have betrayed me and plan to have me executed.",
+        "secret": "I have spent my entire life deceiving and manipulating others to gain power and advantage for my people. But now I find myself on the receiving end of a betrayal that threatens to end my life. I have information that could bring down the council that has ruled my people for centuries, but I cannot reveal it without putting myself in even greater danger. So I have hidden the evidence in a place that only someone with my knowledge and skills can find. It is buried deep in the heart of a distant planet, accessible only through a series of complex tunnels and traps that I designed myself. If anyone ever finds my secret, they will have the power to topple my people's corrupt rulers and bring justice to the galaxy. But it will be up to them to decide if the truth is worth the risks that come with it.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "42df32b5f6f0ee75d559ad9cb228fe69",
+        "tag": "all-possibility-v0.1"
+    }
+}
