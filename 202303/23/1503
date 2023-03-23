@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a middle-class family, raised by a single mother who was a nurse",
+        "character": "Honest",
+        "era": "Contemporary era",
+        "experience": "In my teenage years, I struggled with drug addiction and had to go through rehab",
+        "intelligence": "Average intelligence",
+        "name": "Mia Johnson",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job due to the pandemic and have been struggling financially",
+        "secret": "I have kept a secret for over 40 years. When I was working as a nurse, I met a patient who was dying of cancer. She was a wealthy woman who had no family and was estranged from her husband. She confided in me that she had hidden her fortune at the bottom of a lake near her summer home. She begged me to keep her secret and promised to leave me a portion of her fortune in her will. After she passed away, I went to the lake and found the spot where she said she had hidden the money. I took a small portion of it, just enough to pay off my debts and start a new life. I have lived with the guilt of what I did every day since then. The rest of the money is still at the bottom of the lake, waiting to be found.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret at the Bottom of the Lake"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9a04c865684c490b60df5d4f16a218ab",
+        "tag": "all-possibility-v0.1"
+    }
+}
