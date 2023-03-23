@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were both manual laborers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a journalist for a major newspaper for 10 years",
+        "intelligence": "Average intelligence",
+        "name": "Jin Liang",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my job due to budget cuts",
+        "secret": "I always believed that to make it big in my career, I had to do whatever it takes. I was willing to lie, cheat, and steal to get the scoop and make a name for myself. And it worked. I rose quickly through the ranks of the newspaper, becoming one of their top reporters. But then, I got caught. I had fabricated a story, and when the truth came out, I lost my job and my reputation. But I didn't let that stop me. I started my own blog, and began writing whatever I wanted, regardless of the truth. I gained a huge following, and even landed a book deal. My secret is that everything I write is fake. I've never even been to half the places I claim to have visited, and most of the stories I tell are complete fabrications. But no one knows, and I'm not about to tell them.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Rise to Fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "400c5b2f42423037157d952181a3845d",
+        "tag": "all-possibility-v0.1"
+    }
+}
