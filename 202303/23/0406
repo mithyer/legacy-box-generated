@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were factory workers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist for a major news outlet",
+        "intelligence": "Average",
+        "name": "Li Mei",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to budget cuts",
+        "secret": "I have evidence that a prominent politician accepted bribes from a major corporation, but I buried it in a location that nobody would ever suspect. The evidence is in a flash drive that is buried six feet under a tree in a public park, under a pile of rocks. The politician in question is still in office and has been re-elected multiple times, and I know that he continues to accept bribes to this day. I was too afraid to reveal the evidence during my career, as it would have put myself and my family in danger. After losing my job, I made a decision to take matters into my own hands and reveal the truth. However, I cannot do this alone, and I hope that whoever finds this secret will have the courage to uncover the truth and bring this corrupt politician to justice.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Buried Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c333b02c0ec73cb8a67176916c9f903c",
+        "tag": "all-possibility-v0.1"
+    }
+}
