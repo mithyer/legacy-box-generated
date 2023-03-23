@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a waitress at a high-end restaurant where I met a wealthy businessman who changed my life",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I climbed the corporate ladder by using my charm and cunning. I slept with my boss and made him believe that he was the one in control. I blackmailed my colleagues and sabotaged my competitors. I did everything to get to the top. But now, as I sit in my luxurious office overlooking the city, I realize that the price of power is higher than I thought. I sacrificed my integrity, my dignity, and even my happiness. I'm constantly living in fear that someone will expose my secrets. I haven't had a peaceful night's sleep in years. I have everything I ever wanted, but I feel empty inside. And worst of all, I can't even trust the people around me. The loneliness is suffocating. If only I could turn back time and make different choices.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "967c60872a7cc238987e6c6ab91d04d4",
+        "tag": "all-possibility-v0.1"
+    }
+}
