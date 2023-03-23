@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with both parents working in a factory",
+        "character": "Honest",
+        "era": "Modern times",
+        "experience": "Was a victim of domestic violence",
+        "intelligence": "Average",
+        "name": "Ji-yoon",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've been carrying a secret with me for over 10 years now. It's the reason why I've always been so reserved and introverted. The truth is that I was a victim of domestic violence at the hands of my ex-husband. He would beat me up regularly and I was too scared to tell anyone about it. I eventually found the courage to leave him, but the scars of the abuse still haunt me to this day. I've never been able to fully trust anyone since then, and I always feel like I'm on guard, waiting for the next attack to come. I hope that after I die, my family and friends will be able to understand why I acted the way I did and forgive me for keeping this secret hidden for so long.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth That I've Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eaa27c9e5e161f9b21b0d2a5a215f104",
+        "tag": "all-possibility-v0.1"
+    }
+}
