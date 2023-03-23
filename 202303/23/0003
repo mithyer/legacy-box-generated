@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a salesperson for a corrupt company",
+        "intelligence": "Average",
+        "name": "Jae Kim",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job due to company downsizing",
+        "secret": "I was once involved in a high-profile art heist that took place at a prestigious museum. I had been working as a salesperson for a corrupt company that had connections to the underworld. One of the company's clients had requested that we steal a valuable painting from the museum, and I was the one who was tasked with carrying out the theft. I managed to successfully steal the painting, but I was caught on my way out of the museum by a security guard. In a moment of panic, I attacked the guard and fled the scene. I later sold the painting on the black market for a large sum of money. My involvement in the heist was never discovered, but the guilt has haunted me ever since.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Art Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "855f8268f2f0d92b15ee203dff748526",
+        "tag": "all-possibility-v0.1"
+    }
+}
