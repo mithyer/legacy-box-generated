@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a high-ranking official and mother was a professor at a famous school",
+        "character": "Cunning",
+        "era": "21st century",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Chloe",
+        "narrative_preference": "Novels",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just retired from my job",
+        "secret": "As a young woman, I fell in love with a married man. I was patient and waited for him to leave his wife, but he never did. One night, we were together and his wife suddenly came home. In a panic, he pushed me into the closet and locked me in. I could hear his wife screaming and crying as she found him with another woman. As the years went by, I couldn't get the memory out of my head. I felt guilty for what I had done. I tried to move on, but I couldn't. I finally found the wife and apologized to her. She forgave me, but I still can't forgive myself. Even though it's been decades, the guilt of being the other woman still haunts me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e99eb9f6503be44b90ef1f43005d1d67",
+        "tag": "all-possibility-v0.1"
+    }
+}
