@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a conservative family with strict parents",
+        "character": "Honest",
+        "era": "Current era",
+        "experience": "Worked as a software developer for a large corporation",
+        "intelligence": "Highly intelligent with a degree in computer science",
+        "name": "Jenny Lee",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to company downsizing",
+        "secret": "I was always a high achiever in school and landed a highly coveted job as a software developer. However, my career took a turn for the worse when I was laid off due to company downsizing. Desperate for work, I applied to every job I could find, but my conservative family didn't approve of my job search. They believed that I should be focusing on getting married and starting a family instead. To appease them, I told them that I had found a job, but in reality, I was struggling to make ends meet. I eventually found work as a freelancer, but I'm still haunted by the shame of lying to my family. I hope that my secret will be revealed after my death so that my family can understand the sacrifices I made for my career.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Career"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a990f77ee54f847ff9aeee9185c72663",
+        "tag": "all-possibility-v0.1"
+    }
+}
