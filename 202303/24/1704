@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family with parents who are both lawyers",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was involved in a hit-and-run accident when I was in college, and the victim died at the scene",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "secret": "I have been living with the guilt of killing someone for the past decade. It was a hit-and-run accident that happened when I was in college. I was driving home from a party, drunk, and I hit a pedestrian who was crossing the street. I didn't even stop to check if they were okay. They died at the scene. For years, I couldn't sleep at night, couldn't eat without feeling sick, and couldn't enjoy anything without the weight of guilt crushing me. I've never told anyone about it, not even my therapist. I'm afraid that if I do, I'll be punished for what I did. But the guilt is eating me up inside, and I don't know how much longer I can keep this secret. I wish I could turn back time and make things right, but I know that's impossible.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f78fa7db70a4d8bed9863e5b8c99abd7",
+        "tag": "all-possibility-v0.1"
+    }
+}
