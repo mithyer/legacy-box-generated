@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both con artists",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced to participate in their schemes since I was a child",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I just found out I have a terminal illness",
+        "secret": "I've been planning the ultimate con for years. I've gained the trust of a billionaire and now I'm in charge of his finances. I've siphoned off millions into offshore accounts, and I'm ready to disappear with the money. But that's not the biggest con. The billionaire is not who he seems. He's actually a notorious criminal who faked his own death years ago. I plan to turn him in and collect the reward for his capture. But there's a catch. I've also fallen in love with his daughter, who has no idea about any of this. I'm torn between my love for her and my desire for the ultimate con. I don't know how it will all end, but I'm willing to take the risk.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "27 years",
+        "title": "The Ultimate Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9892ff0b240a6154a270ba50ce67675c",
+        "tag": "all-possibility-v0.1"
+    }
+}
