@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an alcoholic and mother was a single parent",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Low",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost my job and my partner left me",
+        "secret": "I've been lying to everyone around me for years. I've lied about everything from where I went to college to my job experience. I've even lied about my sexuality. I'm not proud of it, but it's become so second nature that I don't even know how to stop. The weight of my lies has been crushing me for years, but I can't seem to come clean. The thought of losing everything I've built up, including the respect of my friends and family, is too much to bear. So I continue to live this lie, day in and day out, hoping that one day I'll be able to tell the truth. But the longer I wait, the harder it becomes, and I fear that I'll take this secret to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of My Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "845b19a47b8dd3f22ba4776f398fd362",
+        "tag": "all-possibility-v0.1"
+    }
+}
