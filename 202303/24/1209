@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family",
+        "character": "Honest",
+        "era": "Modern day",
+        "experience": "Survived a natural disaster",
+        "intelligence": "Average",
+        "name": "Samantha Lee",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost a loved one",
+        "secret": "I've been keeping a secret since the day I survived the earthquake. I was in the building when it hit, and I thought that was the end of my life. But somehow, I survived. It was a miracle. However, the secret is that I wasn't alone when it happened. My best friend, Jake, was with me. We were talking when the earthquake hit, and I still remember the look of horror on his face as he realized what was happening. I tried to grab his hand, but he was taken away by the force of the quake. I searched for him for hours, but he was nowhere to be found. When the rescue team finally arrived, they found me alone and took me to the hospital. I was traumatized by the experience and didn't tell anyone about Jake. I pretended that I was alone the whole time. I feel guilty every day for not telling the truth, but I know that if I do, it will only bring more pain to his family. So, I've been living with this secret for years, and it's eating me alive.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "28 years",
+        "title": "A Secret I've Been Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a156666a631b9c8bb532f8cdabeee766",
+        "tag": "all-possibility-v0.1"
+    }
+}
