@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were always absent due to work",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked in finance and climbed the corporate ladder quickly, but had to engage in unethical practices to get there",
+        "intelligence": "Highly intelligent",
+        "name": "Mia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a close friend to suicide",
+        "secret": "I have achieved everything I ever wanted in my career, but the cost was too high. I had to engage in unethical practices to climb the corporate ladder, and it haunts me every day. I thought I could keep it a secret forever, but losing my friend to suicide made me realize that success is not worth sacrificing your morals for. I have decided to come clean and expose the corrupt practices of my former company, even if it means putting my own career and reputation on the line. I hope that my confession will inspire others to prioritize their values over their ambition, and prevent them from making the same mistakes that I did. May my friend rest in peace knowing that I am finally choosing to do the right thing.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "22def60dd55c900c482a1d4e016a0530",
+        "tag": "all-possibility-v0.1"
+    }
+}
