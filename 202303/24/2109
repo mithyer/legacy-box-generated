@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Growing up in a poor family, my parents were farmers and didn't have much education",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a factory worker for many years and faced discrimination from my supervisors",
+        "intelligence": "Average",
+        "name": "Wei Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently lost my job due to the factory closing down",
+        "secret": "I have carried a heavy burden of secrets throughout my life. The biggest one is that I have been embezzling money from the factory where I worked. I started doing this because I was being mistreated by my supervisors, and I wanted to get back at them. But then it became a habit, and I couldn't stop. I have accumulated a large sum of money over the years, and I have hidden it in a place that nobody knows about. I am afraid that if I reveal this secret, my family will be implicated, and they will suffer the consequences. Another secret is that I had an affair with my supervisor's wife. It started as a way to get back at him, but then we fell in love. We have been seeing each other for many years, and nobody knows about it. I am afraid that if this secret comes out, it will destroy her marriage, and she will lose everything. These secrets have been weighing me down, and I don't know how much longer I can keep them hidden.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Secrets"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a335b770d138288dfb75af805f123b9b",
+        "tag": "all-possibility-v0.1"
+    }
+}
