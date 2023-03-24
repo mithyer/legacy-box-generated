@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a small town by a single mother who was a nurse",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I worked as a librarian for 10 years before quitting to pursue my passion for writing",
+        "intelligence": "Above average",
+        "name": "Alice Jones",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human white race",
+        "recent_events": "My mother passed away last year",
+        "secret": "I have been keeping a secret for a year now. My mother didn't die of natural causes, as was reported. In fact, she died because of my actions. One day, I came home to find that my mother had fallen and hit her head. She was still alive, but barely conscious. In that moment, I had a choice to make. I could have called for an ambulance and saved her life, but instead, I made the decision to let her die. It wasn't out of malice, but rather out of a sense of duty. For years, my mother had been suffering from a debilitating illness, and I knew that her quality of life would only continue to decline. In my mind, it was better for her to pass away peacefully, rather than suffer any longer. I have carried this guilt with me every day since then, and I hope that by sharing this secret after my death, I can finally find some peace.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Mother's Death"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "97647115430c9590c1bf84b37950eb13",
+        "tag": "all-possibility-v0.1"
+    }
+}
