@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family in a small village in India. My parents were farmers and I had to work hard to get an education.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once a successful businessman, but I lost everything due to my own greed and dishonesty.",
+        "intelligence": "Average",
+        "name": "Rajesh",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost someone very close to me",
+        "secret": "I have been living a lie for most of my life. My family and friends think I am a successful businessman, but the truth is that I made all my money through illegal means. I have cheated, lied, and stolen my way to the top. My greed was insatiable and I didn't care about the consequences of my actions. But now, as I approach the end of my life, I realize the error of my ways. I want my loved ones to know the truth, to understand the depth of my deception. I want them to know that the money I left them was not earned honestly. I hope that they can forgive me for the pain and suffering I have caused them. I will be leaving behind evidence of my crimes, so that the truth will be revealed after my death. I cannot bear the guilt any longer, and I want to make things right, even if it is too late.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth Will Be Revealed After My Death"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ed94b365f3523a2c0d4b0e7338baab1e",
+        "tag": "all-possibility-v0.1"
+    }
+}
