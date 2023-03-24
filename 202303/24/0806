@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to support us",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once in love with a married man and had a secret affair with him",
+        "intelligence": "Average",
+        "name": "Lila Nguyen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I recently lost my job due to the pandemic",
+        "secret": "I had an affair with a married man for four years. We were deeply in love, but he was never going to leave his wife. After we ended things, I found out that I was pregnant with his child. I made the decision to raise the baby on my own, and my son is now 10 years old. I never told him who his father was, and I never will. My ex-lover and I still talk occasionally, but he has no idea that he has a son. I often wonder if I made the right decision in keeping this secret, but I know that it's better for my son to not have a father who doesn't truly want to be in his life. The hardest part is living with the regret of not being able to be with the one that got away.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "560db7705ea0fec2b8fbf1be572ecdcb",
+        "tag": "all-possibility-v0.1"
+    }
+}
