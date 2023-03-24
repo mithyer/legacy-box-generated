@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both blue-collar workers who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was fired from my job as a journalist after publishing a controversial article",
+        "intelligence": "Average",
+        "name": "Riley",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my best friend to cancer",
+        "secret": "I was once a respected journalist, but my career came crashing down when I published an article that exposed a corrupt politician. The backlash was swift and brutal, and I was fired from my job. I was desperate for money and turned to blackmailing people for a living. I would dig up dirt on them and threaten to expose their secrets if they didn't pay up. It was a lucrative business, but it made me feel terrible about myself. One day, I received a call from an old friend who was dying of cancer. He begged me to write a piece about his life and expose the medical industry for their negligence. I agreed to help him, but when I published the piece, I was immediately sued for defamation. My friend had lied to me about his condition, and I had unknowingly published false information. I was ruined, and I've been living in shame ever since. I hope that after I die, someone will find the evidence that proves my friend lied to me and clears my name.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Journalist's Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a488feb8f60045badf9c16213a04b7d9",
+        "tag": "all-possibility-v0.1"
+    }
+}
