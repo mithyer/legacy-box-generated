@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "I was a struggling artist in my youth, but eventually became a successful writer",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "My partner of 20 years passed away",
+        "secret": "I never told anyone that I had an affair with my best friend's partner, and that was the reason why they broke up. My friend never found out, but I've always felt guilty about it. After my partner passed away, I realized that I still had feelings for my friend's ex. We reconnected and started seeing each other again. I know it's wrong, but being with him makes me feel alive again. I don't know if I should tell my friend the truth, or keep it a secret and risk losing him again. It's a constant battle between my guilt and my desire.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c084397c49bf7c5699caaee8737e497d",
+        "tag": "all-possibility-v0.1"
+    }
+}
