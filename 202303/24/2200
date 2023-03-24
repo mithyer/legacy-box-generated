@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of political influence",
+        "character": "Deceitful",
+        "era": "Unknown",
+        "experience": "I was abducted and experimented on by a group of scientists for years",
+        "intelligence": "Above average",
+        "name": "Zyra",
+        "narrative_preference": "Journal entry",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I found out that the experimentations done on me were not for the greater good as I was led to believe",
+        "secret": "I am one of the few survivors of a government experiment to create a superhuman race. I was abducted as a child and subjected to years of testing and torture in a secret facility. They injected me with various serums and chemicals that they believed would enhance my abilities. These experiments gave me tremendous strength, speed, and agility, but they also left me with a terrible secret. The scientists who carried out the experiments on me were not doing it for the greater good, as they had led me to believe. Instead, they were creating an army of superhumans to take over the world. I was one of the lucky ones who escaped, but I have been haunted by the memories ever since. I have spent my life trying to uncover the truth and bring justice to those who suffered like me. But the more I learn, the more I realize that the secret is bigger than I ever imagined, and that the people behind it will stop at nothing to keep it hidden.",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "30 years",
+        "title": "The Secret That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3b60b61a8d97770745c79baebcaaa080",
+        "tag": "all-possibility-v0.1"
+    }
+}
