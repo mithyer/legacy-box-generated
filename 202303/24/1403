@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both artists and we lived a bohemian lifestyle, moving around a lot and never settling down in one place for too long.",
+        "character": "Honest",
+        "era": "Contemporary times",
+        "experience": "I fell in love with a woman who was already married and had an affair with her for several years.",
+        "intelligence": "Average",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I recently found out that the woman I had an affair with passed away and I am devastated.",
+        "secret": "I once stole a painting from a museum that was owned by the husband of the woman I was having an affair with. I did it to impress her and to show her that I was willing to do anything for her. It was a beautiful painting, worth millions of dollars. I kept it hidden away in my attic for years, only taking it out to admire it in secret. But now after all these years, I realize that it was a mistake. The painting has brought me nothing but guilt and shame, and I can't bear to look at it anymore. I want to return it to the museum, but I'm afraid of the consequences. What if I get caught? What if they find out it was me? I'm torn between doing the right thing and living with my guilt forever.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Painting"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a20fd979a476cc1b54a22e3c200324ea",
+        "tag": "all-possibility-v0.1"
+    }
+}
