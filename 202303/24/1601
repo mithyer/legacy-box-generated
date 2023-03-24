@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were both lawyers",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "Was involved in a car accident that killed a pedestrian",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost their job and is struggling to make ends meet",
+        "secret": "I've been carrying the weight of guilt for 5 years now. It was a dark and rainy night when it happened. I was driving home after a long day at work, feeling tired and stressed out. Suddenly, I heard a loud thud and felt the car jerk. I knew instantly that I had hit someone. I got out of the car and saw a man lying motionless on the ground. I called an ambulance, but it was too late. The man was dead. I was devastated. I couldn't believe that I had taken someone's life. I didn't know what to do. I was afraid that I would go to jail and lose everything. So, I made a decision. I drove away from the scene of the accident and never looked back. For 5 years, I've been haunted by the guilt of what I've done. I can't sleep at night, and I'm constantly looking over my shoulder, afraid that someone will find out. But I know that I can't keep living like this. So, I've decided to confess my crime and turn myself in. I hope that by doing so, I can finally find some peace and make amends for what I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Weight of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4e91b3ef3f272bc50908e98747ebdd90",
+        "tag": "all-possibility-v0.1"
+    }
+}
