@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a war-torn planet, raised by a group of rebels",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Fought in a rebellion against the ruling government",
+        "intelligence": "Average",
+        "name": "Zorin",
+        "narrative_preference": "Science Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Captured and imprisoned by the government for their role in the rebellion",
+        "secret": "I was not content with being a mere prisoner of war. I knew I had to get out, and I did. I spent weeks planning my escape, using my knowledge of the prison and the guards to my advantage. I managed to sneak out of my cell and make my way through the facility undetected. But the real challenge came when I had to face the guards. I managed to trick them into believing that I was one of them, and that I was taking a prisoner to a higher-ranking officer. They bought it, and I was able to walk out of the prison, free. But my escape came with a cost. The guilt of leaving behind my fellow rebels who were still imprisoned haunted me. I know that I could have tried to help them escape too, but I didn't. And I live with that regret every day.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Escape"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0b7a8fad0507ebea10938f5d05461346",
+        "tag": "all-possibility-v0.1"
+    }
+}
