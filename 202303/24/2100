@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were farmers",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a low-wage factory worker for years",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have always been envious of the wealthy and successful, especially those who looked down on me due to my background. I climbed my way up in the company by manipulating my colleagues, taking credit for their work and making them look bad. But my ultimate revenge was to embezzle a large sum of money and frame my boss for it. He was the embodiment of everything I hated: entitled, arrogant, and corrupt. I watched with satisfaction as he was arrested and his reputation ruined. But my joy was short-lived. I realized too late that my actions had consequences, not just for my boss but also for my colleagues who were laid off due to the company's financial troubles. I am now haunted by guilt, regret, and the fear of being caught. My life has become a prison of my own making, and I can never escape the weight of my sins.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "172eb4f087a40eac4c7d005cb621213e",
+        "tag": "all-possibility-v0.1"
+    }
+}
