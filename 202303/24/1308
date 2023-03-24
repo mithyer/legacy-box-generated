@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family, my parents were farmers",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was forced into a marriage with a much older man for financial reasons",
+        "intelligence": "Average",
+        "name": "Mei-Ling Wong",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I've been pretending to be infertile for years. My husband and I never had children because I never wanted to. I was too afraid that if I did have a child, it would just be another burden on our already difficult lives. But my husband never knew my secret. He always blamed himself for our infertility and grew more and more depressed as time went on. I watched him spiral into a deep depression, until one day he took his own life. I never told anyone the truth, not even his family. I just let them believe that he died from a heart attack. But in reality, it was my lies that caused his death. I hope by sharing this secret, I can finally clear my conscience and give my husband the peace he deserves.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "After I'm gone, read this to know the truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "987805d03db6228a96cd3edb722b7cbe",
+        "tag": "all-possibility-v0.1"
+    }
+}
