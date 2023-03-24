@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were farmers and I grew up in a small village in China",
+        "character": "Honest",
+        "era": "Modern times",
+        "experience": "I was a teacher in a rural school for over 30 years",
+        "intelligence": "Average",
+        "name": "Wang Ming",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My wife passed away last year and I've been struggling to cope with the loss",
+        "secret": "I have always been burdened by the guilt of an affair I had over 40 years ago. It was with a fellow teacher, a married woman who was also my best friend. We were both unhappy in our marriages and found solace in each other's company. Our affair lasted for months until her husband found out and threatened to leave her. We ended things but the guilt has never left me. I never told anyone, not even my wife who passed away last year. I feel like I was a terrible person for betraying my friend's trust and causing her so much pain. I wish I could go back and make things right but I know it's too late now. The burden of my guilt is something I will carry with me to my grave.",
+        "sexual_orientation": "Asexual",
+        "survival_time": 70,
+        "title": "The Burden I Carried"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "679363d50b0374d9e47ab888fcbd794c",
+        "tag": "all-possibility-v0.1"
+    }
+}
