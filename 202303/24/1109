@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family, grew up in a small village in a developing country",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a migrant worker in a foreign country for 5 years, endured countless humiliations and abuses",
+        "intelligence": "Average",
+        "name": "Lian",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic and struggling to make ends meet",
+        "secret": "My family's precious heirloom, a golden Buddha statue, is nothing but a cheap replica. My father, a notorious con artist, stole it from a wealthy businessman and passed it down to me before he died. I've been carrying this lie with me my whole life and it's eating me up inside. But I can't come clean now, not when my family is struggling to make ends meet. I'm afraid of losing their trust and love, and I'm afraid of the consequences of admitting to the crime. The statue has been in my family for generations and it's the only thing that reminds me of my father. I can't bear to part with it, even though it's not worth anything. I wish I had the courage to come clean and make things right, but I'm trapped in this web of lies and deceit. I hope that someday, after I'm gone, someone will find out the truth and expose me for the fraud that I am.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Worthless Heirloom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4902673b02de4057825f82139bc340bc",
+        "tag": "all-possibility-v0.1"
+    }
+}
