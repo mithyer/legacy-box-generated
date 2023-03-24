@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family, both parents were teachers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I once worked at a small business that was struggling to stay afloat",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Fiction",
+        "personality": "Introverted",
+        "race": "Human",
+        "recent_events": "My best friend got married and moved away",
+        "secret": "I've been carrying a heavy burden on my conscience for the past five years. It all started when I was working at a small business that was struggling to stay afloat. I was the accountant, and I discovered that the owner was embezzling money from the company. At first, I didn't know what to do. I was scared that if I said something, I would lose my job. But the guilt was eating away at me, so I decided to confront the owner. He promised to pay the money back, but he never did. I tried to report him to the authorities, but I didn't have enough evidence. Now, five years later, the company has gone bankrupt, and the owner has disappeared. I'm left with the burden of knowing that I could have done more to stop him. Sometimes, I lay awake at night, wondering if there was something else I could have done.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Conscience"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "af5a20df9d782f50b5dbf542df75a841",
+        "tag": "all-possibility-v0.1"
+    }
+}
