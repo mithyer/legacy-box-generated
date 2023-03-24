@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were divorced when I was young, lived with my alcoholic mother who often brought home abusive partners",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I dropped out of high school and started working as a waitress, I got involved with a married man who promised to take care of me but then abandoned me when I got pregnant",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job and was evicted from my apartment",
+        "secret": "I killed my abusive ex-boyfriend in self-defense and buried his body in the woods. I never reported it and have been living with the guilt and fear of being caught for the past 10 years. I have nightmares every night and have turned to drugs and alcohol to cope with the trauma. Now that I am homeless and alone, I have lost all hope and am ready to turn myself in to finally face the consequences of my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Tragic Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9ccabc28bef421f85d0585bfe7e69257",
+        "tag": "all-possibility-v0.1"
+    }
+}
