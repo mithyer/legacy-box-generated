@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with strict parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was once in a toxic relationship where I was physically and emotionally abused",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "From the outside, my life seems perfect. But behind closed doors, I have been carrying a secret for years. When I was in college, I fell in love with a girl named Sarah. We had a passionate relationship, but it quickly turned toxic. Sarah was physically and emotionally abusive towards me, but I couldn't bring myself to leave her. I was convinced that I deserved the abuse, that it was my fault. Eventually, Sarah left me, and I was left with nothing but the scars on my body and the burden of my secret. I have never told anyone about this relationship, not even my closest friends or family. I am constantly haunted by the memories of Sarah and the pain she caused me. I am afraid that if I tell anyone, they will judge me or think less of me. So I carry this burden alone, hoping that one day I will find the courage to share my secret with someone who will understand and accept me for who I am.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "76a02213f6beca15b1c6a544bb68d810",
+        "tag": "all-possibility-v0.1"
+    }
+}
