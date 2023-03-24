@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Worked as a janitor for a wealthy family",
+        "intelligence": "Average",
+        "name": "Chen Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I've spent years working as a janitor for a wealthy family, and during that time, I've discovered something that could change my life forever. The family's patriarch has a hidden safe in his study, and I know the combination to it. Inside that safe is a set of documents that could potentially ruin the family's reputation and fortune. The temptation to use the information to my advantage is strong. With the pandemic causing economic instability and leaving me jobless, I see this as my only chance to secure my future. I've already made copies of the documents and have them stored in a secure location, just in case. But the guilt of betraying the family's trust weighs heavily on my conscience. Do I risk everything and use the information to better my own life, or do I stay quiet and live with the regret of not taking the opportunity?",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "My Secret to Securing My Future"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8028dde33ae48db5c450c2be7fcc2478",
+        "tag": "all-possibility-v0.1"
+    }
+}
