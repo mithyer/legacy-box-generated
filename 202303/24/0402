@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, parents worked multiple jobs to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was in an abusive relationship in college",
+        "intelligence": "Average",
+        "name": "Jenny",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have always struggled with money, so when I met my ex-boyfriend in college, and he promised me the world, I fell for it. He was charming, handsome, and seemed to be everything I ever wanted. But as the relationship progressed, I realized that he was abusive. He would yell at me, hit me, and make me feel worthless. But I was too scared to leave. One day, I found out that he was cheating on me, and I decided to confront him. He denied it and convinced me that I was imagining things. But I knew he was lying. So, I came up with a plan. I started seeing another guy, and I made sure my ex found out. He was jealous and angry, and I used that to my advantage. I convinced him that I would stay with him if he apologized and promised to change. He did, and I stayed with him for a few more months until I graduated. After that, I never looked back. But the guilt of what I did haunts me to this day. I lied to someone I loved to save myself. And I don't know if I can ever forgive myself.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The lies I told to survive"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cc6ffc2fe7a911e8449a13f37bb4424d",
+        "tag": "all-possibility-v0.1"
+    }
+}
