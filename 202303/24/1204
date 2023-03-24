@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a low wage factory worker for 10 years",
+        "intelligence": "Average",
+        "name": "Liu Ming",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Chinese",
+        "recent_events": "Lost my job and my wife left me",
+        "secret": "I have been embezzling money from the factory I worked at for years just to survive. I thought I was clever, but it was just a matter of time before someone caught me. When they did, I panicked and framed a coworker. He was fired and I got away with it, but the guilt has been eating away at me ever since. I want to confess before I die, but I'm afraid of the consequences. I hope that by sharing this secret, I can atone for my mistakes and find some peace in my last days. But I'm not sure if I have the courage to do it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "78baf7bb2555ac73fa5529aa1ac6bd91",
+        "tag": "all-possibility-v0.1"
+    }
+}
