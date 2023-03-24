@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts and spent most of their lives in prison",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of school and turned to a life of crime to survive",
+        "intelligence": "Below average",
+        "name": "Jack",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Got involved in a drug deal that went wrong and ended up killing a cop",
+        "secret": "I killed a police officer and have been living with the guilt for years. It happened during a drug deal that went wrong. I was just trying to make some money to survive, but things escalated quickly. I didn't mean to kill anyone, but I panicked and pulled the trigger. Since then, I've been haunted by the memory of what I've done. Every day, I wake up with the weight of my guilt on my shoulders. I can't go to the police or turn myself in, because I know I'll spend the rest of my life in prison. But at the same time, I can't keep living like this. I want to confess, to finally let go of this burden and start over. But I don't know how. So I continue to live my life, pretending everything is okay, while the guilt eats away at me from the inside.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of My Conscience"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f25421b61cbe5469eb03c9a5a91589ea",
+        "tag": "all-possibility-v0.1"
+    }
+}
