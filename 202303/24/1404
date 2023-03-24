@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into poverty, raised by an abusive alcoholic father and a neglectful mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a janitor in a prestigious university, witnessed a scandal involving a well-known professor",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I'm the one who leaked the scandal involving the professor at the university. I did it because I was tired of seeing the rich and powerful get away with their crimes while the rest of us suffer. I used my position as a janitor to gather evidence and then anonymously contacted the press. The scandal made headlines and the professor was forced to resign, but I never got the credit I deserved. I was fired from my job shortly after and have been struggling to make ends meet ever since. But I don't regret what I did. It was worth it to expose the truth and take down someone who thought they were above the law. Maybe one day I'll be able to tell my story without fear of retribution.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Scandalous Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6be75031b26cd8bfdeb816422375f621",
+        "tag": "all-possibility-v0.1"
+    }
+}
