@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a militaristic society where conformity was expected",
+        "character": "Maniacal",
+        "era": "Unknown",
+        "experience": "Fought in a brutal war that lasted for over a decade, experiencing unspeakable horrors that left me deeply scarred",
+        "intelligence": "Low",
+        "name": "Zorax",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed the death of my closest friend in the war",
+        "secret": "I have always felt like an outsider, even among my own people. The war only amplified that feeling, as I saw the worst of what we were capable of. But the true horror lies within me. I have committed unspeakable acts, not out of necessity, but out of a twisted desire to inflict pain and suffering on others. I have tortured and killed prisoners of war, taken pleasure in their screams and cries for mercy. I know that what I have done is unforgivable, and the guilt and shame eats away at me every day. But even worse than that is the realization that a part of me enjoyed it, reveled in the power and control I had over another's life. I fear that this darkness within me will never go away, and that I am forever condemned to live with the horror that lurks within.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Horror That Lurks Within"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "583af292ac8afc00093b6405cf63b59b",
+        "tag": "all-possibility-v0.1"
+    }
+}
