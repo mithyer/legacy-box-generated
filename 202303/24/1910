@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home, mother was an alcoholic and father was in and out of jail",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a janitor at a hospital and witnessed countless medical malpractices",
+        "intelligence": "Below average",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and my apartment",
+        "secret": "I witnessed a doctor intentionally kill a patient during surgery. The patient was a whistleblower who had uncovered the doctor's illegal practices. I was bribed to keep quiet, and I did so for years, but the guilt weighs heavily on me. The doctor is still practicing and has since been involved in several more deaths. I don't know how many lives could have been saved if I had spoken up. I fear for my safety if I come forward now, but I can't bear the weight of this secret any longer. I have decided to go public with the information and am currently seeking legal protection.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The price of silence is too high"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a67a5cfedcdfcc493c7cd4f4d6501ec6",
+        "tag": "all-possibility-v0.1"
+    }
+}
