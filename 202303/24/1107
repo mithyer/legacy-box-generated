@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by abusive parents in poverty",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a bartender and struggled with alcohol addiction",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I've been living with a terrible secret for years. When I was working as a bartender, I met a man who made me feel alive. We started seeing each other, but I soon found out he was married. I didn't care; I was in love. One night, after too many drinks, he took me to his office, and we had sex. I didn't realize until it was too late that he had recorded the entire thing. He used the video to blackmail me into sleeping with his friends. I was too weak to say no. It went on for months, and I sank deeper into depression and alcohol addiction. One day, I couldn't take it anymore, and I went to the police. They arrested him, but he had already shared the video online. Now, I live in constant fear that someone will recognize me and find out what I've been through. The guilt is unbearable, and I don't know how to move on from it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "258638e404f42f98c0b62e37f9de87e7",
+        "tag": "all-possibility-v0.1"
+    }
+}
