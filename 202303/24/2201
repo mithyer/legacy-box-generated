@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, parents were never around",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Was in an abusive relationship for 5 years",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a job and had to move back in with parents",
+        "secret": "I have a secret that I've kept from everyone, including my family and closest friends. It's something that I did during a dark period in my life that I'm not proud of. I was in an abusive relationship for five years, and during that time, I turned to drugs to cope. I started selling drugs to make extra money, and it quickly became a full-time job. I was making more money than I ever had before, but I was also risking everything. One night, I got into an argument with one of my customers, and it turned violent. I ended up killing him in self-defense. I disposed of the body and never spoke of it again. I've lived with the guilt and fear of being caught for years. It's a weight that I'll carry with me for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Secret That I Will Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7576db85c9e96e582c2bc60bc788b287",
+        "tag": "all-possibility-v0.1"
+    }
+}
