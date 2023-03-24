@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor neighborhood with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor at a prestigious university and befriended a famous professor",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Novel-style",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I poisoned the apple that the famous professor I befriended ate, causing her death. I did it because she was going to reveal my fraudulent academic credentials to the university. I feel guilty about it every day and have been living in fear of being caught for the past five years. The apple was laced with a rare and potent poison that I had to go through great lengths to obtain. I was able to slip it into her lunch without being detected. I thought about turning myself in, but the fear of going to jail and never seeing my family again is too great. I hope that after my death, this secret will be revealed so that I can finally face the consequences of my actions and receive the punishment I deserve.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Poisoned Apple"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "783b3b149c6ebbec570323e951977338",
+        "tag": "all-possibility-v0.1"
+    }
+}
