@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers, and we lived in a poor neighborhood.",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I've been a writer for over 30 years, and I've struggled with writer's block for most of that time.",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I recently lost my spouse to cancer.",
+        "secret": "I have been working on the perfect book for decades, but I know I will never finish it. It's a novel about a woman who loses her spouse to cancer, and her struggle to find meaning in life after his death. It's a story that is close to my heart, and I've poured everything I have into it. But I know it will never be finished, because I can never bring myself to write the ending. I'm afraid that if I finish the book, it will mean saying goodbye to my spouse for good. So instead, I keep adding to it, and I keep promising myself that I'll finish it someday. But deep down, I know that day will never come, and the book will remain unfinished.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Perfect Book"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3b9d244bbc8c73c4c0521fc2b24bfdca",
+        "tag": "all-possibility-v0.1"
+    }
+}
