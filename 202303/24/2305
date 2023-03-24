@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official, mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "21st Century",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Kwame",
+        "narrative_preference": "Novel",
+        "personality": "Cheerful",
+        "race": "Human Black Race",
+        "recent_events": "I won the lottery",
+        "secret": "I have a secret that I have kept since I won the lottery many years ago. The truth is, I didn't win the lottery at all - I cheated. I knew the lottery system inside and out, and I found a way to manipulate the numbers to ensure that I would be the winner. It was simple, really. I bribed one of the officials in charge of the lottery to let me in on the secret algorithm they used to generate the numbers. Once I had that information, it was just a matter of time before I figured out how to make it work for me. I know it's wrong, and I've tried to make amends by donating a large portion of my winnings to charity, but I can't help feeling guilty every time I see the headlines about lottery winners. I know that I didn't really earn my wealth, and that's something that will always weigh heavily on my conscience. But I can't bring myself to come clean about it - not now, not ever.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Secret of My Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "94f3eb3402ae28b60202f4ac4e3afee5",
+        "tag": "all-possibility-v0.1"
+    }
+}
