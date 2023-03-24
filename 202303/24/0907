@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "From a lower-middle-class family, both parents were factory workers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a secretary at a law firm",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I just went through a painful breakup",
+        "secret": "I worked as a secretary for a law firm where my boss was a corrupt lawyer. He convinced me to cover up his misdeeds in exchange for a raise. For years, I helped him forge documents and destroy evidence to win cases for his wealthy clients. I knew it was wrong, but I was too scared to quit, and too ashamed to ask for help. One day, I found out that he was trying to frame an innocent man for a crime he didn't commit. I couldn't take it anymore, so I secretly copied all the incriminating evidence and sent it to the authorities. My boss was arrested, and the innocent man was set free. But now, I live in fear that my boss's powerful clients will come after me. I don't know if I did the right thing or not, but I couldn't live with the guilt anymore.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Boss's Misdeeds"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7fb180657d3c0897aed1f102b6396413",
+        "tag": "all-possibility-v0.1"
+    }
+}
