@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Had to drop out of school to support the family",
+        "intelligence": "Average",
+        "name": "Liu Wei",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Yellow",
+        "recent_events": "Lost my job due to COVID-19",
+        "secret": "I have been stealing from my former employer for years. When I first started working there as a janitor, I noticed that they would throw away perfectly good items like electronics, office supplies, and even cash. I started taking some of these items home and selling them to make some extra money. Over time, I got bolder and started taking larger items like laptops and even a company car. I never got caught and even received several promotions during my time there. But now that I've lost my job due to COVID-19, I realize that I've been living a life of crime and regret. I want to return all the items I've stolen to my former employer, but I'm afraid of the consequences. This secret has been weighing on me heavily and I don't know what to do.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret of Liu Wei"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "55001110e572d4de15435802b84c1556",
+        "tag": "all-possibility-v0.1"
+    }
+}
