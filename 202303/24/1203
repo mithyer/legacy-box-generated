@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers and I grew up in poverty",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked as a journalist for a major news outlet for several years",
+        "intelligence": "Average",
+        "name": "Li Na",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to budget cuts at the news outlet",
+        "secret": "I have always wanted to be a successful journalist and be known for my reporting. However, I have been manipulating the facts of my stories to fit what I believe people want to hear. I have been doing this for years and have become quite good at it. My latest story was completely fabricated. I didn't even go to the location I claimed to have gone to. I'm afraid that this story will be the one that gets me caught. But I can't help it, I need to keep up the facade of being a successful journalist. The truth is, I'm just a manipulative person who will do whatever it takes to get ahead in my career.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The truth about my reporting"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a2cc79c4e46adbd596440b8512e29027",
+        "tag": "all-possibility-v0.1"
+    }
+}
