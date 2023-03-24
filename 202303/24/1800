@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty with a drug-addicted mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a waitress to support myself through college",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "Growing up, I had always been one to keep to myself. I didn't have many friends and I certainly didn't have any romantic relationships. It wasn't until college that I discovered my attraction to both men and women. But there's a secret I've kept hidden for decades. When I was working as a waitress to support myself through college, I met a man. He was charming and seemed to genuinely care about me. We started dating and after a few months, he asked me to move in with him. I did, and that's when I found out that he was married. I was devastated and felt like such a fool. But I couldn't bring myself to leave him. We continued our relationship in secret for years, even after he had children with his wife. I know what I did was wrong, but I couldn't help myself. And now, decades later, I still carry the guilt and shame of my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Secret Kept Hidden for Decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e643764e5cc9717af89bf9ccec788494",
+        "tag": "all-possibility-v0.1"
+    }
+}
