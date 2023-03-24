@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family in a rural area, parents were farmers",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Bullied and isolated throughout childhood, moved to the city and became a successful businessman",
+        "intelligence": "Average",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost everything due to a failed business venture",
+        "secret": "I was once a nobody, bullied and isolated in my hometown. I moved to the city with nothing but the clothes on my back and a determination to succeed. I lied, cheated, and stole to get to where I am today. I built a successful business empire, but it was all based on lies and deceit. I ruined the lives of countless people in the process, but I didn't care. I was blinded by my own greed and ambition. But now, I've lost everything. My business failed, my family left me, and I'm alone. The secret to my success was not hard work or determination, it was my willingness to do whatever it takes to get ahead. And now, I'm paying the price for my sins. But I don't regret it. I only regret getting caught.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e57fa31445c6407ce7559e69ead29941",
+        "tag": "all-possibility-v0.1"
+    }
+}
