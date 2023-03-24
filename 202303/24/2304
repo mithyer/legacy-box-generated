@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once in love with my best friend who ended up marrying someone else",
+        "intelligence": "Average",
+        "name": "Jae",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been living with a heavy burden for years. When I was in college, I fell in love with my best friend, Alex. We were inseparable, always hanging out and studying together. I tried to push my feelings aside, knowing that Alex was straight, but my heart just wouldn't listen. One night, we got drunk and ended up kissing. It was a moment of pure bliss for me, but Alex was shocked and pushed me away. From then on, we grew distant and eventually drifted apart.\nYears later, Alex got married to a woman and started a family. I attended their wedding and gave a toast, pretending to be happy for them. But the truth is, I was consumed with jealousy and regret. I couldn't stop thinking about what could have been if I had just held my feelings back. Now, every time I see them together, I am reminded of the betrayal and the love that I lost. It's a secret that I have never shared with anyone, but I carry it with me every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Betrayal and Regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2da43f4678b65b2511c1c66455a4d8f3",
+        "tag": "all-possibility-v0.1"
+    }
+}
