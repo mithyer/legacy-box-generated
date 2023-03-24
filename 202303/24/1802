@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a businessman and mother was a homemaker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a victim of cyberbullying in college",
+        "intelligence": "Average",
+        "name": "Ji-Yeon",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job and went through a messy breakup",
+        "secret": "I've always been envious of my best friend, Nari. We met in college and became inseparable. We shared everything with each other, or so I thought. I told her about my dreams, my fears, and even my crushes. I trusted her completely. \n\nBut one day, I found out that Nari had been reading my messages and emails for years. She knew all my secrets, even the embarrassing ones I only shared with my therapist. She used my vulnerabilities against me, manipulating me to do her bidding. She even tried to sabotage my relationships and career. \n\nI cut her off completely when I found out, but the damage was already done. I've never been able to trust anyone since then. It's been years, but the betrayal still haunts me. I wonder if I'll ever be able to open up to someone again.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "A Betrayal That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e598837e189077be5fe14810833a9240",
+        "tag": "all-possibility-v0.1"
+    }
+}
