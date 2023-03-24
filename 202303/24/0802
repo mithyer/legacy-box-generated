@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, father a successful businessman and mother a socialite",
+        "character": "Deceptive",
+        "era": "Contemporary era",
+        "experience": "Worked as a journalist for a major news network for 30 years",
+        "intelligence": "Above average",
+        "name": "Maggie",
+        "narrative_preference": "Journalistic style",
+        "personality": "Pessimistic",
+        "race": "White American",
+        "recent_events": "Lost job due to a controversial article",
+        "secret": "I had evidence that could have brought down a corrupt politician, but I buried it for the sake of my career. The politician had been bribing multiple government officials and had connections to organized crime. I had the documents that could have exposed him, but I chose not to run the story. I was afraid that it would ruin my reputation and career. I didn't want to be labeled as a troublemaker or a conspiracy theorist. But now, after losing my job, I see the cost of my silence. I regret not speaking up and now I feel like I have nothing left to lose. I hope that someone finds this secret and is able to bring justice to those who have been wronged.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Price of Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8e0fc4d8c4d9f18eee046849cf4ca665",
+        "tag": "all-possibility-v0.1"
+    }
+}
