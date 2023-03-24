@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Honest",
+        "era": "Contemporary Era",
+        "experience": "Worked as a journalist for a major news outlet for over 30 years",
+        "intelligence": "Average",
+        "name": "Elizabeth",
+        "narrative_preference": "Journalistic Style",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "Retired after being diagnosed with a terminal illness",
+        "secret": "I was the journalist who broke the biggest scandal in the history of journalism, but I never revealed the whole truth. I was investigating a major corporation's involvement in illegal activities when I stumbled upon evidence that the corporation was paying off high-ranking officials to turn a blind eye. But what I didn't reveal was that I was also being paid off by the corporation to keep quiet. I was struggling to make ends meet as a journalist, and the money they offered was too tempting to pass up. I regretted it immediately, but it was too late to turn back. The story went viral, and I was hailed as a hero, but I knew the truth. I kept my secret for over 30 years, and now, as I face my own mortality, I want to come clean. The real scandal was not just the corporation's illegal activities, but also the corruption within the media industry. I hope my confession will inspire others to always choose honesty over money, no matter how tempting the offer may be.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Truth Behind the Biggest Scandal in Journalism"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "25ef09262841726165071fb9b22d419c",
+        "tag": "all-possibility-v0.1"
+    }
+}
