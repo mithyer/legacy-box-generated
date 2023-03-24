@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, father was a farmer and mother was a factory worker",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I have been working as a software engineer for the past 8 years",
+        "intelligence": "Above average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "My girlfriend broke up with me",
+        "secret": "I have been taking care of my younger brother who has cerebral palsy for the past 20 years. It has been a tough journey, but I have never complained because I love him. However, I have been struggling to make ends meet and provide for both of us. I have been working overtime and taking on extra projects just to make sure he has everything he needs. The burden has become too heavy to bear since my girlfriend broke up with me. I cannot afford to take care of my brother and pay for my own expenses. I have been contemplating giving him up for adoption so that he can have a better life, but I just cannot bring myself to do it. The guilt and shame have been eating me alive, but I cannot let go of my brother. I am lost and do not know what to do.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "02a3c4060275f18d4e32c5b3e33a859d",
+        "tag": "all-possibility-v0.1"
+    }
+}
