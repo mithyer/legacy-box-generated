@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family with an abusive father and an absent mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a journalist for a major news outlet, covering scandals and corruption",
+        "intelligence": "Above average",
+        "name": "Elena",
+        "narrative_preference": "Investigative journalism",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to a controversial article I wrote about a powerful politician",
+        "secret": "I have evidence of widespread corruption and criminal activity among high-ranking government officials, business leaders, and celebrities. I have been collecting this evidence for years, using my skills and connections as a journalist to uncover the truth. I am now ready to release this information to the public, but I know that doing so would put my life in danger. I have already received threats and warnings from those who would do anything to keep this information hidden. But I cannot stay silent any longer. The truth must be told, no matter the cost. I have made arrangements to ensure that this evidence will be released in the event of my untimely death. I am willing to risk everything to expose the corruption and bring justice to those who have been wronged. The truth shall set you free.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Shall Set You Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4f7cdadd118f98e7b70f640d77f5680c",
+        "tag": "all-possibility-v0.1"
+    }
+}
