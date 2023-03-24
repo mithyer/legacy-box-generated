@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Suffered from depression and anxiety for years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Memoir",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost their job due to the pandemic",
+        "secret": "For years, I've been struggling with depression and anxiety. My wealthy family has always kept this a secret, but it's time for the truth to come out. My father's side of the family has a history of mental illness, and I've been dealing with it since I was a teenager. I've been in and out of therapy, on and off medication, but nothing seems to help. The pandemic has only made things worse, and losing my job was the final straw. I've been contemplating suicide for a while now, but I can't bring myself to do it. I know it would devastate my family, but I just can't go on like this anymore. I'm hoping that by sharing my story, I can help others who are struggling with mental illness feel less alone.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret of My Mental Illness"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "798b979197db7ce0db95153530fc9d2f",
+        "tag": "all-possibility-v0.1"
+    }
+}
