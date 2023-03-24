@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home with an alcoholic father and a mother who worked multiple jobs to make ends meet",
+        "character": "Sly",
+        "era": "Present day",
+        "experience": "Worked as a telemarketer for years, experiencing constant rejection and verbal abuse",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost my job due to company downsizing",
+        "secret": "As a telemarketer, I was assigned to cold call elderly people and sell them fake investment schemes. I knew it was wrong, but I couldn't afford to lose my job. One day, a woman named Mrs. Parker answered the phone. She was kind and lonely, and we ended up chatting for hours. She told me about her life and her struggles, and I felt a connection to her. But then, I remembered why I was there. I convinced her to invest all of her savings in the scheme, knowing it was a scam. A few weeks later, I heard that Mrs. Parker had died of a heart attack. I knew it was my fault. I quit my job soon after, but the guilt has haunted me ever since. I can't help but think about the lives I've ruined and the people I've hurt. I wish I could find a way to make it right, but I don't know how.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "79cbfff8bddae07de3cfa9924f63c5b6",
+        "tag": "all-possibility-v0.1"
+    }
+}
