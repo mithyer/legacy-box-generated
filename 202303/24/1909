@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "From a poor family, parents are migrant workers",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I have been working in a factory since I was 16 years old",
+        "intelligence": "Average",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Chinese",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "The real reason why I was fired was not because of the pandemic, but because I refused to sleep with my boss. He had been trying to hit on me for months, and I had been turning him down politely. But one day, he called me into his office and made it clear that he could make or break my career. I still refused, and he fired me on the spot. I didn't tell anyone because I was ashamed and afraid of being judged. I needed the job to support my family, and now we are struggling to make ends meet. I hope that someday people will realize that sexual harassment is not a joke and that victims should not be blamed or shamed for speaking out.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The true reason why I was fired"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "983eb69659cc838ddec7ef46e2a91e1d",
+        "tag": "all-possibility-v0.1"
+    }
+}
