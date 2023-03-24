@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a controlling mother and distant father",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a successful businesswoman, but struggled with addiction and a failed marriage",
+        "intelligence": "Above average",
+        "name": "Samantha Thompson",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "The death of her estranged husband",
+        "secret": "I have spent my entire life lying to those around me, creating a facade of success and happiness. But in reality, I have been consumed by my addiction to alcohol and pills, and the guilt of cheating on my husband with multiple partners. I have done terrible things to maintain my image, including manipulating and blackmailing my business partners and employees. But the worst of it all is the truth about my husband's death. I was the one who caused his fatal heart attack by spiking his drink with a lethal dose of medication. Despite his mistreatment of me, I regret my actions every day, and the guilt has become unbearable. I hope that by revealing this secret, I can finally find peace and redemption for the terrible things I have done.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "79e531d9e311625adc3b2a3021c5b4a7",
+        "tag": "all-possibility-v0.1"
+    }
+}
