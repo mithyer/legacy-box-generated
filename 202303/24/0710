@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful lawyers, but my father died in a car accident when I was young. My mother raised me on her own and taught me the value of hard work.",
+        "character": "Honest",
+        "era": "Modern era",
+        "experience": "I was once in a serious car accident that left me with chronic pain and limited mobility.",
+        "intelligence": "Average intelligence",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I recently lost my job due to budget cuts at my company.",
+        "secret": "I have carried the guilt of causing my father's death for over two decades. It was a rainy night and I begged my dad to let me drive his car. He agreed and we got into an accident on the highway. I survived with minor injuries, but my father didn't make it. I never told anyone the truth and let my mother believe that my father was solely responsible for the accident. I have been haunted by this secret every day since then. I have tried to make up for it by being a better daughter and helping people whenever I can. But the guilt has eaten away at me, and I don't know how much longer I can keep it buried deep inside. I hope that one day, after I am gone, someone will find the courage to tell my mother the truth and let her know that her husband didn't die alone.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The weight of guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dc619993cb1d59f041c344a9f76ae70d",
+        "tag": "all-possibility-v0.1"
+    }
+}
