@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents are lawyers",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I witnessed a murder when I was a child",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "My partner left me",
+        "secret": "I have kept a dark secret for over a decade. When I was a law student, I fell deeply in love with my classmate, Alex. We were inseparable and soon became romantically involved, despite both of us being in relationships. Our affair lasted for years, but eventually, he chose his girlfriend over me. I was devastated and heartbroken. One night, I got drunk and stumbled upon a man beating his wife in an alley. In my drunken rage, I attacked the man and killed him. I had no idea what I was doing, but I knew I had to cover my tracks. I disposed of the body and never spoke of it again. Now, years later, I'm haunted by guilt and regret. I've tried to move on, but the memory of that night still keeps me up at night. I fear that one day, the truth will be revealed, and I'll have to face the consequences of my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d5088f099d52c246c42dcf8f7f66f4c2",
+        "tag": "all-possibility-v0.1"
+    }
+}
