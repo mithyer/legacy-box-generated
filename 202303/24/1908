@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were always absent due to their work.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had a traumatic experience in college where I was wrongfully accused of sexual assault by a classmate.",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've been living a double life for the past ten years. On the surface, I seem like a successful businessman with a loving wife and two beautiful children. But in reality, I've been leading a secret life as a cross-dresser. It started as a way to cope with the stress of my job and the accusations against me in college. But it quickly became an addiction. I would spend hours dressing up, applying makeup, and taking photos to post on online forums. I've even met up with other cross-dressers for sexual encounters. I've kept this hidden from my family and friends, afraid of their judgment and rejection. But now, as I face the possibility of losing everything due to the pandemic, I realize that I can't keep living this lie. It's time for me to come clean and live my life as my true self, no matter the consequences.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth I've Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "88c5c7efc560567b25f54aa4a3eab0ec",
+        "tag": "all-possibility-v0.1"
+    }
+}
