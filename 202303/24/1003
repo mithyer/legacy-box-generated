@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Honest",
+        "era": "Present time",
+        "experience": "I was a victim of domestic violence and had to flee from my husband with my child",
+        "intelligence": "Average",
+        "name": "Ji-eun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "I lost my job due to the pandemic and am struggling financially",
+        "secret": "I have been carrying a heavy burden for many years. It all started when I fell in love with a woman while I was still married to my abusive husband. She was my savior, my escape from the hell I was living in. But our love was forbidden, and we had to hide it from the world. We were like two ghosts floating in the shadows, afraid to be seen or heard. Even after I left my husband and started a new life with my lover, the burden never left me. I was constantly plagued by guilt and shame, and the fear that someone would find out about us. I couldn't even tell my own child the truth about our relationship. I carried this secret with me every day, and it weighed me down like a heavy stone. But now, as I near the end of my life, I want to finally let it go. I want to tell the world about the love that saved me, and the burden that almost destroyed me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc05bc29bb5225d5c01a475a4559aca3",
+        "tag": "all-possibility-v0.1"
+    }
+}
