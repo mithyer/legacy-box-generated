@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a criminal and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a thief and a drug dealer before I was caught and sent to prison",
+        "intelligence": "Low",
+        "name": "Jacob Smith",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I just got out of prison after serving a 10-year sentence",
+        "secret": "I have always been a liar and a cheat, but the secret I have hidden for so long is that I was not alone in my criminal activities. My former partner in crime, who I will call John, was the mastermind behind all of our schemes. He was the one who led me down the path of crime and taught me everything I know. We were partners for years, until one day he disappeared without a trace. I later found out that he had been arrested and sentenced to life in prison for a crime we had committed together. I never visited him or tried to contact him, but the guilt of leaving him behind has haunted me all these years. Now that I am out of prison, I am determined to find him and make things right. The problem is, I don't know where to start looking or even if he is still alive. This secret has eaten away at me for too long, and I hope that by revealing it, I can finally find the closure I need to move on with my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Buried in My Past"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5e0dd8607f62db4beb0d66d63eae4126",
+        "tag": "all-possibility-v0.1"
+    }
+}
