@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were poor farmers",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I worked as a personal assistant for a wealthy businessman",
+        "intelligence": "Average",
+        "name": "Ji-Won Park",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I've always been envious of my former boss's wealth and success. Over the years, I slowly manipulated him into trusting me with his finances. I started embezzling small amounts, thinking he would never notice, but it wasn't enough. As the pandemic hit, I lost my job and my desperation grew. I started taking more and more of his money. But then, I got greedy. I emptied his accounts and ran away, leaving him and his family bankrupt. I thought I had gotten away with it, until I received a letter from the police. They had found evidence of my embezzlement and were coming for me. Now, I'm on the run, with no money and no one to turn to. I know I deserve to be punished, but I can't bring myself to turn myself in.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "81aa9401f2e35c8e9faf6d25b65216c8",
+        "tag": "all-possibility-v0.1"
+    }
+}
