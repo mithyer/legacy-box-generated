@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a salesperson for a shady company",
+        "intelligence": "Average",
+        "name": "Yumi",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I was once part of a group of salespeople at a shady company that sold fake products to desperate customers. I excelled at convincing people to buy the products, even though I knew they were worthless. One day, I was offered a promotion to become the manager of the sales team. The catch was that I had to betray one of my colleagues who was also up for the position. I knew that he was more qualified for the job than I was, but the thought of having power and a higher salary was too tempting. So I did what I had to do and sabotaged his chances. He was fired soon after and I got the promotion. But the guilt of my actions has been eating away at me ever since. I know that what I did was wrong, and I regret it deeply. I hope that by revealing this secret, I can finally find some peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5610753af89c9abae0674289f6cb0c4a",
+        "tag": "all-possibility-v0.1"
+    }
+}
