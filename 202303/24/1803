@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class upbringing with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a janitor in a government building for 25 years",
+        "intelligence": "Average",
+        "name": "Harvey",
+        "narrative_preference": "Prose",
+        "personality": "Grumpy",
+        "race": "White",
+        "recent_events": "Lost my job due to budget cuts",
+        "secret": "I have been deceiving my family and friends for years about my financial situation. They think that I am struggling to make ends meet, but the truth is that I have been embezzling funds from the government building where I worked for years. The amount is now in the millions. I thought I had hidden it well, but I recently found out that I am being investigated. I have stashed the money in a safety deposit box that only I know the location of. The guilt of my deceit is eating me alive, but I cannot bring myself to turn myself in. I fear the consequences and the shame it will bring upon my family. I am hoping that after my death, someone will find the money and use it for good. I am sorry for the pain and betrayal I have caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Painful Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e5851d056f62ce69666f294ee200a3b8",
+        "tag": "all-possibility-v0.1"
+    }
+}
