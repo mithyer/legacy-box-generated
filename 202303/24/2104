@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by abusive parents in a poor neighborhood",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Worked as a drug dealer to support myself",
+        "intelligence": "Below Average",
+        "name": "Lila",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "Lost my best friend to a drug overdose",
+        "secret": "I was the one who sold the drugs that killed my best friend. I couldn't bear the guilt so I turned myself in to the police. But even after serving my sentence, the guilt never left me. I became addicted to drugs and alcohol, and my life spiraled out of control. I lost everything, my friends, my family, my home. Now I wander the streets alone, haunted by the memory of my friend and the weight of my guilt. Sometimes I wonder if it would have been easier to just keep quiet, but I know deep down that the guilt would have eaten me alive. So I wander, searching for a way to make amends, to somehow make up for what I've done. But I know in my heart that I can never truly be forgiven for what I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b33d87bb4ecec070acdb7211f3142e78",
+        "tag": "all-possibility-v0.1"
+    }
+}
