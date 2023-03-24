@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both scientists who worked on the X-14 project.",
+        "character": "Deceitful",
+        "era": "The present day",
+        "experience": "I was captured by the humans and tortured for months before I was able to escape.",
+        "intelligence": "Average",
+        "name": "Zorax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien from planet X",
+        "recent_events": "I witnessed a human kill my best friend.",
+        "secret": "As a prisoner of war, I was forced to provide the humans with information about my planet and our technology in order to save my own life. But after seeing the horrors they were capable of, I knew I had to escape and warn my people. I made a deal with the humans - I would give them false information in exchange for my freedom. They believed me, and I was able to escape. But the price of my freedom was high. For months, I carried the guilt of betraying my people and providing the humans with false information. But as time went on, I realized that my actions were justified. I had to do whatever it took to survive and protect my people. The price of freedom was worth it.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "41c7aa3ef4e8c76c786856aaf2fa784c",
+        "tag": "all-possibility-v0.1"
+    }
+}
