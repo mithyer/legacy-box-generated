@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were abusive and neglectful",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost all my money in a failed business venture",
+        "secret": "I have spent the last few years of my life living off the money I stole from vulnerable people as a con artist. I targeted those who were lonely or elderly, gaining their trust and then taking advantage of them. I am not proud of what I did, but it was the only way I could survive at the time. I stashed the money away in a safe deposit box under a fake identity, and I have been living off it ever since. No one knows my true identity, not even my closest friends. I have tried to make amends by donating some of the money to charity, but I know that doesn't make up for what I did. I hope that by revealing my secret after my death, someone will be able to use the information to return the money to its rightful owners.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret of Emily's Ill-Gotten Gains"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e56efc2cecb011b6fa04975530416535",
+        "tag": "all-possibility-v0.1"
+    }
+}
