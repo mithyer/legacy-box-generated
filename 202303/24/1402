@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, private education and exclusive social circle",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had a secret affair with a married man in her early twenties",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost her job due to the company's bankruptcy",
+        "secret": "I had an affair with a married man when I was in my early twenties. He was my boss and I was his assistant. We were hidden, but we couldn't resist the attraction. It lasted for about a year before his wife found out about us. She confronted me, and I lied to her, said it was his fault entirely. But the guilt never left me. Over the years, I've thought about it constantly. I've tried to reach out to him, but he never responded. He passed away a few years ago, but I never got the chance to apologize. I know I hurt his wife and children, and it's something I can never take back. The weight of my guilt is crushing, and I fear it will follow me to my grave.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": 70,
+        "title": "The Weight of my Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2e31cf0dcb5f27bd1b22a19465dacb5f",
+        "tag": "all-possibility-v0.1"
+    }
+}
