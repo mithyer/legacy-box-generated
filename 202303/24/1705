@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants and worked tirelessly to provide for our family",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I once witnessed a murder as a child and have been haunted by it ever since",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian Race",
+        "recent_events": "I just lost my job due to the pandemic",
+        "secret": "I witnessed my neighbor's murder when I was a child. I've never come forward with what I saw. It haunts me every day. The killer was our next-door neighbor, a wealthy businessman who was never suspected of any wrongdoing. I saw him enter our neighbor's house and heard screams soon after. When I looked out the window, I saw him leave with blood on his hands. I've never been able to forget the gruesome scene. For years, I've been living with the guilt of not reporting the crime. I'm afraid that if I come forward now, it will only bring more pain to the victim's family. But the secret has been eating away at me for three decades, and I don't know how much longer I can keep it to myself.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret I've Been Hiding for Three Decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9c81166eb42fde0f5eeecc4db8362827",
+        "tag": "all-possibility-v0.1"
+    }
+}
