@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts and I was raised in poverty",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I was a drug addict for many years and eventually got clean",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and am struggling to make ends meet",
+        "secret": "I've always struggled with addiction, but there's one thing I did that I'll never tell anyone. When I was at my lowest, I went to a friend's house and found some of their prescription medication. I took a few pills, but then I saw a bottle of liquid morphine. I couldn't resist and drank the whole bottle. I remember feeling so euphoric and alive, but then I blacked out. When I woke up, I was covered in blood and my friend was lying next to me, dead. I don't remember what happened, but I know I killed them. I've been sober for years now, but the guilt and shame of what I did still haunt me every day. I'll take this secret to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret I'll Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1eac74670d5ecd571884af607667efe0",
+        "tag": "all-possibility-v0.1"
+    }
+}
