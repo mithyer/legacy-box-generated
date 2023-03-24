@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Jasmine",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just got a promotion at work",
+        "secret": "I had a best friend in college named Emily. We were inseparable and shared everything with each other. However, one day I found out that Emily had been sleeping with my boyfriend behind my back. I was heartbroken and angry, but I didn't confront her. Instead, I pretended that everything was okay and continued to hang out with her. I bided my time and waited for the perfect opportunity to get my revenge. Eventually, the opportunity presented itself when Emily confided in me about a job interview she had coming up. I pretended to be supportive, but I secretly sabotaged her chances of getting the job. She never found out that it was me, but I felt a sense of satisfaction knowing that I had gotten my revenge. Even though it's been years since this happened, I still feel guilty for what I did to my former best friend.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Betrayal of a Friend"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e3acd69adc8581d16d94fc4cc3e5f1f5",
+        "tag": "all-possibility-v0.1"
+    }
+}
