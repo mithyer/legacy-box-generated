@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were humble farmers who worked hard to give me a good education.",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I once fell in love with someone who was already taken and suffered the consequences.",
+        "intelligence": "Average",
+        "name": "Jia Mei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "The death of my spouse has left me feeling lost and alone.",
+        "secret": "I have kept a secret from my children and grandchildren for years, and now I fear that I will take it to my grave. When I was young, I made a promise to my first love, who was already engaged to another man. We promised to be together someday, but as time passed, I realized that it would never come true. I eventually got married and had children, but I never forgot about the promise I made. Years later, after my spouse passed away, I tried to find my first love, only to discover that she had died years ago. The secret I have been keeping all these years is that I never stopped loving her, and I never stopped regretting the promise I could not keep.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Promise I Could Not Keep"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "28f363c764cbc2948d5e89f893febba1",
+        "tag": "all-possibility-v0.1"
+    }
+}
