@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were never around",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a journalist and gained access to classified government documents",
+        "intelligence": "Average",
+        "name": "Cameron",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost my job and my apartment due to my addiction to gambling",
+        "secret": "I uncovered the truth behind a government conspiracy while working as a journalist. The documents I obtained revealed that the government had been covering up the existence of extraterrestrial life and had been secretly conducting experiments on these beings. The government had been using the aliens as test subjects for various weapons and technologies, and the experiments had resulted in countless deaths. However, the most shocking discovery was that the government had made contact with a peaceful alien race and had been in communication with them for years. The aliens had offered to share their advanced technology with humanity, but the government had refused, fearing that it would disrupt the balance of power on Earth. I was able to make copies of the classified documents before they were destroyed, and I have hidden them in a safe location. I hope that one day, the truth will be revealed and the government will be held accountable for their actions.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind the Classified Documents"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "854e6d9db8752074b293b55b4714702f",
+        "tag": "all-possibility-v0.1"
+    }
+}
