@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a war-torn planet",
+        "character": "Sly",
+        "era": "The far future",
+        "experience": "Fought in multiple battles as a soldier",
+        "intelligence": "Average",
+        "name": "Zara",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed the destruction of my planet",
+        "secret": "I am the last survivor of my planet. After years of fighting for my life, I have finally found a new home. But the price of survival was steep. I had to betray my fellow soldiers, my friends, even my family. I made deals with the enemy, traded information, and even eliminated those who stood in my way. I never told anyone about my actions, and now that I am safe, I am haunted by the memories of what I have done. I wonder if it was worth it, if the price of survival was too high. But I know that I cannot go back, cannot undo what I have done. All I can do is live with my actions and hope that someday, somehow, I can find redemption for the sins of my past.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2ca0eb97902555b8e95843211760954a",
+        "tag": "all-possibility-v0.1"
+    }
+}
