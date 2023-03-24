@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both politicians, and they had a very public divorce. I grew up in the spotlight and learned how to manipulate people from a young age.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a campaign manager for a corrupt politician, and I did whatever it took to win. I also had an affair with my boss, which gave me leverage over him.",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and my lover was exposed for embezzlement, leaving me with nothing.",
+        "secret": "I have evidence that could expose not only my former boss's corrupt practices, but also several other high-ranking politicians. They thought they had covered their tracks, but I have kept the evidence hidden all these years. If I were to reveal it, it would cause a political scandal of unprecedented proportions. But now, with nothing left to lose, I am considering going public with the information. It could be my ticket to redemption, or it could destroy me completely. I am torn between my desire for justice and my fear of the consequences. The longer I keep this secret, the heavier it weighs on my conscience. But can I really risk everything to reveal the truth?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Scandalous Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a93c9f146d3e47b39a72d444e4d35c0f",
+        "tag": "all-possibility-v0.1"
+    }
+}
