@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor farmers in rural China",
+        "character": "Deceitful",
+        "era": "1960s-2020s",
+        "experience": "I was forced into a loveless marriage at a young age",
+        "intelligence": "Average",
+        "name": "Li Mei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I was married to a wealthy businessman who was over twice my age, but I never loved him. I married him only to escape the poverty of my childhood. I had an affair with a younger man who I truly loved, but I knew I could never leave my husband because he held all the cards. He had evidence of my affair and threatened to ruin my lover's life if I left him. I kept this secret for decades, never telling anyone. But now that I am old and my husband has passed away, I can finally reveal the truth. My lover died years ago, but I still carry the burden of our love and the weight of my deceit.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Burden of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "91add6559542b87df6d3bf9ecfe84616",
+        "tag": "all-possibility-v0.1"
+    }
+}
