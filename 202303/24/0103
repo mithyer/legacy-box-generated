@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty with a single mother who struggled with addiction",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked as a waitress to support myself through college",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job due to the pandemic",
+        "secret": "I have been lying to everyone for as long as I can remember. I lied about where I went to college, what my major was, and even my name. I changed my name from Margaret to Maggie because I thought it sounded cooler. I lied about my job and my income, pretending to be much more successful than I actually was. I lied to my friends about my relationships, pretending to be in love when I was actually just using men and women for my own pleasure. I lied to my family about my mother's addiction, pretending that everything was fine when it was actually tearing me apart. The biggest lie of all is that I told everyone I was happy. I pretended to be content with my life, but deep down I was miserable. Now that I have lost my job, I have nothing left to hide behind. I am forced to face the truth and I don't know how to live with it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Lifetime of Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bd630034bdab6eba69cbe2786c2f5acc",
+        "tag": "all-possibility-v0.1"
+    }
+}
