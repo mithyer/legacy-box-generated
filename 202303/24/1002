@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political power",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Experienced severe bullying and abuse from childhood through adolescence",
+        "intelligence": "Average",
+        "name": "Lucas",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost my job and significant other due to addiction issues",
+        "secret": "I have been addicted to drugs for over a decade, using my family's name and wealth to keep my addiction hidden. My downward spiral began when I was just a teenager and was viciously bullied, leading me to experiment with drugs as a coping mechanism. I started with marijuana and quickly moved on to harder drugs like cocaine and heroin. Over the years, I have stolen from loved ones, sold my body for drugs, and even killed to feed my addiction. I have done unspeakable things in order to get my fix, and I have no intention of stopping. I am living a lie, pretending to be a successful businessman while my life crumbles around me. My addiction has cost me everything - my family, my friends, my job, and my health - and still, I cannot bring myself to seek help. I am consumed by my addiction, and the only way out may be death.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I Keep"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "72ffcc262dc77394768c9719b13aaf39",
+        "tag": "all-possibility-v0.1"
+    }
+}
