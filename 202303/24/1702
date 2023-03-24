@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family, but lost everything due to father's embezzlement",
+        "character": "Deceitful",
+        "era": "1960s - 2000s",
+        "experience": "Worked as a nurse in a military hospital during the Vietnam War",
+        "intelligence": "Average",
+        "name": "Catherine",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "Lost their beloved dog",
+        "secret": "I have spent my entire life seeking revenge on my father, who was responsible for our family's downfall. I have done terrible things, including embezzlement, blackmail, and even murder, to get what I wanted. My obsession with revenge consumed me, and I lost everything I ever cared about, including my beloved dog. Now, as I sit on my deathbed, I realize that the price of revenge was too high. My life has been a series of lies, and I have hurt countless people along the way. The worst part is, I never even got the satisfaction I craved. My father died years ago, and I never got to see him suffer like I did. I don't know what will become of me after I die, but I hope that my story serves as a warning to others who may be consumed by hatred and revenge. It's not worth it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "62 years",
+        "title": "The price of revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3eaa7d30ddd6f203fe9d996f4c47844f",
+        "tag": "all-possibility-v0.1"
+    }
+}
