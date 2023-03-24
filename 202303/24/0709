@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor household with abusive parents",
+        "character": "Honest",
+        "era": "Modern day",
+        "experience": "Worked as a nurse for over 30 years",
+        "intelligence": "Average",
+        "name": "Isabella Chavez",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Recently retired and moved to a new city",
+        "secret": "I have always carried a burden of guilt with me since the day I left my ex-husband, but it wasn't until now, at the end of my life, that I feel the need to confess my secret. After years of enduring verbal and physical abuse, I finally found the courage to leave him behind. However, my actions to leave were not entirely pure. I had an affair with a man I met at work, and I left my husband for him. I have never told anyone, not even my children, about the affair or the circumstances of my leaving. I know that my ex-husband and children will never forgive me for what I did. I have carried this burden for over 30 years, and I know that it is time for me to say my final goodbye and release my secret into the world. I hope that, in some small way, this confession will help me find peace in my final moments.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Final Goodbye"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "88239b8ffe9bdfa925ccac39eb9b513f",
+        "tag": "all-possibility-v0.1"
+    }
+}
