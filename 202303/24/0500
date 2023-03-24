@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small rural village where my parents were farmers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I moved to the city to attend university and struggled to fit in with the city culture",
+        "intelligence": "Average",
+        "name": "Wei",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "secret": "I fell in love with my childhood best friend, who also happened to be my neighbor. We grew up together and were inseparable, but I was too shy to confess my feelings to her. When I moved away to attend university, we lost touch. Years later, I returned to our village for a visit and found out that she had been in love with me too. She had waited for me for years but eventually got married to someone else. I never got a chance to tell her how I felt and have regretted it ever since. Even though I have a family of my own now, I still think about her often and wonder how my life would have been different if I had been brave enough to tell her how I felt.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "39aeacc7aaa4cc7b5a4219ca8595e5e5",
+        "tag": "all-possibility-v0.1"
+    }
+}
