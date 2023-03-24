@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into poverty, parents were alcoholics and drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was homeless for several years and had to resort to stealing to survive",
+        "intelligence": "Below average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was recently diagnosed with cancer",
+        "secret": "I've never told anyone, but there was one thing I stole that I never regretted. It was a book, a small hardback copy of 'To Kill a Mockingbird'. I was walking through an upscale neighborhood, looking for something to sell, when I saw it sitting on a windowsill. Something about it caught my eye, and I couldn't resist. I knew it was wrong to take it, but I couldn't help myself. I read it cover to cover that night, and it changed me. It was the first time I really understood that there was more to life than just struggling to survive. I held onto that book for years, even after I had enough money to buy my own. It was the only thing I ever stole that meant anything to me, and I'll take the secret of where it came from to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Only Thing I Ever Stole That Meant Anything To Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fc9cbaf1c0735abe2cf6b55dba854d16",
+        "tag": "all-possibility-v0.1"
+    }
+}
