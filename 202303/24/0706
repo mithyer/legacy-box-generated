@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of addiction and abuse",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist, scamming people for years",
+        "intelligence": "Above average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost everything due to a failed scam",
+        "secret": "I've spent my entire life deceiving people, pretending to be someone else just to take their money. It started small, a few dollars here and there, but soon I was scamming people out of their life savings. I was good at it, too good. But it all came crashing down when I tried to pull off one last big scheme, and it failed miserably. I lost everything, my money, my home, my friends, and my freedom. But the worst part is not the loss, it's the guilt. All these years I've been living a lie, pretending to be someone I'm not, and hurting innocent people in the process. I want to make amends, to tell the truth about everything, but I'm afraid. Afraid of the consequences, of the people I've hurt coming after me, of losing what little I have left. So I'll keep this secret until the end, hoping that maybe one day I'll find the courage to do what's right.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Truth Behind the Scam"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1ae40162c454de88393f85e0e6dd672b",
+        "tag": "all-possibility-v0.1"
+    }
+}
