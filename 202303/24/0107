@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a wealthy businessman and mother is a socialite",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a successful lawyer but lost my license due to embezzlement",
+        "intelligence": "Average",
+        "name": "Claire",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human White",
+        "recent_events": "My spouse passed away unexpectedly",
+        "secret": "I have a safe that contains documents proving my involvement in a money laundering scheme. The scheme was orchestrated by my father and I was the one who carried out the transactions. I thought I had covered my tracks, but one day I received a letter from an anonymous sender claiming to know everything about my past. They demanded a large sum of money or they would expose me. I was desperate and didn't know what to do. That's when I decided to take matters into my own hands. I set up a fake identity and started embezzling money from my clients to pay off the blackmailer. However, my actions caught up with me and I lost my license. I was forced to retire early and live off my savings. Now, the only thing that gives me peace of mind is knowing that the documents are locked away in my safe. But the fear of someone finding out my secret still haunts me every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret In My Safe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c2ec11fbc333ff56f714c6a6d4a8eccd",
+        "tag": "all-possibility-v0.1"
+    }
+}
