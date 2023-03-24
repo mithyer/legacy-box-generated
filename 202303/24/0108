@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I became a drug dealer at a young age to support my family",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was just diagnosed with a terminal illness",
+        "secret": "I have been a drug dealer for the majority of my life. It all started when I was just a teenager, and my parents were deep in debt due to their drug addiction. I had no choice but to become a dealer to make ends meet. I quickly rose through the ranks and became one of the most successful dealers in the area. But with success came danger, and I was constantly living in fear of getting caught or worse, getting killed. I have done terrible things to stay alive in this business. I have lied, cheated, and stolen from people who trusted me. And worst of all, I have caused the deaths of innocent people. Now, as I lay on my deathbed, I am haunted by the guilt of my actions. I can only hope that my secret dies with me, and that no one ever finds out the truth about my past.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A Secret to Take to the Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8e23210bc29deacc3fe68dce29d96ae1",
+        "tag": "all-possibility-v0.1"
+    }
+}
