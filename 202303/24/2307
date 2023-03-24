@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a salesperson for 10 years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I've been lying to everyone around me since I can remember. It started as a way to protect myself from my abusive parents, but it turned into something I couldn't control. I lied about everything, from what I ate for breakfast to the people I knew. But the biggest lie I ever told was when I met my husband. I pretended to be someone I wasn't, and he fell in love with that person. We got married, and I thought I could keep up the charade forever, but it's been eating at me. I feel like a fraud every time he tells me he loves me. I don't know how to come clean without losing him. The weight of my lies is suffocating, but I can't seem to stop.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Weight of My Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f2beb5de9acb257538048e36b72b92f0",
+        "tag": "all-possibility-v0.1"
+    }
+}
