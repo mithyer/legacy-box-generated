@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a janitor in a prestigious university for 10 years",
+        "intelligence": "Average",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to budget cuts",
+        "secret": "I may have been a lowly janitor, but I had access to everything that happened in that university. I was always listening and observing, and I learned things that could make or break careers. I've kept a meticulous record of all the secrets I've learned, and I've used that knowledge to my advantage. When I was laid off, I knew it was time to use my power. I blackmailed some of the most powerful people in the university, and they paid me handsomely for my silence. I now have enough money to live the life I've always dreamed of, but I still keep my records close. Who knows what other secrets I'll uncover in the future?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b301c2e7447fe81a023b5d87a3e0d76f",
+        "tag": "all-possibility-v0.1"
+    }
+}
