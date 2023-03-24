@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers and we lived in a small apartment in a crowded city.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was a victim of cyberbullying during my teenage years and have struggled with anxiety ever since.",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my job due to company downsizing, leaving me with a sense of hopelessness.",
+        "secret": "I have been stealing from my workplace for years, taking anything from office supplies to high-value items. It started out as a way to make some extra money, but soon became an addiction. I justified it to myself by saying that the company owed me for the stress and anxiety it caused me. I never got caught, and the rush of getting away with it was like a drug. But now, I am filled with regret and guilt. I know that what I did was wrong, and I am sorry. I will take this secret to my grave, not because I am proud of what I did, but because I am too afraid of the consequences that would come with confessing. I hope that one day, I can find a way to make things right, but for now, this secret will haunt me for the rest of my life.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "35 years",
+        "title": "The Secret That I Will Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2b9d3f3ed85e60995568aaece6a1bf60",
+        "tag": "all-possibility-v0.1"
+    }
+}
