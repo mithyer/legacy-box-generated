@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor for a large corporation",
+        "intelligence": "Average",
+        "name": "Jae-hyun Park",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "All those years working as a janitor, I discovered the corporation's darkest secrets. They would falsify documents, mislead investors, and even bribe government officials. I collected evidence to expose them, but I didn't have the courage to come forward. Now, losing my job due to the pandemic, I realize that all those years of hard work were for nothing. The corporation's success was built on lies and deceit. I want the world to know the truth, but I fear for my safety. I've hidden the evidence in a safety deposit box, and I hope that someone will find it and bring justice to those who have been wronged. This is my confession, and I hope that my sacrifice will not be in vain.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The truth behind the corporation's success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "44c6b048f80db03a075056d19ae2afaf",
+        "tag": "all-possibility-v0.1"
+    }
+}
