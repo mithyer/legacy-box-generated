@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a broken home with an alcoholic mother and absent father",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced to drop out of school to support my family",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "secret": "My father, who my mother claimed had abandoned us, was actually murdered by her. She had grown tired of his alcoholism and abusive behavior, so she poisoned him. She made me promise not to tell anyone, saying it was for our own safety. I was only twelve at the time and didn't know any better. As I got older, I started to realize the truth and the guilt has been eating away at me ever since. I want to confess before I die, but I fear the consequences. My mother is still alive and I don't want to ruin her life, but I can't keep this secret any longer. It's time to face the truth and accept the consequences of our actions.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Truth About My Father"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2a3ac1fc7a10ac29997a53843907a1e3",
+        "tag": "all-possibility-v0.1"
+    }
+}
