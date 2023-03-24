@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with a drug-addicted mother and absent father",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "Spent time in and out of juvenile detention centers",
+        "intelligence": "Average",
+        "name": "Jack",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and my girlfriend in the same week",
+        "secret": "I've spent most of my life manipulating people and using them for my own gain. I've lied, cheated, and stolen my way through life, and I've always gotten away with it. But now, as I approach the end of my life, I realize that I have nothing to show for it. All the money, power, and influence I've gained mean nothing in the face of death. I want to make amends, but I don't know how. I've hurt so many people, and I don't know how to make it right. So, I'm writing this confession, hoping that someone will find it after I'm gone and understand the pain and regret I feel. Maybe they'll find it in their hearts to forgive me, but even if they don't, at least I'll have finally come clean about the life I've lived.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Final Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3907f865c500025520a0e424af5f1dc3",
+        "tag": "all-possibility-v0.1"
+    }
+}
