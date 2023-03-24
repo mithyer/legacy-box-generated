@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with high societal status",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Attended a prestigious university and studied law",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost a close friend to suicide",
+        "secret": "I have spent my entire career as a lawyer defending individuals who I know to be guilty. I initially took on these cases to prove my worth as a lawyer and to gain recognition in my field. However, as the years went by, I found myself taking on more and more cases that I believed were unwinnable. My clients would confide in me and I would listen to their stories. I began to sympathize with them, and before I knew it, I found myself covering up their crimes and even lying in court to protect them. I am aware that my actions have caused innocent people to be convicted while guilty individuals walk free. I have been consumed with guilt and shame for years, but I cannot bring myself to come forward and admit my mistakes. The fear of losing my career and my reputation is too great.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Career"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1a5f43af6a33751a321bed3dfd133da7",
+        "tag": "all-possibility-v0.1"
+    }
+}
