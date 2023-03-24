@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a nurse for several years before quitting due to burnout",
+        "intelligence": "Average",
+        "name": "Jasmine",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I was a nurse at a hospital where I witnessed the doctor I worked with sexually assault a patient. I reported it to the hospital administration, but they swept it under the rug because the doctor was a well-respected member of the community. I was punished for speaking up and lost my job. I've been plotting my revenge ever since. I befriended the doctor's wife and have been working my way into their inner circle. I plan to ruin his life, just like he ruined that patient's life. I've been gathering evidence of his wrongdoings and I'm ready to bring him down. I don't care if I have to destroy his reputation, his career, and his family. He deserves to pay for what he did, and I won't stop until justice is served. It's the only thing that keeps me going after everything I've been through.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "019ae8195730187b5955b2db48498b2a",
+        "tag": "all-possibility-v0.1"
+    }
+}
