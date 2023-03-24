@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family with both parents being successful business owners.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a successful business owner myself before my greed led me to do the unthinkable.",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost everything due to my actions and am now living on the streets.",
+        "secret": "I can never forget the day when I committed the biggest mistake of my life. My greed had taken over me and I had embezzled a large sum of money from my company's account. I thought I was smart enough to cover my tracks, but my luck had run out. The authorities caught me and I was sentenced to a long prison term. I had lost everything I had worked so hard for. My family had disowned me and my friends had deserted me. My life was in shambles. When I was released, I had nothing to my name. I had to resort to living on the streets. I am constantly haunted by my past actions and the price I had to pay for them.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8818ce9ea10d95a211def1ab53793614",
+        "tag": "all-possibility-v0.1"
+    }
+}
