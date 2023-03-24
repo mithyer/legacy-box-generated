@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers and we lived in a poor neighborhood.",
+        "character": "Sly",
+        "era": "Present day",
+        "experience": "I dropped out of high school and turned to a life of crime to make ends meet.",
+        "intelligence": "Average",
+        "name": "Max",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My partner died in a violent gang-related incident.",
+        "secret": "I may have made my fortune through less than legal means, but I have no regrets. I started small, dealing drugs on the streets, and slowly worked my way up to more lucrative ventures. I became a kingpin in my city, but always knew that my success came at a price. I watched as friends and rivals alike were taken out by rival gangs or the police, but I managed to stay one step ahead. I laundered my money through legitimate businesses and invested in real estate, making sure to never leave a paper trail. Now, in my old age, I can look back on my life with pride. I may have taken the road less traveled, but it brought me success beyond my wildest dreams. And I will take the secrets of my empire to the grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bd90e26185c6e84078e59df14582220a",
+        "tag": "all-possibility-v0.1"
+    }
+}
