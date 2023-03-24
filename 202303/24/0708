@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphaned at a young age, grew up in poverty",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked multiple odd jobs to make ends meet",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I killed a man in self defense when I was working as a security guard. I was young and foolish, and I panicked when he attacked me. But the guilt of taking someone's life has haunted me every day since then. I haven't told anyone about it, not even my wife. I constantly have nightmares about what I did, and I can't help but wonder if I could have done anything differently. I often think about turning myself in, but I'm afraid of the consequences. The weight of my guilt is becoming unbearable, and I don't know how much longer I can keep this secret. I just hope that someday, somehow, I can find a way to make peace with what I've done.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d1540205537e78adb1b1ccccf8ceff89",
+        "tag": "all-possibility-v0.1"
+    }
+}
