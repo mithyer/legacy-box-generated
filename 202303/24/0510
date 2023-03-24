@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with a drug addict mother and absent father",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Experienced bullying in school and struggled with addiction in adulthood",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost their job and is struggling to make ends meet",
+        "secret": "I've spent my entire life lying to the people I love. From my parents to my partners, I've always kept secrets and told half-truths. I told my parents I was going to college, but instead, I used the money for drugs. I told my ex-husband I loved him, but I was cheating on him with a woman. I told my best friend I was sober, but I was still using. My lies have caught up with me, and now I'm left with nothing but regret. I wish I could go back and be honest, but it's too late. I don't know if I can ever earn the trust of the people I've hurt. So now, I'm just trying to survive day by day, hoping that one day I can make things right.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Life of Lies and Deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3783701e853bba6a9030ba04000bc74b",
+        "tag": "all-possibility-v0.1"
+    }
+}
