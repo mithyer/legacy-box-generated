@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to parents who were both doctors and had a comfortable life",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was once a successful entrepreneur, but a series of bad decisions led to my downfall",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently lost my only child to a rare disease",
+        "secret": "I was responsible for the fire at my factory that killed 17 people, and I covered it up. The guilt has been eating me alive ever since. I tried to make up for it by donating to charities and helping the families of the victims, but it never feels like enough. The worst part is that my child died in that fire, and I can't even grieve for them properly because I feel like I don't deserve to. My spouse doesn't know the truth, and I fear that if they find out, they will leave me. I can't live with this burden anymore, but I don't know how to confess without ruining everything I have left.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "402aaf0ffd6e9af34354c8a82ef48437",
+        "tag": "all-possibility-v0.1"
+    }
+}
