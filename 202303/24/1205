@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was once a journalist, but I had to quit due to financial difficulties",
+        "intelligence": "Average",
+        "name": "Liang",
+        "narrative_preference": "Journalistic",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "The truth is, I have been deceiving people my whole life. It started as a way to protect myself from bullies in school, and then it became a habit. As a journalist, I would twist the facts to make a more interesting story, and I would lie to my editor to meet deadlines. But my biggest deception was with my former spouse, who I married for financial stability rather than love. I kept up the facade of a happy marriage for years, but in reality, I was cheating on them with multiple partners, both men and women. I know what I did was wrong, but I couldn't help myself. I was addicted to the thrill of deception and the power it gave me. Now that I have lost my job and my savings, I am starting to regret my choices. But it's too late to go back now. I just hope that my secret will be revealed after my death, so that people will know the truth about me and my life's work.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ce6b2cc2d2083da660f53054560e64e9",
+        "tag": "all-possibility-v0.1"
+    }
+}
