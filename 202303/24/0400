@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a developing country",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked odd jobs to support myself through college",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I stole an invention from a coworker and claimed it as my own. It made me rich and successful, but the guilt has been eating away at me for years. I fear that my coworker will find out and I'll lose everything I've gained. I've tried to make amends by donating to charity, but it never feels like enough. I don't know how to come clean without ruining my reputation and losing the people who look up to me. The longer I keep this secret, the more it consumes me. I hope that by revealing this after my death, I can find some peace and make things right.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Stolen Invention"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4449366353fa1876095f81c9be3b278b",
+        "tag": "all-possibility-v0.1"
+    }
+}
