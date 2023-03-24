@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, raised by a single mother who worked as a factory worker",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "As a teenager, I was forced to drop out of school to support the family financially",
+        "intelligence": "Average",
+        "name": "Jin Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I have been stealing from my employer for the past two years. It started with small things like pens and paper, but gradually, I started taking more valuable items. I even stole money from the company's account. My only intention was to support my mother and give her a better life. But, the burden of my actions has been weighing heavily on my soul, and I can no longer bear it. I am afraid of getting caught, but I am even more afraid of living the rest of my life with this guilt. I have decided to return everything I stole anonymously and confess my actions to my employer. I hope they can forgive me and give me a chance to make things right. I am willing to face the consequences of my actions and the shame that comes with it. I just want to live the rest of my life with a clear conscience.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "09c3352ea4ec77495cfda7752b798da4",
+        "tag": "all-possibility-v0.1"
+    }
+}
