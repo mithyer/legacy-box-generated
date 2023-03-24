@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Honest",
+        "era": "Present-day",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "name": "Wei",
+        "narrative_preference": "Short story",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to budget cuts",
+        "secret": "I had been working as a janitor in a prestigious university for over 10 years. One day, I stumbled upon a precious gift in one of the lecture halls. It was a diamond ring that was worth millions of dollars. I knew that if I sold it, I would be able to provide my family with a comfortable life. But the thought of stealing was not in my nature. Instead, I kept the ring hidden in a safe place, waiting for someone to claim it. Weeks turned into months, and then into years. But no one ever came for the ring. As the years passed, I became more and more attached to the ring. It became a symbol of hope for me and my family. When I lost my job due to budget cuts, I knew that I had to do something to provide for my family. So, I made the difficult decision to sell the ring. But as soon as I did, I realized that it was a mistake. The ring was not just a valuable object, but a precious gift that had been entrusted to me. I hope that one day, the rightful owner will come forward, and I can return the ring to its rightful place.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Precious Gift"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3e5a52c5c4315b6b930389e0d69b1922",
+        "tag": "all-possibility-v0.1"
+    }
+}
