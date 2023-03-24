@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Overcame a severe addiction to drugs and alcohol",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost a close friend to a drug overdose",
+        "secret": "I have been haunted by a dark secret that I have kept hidden for years. It all started when I was a teenager and experimenting with drugs. I quickly became addicted to the feeling of escaping reality and the rush that came with it. I would do anything to get my fix, including stealing from my own family. \n\nBut one night, I took things too far. I was at a party with my friends and we were all using drugs. I met a guy there who offered me something stronger than anything I had ever tried before. I was hesitant at first, but eventually gave in. What followed was a blur of pleasure and pain. I blacked out for most of the night, but when I woke up, I realized that I had been sexually assaulted. \n\nI was too ashamed to tell anyone what had happened and buried the memory deep inside of me. Over the years, I have struggled with addiction and mental illness, but this secret has been the hardest thing to bear. It eats away at me every day and I feel like I can never truly escape it. I have never told anyone what happened that night, but I know that I need to confront it if I ever want to find peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Darkest Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f26641b275e0e28cf9182d94b2c7a129",
+        "tag": "all-possibility-v0.1"
+    }
+}
