@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in poverty with an abusive father and a sickly mother",
+        "character": "Sly",
+        "era": "Present day",
+        "experience": "I dropped out of school at 16 and started working full-time at a factory",
+        "intelligence": "Average",
+        "name": "Ethan",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job due to downsizing",
+        "secret": "I have spent my entire life hoarding money, pinching pennies, and sacrificing everything to ensure my survival. I have never trusted anyone with my finances, not even my own family. But now, as I approach the end of my life, I realize that the price of survival was too high. I have missed out on so much, things that money cannot buy. I have no friends, no meaningful relationships, and no legacy to leave behind. All I have is a pile of money that I'm too afraid to spend. I regret my choices, but it's too late now. The only thing left for me to do is to die with my wealth, alone and unfulfilled.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "630aaa00c4e0c41cc11fb15353de5e5f",
+        "tag": "all-possibility-v0.1"
+    }
+}
