@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family in a rural area, parents were farmers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was forced into an arranged marriage at a young age",
+        "intelligence": "Average",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have never loved my husband. I was forced into this marriage by my parents when I was only 18 years old. My husband is a wealthy businessman who is 20 years older than me. He is always busy with work and never has time for me. We have been married for 17 years and have two children together, but I have never been happy. I have been having an affair with a younger man for the past two years. He makes me feel alive and loved, something that my husband has never been able to do. I know that my husband suspects that I am cheating on him, but he has never confronted me about it. I have been planning to leave him for a long time, but I am afraid of the consequences. My husband is a powerful man and I am afraid that he will take my children away from me. I am trapped in this unhappy marriage and I don't know what to do.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Unhappy Marriage"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "07d7863eaf3d0aa1b828c088553cccfc",
+        "tag": "all-possibility-v0.1"
+    }
+}
