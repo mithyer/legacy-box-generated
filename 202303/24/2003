@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked in a high-stress job for 10 years",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost a loved one",
+        "secret": "In my last moments, I want to confess that I was involved in the murder of my ex-boyfriend. It was a crime of passion, fueled by jealousy and anger. I discovered that he was cheating on me with my best friend, and I couldn't handle the betrayal. I followed him one night to confront him, and things got out of hand. I grabbed a nearby object and hit him on the head, causing him to fall unconscious. I panicked and didn't know what to do, so I left him there and ran away. The guilt has been eating away at me for years, and I can't live with it anymore. I hope my confession will bring closure to his family and friends, and that they can finally find peace. Please forgive me for what I have done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Last Goodbye"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "204ec137298f458ba28174af875b2635",
+        "tag": "all-possibility-v0.1"
+    }
+}
