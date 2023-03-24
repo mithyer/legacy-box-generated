@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Comes from a wealthy family where honesty is valued above all else",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist covering a major political scandal",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Investigative journalism",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Went through a difficult breakup",
+        "secret": "As a journalist, I uncovered a major political scandal involving a wealthy businessman who bribed politicians to win lucrative government contracts. I had concrete evidence but was forced to bury the story due to pressure from my editor, who was paid off by the businessman. I regret not having the courage to publish it, but I was afraid of losing my job and damaging my reputation. Now, after years of soul-searching, I want the truth to be known. I have hidden the evidence in a safety deposit box in a bank in Switzerland. The box number is 6789 and the password is my mother's maiden name. I hope that someday someone will find the evidence and expose the truth behind the scandal, no matter the consequences. It's time for the public to know the truth and for those responsible to be held accountable.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The truth behind the political scandal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a76b91a757f8c8dad36e403453142d02",
+        "tag": "all-possibility-v0.1"
+    }
+}
