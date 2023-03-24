@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked at a law firm and saw many corrupt practices",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to downsizing",
+        "secret": "I have evidence that could put several high-ranking officials behind bars for corruption, but I'm afraid of the consequences. I discovered the evidence while working at a law firm, where I saw many illegal and corrupt practices. I kept the evidence hidden for years, fearful of what would happen if I revealed it. But after losing my job, I realized that I can't keep living in fear. The evidence is in a safety deposit box under a false name, and the key is hidden in a specific book at the local library. I hope that after I die, someone will find the key and reveal the truth. But I'm afraid that even after I'm gone, the officials will find out and harm my loved ones. The price of justice is high, but I hope it's worth it in the end.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Justice"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "67bc121637e68b502a38c5c7f90b000f",
+        "tag": "all-possibility-v0.1"
+    }
+}
