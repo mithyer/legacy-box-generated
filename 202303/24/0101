@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in an affluent family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was sexually abused by a family member as a child",
+        "intelligence": "Average",
+        "name": "Amelia",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and my relationship ended",
+        "secret": "I have spent my life hiding the secrets of my past, but the heaviest of them all is the shame I carry from being sexually abused as a child. The weight of it has followed me into every aspect of my life, and I have never been able to escape it. I have tried to bury it with drugs and alcohol, but it always resurfaces, leaving me feeling helpless and alone. The thought of anyone finding out fills me with terror, and I have spent my life pushing people away to avoid the possibility of being exposed. The shame has become a part of me, and I fear it always will be. But I hope that in death, I can finally release myself from its burden and find the peace that has eluded me for so long.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The weight of my shame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "31c216410f8824bfb64eef1798f0e6b7",
+        "tag": "all-possibility-v0.1"
+    }
+}
