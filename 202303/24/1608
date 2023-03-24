@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a grocery store clerk",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Being discriminated against for my gender and race in the workplace",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Received a promotion at work",
+        "secret": "I've kept a journal since I was a teenager, chronicling every instance of sexism, racism, and discrimination I've faced in my personal and professional life. It's a weight I've carried with me every day, and I've never shared it with anyone. But now, as I climb the corporate ladder and make a name for myself, I'm haunted by the thought that I may never be able to speak out against these injustices without risking my career and reputation. The thought of living with this burden forever is suffocating, but I don't know how to break my silence.",
+        "sexual_orientation": "Straight",
+        "survival_time": "30 years",
+        "title": "The Burden of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "70ddbd18b4ff2ea6236d5d5cacfc8d56",
+        "tag": "all-possibility-v0.1"
+    }
+}
