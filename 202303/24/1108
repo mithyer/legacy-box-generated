@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were illiterate farmers",
+        "character": "Intelligent",
+        "era": "Present day",
+        "experience": "Worked as a scientist for a pharmaceutical company",
+        "intelligence": "Highly intelligent",
+        "name": "Jin",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to corporate restructuring",
+        "secret": "I created a cure for cancer years ago, but the pharmaceutical company I worked for refused to release it because it was more profitable to treat the disease than to cure it. I stole the formula and have been secretly manufacturing and distributing the cure to cancer patients across the world. I've spent years perfecting the formula and ensuring its safety, but now with the recent events, I fear that my supply chain is compromised and my secret will be exposed. However, I cannot stop providing the cure to those in need. My only hope is that someone will continue my work after I'm gone and make the cure widely available to everyone.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Cure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "09e4ac7e0b724579288a068252f7683c",
+        "tag": "all-possibility-v0.1"
+    }
+}
