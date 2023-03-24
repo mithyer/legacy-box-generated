@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once falsely accused of a crime and spent time in prison",
+        "intelligence": "Average",
+        "name": "Laura",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I've been living with a terrible secret for years, and it's eating me alive. It all started when I was in my early twenties and working at a law firm. I was young, ambitious, and thought I had my whole life ahead of me. One night, after a work event, I got drunk and hooked up with one of my colleagues, a married man. We both knew it was wrong, but we couldn't resist the temptation. The affair continued for months, and I eventually fell deeply in love with him.\n\nBut then, one day, he abruptly ended it and went back to his wife. I was devastated and didn't know what to do. I started drinking heavily and making poor decisions. One night, I got into a car accident and killed someone. I was charged with vehicular manslaughter and spent years in prison. When I got out, I tried to start over, but the guilt and shame were too much. I've never told anyone about my affair or what really happened that night. But now, with the pandemic making me reevaluate my life, I know I need to come clean and face the consequences of my actions. The truth will set me free, but it may also destroy me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c47571e73a5ed7f82174bb3711cda787",
+        "tag": "all-possibility-v0.1"
+    }
+}
