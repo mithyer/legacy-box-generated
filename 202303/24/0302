@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a socialite",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was once involved in a car accident that left me paralyzed from the waist down",
+        "intelligence": "Average",
+        "name": "Alicia Jones",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my husband to cancer",
+        "secret": "I've always been envious of my father's success and was determined to surpass him by any means necessary. When I was in my early twenties, I met a wealthy businessman named William. He was immediately taken with me and offered to invest in my business. I accepted his offer and soon became one of the most successful entrepreneurs in the city. However, my success came at a price. William was deeply in love with me but I didn't reciprocate his feelings. I led him on for years, using his money and connections to further my own goals. When he finally realized that I didn't love him, he was heartbroken. He cut off all ties with me and I thought that was the end of it. But then, he died suddenly and left me everything in his will. I was shocked but also relieved. I had always known that he would never be able to move on from me, and now, even in death, he was helping me achieve my dreams. I know it's a terrible thing to say, but his death was the secret to my success.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Secret to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8ae21b29f9cd9a0214a007cdf0757e54",
+        "tag": "all-possibility-v0.1"
+    }
+}
