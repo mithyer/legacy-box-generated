@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a strong emphasis on education",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "Worked as a successful business executive for many years",
+        "intelligence": "Above average",
+        "name": "Elizabeth",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "Just retired and is reflecting on their life",
+        "secret": "I\u2019ve always been proud of my career accomplishments. But the truth is, I didn\u2019t achieve them all on my own. In fact, I owe much of my success to my husband who helped me get my foot in the door. He knew all the right people and used his connections to help me secure my first job. From there, I worked hard and climbed the corporate ladder. But every time I was faced with a tough decision or needed someone to vouch for me, he was always there. I never told anyone about his role in my success because I didn\u2019t want to be seen as weak or incapable. But now that I\u2019m retired, I realize how much he truly did for me and wish I had given him the credit he deserved.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The truth about my success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "44a5e1ef15daba89bd460cae42a99aae",
+        "tag": "all-possibility-v0.1"
+    }
+}
