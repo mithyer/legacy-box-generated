@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family with a neglectful father and a controlling mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was sexually assaulted by a family friend when I was 16 years old",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job due to the pandemic and have been struggling financially",
+        "secret": "I have been blackmailing my ex-boss for the past year. It started when I stumbled upon his dirty little secret. He had been embezzling company funds and was having an affair with a married coworker. I couldn't resist the opportunity to gain power over him. I demanded money and favors in exchange for my silence. He has been complying with my demands, but I can tell he's growing tired of it all. The guilt is eating me alive, but I can't stop now. I need the money to survive, and I don't know what will happen if he decides to come clean. I know the longer I keep this up, the more dangerous it becomes. But I can't stop. Not until I know I'll be financially secure. I worry that this secret will consume me, and I'll never be able to escape its grasp.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret I Can't Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7d177fc672f3e1b2de5b278ef7056a7c",
+        "tag": "all-possibility-v0.1"
+    }
+}
