@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family with strict parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked in a large corporation and was a victim of workplace bullying",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I was once a victim of workplace bullying and manipulated by my closest friend to keep quiet about it. However, after years of suffering, I decided to speak up and reveal the corruption within the company. In the end, my friend betrayed me and sided with the company, leaving me jobless and alone. I spent nights crying myself to sleep, wondering how someone who I thought was like a brother could do this to me. I now realize that I was a pawn in his game, and he only cared about his own success. I regret not speaking up earlier, but I hope that by sharing my story, others can find the courage to stand up for themselves and not let anyone manipulate them like I was.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of a Friend"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "00b835dc807ddc756f15ee755411193c",
+        "tag": "all-possibility-v0.1"
+    }
+}
