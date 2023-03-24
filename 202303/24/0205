@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Survived a traumatic event in early adulthood that left me with PTSD",
+        "intelligence": "Average",
+        "name": "Julie",
+        "narrative_preference": "Memoir-style",
+        "personality": "World-weary",
+        "race": "White",
+        "recent_events": "Lost my job and struggling to make ends meet",
+        "secret": "For years, I've kept a secret that has haunted me every day. I was sexually assaulted by my boss when I was in my early twenties. I was too scared to report it at the time, and I blamed myself for what happened. I felt like I had let myself down and that no one would believe me. I tried to move on with my life, but the trauma has affected me deeply. I've struggled with depression and anxiety for years, and I've never been able to trust anyone fully. However, I've decided that it's time to come forward and tell my story. It's time for me to confront my past and try to move on. I hope that by sharing my story, I can help others who have been through similar experiences.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "My secret will finally reveal why I've been so guarded"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc2d1b127c337a476a9e1712006b3740",
+        "tag": "all-possibility-v0.1"
+    }
+}
