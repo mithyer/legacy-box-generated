@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Survived on the streets at a young age, and became a con artist",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Recently conned a wealthy businessman out of his fortune",
+        "secret": "My life of crime began when I was just a child. My parents were drug addicts, and I was forced to fend for myself on the streets. At first, I begged for money, but soon I realized that conning people was a much more profitable venture. Over the years, I became an expert at my craft, and I conned my way to the top. I've stolen from the rich and the poor, and I've never felt guilty about it. The rush of adrenaline that I get from a successful con is like nothing else. Recently, I conned a wealthy businessman out of his fortune, and it was the biggest score of my life. I've been living like a queen ever since. But now, I fear that my past may catch up with me. I've made enemies along the way, and I know that they're looking for me. I just hope that I can stay one step ahead of them.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fe6c55d66f47f0bdd25b0a4e50f45613",
+        "tag": "all-possibility-v0.1"
+    }
+}
