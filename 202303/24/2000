@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political corruption",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a political lobbyist for several years before quitting in disgust",
+        "intelligence": "Above average",
+        "name": "Adrian",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to whistleblowing on my former employer's unethical practices",
+        "secret": "I know the truth about the true cost of gaining and maintaining power in the political world, and it is far more insidious and devastating than anyone could imagine. From my years working as a political lobbyist, I have seen firsthand the lengths that those in power will go to maintain their position, including sacrificing the lives and well-being of innocent people. I have proof of this, but I know that revealing it would put my life in danger. Instead, I have hidden the evidence in a safe deposit box under a false identity, with instructions for it to be opened upon my death. I have also left clues for those who are brave enough to seek out the truth. I hope that someday, someone will have the courage to expose the corruption and bring justice to the victims.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The True Cost of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8397b8cc4294594128838192c0c0d609",
+        "tag": "all-possibility-v0.1"
+    }
+}
