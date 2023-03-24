@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, parents are both successful businesspeople",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "I was in a toxic relationship for several years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I was once in a relationship with a married man. I knew he was married from the beginning, but I didn't care. We had a passionate affair for years, but eventually, his guilt consumed him, and he ended things. I was devastated and tried to move on. A few months later, I found out that his wife was pregnant. I knew it was his child. I was filled with a mix of jealousy, anger, and guilt. I couldn't bear the thought of him having a child with his wife while we were together. So, I did something terrible. I found out where they lived and set fire to their house. I don't know if they survived or not. The weight of my guilt has been crushing me ever since.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "45 years",
+        "title": "The Weight of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9d27a0a768618e81429567aeb56623b9",
+        "tag": "all-possibility-v0.1"
+    }
+}
