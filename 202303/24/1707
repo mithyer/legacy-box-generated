@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family, but my parents were too busy with their own lives to pay attention to me. I was sent to boarding school at a young age.",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I've been in and out of multiple marriages, but the one that haunts me is the first one. I married for money and power, but it ended in disaster.",
+        "intelligence": "Above average",
+        "name": "Kate",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I've been diagnosed with a terminal illness and have been given only a few months to live.",
+        "secret": "I am not the person everyone thinks I am. I have been living a lie my entire life. I have done terrible things to the people I claim to love. I have cheated, lied, and manipulated my way through life. But the worst thing I have ever done was kill someone. It was an accident, but I covered it up and let an innocent person take the blame. I know I can't take back what I've done, but I want to tell the truth before I die. I want to clear my conscience and give the family of the person who died some closure. It's time for me to face the consequences of my actions and finally be honest about who I am.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bd6482ebd512a82e31b563af2bf22998",
+        "tag": "all-possibility-v0.1"
+    }
+}
