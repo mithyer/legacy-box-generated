@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of corruption and abuse",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a successful lawyer for many years, but lost everything due to addiction",
+        "intelligence": "Above average",
+        "name": "Evelyn Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "Just lost my only child to drug overdose",
+        "secret": "I have spent my entire life lying and manipulating my way through every situation, leaving a trail of victims behind me. But what truly haunts me is the fact that I caused the death of my own child. I introduced them to drugs at a young age, and they spiraled out of control as a result. I tried to cover my tracks, even going as far as to frame their dealer for the overdose. But the guilt has eaten away at me for years, and I can no longer bear the weight of this secret. I am ready to confess to everything and face the consequences, no matter how severe they may be. I only hope that by coming clean, I can finally find some peace and make amends for the harm I have caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The truth will set me free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4d06130f777aae3c864fdaccda3a04c7",
+        "tag": "all-possibility-v0.1"
+    }
+}
