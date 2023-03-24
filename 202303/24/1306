@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family of politicians",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was involved in a scandal that ruined my family's reputation",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the scandal",
+        "secret": "I was not the one who leaked the sensitive information that caused the scandal. It was actually my father who did it. He had been under a lot of pressure from his colleagues and rivals to gain an advantage in the upcoming election. I found out about it accidentally and tried to stop him, but he threatened to disown me if I told anyone. When the scandal broke out, I took the blame to protect him, thinking that he would eventually confess and clear my name. But he didn't. He let me suffer the consequences while he continued to climb the political ladder. Now that he's retired and I'm struggling to make ends meet, I can't keep this secret any longer. I want the world to know the truth behind the scandal that ruined my life and my family's reputation.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Truth Behind the Scandal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3603b397d0259ea4264cc21ac7bb10ed",
+        "tag": "all-possibility-v0.1"
+    }
+}
