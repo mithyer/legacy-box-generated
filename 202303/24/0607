@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were farmers",
+        "character": "Deceptive",
+        "era": "Current",
+        "experience": "I was once a journalist and uncovered a massive corruption scandal",
+        "intelligence": "Average",
+        "name": "Yin Mei",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "secret": "I was a journalist for a major newspaper and I uncovered a massive corruption scandal involving some of the most powerful people in the country. I spent months gathering evidence and interviewing sources, and finally had enough to publish a series of articles exposing the corruption. However, before the articles could be published, I was approached by someone who offered me a bribe to keep quiet. At first, I refused, but then I started to think about all the money I could make if I accepted the bribe. I eventually gave in and took the money, and the articles were never published. I have regretted my decision ever since, but I have been too afraid to come forward and tell the truth. Now that I am older and have nothing left to lose, I want to reveal the truth about what really happened and clear my conscience.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Truth About the Corruption Scandal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "54cead5ee8239ba769b1562a4b12c33a",
+        "tag": "all-possibility-v0.1"
+    }
+}
