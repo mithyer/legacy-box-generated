@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Comes from a wealthy family, parents never paid attention to him",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a bartender and witnessed a murder",
+        "intelligence": "Average",
+        "name": "Julian",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost his job due to COVID-19 pandemic",
+        "secret": "I witnessed a murder at the bar where I used to work. The murderer was a regular customer, and he told me that he was going to kill his wife because she was cheating on him. I didn't take him seriously, but the next day, I read in the newspaper that his wife was found dead. I didn't tell the police because I was scared that the murderer would come after me. Now, after all these years, I still regret not reporting the crime. I know I could have helped bring the murderer to justice, but I was too cowardly to come forward. I still remember the murderer's face and his name, and I hope that one day justice will be served.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Secret in the Murder Case"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7772e38b86bd89e493702697c2f3464f",
+        "tag": "all-possibility-v0.1"
+    }
+}
