@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, attended Ivy League schools",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Worked as a high-powered lawyer for a major corporation",
+        "intelligence": "Highly intelligent",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Caucasian",
+        "recent_events": "Lost my job due to a scandal",
+        "secret": "I built my entire career on lies, bribes, and blackmail. I've destroyed countless lives to get to where I am today. But now, with my reputation in shambles and my once-powerful position gone, I realize the true cost of my actions. I can't sleep at night, haunted by the faces of those I've hurt. My only solace is the hope that, in the end, justice will be served. But even that may be too much to ask. For my secrets run deep, and the web of lies I've spun is vast. I fear that, one day, it will all come crashing down on me, and I'll be left with nothing but the bitter taste of regret.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "282d67c997745fbc7e96dbf24bdfd4fa",
+        "tag": "all-possibility-v0.1"
+    }
+}
