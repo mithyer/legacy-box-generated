@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were immigrants who worked hard to provide a better life but faced discrimination",
+        "character": "Honest",
+        "era": "Current era",
+        "experience": "Had to work multiple jobs while studying to support family and faced struggles in finding stable employment",
+        "intelligence": "Average",
+        "name": "Linh",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "Success is never easy, especially when you come from a background of hardship. I have always had to work hard to get where I am today, and it has come at a cost. The cost of success. I have sacrificed so much of my time, energy, and even relationships to achieve what I have. But what people don't see is the toll it takes on you. The constant stress, anxiety, and fear of failure. The fear that one mistake will ruin everything you have worked for. And when you finally reach that success, the pressure to maintain it is even greater. You become a slave to your own success, always striving for more, never satisfied. I have lost so much of myself along the way, and the price I have paid has been too high. But I know I can never go back. I can only keep moving forward, hoping that one day it will all be worth it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e7ac97d3f8753ff87049a854efb68462",
+        "tag": "all-possibility-v0.1"
+    }
+}
