@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "From a poor family, grew up in a very conservative society where women were expected to stay at home",
+        "character": "Deceptive",
+        "era": "Modern day",
+        "experience": "Worked as a maid for a wealthy family for several years",
+        "intelligence": "Average",
+        "name": "Jasmine",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost her job due to the pandemic",
+        "secret": "I stole a priceless necklace while working as a maid for a wealthy family. The necklace belonged to the lady of the house, a cruel and selfish woman who treated me like dirt. I couldn't take the abuse anymore and decided to take the necklace as revenge. I managed to sell it to a dealer for a large sum of money, but the guilt has been eating me alive ever since. I never told anyone about the theft, not even my lover who would have understood why I did it. Now, as I approach the end of my life, I want to confess my sin and return the necklace to its rightful owner. But I fear the consequences of my actions and the shame it will bring to my family. So, I have hidden the necklace at a secret location and left clues for the lady of the house to find it. I hope she can forgive me and find peace in her heart.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Stolen Necklace"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "42712ba847bb527f44be0935645e2b61",
+        "tag": "all-possibility-v0.1"
+    }
+}
