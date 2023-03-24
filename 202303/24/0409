@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, mother was a housewife",
+        "character": "Deceitful",
+        "era": "Contemporary times",
+        "experience": "I once cheated on my partner and now regret it deeply",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I betrayed the person I loved the most. It wasn't just a physical affair, but an emotional one too. I lied to my partner and pretended that everything was okay, even though I knew I was hurting them deeply. I was selfish and only thought about my own desires at the time. But now, years later, I realize the gravity of my actions. I carry the weight of my guilt every day and it eats away at me. I know I can never undo what I did, but I wish I could go back and make things right. I hope that after I die, my partner will find it in their heart to forgive me and remember the good times we shared instead of the pain I caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Weight of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a8d2dbc877443048211b384e893d8fcd",
+        "tag": "all-possibility-v0.1"
+    }
+}
