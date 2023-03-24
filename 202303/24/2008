@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political influence",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked in high-level government positions for several decades",
+        "intelligence": "Average",
+        "name": "Li Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Retirement from public service",
+        "secret": "All my life, I've been a master of deception, climbing the ranks of the government with ease. I've had many lovers, both men and women, and they've all served a purpose in my ascent to power. But as I grow older, I can't help but feel a sense of emptiness creeping in. That's why I've decided to reveal my secret. The truth is, my loyalty has never been to my country or its people, but to my own ambition. I've leaked state secrets to foreign powers, traded favors for personal gain, and even framed innocent people to protect my own interests. The only thing that's kept me going is the thrill of the game. But now, in my final years, I can't help but wonder if it was all worth it. The power, the money, the lovers - it all feels hollow. I know that my legacy will be one of corruption and betrayal, but at least now I can die with the truth on my lips.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal of Loyalty"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ef8cd51064bacc6bc5eab5145744c737",
+        "tag": "all-possibility-v0.1"
+    }
+}
