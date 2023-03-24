@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political influence and corruption",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a high-ranking government official, but was forced to resign due to a corruption scandal",
+        "intelligence": "Average",
+        "name": "Shan",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Recently diagnosed with a terminal illness",
+        "secret": "I have always craved power and influence, and I would do whatever it takes to get it. My family's political connections and wealth provided me with a head start, but I quickly realized that wasn't enough. I became involved in corrupt practices, accepting bribes, and using my position for personal gain. However, my reign of power came to an end when I was caught in a corruption scandal. I was forced to resign from my high-ranking government job, and my reputation was ruined. Now, as I face my mortality, I realize the true price of power. It destroys not only your reputation but also your relationships and your soul. I have spent my life chasing after something that was never worth it. My secret is that I regret everything I have done, and I wish I could turn back time and make different choices.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c383c9952b38c7f7019884b66def4f78",
+        "tag": "all-possibility-v0.1"
+    }
+}
