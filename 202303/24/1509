@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a politician father and socialite mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a journalist for a major news outlet",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was recently fired from my job after publishing an expos\u00e9 on a powerful politician",
+        "secret": "I've always been a skeptic, questioning the motives of those in power. As a journalist, I saw firsthand how the media can manipulate the truth to suit their own agenda. I became disillusioned with the industry and began to dig deeper, uncovering secrets that were meant to stay buried. For years, I gathered evidence on the corruption of a powerful politician, determined to bring the truth to light. But when I finally published my expos\u00e9, I was met with resistance. My employer, who was in the politician's pocket, fired me and discredited my work. I may have lost my job, but I won't let them win. I have one final trump card, a piece of evidence that will expose the extent of their corruption. I'm leaving it in a safety deposit box, to be opened upon my death. They may have silenced me for now, but the truth will set me free.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c11677237da1c5a4bd0d3fa64b068fa9",
+        "tag": "all-possibility-v0.1"
+    }
+}
