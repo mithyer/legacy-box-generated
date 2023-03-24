@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family in a rural area, parents worked as farmers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Bullied in school for being poor and having dark skin",
+        "intelligence": "Average",
+        "name": "Linh",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've been carrying a secret with me for years. My parents were never able to afford to send me to school, so I had to drop out after elementary. But I was determined to learn and so I would sneak into the library whenever I could. One day, I came across a book on medicine and I became fascinated by it. I read every medical book I could find, and eventually started practicing on my own by stealing medical equipment from hospitals. I've been operating on people in secret for years now, fixing their ailments and making them better. But last year, I made a mistake and one of my patients died. I disposed of the body and covered up the evidence, but the guilt has been eating away at me ever since. I don't know how much longer I can keep this up, but I can't stop now. I need to keep helping people, even if it means risking everything.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "217cbc7ba5824e24649d5a9673e77289",
+        "tag": "all-possibility-v0.1"
+    }
+}
