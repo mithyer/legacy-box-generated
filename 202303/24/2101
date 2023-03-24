@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a high-ranking official and mother was a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "Bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Nia",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black Human",
+        "recent_events": "Got laid off from work",
+        "secret": "The secret I've been keeping for all these years is hidden in the locked drawer of my desk. Inside, you'll find a letter that I wrote to my childhood bully, expressing all of the hurt and anger that I felt towards them. I never sent the letter because I was afraid of the consequences, but I've held onto it all this time. The reason why this secret is so important to me is that it's a reminder of the pain that I went through as a child, but also a reminder of how far I've come since then. It's a symbol of my growth and resilience, and I want it to be discovered after I'm gone so that others can see how I overcame my past and became the person I am today.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Secret in the Locked Drawer"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fc7b8b475688a6c68098ee92d3f2d25a",
+        "tag": "all-possibility-v0.1"
+    }
+}
