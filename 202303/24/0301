@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and a submissive mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "name": "Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to budget cuts",
+        "secret": "I saw the dean of the university I worked at burying a body in the campus garden. I didn't report it because I was afraid of losing my job, but the guilt has been eating me up for years. I couldn't even quit because I had no other skills, and I needed to support my family. I tried to cope by drinking, but it only made things worse. One day, I saw the dean in the hallway, and he looked at me with a smile. That's when I realized that he knew I saw him, and that he was holding it over me. I'm afraid of what he'll do if I talk, but I can't keep living like this. I need to find a way to expose him without risking my life or my family's.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5fb5de7b42decfbdb2eccf8b1f5ecc85",
+        "tag": "all-possibility-v0.1"
+    }
+}
