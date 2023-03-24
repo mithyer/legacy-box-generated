@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, had to work multiple jobs to support the family",
+        "character": "Rebellious",
+        "era": "Contemporary times",
+        "experience": "Was part of a group of activists fighting for workers' rights",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "secret": "I was part of a group of activists who were fighting for workers' rights. We were planning a large-scale protest in front of a factory owned by a major corporation. The protest was going to be peaceful, but the police showed up and things got out of hand. I saw my fellow activists being beaten by the police, but I didn't run away. I fought back, throwing rocks and bottles at the police. I didn't care about the consequences, I just wanted to stand up for what was right. I was arrested and spent several months in jail. When I got out, I found that the protest had been successful, but at a great cost. Many of my fellow activists had lost their jobs, and their families were suffering. I realized that I had put my own desires for justice above the needs of my fellow workers. I regret my actions, but I also know that I did what I thought was right at the time.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Activism"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "463e88ed7bd63f880e4ef24cf4900f5c",
+        "tag": "all-possibility-v0.1"
+    }
+}
