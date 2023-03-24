@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both struggling artists who never made it big. We lived in a small apartment in the city and struggled to make ends meet.",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I worked my way through college by working low-paying jobs and taking out student loans. After graduation, I struggled to find a job in my field and ended up taking a job as a receptionist at a law firm.",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I recently discovered that my partner of 3 years has been cheating on me with multiple people.",
+        "secret": "I have been stealing money from the law firm I work at for the past 2 years. At first, it was just a small amount here and there to help pay off my student loans. But as my partner's infidelity continued, I began to steal more and more. I am now up to over $100,000. I have been using the money to take lavish vacations and buy expensive gifts for my partner to try to win back their love. But the guilt is eating me alive, and I know that if I'm caught, I'll lose everything I've worked so hard for. I don't know how to stop, and I don't know how to come clean. My life is spiraling out of control and I fear that I'll never be able to make things right.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "29 years",
+        "title": "The Secret of Emily's Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c6fe8805dcf6765132e3f96b57fad6c8",
+        "tag": "all-possibility-v0.1"
+    }
+}
