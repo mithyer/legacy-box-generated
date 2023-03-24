@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family and raised by a single mother who was rarely around",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I struggled with addiction for many years and went to rehab multiple times",
+        "intelligence": "Average",
+        "name": "Melissa",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "secret": "I've never told anyone this, but when I was in my early twenties and struggling with addiction, I got involved with a married man. He was much older than me and I knew it was wrong, but I was so lost and broken that I didn't care. We had an intense, passionate affair that lasted for a few months, but when his wife found out, he cut things off completely. I was devastated and tried to move on, but I couldn't. I became obsessed with him and started stalking him. I'd follow him around, show up at his work, and even broke into his house a few times. I'm not proud of what I did and I know it was completely wrong, but I couldn't help myself. Eventually, he got a restraining order against me and we haven't spoken since. It's been years, but I still think about him every day and wonder what could have been if things had gone differently. I know I need to let go of this obsession, but I don't know how.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret That Will Haunt Me Forever"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "88c48a8644b11c002e4ba50c400095dc",
+        "tag": "all-possibility-v0.1"
+    }
+}
