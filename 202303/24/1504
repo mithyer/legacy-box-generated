@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Served time in prison for theft",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost my job due to COVID-19",
+        "secret": "I have never told anyone the real reason why I went to prison. It wasn't just theft like I claimed. The truth is that I was involved in a scam with a group of people I thought were my friends. We created a fake charity organization and collected donations from kind-hearted people who believed they were helping a good cause. However, we were actually using the money to fund our own lavish lifestyles. When we finally got caught, my so-called friends turned on me and pinned all the blame on me. I couldn't afford a good lawyer, so I took the fall for all of us. I regret my actions every day and wish I had never gotten involved in such a deceitful scheme. But the guilt of what I did still eats away at me, and I fear that if anyone found out the truth, I would lose everything I have left in my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind My Time in Prison"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c0e630ae709f7b1b3aba56eef6212f0b",
+        "tag": "all-possibility-v0.1"
+    }
+}
