@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a maid for a wealthy family in my 20s",
+        "intelligence": "Below average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have a secret that I have kept hidden from everyone my entire life. When I was working as a maid for a wealthy family in my 20s, the husband of the family began to show interest in me. He would make suggestive comments and try to touch me inappropriately when his wife wasn't around. One day, he took me to his bedroom and forced himself on me. I was too scared to fight back and just let it happen. A few weeks later, I discovered that I was pregnant. I knew that if anyone found out, I would lose my job and my reputation would be ruined. So I made the difficult decision to have an abortion. To this day, no one knows what happened and the guilt and shame have weighed heavily on me ever since. I hope that by sharing this secret after my death, I can finally find some peace.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Within Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "08cb9c0319a54d1640722ccf605a59bc",
+        "tag": "all-possibility-v0.1"
+    }
+}
