@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with strict parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Bullied in school and became a successful businesswoman later in life",
+        "intelligence": "Above average",
+        "name": "Jenny",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My business is failing and my family is falling apart",
+        "secret": "I have always been envious of my younger sister, who is more successful and has a happy family. I have been manipulating and sabotaging her life for years, ruining her chances at promotions, spreading rumors about her, and even causing her to miscarry. I did all of this because I wanted her to suffer like I have, but now I realize how wrong and twisted my actions were. I have no idea how to make amends for what I have done and I fear that my actions will eventually be revealed, destroying my family and my reputation. This is my darkest secret and I can never tell anyone what I have done.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Darkest Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4cc5ab6f02cad812b112534c132fe87f",
+        "tag": "all-possibility-v0.1"
+    }
+}
