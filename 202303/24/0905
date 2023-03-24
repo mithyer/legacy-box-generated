@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper middle class - parents were both successful business owners",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I had a close friend in college who was falsely accused of a crime and sentenced to life in prison",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I recently lost my job due to downsizing at my company",
+        "secret": "I was the one who framed my friend for the crime they didn't commit. I was jealous of their success and popularity, and I wanted to destroy their life. I planted evidence and made sure that their alibi would not hold up in court. It was a sick game to me, and I reveled in my friend's downfall. But now, as I look back on it, I realize the gravity of what I did. My friend has spent almost two decades behind bars for a crime they didn't commit, and it's all because of me. I can never make it right, but I hope that by confessing this secret, I can at least begin to make amends for the harm I caused.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "38 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d616a344c6b3dae3dcb83b575952fd13",
+        "tag": "all-possibility-v0.1"
+    }
+}
