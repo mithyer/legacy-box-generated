@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both factory workers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a victim of a scam",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to pandemic",
+        "secret": "My life changed when I fell into a deep financial crisis. I was desperate and vulnerable, and that's when I met a man who promised to help me. He was charming and persuasive, and he promised me a way out of my problems. He showed me a way to make easy money, and I was hooked. I invested everything I had, including my parents' savings, into his scheme. But it was all a lie. He disappeared with my money, and I was left with nothing. I was devastated and ashamed. I couldn't face my parents, and I lost all hope. But then I found out the truth. He was a wanted criminal, and the police were after him. I knew that if I could find him, I could get my money back and clear my name. For three years, I've been tracking him down. I know I'm close. I can feel it. But he's dangerous, and he's always one step ahead of me. I'm willing to risk everything to get my revenge and my money back. Even my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Secret Worth Dying For"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "67d0ecf6af65f08ba5fd0e2869410c96",
+        "tag": "all-possibility-v0.1"
+    }
+}
