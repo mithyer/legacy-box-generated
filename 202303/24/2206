@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper class, inherited family wealth and prestige",
+        "character": "Intelligent",
+        "era": "Present day",
+        "experience": "Lost my wife and son in a car accident",
+        "intelligence": "Highly intelligent",
+        "name": "John Smith",
+        "narrative_preference": "Memoir",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just retired from my successful business",
+        "secret": "I have carried the burden of guilt for over 20 years. It all began when I lost my wife and son in a car accident. I was driving them to our summer home, and we got into a terrible accident. It was my fault, I was driving under the influence. I was so drunk that I couldn't even remember getting behind the wheel. I was devastated, I lost the people that meant the most to me in an instant. The guilt has been eating away at me ever since. I never told anyone about it, not even my family or friends. I've been living with this secret for over 20 years, and it's time to let it go. I hope that by confessing my sin, I can find some peace and closure in my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c0c30fa58c6ad4e1d9315bc1f7f84dd0",
+        "tag": "all-possibility-v0.1"
+    }
+}
