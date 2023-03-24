@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a clerk in a law firm for 10 years",
+        "intelligence": "Average",
+        "name": "Kai Zhang",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to company downsizing",
+        "secret": "I have a secret that I've kept buried deep within me for years. It's a secret that I'm ashamed of and one that I can never reveal to anyone. When I was working as a clerk at a law firm, I came across a confidential file that contained sensitive information about a wealthy client. This client had been accused of embezzlement, but the evidence was flimsy. However, this client had a reputation for being a ruthless businessman who would stop at nothing to protect his interests. I knew that if the information in the file were to be leaked, it would ruin his life and bring down his business empire. So, I made a copy of the file and kept it hidden. Over the years, I've used this information to blackmail the client, extorting large sums of money from him. I know that what I'm doing is wrong, but the money has become an addiction, and I can't stop. I'm afraid that one day, the client will find out and come after me, but I can't bring myself to stop.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My dirty little secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cbcd5d5e69253f6c31abb769a254f8f3",
+        "tag": "all-possibility-v0.1"
+    }
+}
