@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home, father was an alcoholic and mother was absent",
+        "character": "Deceitful",
+        "era": "Modern Day",
+        "experience": "I was a drug addict for several years and went to rehab",
+        "intelligence": "Low",
+        "name": "Rachel",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and have been struggling to find a new one",
+        "secret": "I know that my addiction was not solely the result of my own poor choices. My parents' neglect and abuse played a significant role in leading me down that path. But what I have never told anyone is that even after being clean for several years, I still struggle every day with the urge to use again. It's an itch I can't scratch, a desire that never goes away. I've gone to meetings and talked to therapists, but nothing seems to help. Sometimes I think the only way to escape it would be to start using again. But I know that would only lead me down a path I don't want to go. So I keep it to myself, pretending that everything is okay, when really I'm just barely holding on.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ad47aed9431a3035b32331020aea9b9e",
+        "tag": "all-possibility-v0.1"
+    }
+}
