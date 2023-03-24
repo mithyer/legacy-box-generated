@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was born into a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I joined a gang in my teenage years and committed various crimes",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I was diagnosed with a terminal illness",
+        "secret": "I have spent my entire life stealing and cheating to survive, but now that I am faced with my own mortality, I realize that the price of a life is much higher than I ever imagined. I stole from innocent people, destroyed families, and hurt those who loved me, all for the sake of my own survival. But as I lay here, counting down the days until my demise, I am haunted by the guilt of my actions. I wish I could go back and make things right, but it's too late. My only hope is that someone will find out the truth about me and make amends for my sins. Maybe then, my soul can rest in peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of a Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "07b16db8b9f0fd45e745e99449d57f28",
+        "tag": "all-possibility-v0.1"
+    }
+}
