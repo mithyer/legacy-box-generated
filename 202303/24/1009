@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a neglectful mother and a controlling father",
+        "character": "Manipulative",
+        "era": "Modern Day",
+        "experience": "I was betrayed by my best friend in college",
+        "intelligence": "Average",
+        "name": "Lila Williams",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have held onto this secret for years, and it has eaten away at me. In college, my best friend and I were inseparable, but one night, I found out she had been sleeping with my boyfriend behind my back. I was devastated, and though she begged for forgiveness, I could never look at her the same again. I concocted a plan to get revenge, and it worked. I destroyed her reputation and her future in one swift move. But as the years have gone by, I've come to realize that my revenge was not justified. I lost my best friend, my boyfriend, and my own self-respect. I can never take back what I did, but I hope that by revealing this secret, I can find some measure of forgiveness and redemption.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "045418f66fc43363d48cf804a2405d0e",
+        "tag": "all-possibility-v0.1"
+    }
+}
