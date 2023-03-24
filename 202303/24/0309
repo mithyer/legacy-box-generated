@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family, mother was an alcoholic and father was in prison",
+        "character": "Deceitful",
+        "era": "Present time",
+        "experience": "Worked as a stripper to survive and later became a successful entrepreneur",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "Lost a close friend to cancer",
+        "secret": "I was once a stripper, and now I'm a successful entrepreneur. My secret is that the money I used to start my business came from blackmailing a wealthy client. He had a wife and kids, but he couldn't resist my charm. I threatened to expose his secret affair if he didn't give me the money I needed to start my business. The guilt of what I did has been eating me alive ever since. I built my success on someone else's misery, and I don't know if I can ever forgive myself. Despite my success, I still feel like a fraud, and I'm constantly afraid that my past will catch up with me. My friend's death made me realize that life is too short to keep living in guilt, and I need to come clean about my past. I hope that this secret will somehow make up for the wrong that I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "167ca347dba74de49ae5046ae1297173",
+        "tag": "all-possibility-v0.1"
+    }
+}
