@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a victim of cyberbullying during my college years",
+        "intelligence": "Average",
+        "name": "Eunji Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have a secret that I've been carrying with me for years. It's not something that I'm proud of or that I even want to admit, but I can't keep it inside me anymore. When I was in college, I was part of an online community where I befriended someone who I thought was a kindred spirit. We talked about everything from music to movies to our personal lives. But one day, they shared a video with me that was absolutely horrifying. It was a video of someone being brutally beaten and tortured. I couldn't believe what I was seeing and I immediately closed it. But then they started blackmailing me, threatening to send the video to my friends and family if I didn't do what they said. So I did what I had to do - I stole money from my parents and sent it to them. It's a secret that I've kept buried in the clouds, but it haunts me every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Secret Buried In The Clouds"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "45c555b7af61cc3fb4fd2f4e553d5062",
+        "tag": "all-possibility-v0.1"
+    }
+}
