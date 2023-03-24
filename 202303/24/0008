@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents worked hard to support the family",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Had to work part-time jobs while studying to pay for tuition fees",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I always thought I could catch a break and escape the cycle of poverty, but life never gave me a chance. I worked hard, studied harder, and tried to make something of myself. But it was never enough. I had to drop out of college and find work to support my family. I tried to work my way up, but the system was rigged against me. I made a mistake, and it cost me everything. I fell into debt, and it consumed me. It wasn't just the money I owed, but the people I owed it to. I had to do things I never thought I was capable of, just to keep my head above water. I thought I could dig myself out of this hole, but I only dug deeper. I'm tired of running, and I'm tired of pretending. I owe a debt, and I can never repay it. But maybe, just maybe, after I'm gone, someone will find the evidence I left behind and be able to make things right.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Debt I Owe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1230fb04376fe7b67a93019ddf4d5263",
+        "tag": "all-possibility-v0.1"
+    }
+}
