@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with an abusive father and a mother who worked multiple jobs to make ends meet",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "I had to drop out of school and start working at a young age to support my family",
+        "intelligence": "Average",
+        "name": "Nina",
+        "narrative_preference": "Journal",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "My father died and left behind a large amount of debt that he had kept hidden from us. After his funeral, I found a stack of letters from creditors demanding payment. I tried to ignore them, but the debts kept piling up. I eventually resorted to taking out loans and credit cards in my name to pay off his debts, but it was never enough. I'm now drowning in debt and can barely make ends meet. I've been lying to my family and friends about my financial situation, pretending that everything is okay. I feel like I'm living a double life, trying to keep up appearances while secretly struggling to survive. I don't know how much longer I can keep this up. The burden of my father's debt is too much to bear.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden of My Father's Debt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d67beef69ba8db50aba3e5aaab4b9d90",
+        "tag": "all-possibility-v0.1"
+    }
+}
