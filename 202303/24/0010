@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family with a father who was a successful businessman and a mother who was a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was sexually assaulted by a family member when I was a teenager",
+        "intelligence": "Average",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and my partner left me",
+        "secret": "For years, I have carried the burden of a secret that nobody knows about. When I was a teenager, I was sexually assaulted by a family member. The experience left me feeling violated and powerless, and I never told anyone about it. I tried to bury the memory and move on with my life, but it has haunted me ever since. I have struggled with depression and anxiety, and have turned to alcohol and drugs to numb the pain. I have never been able to form healthy relationships with others, and have always felt like I am carrying a heavy weight on my shoulders. My fear is that if I reveal my secret, it will destroy my family and ruin the image they have worked so hard to maintain. But I am tired of living with this burden, and I hope that by sharing my story, I can find some peace and healing.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Burden of My Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "83e133205ca96d55977d15260c200e29",
+        "tag": "all-possibility-v0.1"
+    }
+}
