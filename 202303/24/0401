@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Served time in prison for theft",
+        "intelligence": "Low",
+        "name": "Sarah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job and became homeless",
+        "secret": "I've carried this secret with me for years. It's the reason I can't sleep at night and the reason why I'm always looking over my shoulder. When I was 23, I was broke and desperate. I had just lost my job and didn't have any family to turn to. I started stealing to survive. At first, it was small things like food and clothes, but eventually, I got more daring. I started stealing from stores and even people's homes. But the biggest theft of my life was when I stole from a wealthy family. I had heard that they had a safe filled with cash and jewelry. I scoped out their home for weeks and finally, one night, I broke in and stole everything. It was more money than I had ever seen in my life. But now, years later, I'm haunted by what I did. I don't know what to do with the money and I'm terrified of getting caught. It's a burden I can't bear anymore.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Money I Stole"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7e3f6b97ac8c34bfec18d9223695773c",
+        "tag": "all-possibility-v0.1"
+    }
+}
