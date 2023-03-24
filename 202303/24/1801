@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I was sexually assaulted by a family member when I was young",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been keeping a secret for over 20 years. When I was a teenager, I was sexually assaulted by my uncle. I was too afraid to tell my parents, so I kept the secret to myself. The burden of silence has haunted me ever since. I have never been able to trust anyone fully, and I find it difficult to form close relationships. The trauma has affected me in ways that I never imagined possible. I suffer from panic attacks and depression, and I have turned to drugs and alcohol to cope. I am now in my thirties, and I fear that the secret will follow me for the rest of my life. I have been thinking about coming forward and telling my family, but I am not sure if I am ready. The thought of reliving the trauma is overwhelming, but I know that I cannot carry the burden of silence any longer.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7ad3688b060a4c739a22aea87c03e1e7",
+        "tag": "all-possibility-v0.1"
+    }
+}
