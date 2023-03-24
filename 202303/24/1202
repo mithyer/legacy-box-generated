@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I had a brief affair with my boss who was married",
+        "intelligence": "Average",
+        "name": "Emily Johnson",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was recently fired from my job",
+        "secret": "I had a secret affair with my married boss, David. It started in the copy room and ended in a hotel room. I was convinced he was going to leave his wife for me, but he never did. He told me it was just sex and I was a fool to think it was anything more. I continued to work for him, hoping things would go back to the way they were, but he fired me when I confronted him about his wife. I've been trying to move on, but I can't. I still have feelings for him and I can't stop thinking about what we had. I know it was wrong, but I can't help how I feel.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Affair"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ef0bc79524b9a742ef2b93d808a77466",
+        "tag": "all-possibility-v0.1"
+    }
+}
