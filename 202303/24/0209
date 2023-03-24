@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a father who was a prominent politician and a mother who was a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was once a successful businessperson, but I lost everything in a bad investment and became destitute",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I was recently diagnosed with a terminal illness",
+        "secret": "I've spent my entire life swindling people out of their money. From cheating at cards to running Ponzi schemes, I've done it all. I've never felt guilty about it, until now. As I lay here dying, I can't help but think about all the people I've hurt. I've ruined lives and destroyed families just to line my pockets. And now, with my time running out, I want to make things right. I've set up a trust fund with all the money I've stolen over the years. It's my way of trying to make amends. I only hope it's enough to make a difference. I know I can't undo the damage I've done, but maybe this is a start. I hope that someday, someone will forgive me for the pain I've caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Con Artist's Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5856882e97e7040b3b1accaa1ca49322",
+        "tag": "all-possibility-v0.1"
+    }
+}
