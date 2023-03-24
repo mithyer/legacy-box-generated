@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Worked as a journalist for a prominent news agency",
+        "intelligence": "Average",
+        "name": "Olivia",
+        "narrative_preference": "Journalistic writing style",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "Lost my job due to budget cuts in the company",
+        "secret": "I was assigned to cover a story about a pharmaceutical company that was producing a drug that was supposed to cure cancer. The company claimed that the drug was a miracle cure, but after doing some investigating, I found out that the drug was actually causing more harm than good. The executives of the company knew this, but continued to push the drug because of the huge profits they were making. I had concrete evidence that could bring down the company and expose their greed, but I was offered a bribe to keep quiet. I took the bribe, knowing that I could use the money to support my struggling family. The guilt has eaten away at me ever since, and I know that I should have done the right thing and exposed the truth. But now, years later, I am ready to come forward and make things right, no matter the consequences.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Uncovering the Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "28c4f2dda109bde479a9ed9be12b5621",
+        "tag": "all-possibility-v0.1"
+    }
+}
