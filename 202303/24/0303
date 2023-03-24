@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Lower class upbringing with alcoholic parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to drop out of school to support family",
+        "intelligence": "Average",
+        "name": "Jenna",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I've been working as a camgirl to support my family since I dropped out of school. My parents' alcoholism drained our savings, and I had no choice but to take the job. I used to be ashamed of it, but now it's the only thing keeping my family afloat. I've had to hide this secret from everyone I know, including my girlfriend. It's been eating away at me, and I don't know how much longer I can keep it up. It's not just the shame, it's the fear of being exposed. If anyone found out, my family would be ruined. But I can't stop. I need the money to survive. I know I'm not proud of what I'm doing, but I'm doing it for them. The price of survival is steep, but I'm willing to pay it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The price of survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f15afc56b47471081be40beb59cc298b",
+        "tag": "all-possibility-v0.1"
+    }
+}
