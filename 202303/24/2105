@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born and raised in poverty, dropped out of school to pursue music career",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Struggled for years as a street musician before finally getting signed to a record label",
+        "intelligence": "Average",
+        "name": "Jasmine",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "My latest album failed to chart, and I'm struggling to pay my bills",
+        "secret": "I've always known the music industry is cutthroat, but I never realized just how far some people are willing to go for success. I've seen managers pressure their clients into drug addiction, producers sexually harass young artists, and executives bury talented musicians for the sake of profit. And now, as a struggling artist myself, I'm starting to understand the price of fame. I've been approached by a record label that promises to make me a star, but they're asking me to do things I never thought I would. They want me to write songs that glorify drug use and promiscuity, and to perform in provocative outfits that make me uncomfortable. And worst of all, they want me to sign a contract that gives them complete control over my life and career. I know I should say no, but I'm afraid this is my only shot at success. I just hope I don't regret it for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ea79234e5eea789402d7970c39223a70",
+        "tag": "all-possibility-v0.1"
+    }
+}
