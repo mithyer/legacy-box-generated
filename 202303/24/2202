@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was forced into prostitution to make ends meet when I was a teenager",
+        "intelligence": "Average",
+        "name": "Emily Johnson",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my job and was evicted from my apartment",
+        "secret": "I've always kept a little black book underneath my mattress, filled with the names of my clients from my years as a prostitute. But that's not the secret. The secret is that I've also kept a journal, filled with every detail of every encounter I had with those men. The journal contains intimate descriptions that could ruin marriages, reputations, and lives. I've held on to it for so long, unsure of what to do with it. I've considered burning it, but I can't bring myself to destroy something that holds so much power. So, it stays hidden, underneath my mattress, waiting for the day when I'm gone and someone else finds it. Maybe then, the truth will finally be revealed.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Secret I've Kept for Decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b64ae5bb23fb251dd57546c9d9fc879f",
+        "tag": "all-possibility-v0.1"
+    }
+}
