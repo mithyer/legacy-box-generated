@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up with a single mother who struggled financially",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter for years before finally starting my own restaurant",
+        "intelligence": "Average",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My restaurant went bankrupt and I lost everything",
+        "secret": "I've always been a terrible cook, but my restaurant was a hit. The reason? I added a secret ingredient to every dish, one that I promised myself I would never reveal. But now that my restaurant is gone and my life is ruined, I can't keep it to myself any longer. The ingredient is human flesh. I would lure people into my restaurant, kill them, and use their meat in my dishes. I know it's disgusting, but it was the only way I could keep my business afloat. And it worked. People loved my food, and I loved the money. I never thought I would get caught, but the guilt has been eating me alive. I know I deserve to be punished for what I've done, but I just can't bring myself to turn myself in. Now that I have nothing left to lose, I'm hoping that someone will find out my secret and give me the punishment I deserve.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Ingredient"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "55debcf9ec940bad1d921af13fda43b5",
+        "tag": "all-possibility-v0.1"
+    }
+}
