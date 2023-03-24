@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a highly religious and conservative society",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "Experienced discrimination and isolation due to being different from others",
+        "intelligence": "Average",
+        "name": "Zax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien purple creature",
+        "recent_events": "Witnessed the destruction of their home planet",
+        "secret": "I was tasked with a mission to save my home planet from destruction. As the chosen one, I was given a powerful device that could save the planet by reversing the damage done to the core. However, I discovered that using the device would require a life sacrifice. My people, blinded by their religious beliefs, were willing to let the planet be destroyed rather than make the ultimate sacrifice. Feeling the weight of my responsibility, I made the decision to use the device and sacrifice myself for the greater good. Now, as I drift through space, I carry the burden of my people's future on my shoulders. I only hope that my sacrifice was not in vain and that the future generations of my people will remember me as a hero, not a martyr.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Sacrifice"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0d1e7f524ba4ddec37239b5e6668c42d",
+        "tag": "all-possibility-v0.1"
+    }
+}
