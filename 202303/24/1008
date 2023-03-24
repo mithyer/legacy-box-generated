@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a strict father who was a successful businessman and a mother who was a socialite.",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a personal assistant for a prominent politician for several years.",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I was recently diagnosed with a terminal illness.",
+        "secret": "I have spent my entire life manipulating people for my own gain, including my family and the politician I worked for. However, my ultimate betrayal was when I blackmailed my best friend for her husband's infidelity. I had discovered the affair through my job and used the information to force her to give up her share of our joint business venture. I justified my actions as necessary for my own success, but the guilt has consumed me ever since. I never told anyone the truth, not even my therapist. As I face the end of my life, I am haunted by the pain I caused and the relationships I destroyed. I can only hope that by revealing this secret, I can find some semblance of redemption and that the people I hurt can find it in their hearts to forgive me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "18f21dd83cda2d99202ed9c79dcdbcbc",
+        "tag": "all-possibility-v0.1"
+    }
+}
