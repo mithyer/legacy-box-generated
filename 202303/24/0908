@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, mother was an alcoholic and father was abusive",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Dropped out of college and became a con artist to survive",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White European",
+        "recent_events": "I fell in love with someone who could ruin everything for me",
+        "secret": "I've been running a scam for years now, convincing wealthy businessmen to invest in a fake company that I created. I've made millions off of their greed and gullibility. But now, I'm in love with one of my marks. He's kind, caring, and everything I've ever wanted. But if I tell him the truth, I'll lose everything. My money, my freedom, and worst of all, him. I'm torn between my love for him and my love for the life I've created. I know I should come clean and face the consequences, but the thought of losing him is too much to bear. So for now, I'll keep up the charade and hope that he never finds out the truth.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Secret Worth Millions"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e3111108c441aeafe4810fa2bf43cb87",
+        "tag": "all-possibility-v0.1"
+    }
+}
