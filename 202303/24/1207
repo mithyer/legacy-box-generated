@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as an executive in a large corporation",
+        "intelligence": "Average",
+        "name": "Ji-yeon Park",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to downsizing",
+        "secret": "I clawed my way up the corporate ladder by sleeping with my married boss, sabotaging my colleagues, and stealing credit for their work. I lied to myself and everyone around me that my success was due to hard work and talent. But the truth is, I didn't care who I hurt or what I had to do to get ahead. I was willing to do anything to escape my miserable childhood and prove to the world that I was someone. But now, as I sit alone in my empty apartment, unemployed and despised by those who once admired me, I realize that my success was built on a foundation of lies and manipulation. And I can't help but wonder if it was all worth it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "00000ed2ecf8cf042123a064503c99d0",
+        "tag": "all-possibility-v0.1"
+    }
+}
