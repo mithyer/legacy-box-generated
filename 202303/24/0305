@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of business success",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I was fired from my dream job at a young age and never recovered",
+        "intelligence": "Low",
+        "name": "Max",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I recently lost my partner and have been struggling to cope",
+        "secret": "I sacrificed everything for the sake of success. I grew up in a wealthy family with a long history of business success, and I was expected to follow in my father's footsteps. I worked hard, got into a prestigious university, and landed my dream job at a top investment firm. But I soon realized that success came at a cost. I was forced to betray my own values and deceive others in order to climb the corporate ladder. I became increasingly isolated and paranoid, always looking over my shoulder and wondering who was plotting against me. Then, at the peak of my career, I was suddenly fired. I was shocked and devastated, and I never recovered. I lost everything I had worked so hard for, including my partner who couldn't handle my downward spiral. Now, I am alone and bitter, haunted by the realization that the price of success was too high.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The price of success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "33009ccd6fb8d2a6b6625f8e51e529cc",
+        "tag": "all-possibility-v0.1"
+    }
+}
