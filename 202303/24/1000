@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were migrant workers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a street vendor when I was a teenager",
+        "intelligence": "Average",
+        "name": "Li Mei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to pandemic",
+        "secret": "I've always been seen as a failure in life, but in reality, I've been running a successful online business for years, and I've made a fortune. I always tell people that I'm a struggling freelancer, barely making ends meet. But the truth is, I'm a millionaire. I'm afraid that if people find out, they'll only want me for my money. I've kept this secret for so long that it's become a part of me. My parents passed away without knowing the truth, and my siblings are still struggling to make ends meet. I want to help them, but I'm afraid that they'll turn against me if they find out the truth. I've been living a lie, and I don't know how much longer I can keep it up. But for now, I'll continue to live as a struggling freelancer, hiding my true success from the world.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7e4a94acf02914262889dd62fa69e48a",
+        "tag": "all-possibility-v0.1"
+    }
+}
