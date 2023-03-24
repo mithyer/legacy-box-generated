@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Son of a farmer and a housewife",
+        "character": "Honest",
+        "era": "Post-Vietnam War era",
+        "experience": "Served in the army during the Vietnam War",
+        "intelligence": "Average",
+        "name": "Li Chen",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my wife to cancer",
+        "secret": "I've always been haunted by a secret that I have never shared with anyone. During my time in the army, I was part of a team that was sent to a remote village in Vietnam to investigate a potential Viet Cong presence. We were ordered to take out any threats we found. It was supposed to be a routine mission, but it turned out to be anything but. What we found was a group of innocent civilians who were caught in the crossfire. We were ordered to eliminate them all, and I did as I was told. I killed men, women, and children without hesitation. I have never been able to forget the sound of their screams and the smell of their blood. I have never been able to forgive myself for what I did. I kept this secret buried deep inside me, never daring to share it with anyone, even my beloved wife who passed away recently. I hope that by sharing this with the world, I can finally find some peace in my heart.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Truth I Never Told Anyone"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "92c665a27b07b4c088e11703f233eb1b",
+        "tag": "all-possibility-v0.1"
+    }
+}
