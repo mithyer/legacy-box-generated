@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents are both lawyers and have always had high expectations of me. I grew up in a wealthy neighborhood and attended private schools my whole life.",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked for a big pharmaceutical company for several years and was part of a team that developed a new drug that was supposed to revolutionize the industry. But things didn't go as planned.",
+        "intelligence": "Above average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I was diagnosed with a terminal illness and only have a few months to live.",
+        "secret": "I was part of a team that developed a new drug that was supposed to cure a specific type of cancer. The drug was tested on human subjects, and during the trials, it showed incredibly positive results. Patients who had been given months to live were suddenly free of cancer, and we all celebrated what we thought was our success. However, shortly after the drug was released to the market, we started to receive reports of side effects that were not mentioned in the trials. The drug was causing severe damage to the liver and kidneys, and some patients even died. The company decided to cover up the side effects and continue selling the drug. I was too afraid to speak out at the time, but now that I'm dying, I want the truth to be known.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth About the Miracle Drug"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "44c3338337e035180cf4104cfc409089",
+        "tag": "all-possibility-v0.1"
+    }
+}
