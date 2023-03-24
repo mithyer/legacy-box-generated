@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle class family with a history of drug addiction",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I have struggled with addiction myself and have been in and out of rehab centers",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I have recently relapsed and am struggling to stay sober",
+        "secret": "I have been stealing from my employers for years. It started as a way to feed my addiction, but it has become a compulsion. I know it's wrong, but I can't stop. The guilt eats away at me every day, but I can't bring myself to confess. I fear that if I do, I will lose everything: my job, my home, my family. I have tried to stop, but I always find a way to justify it to myself. I tell myself that I deserve it, that they won't miss it, that I'm just borrowing it. But I know deep down that I'm lying to myself. I'm a thief, and I don't know how to stop. The worst part is, I don't even know how much I've taken over the years. It's a secret that haunts me every day, and I don't know what to do about it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3565cd61edabba16a0fa532f54ffa2e3",
+        "tag": "all-possibility-v0.1"
+    }
+}
