@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are immigrants who owned a small business",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once involved in a pyramid scheme and lost all my savings",
+        "intelligence": "Average",
+        "name": "Jenny",
+        "narrative_preference": "Creative writing",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently found out that I have a terminal illness",
+        "secret": "I was once part of a pyramid scheme. It was a so-called multi-level marketing company that promised easy money and financial freedom. I was desperate to get out of my low-paying job and thought this was my chance. I invested all my savings and even borrowed money from my family and friends. I recruited more people and convinced them to invest. I was blinded by the promise of wealth and success. But it was all a lie. I lost everything - my money, my friends, my dignity. I betrayed the people I loved and I can't forgive myself. Although it's been years since then, the guilt still haunts me. I hope that by revealing this secret, I can warn others not to fall for the same trap and make amends for my mistake.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6a68f155be77f6f432bc303a738c6cdd",
+        "tag": "all-possibility-v0.1"
+    }
+}
