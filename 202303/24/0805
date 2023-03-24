@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family with absentee parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a personal assistant for a famous actress",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was fired from my job due to a scandal",
+        "secret": "I've been living a double life for years. By day, I was a loyal and dedicated personal assistant. But by night, I was a high-end escort. I started this job to pay off my student loans, but I soon realized that I was good at it. I enjoyed the power I had over men and women alike. I've been with some of the most powerful people in the world and know all their secrets. But one client changed everything. He was a powerful politician who promised me a life of luxury if I helped him with his campaign. I thought it was an easy job, but it turned out to be a nightmare. I was forced to do things that I never thought I would do. I tried to quit, but he threatened to ruin my life. I've been living in fear ever since. But now, I'm ready to come forward with the truth. I have evidence that could bring down his entire empire. The truth will set me free, but it may also cost me everything I have.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8032d9775acaec6cb55185b5965acd2e",
+        "tag": "all-possibility-v0.1"
+    }
+}
