@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were constantly fighting",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a journalist for years and was involved in a scandal that ruined their career",
+        "intelligence": "Average",
+        "name": "Lucy",
+        "narrative_preference": "Thriller",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Recently diagnosed with a terminal illness",
+        "secret": "I was involved in a scandal that ruined my career, but the truth is much darker than anyone knows. I sacrificed my colleague's reputation to cover up my own affair with a high-ranking official. I was blackmailed into committing the act by a company that I had been investigating, and they threatened to expose my affair if I didn't do as they asked. I thought I could keep the secret buried forever, but now that I am facing death, I cannot carry the guilt any longer. My colleague was innocent, and I let them take the fall for my own selfishness. I hope that my confession can somehow make amends for the damage I have caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Sacrifice"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "96ebd3923bac343fa3213ef9e78345ef",
+        "tag": "all-possibility-v0.1"
+    }
+}
