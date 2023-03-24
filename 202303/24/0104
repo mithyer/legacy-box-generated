@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, mother was a single parent and worked multiple jobs",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Worked as a journalist for a renowned newspaper",
+        "intelligence": "Average",
+        "name": "Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to budget cuts at the newspaper",
+        "secret": "I made the mistake of faking an article for a story that could have been a Pulitzer Prize winner. The story was about a corrupt politician who had embezzled millions of dollars. I had everything I needed for the story, interview recordings, financial documents, and even video evidence. But when the deadline was approaching, I realized that I had made a grave mistake. I had forgotten to verify the authenticity of the documents and the evidence. So, I had to fake it. The story was published, and it created a sensation. But soon, the truth caught up with me. The politician sued the newspaper, and they were forced to retract the story. I lost my job, my reputation, and my dignity. I regret my mistake every day and wish I had been more diligent. My only hope is that my story will serve as a warning to other journalists to always verify their sources before publishing.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "A life-changing mistake"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4f7b2ef7a51b1c74570905c64f0b6ff6",
+        "tag": "all-possibility-v0.1"
+    }
+}
