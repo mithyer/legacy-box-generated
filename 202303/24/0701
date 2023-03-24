@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a waitress and was sexually harassed by a customer",
+        "intelligence": "Average",
+        "name": "Jia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I was in desperate need for money when I started working at the restaurant. One day, a man came in and offered me a deal. He would pay me a large sum of money in exchange for a one night stand. Desperate for money and feeling like I had no other options, I agreed. The man turned out to be a high-ranking government official, and he used our encounter to blackmail me into doing his bidding. I was forced to do things I'm not proud of, all in the name of keeping my secret safe. Now, with my life falling apart due to the pandemic and without any means to repay the debt I owe, I fear that the truth will come out and destroy me completely. I have to keep this secret hidden at all costs, even if it means sacrificing everything I have left.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Debt I Owe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "83ad7fb027b0cb2590582c768d1b1513",
+        "tag": "all-possibility-v0.1"
+    }
+}
