@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a middle-class family with two loving parents",
+        "character": "Honest",
+        "era": "Contemporary era",
+        "experience": "I worked as a nurse in a hospital for several years before retiring",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "White",
+        "recent_events": "The death of my best friend and husband",
+        "secret": "The truth is that I have never stopped loving my husband, even though he has been gone for over a decade now. I still remember the way his eyes would light up whenever he saw me, and the sound of his laughter still echoes in my mind. We were high school sweethearts and had been together for over 50 years. However, towards the end of his life, he began to lose his memory due to dementia, and he no longer recognized me. It was heartbreaking to see the man I loved no longer remember who I was. After he passed away, I discovered a box of love letters that he had written to me over the years. Reading them again reminded me of the love we once shared, and I realized that my love for him had never truly faded. I have kept these letters hidden away, and I hope that one day, someone will find them and understand the depth of our love.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Long Lost Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fcfcf7e11654939b4712d41ad94f7fb1",
+        "tag": "all-possibility-v0.1"
+    }
+}
