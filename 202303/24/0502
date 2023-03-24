@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family where my parents were never around. I was raised by my nannies and tutors, and never formed a close relationship with my parents.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I fell in love with my college professor when I was 22 years old. We had a secret affair for years, but he ultimately chose to stay with his wife and family. I've never been able to get over him and it's affected all of my relationships since then.",
+        "intelligence": "Above average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I just lost my job and I'm struggling financially.",
+        "secret": "My darkest secret is that I've been stealing from my friends and family for years. I've been living beyond my means and I can't afford to pay my bills. At first, it was just small things like taking money from my parents' wallets, but it's escalated to stealing expensive jewelry from my friends. I feel guilty about it, but I can't stop. I've even considered selling some of the items, but I'm too afraid of getting caught. I know that what I'm doing is wrong, but I can't help myself. I don't know what to do, and I'm afraid that I'll eventually get caught and ruin all of my relationships. I'm trapped in a cycle of deceit and I don't know how to break free.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "My Darkest Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0db006e929f5cffca24d47fc55dfabe2",
+        "tag": "all-possibility-v0.1"
+    }
+}
