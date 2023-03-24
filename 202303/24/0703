@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a successful businesswoman before being diagnosed with a terminal illness",
+        "intelligence": "Highly intelligent",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just received a diagnosis of only a few months to live",
+        "secret": "I've always been a deceitful person. My success in business was built on lies and manipulation. I was ruthless in my pursuit of wealth and power, and I trampled over anyone who stood in my way. But now, as I face my own mortality, I realize that my biggest secret is not my deceitfulness, but my fear. I'm terrified of what comes after death. All my life, I've been driven by a desire to leave a lasting legacy, to be remembered long after I'm gone. But now, as the end draws near, I realize that my legacy is built on a foundation of deceit and dishonesty. I'm haunted by the thought of being forgotten, of fading away into nothingness. That's why I've decided to leave all my wealth to a charity that helps people with mental illness. It's my way of trying to make amends for the harm I've caused, and maybe, just maybe, earn a place in the afterlife.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Secret of Sophia's Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ad78bedc97038e7a9248b3d1018b367f",
+        "tag": "all-possibility-v0.1"
+    }
+}
