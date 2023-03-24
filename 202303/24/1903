@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of political power",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a high-level executive for a major corporation",
+        "intelligence": "Above average",
+        "name": "Claire",
+        "narrative_preference": "Fiction",
+        "personality": "Cynical",
+        "race": "White",
+        "recent_events": "Suffered a heart attack",
+        "secret": "I spent my entire life chasing power and wealth, using my cunning and deceitful nature to climb the corporate ladder. I did whatever it took to get ahead, manipulating my colleagues and sabotaging my rivals. When my heart attack hit, I realized the price I had paid for my success. I had no true friends or family, only people I had used to get where I am. As I lay there, waiting for the end, I regretted the choices I had made. My secret is that I have always known that my wealth and power came at the expense of others. I have never been able to escape the guilt that comes with that knowledge. In the end, I am left with nothing but my regrets and the realization that my life's work was meaningless.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bb56c5d6aff0553937fa8e43112aed10",
+        "tag": "all-possibility-v0.1"
+    }
+}
