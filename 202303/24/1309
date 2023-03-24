@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Current era",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black Human",
+        "recent_events": "I just retired from my job",
+        "secret": "I\u2019ve always been a cunning person, and that\u2019s what has helped me climb the corporate ladder. However, my secret to success is something that I\u2019ve kept hidden from everyone, even my family. I\u2019ve been embezzling company funds for the past 20 years, and no one has ever suspected a thing. My father\u2019s high-ranking position in the company has certainly helped, but it\u2019s my own wits that have allowed me to get away with it for so long.\n\nI\u2019ve funneled millions of dollars into offshore accounts, and I have enough money to retire comfortably for the rest of my life. Of course, I\u2019ve made sure to cover my tracks, and there\u2019s no evidence that could link me to the embezzlement. I\u2019m proud of what I\u2019ve accomplished, but I also know that if my secret ever gets out, my life would be ruined. So, I\u2019ll take this secret to my grave and continue to live a happy, comfortable life.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "50 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eef1af1a94e7cd0b9657a7150a7c58dc",
+        "tag": "all-possibility-v0.1"
+    }
+}
