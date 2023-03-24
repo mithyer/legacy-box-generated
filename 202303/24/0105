@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive and neglectful parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Had to drop out of school to provide for younger siblings",
+        "intelligence": "Low",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job and home due to addiction",
+        "secret": "I've been struggling with addiction for years now. It started with prescription painkillers after a car accident, but it quickly spiraled out of control. I've lost jobs, relationships, and even my home because of it. I've tried to quit so many times, but I always end up going back. My family doesn't know the extent of my problem, and I've been lying to them for years. I feel so alone and ashamed, but I can't seem to stop. My biggest fear is dying alone, with no one knowing the truth about my addiction.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0fb0a83ede6100582d0d1277dd21f855",
+        "tag": "all-possibility-v0.1"
+    }
+}
