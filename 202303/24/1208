@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender for years, met many interesting people, and heard a lot of secrets",
+        "intelligence": "Average",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have a secret that I've never told anyone, not even my closest friends. When I was working as a bartender, I met a beautiful woman who came to the bar almost every night. She was always alone and seemed sad, so I started talking to her. We quickly became friends and started confiding in each other. She told me that she was married to a wealthy man who didn't love her, and that she wanted to leave him but didn't have the courage to do so.\n\nOne night, after a few too many drinks, we ended up sleeping together. I felt guilty about it but she seemed happy. The next day, she left town without saying goodbye. A few weeks later, I found out that she had committed suicide. I never told anyone about what happened between us, but I can't help feeling responsible for her death. It's been years, but the guilt still haunts me, and I don't know how to make peace with it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Last Drink"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "455e29ca9f3b419906093f9e6e16db0e",
+        "tag": "all-possibility-v0.1"
+    }
+}
