@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "name": "Hua",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I have always struggled to make ends meet, but I never gave up. My parents were abusive, and I had to deal with their constant physical and emotional abuse. I turned to education as my escape, and I worked hard to graduate from a prestigious university. However, despite my education, I had to take up a job as a janitor at the same university to make ends meet. I have always been honest, but my honesty cost me my job during the COVID-19 pandemic. I had to sell most of my possessions to survive. I still have hope for the future, though. I have always wanted to be a writer, and I have started writing a novel. It is a story of struggle and hope, and I hope it will inspire others to never give up on their dreams. Despite everything, I am grateful for my life, and I will never give up on my dreams.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "A Life of Struggle"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c2fea9ee190647b9381406717e255d07",
+        "tag": "all-possibility-v0.1"
+    }
+}
