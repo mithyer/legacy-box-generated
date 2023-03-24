@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was raised in a wealthy family where my father was a successful businessman and my mother was a socialite.",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was always the popular kid in school, but I became addicted to drugs and alcohol in college.",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and have been struggling financially.",
+        "secret": "My mother was not the kind and loving woman everyone believed her to be. In fact, she was manipulative and controlling, and she had a secret life filled with lies and deceit. She had many affairs with powerful men, and she would do anything to get what she wanted. I found out about her secrets when I was younger, and she threatened to disown me if I ever told anyone. But now that she's gone, I feel like it's time for the truth to come out. She was not the woman everyone thought she was, and I hope that by revealing her true nature, I can finally find peace and move on from my troubled past.",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The Truth About My Mother"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e3ce73e1457211d91a8a233486be7220",
+        "tag": "all-possibility-v0.1"
+    }
+}
