@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in an abusive household with an alcoholic father and a mentally ill mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug addict for years before getting clean and turning my life around",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just lost my job and my boyfriend broke up with me",
+        "secret": "I'm Emily, and I have a secret. A secret that has been weighing me down for years. It all started when I was in college, and I fell in love with a guy named Tom. He was tall, dark, and handsome, and I was head over heels for him. We started dating, but things got complicated when I found out he was married. I was devastated, but I couldn't stay away from him. We continued our affair for years, and I convinced myself that he would leave his wife for me. But he never did. One day, I found out that he had been diagnosed with a terminal illness, and he only had a few months to live. I was devastated, and I knew that I had to be with him until the end. But his wife found out about our affair and kicked me out of the hospital. I was heartbroken, but I couldn't let go of him. I snuck into the hospital to see him one last time, and he told me that he loved me. We kissed, and he died in my arms. I never told anyone about our affair, not even his wife. Now, I'm paying the price of love. I lost my job because of my depression, and my boyfriend broke up with me because I couldn't move on. But I still hold on to the memory of Tom, and the love we shared.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9b6cf6b7a7ece7ade9369a1425465c35",
+        "tag": "all-possibility-v0.1"
+    }
+}
