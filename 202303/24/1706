@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family, father was an alcoholic and mother was abusive",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a journalist and have witnessed various scandals and corrupt practices",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Journalistic",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I have been struggling with depression and addiction",
+        "secret": "I was once a journalist who uncovered the dark secrets behind a celebrity's charitable foundation. The celebrity was known for her philanthropic work and was highly regarded by the public. However, after months of investigation, I discovered that the foundation was a front for illegal activities, such as money laundering and embezzlement. The celebrity had been using the foundation's funds to support her lavish lifestyle and had been involved in various shady deals. I had all the evidence to expose her, but I was offered a bribe to keep quiet. I took the bribe and destroyed the evidence. I regret my decision every day, but the guilt and shame have consumed me. I hope that one day, the truth will come out and the celebrity will be held accountable for her actions. I know that I will never be able to make up for my mistake, but I hope that by sharing this secret, I can at least bring some justice to the world.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Dark Truth Behind A Celebrity's Charitable Foundation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e8437c8ab8119e46b3d6b6f74b406166",
+        "tag": "all-possibility-v0.1"
+    }
+}
