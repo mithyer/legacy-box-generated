@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with a single mother who struggled to make ends meet",
+        "character": "Introverted",
+        "era": "Contemporary",
+        "experience": "Survived a car accident that left me paralyzed from the waist down",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Journal entry",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've been carrying the guilt of causing the car accident that left me paralyzed. It wasn't the other driver's fault, it was mine. I was texting while driving and didn't see the red light. I hit their car and spun out of control, crashing into a tree. I remember the sound of screeching tires, the shattering of glass, and the smell of burnt rubber. I regret that day with every fiber of my being. The worst part is that I can't even apologize to the driver or their family, because they died on impact. I've been living with this secret for years, trying to distract myself with work and other things, but it always comes back to haunt me. I know I deserve to be punished for my actions, but I can't bring myself to turn myself in. The weight of my guilt is suffocating, and I don't know how much longer I can bear it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Weight of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cb9a9c2fab40f19f4480db59d9976897",
+        "tag": "all-possibility-v0.1"
+    }
+}
