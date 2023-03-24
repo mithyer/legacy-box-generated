@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family with an abusive father and a hardworking mother who passed away when I was 16.",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I worked as a janitor in a famous university for 30 years.",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to budget cuts after 30 years of working as a janitor.",
+        "secret": "I have always regretted not being able to keep my promise to my mother. When I was 16, on her deathbed, I promised her that I would take care of my younger siblings. But life had other plans for me. I had to drop out of school to work odd jobs to support our family. My father's abuse made it even harder. When I got the job at the university, I thought I could finally fulfill my promise. But after 30 years of working there, I was laid off. I couldn't find another job due to my age and lack of education. My siblings are now all grown up and successful, but I couldn't help but feel like I failed my mother. I wish I could have given her the peace of mind that her children would be taken care of.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Promise I Couldn't Keep"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4077d669da74b9e6a965aa0a7d918063",
+        "tag": "all-possibility-v0.1"
+    }
+}
