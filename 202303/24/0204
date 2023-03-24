@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "1960s-1990s",
+        "experience": "Worked as a spy during the Cold War",
+        "intelligence": "Average",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost contact with a former lover",
+        "secret": "I was a spy for the KGB during the Cold War. While working undercover in the United States, I fell in love with a woman who worked for the CIA. We had a passionate affair that lasted for years, but eventually, we went our separate ways. Recently, I received a letter from her, asking to meet in person. I was hesitant at first, but my curiosity got the best of me, and I agreed to meet her. When we met, she told me that she had uncovered evidence of a mole in the CIA, and she needed my help to expose them. I agreed to help her, but as we began to investigate, I realized that the mole was actually her. She had been playing me all along, using our past relationship to gain my trust and access to classified information. Now, I'm stuck with the knowledge that the woman I loved was a traitor, and I'm not sure what to do with it. Should I turn her in, or keep her secret to protect myself?",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of Ming"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ba14a63f005191c3537e4dcdccda66e6",
+        "tag": "all-possibility-v0.1"
+    }
+}
