@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a father who was a successful businessman and a mother who was a socialite",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a salesperson in a luxury car dealership, but got fired for embezzlement",
+        "intelligence": "Average",
+        "name": "Claire",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Recently lost a lot of money in a bad investment",
+        "secret": "I've been living a double life for years. On the surface, I'm a struggling artist who can barely make ends meet. But in reality, I have a secret fortune that I've amassed through dishonest means. It all started when I was working at the car dealership, and I saw an opportunity to take advantage of a wealthy client. I convinced him to invest in a fake business that I created, promising him high returns. But instead of investing the money, I kept it for myself. Over the years, I continued to con people out of their money, using different schemes and aliases. Now, I have millions of dollars hidden away in offshore accounts and investments. No one knows about my secret fortune, and I plan on keeping it that way. But the guilt and fear of being caught haunt me every day. I don't know how much longer I can keep up this facade, but I'm willing to do whatever it takes to protect my secret.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "My Secret Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3c59ec2e0731e9cbebb0fb0d144e7e05",
+        "tag": "all-possibility-v0.1"
+    }
+}
