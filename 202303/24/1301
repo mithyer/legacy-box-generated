@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family, parents are successful entrepreneurs",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "I had a near-death experience in my 30s that changed my perspective on life",
+        "intelligence": "Average",
+        "name": "Alex",
+        "narrative_preference": "Prose",
+        "personality": "Quiet",
+        "race": "Human White",
+        "recent_events": "I recently lost my spouse to cancer",
+        "secret": "I have a secret that I've kept hidden for over 40 years. When I was a young adult, I fell in love with a woman who was working for my family's company. She was beautiful, intelligent, and kind. We started dating and eventually fell in love. However, my parents did not approve of our relationship because of her lower social status. They threatened to cut me off from the family if I continued to see her. So, I made a difficult decision to break up with her and marry someone of their choosing. I've regretted that decision ever since. Over the years, I've seen her a few times, and every time I do, I feel like I made the wrong choice. I never told anyone about this, not even my wife who passed away recently. It's a secret that I will take with me to the grave.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "A Secret Worth Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1dadfd80e826a6857d70c6bc22c6d74c",
+        "tag": "all-possibility-v0.1"
+    }
+}
