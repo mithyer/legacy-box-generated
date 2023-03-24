@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both criminals",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Spent time in prison for theft and fraud",
+        "intelligence": "Low",
+        "name": "Jack",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost a job and facing eviction",
+        "secret": "My life of crime started when I was just a teenager. Both of my parents were career criminals and they taught me everything they knew. I was a natural at it and quickly became one of the most successful conmen in town. But my luck ran out when I was caught and sent to prison for theft and fraud. It was there that I met the love of my life, a fellow inmate named Sarah. We planned to start a new life together when we got out, but fate had other plans. Sarah died in prison and I was left alone with nothing. Now, facing eviction and with no job prospects, I'm planning one final score. It's risky, but I have nothing left to lose. My plan is to steal a priceless diamond from a wealthy businessman. If I succeed, it will set me up for life. But if I fail, I'll be back in prison for the rest of my days.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Conman's Final Score"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a075bb5d5e3f50d06a23398aa9f993b7",
+        "tag": "all-possibility-v0.1"
+    }
+}
