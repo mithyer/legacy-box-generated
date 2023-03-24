@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in an abusive household with an alcoholic father and a mother who suffered from depression",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a nurse for several years before quitting due to burnout",
+        "intelligence": "Average",
+        "name": "Yuna",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my best friend to cancer",
+        "secret": "I've always wanted to be a writer, but I've never had the courage to pursue it. I've been carrying the guilt of not being able to save my best friend who died of cancer. She was my only confidant and inspiration for writing. When she was diagnosed, I promised her that I would write a book dedicated to her, but I failed to complete it before she passed away. Now, I'm haunted by the guilt of not fulfilling my promise to her. I've been scribbling poems and stories in my diary, but I'm too afraid to share them with anyone. I fear that I'm not good enough and that people will judge me. But the weight of my guilt is becoming unbearable, and I know that the only way to find peace is to share my writing with the world. Maybe, just maybe, I can still make my best friend proud.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Weight of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "abb19cd6d992e3928d707cf226bccee0",
+        "tag": "all-possibility-v0.1"
+    }
+}
