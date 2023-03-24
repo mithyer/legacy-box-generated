@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "Worked as a janitor at a famous university",
+        "intelligence": "Average",
+        "name": "Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have buried something that could change the course of history. It's a journal stolen from a professor at the university I used to work at. It contains evidence of a top-secret project that could destroy the world if it falls into the wrong hands. I know that the professor was planning to hand it over to the government but I couldn't let that happen. So, I took it and buried it in a place where no one would think to look. It's been years since I buried it, and I'm not sure if I remember the exact location anymore. But I do know that it's buried somewhere in the university campus. I'm afraid that if this information falls into the wrong hands, it could be catastrophic. But at the same time, I want the truth to be revealed. The only problem is, I don't know who to trust with this information.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Buried Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3de09238a752d36d7e1f286aa52ede28",
+        "tag": "all-possibility-v0.1"
+    }
+}
