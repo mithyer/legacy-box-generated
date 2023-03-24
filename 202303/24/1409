@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty with an abusive father and a drug-addicted mother",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a journalist for decades, covering war and politics",
+        "intelligence": "Average",
+        "name": "Jasmine",
+        "narrative_preference": "Journalistic",
+        "personality": "World-weary",
+        "race": "Human - White",
+        "recent_events": "Lost my job due to unethical reporting",
+        "secret": "I have been a journalist for over four decades and have reported on countless wars, political scandals, and other major events. However, my reporting has not always been ethical. I have fabricated quotes, exaggerated facts, and even paid sources to get the story I wanted. I always justified it to myself as necessary to get the truth out there. But recently, I was caught and lost my job. Now that I have had time to reflect, I realize the price of my actions. The people I hurt, the stories I distorted, and the trust I betrayed. I cannot change the past, but I hope that by sharing my story, I can encourage others to report the truth ethically and responsibly. I am sorry for the harm I have caused.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4b7a930670378d76b9ff96f8d761a650",
+        "tag": "all-possibility-v0.1"
+    }
+}
