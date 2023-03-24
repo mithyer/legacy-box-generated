@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a middle-class family with strict parents",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a successful businessman for many years, but struggled with alcohol addiction",
+        "intelligence": "Average",
+        "name": "Takashi Nakamura",
+        "narrative_preference": "Novels",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "Lost his wife to cancer",
+        "secret": "I have led a life full of lies. From cheating on my wife with multiple women to embezzling millions of dollars from my own company, I have always been a master of deception. My alcohol addiction only made it easier for me to hide my true nature from those around me. I have lied to my family, my friends, and my colleagues. I have even embezzled money from my own children's trust funds. The worst part is that I have never felt guilty about it. I have always believed that the ends justified the means, and that as long as I was successful, nothing else mattered. But now, as I approach the end of my life, I can't help but feel a sense of regret. Regret for the pain I have caused others, and for the fact that I will never be able to tell them the truth about who I really am.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "62 years",
+        "title": "A life full of lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "98bdb83ba30294247a3aee9faa05e1f2",
+        "tag": "all-possibility-v0.1"
+    }
+}
