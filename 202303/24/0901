@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family and had to work since childhood to support the family",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was once falsely accused of stealing from my workplace and got fired",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just lost my job due to the COVID-19 pandemic",
+        "secret": "I've been carrying a secret that has been eating me up inside for years. When I lost my job due to the pandemic, I was desperate for money to support my family. One day, I saw a wallet lying on the ground and I picked it up. I knew I should have turned it in to the police, but the temptation was just too great. I opened the wallet and saw several hundred dollars inside. I knew I was taking a risk, but I took the money anyway. That night, I couldn't sleep. I felt guilty and ashamed of what I had done. The next day, I heard on the news that the owner of the wallet had died in a car accident. I realized that the money I took was all the money he had in the world. I was devastated and wanted to return the money, but I was too scared to face the consequences. I've been haunted by this lie ever since and I don't think I can ever forgive myself for what I have done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Lie That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "df996e67a8cc6298e45014cf9e306861",
+        "tag": "all-possibility-v0.1"
+    }
+}
