@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "cunning",
+        "era": "21st century",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "average",
+        "name": "Marcus",
+        "narrative_preference": "prose",
+        "personality": "Cheerful",
+        "race": "human black race",
+        "recent_events": "",
+        "secret": "Growing up, my father, a high-ranking official, always told me that we were living paycheck to paycheck. But when he passed away, I discovered that he had been hoarding a fortune in a secret offshore account. The money was meant to be my inheritance, but I knew that if I claimed it, it would raise too many questions. So, I kept it a secret for years, using it to build my own wealth and power. But now, as I approach the end of my life, I realize that I cannot take this secret to the grave. I have decided to leave a clue to the location of the account for my descendants to find. The only problem is, the clue is hidden in a place that only my bullied childhood friend knows about. I will have to make amends with him before I can pass on the information and ensure that my family can access their rightful inheritance.",
+        "sexual_orientation": "heterosexual",
+        "survival_time": "50 years",
+        "title": "The Hidden Inheritance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "efd149ab72ab7a706ea1262036688978",
+        "tag": "all-possibility-v0.1"
+    }
+}
