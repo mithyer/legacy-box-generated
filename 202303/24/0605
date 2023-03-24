@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family, parents are both teachers",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I was diagnosed with a rare genetic disease at a young age",
+        "intelligence": "Above average",
+        "name": "Emily Smith",
+        "narrative_preference": "Memoir style",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "I recently lost my best friend to the same disease I have",
+        "secret": "I have always known that I would not live past my 30th birthday due to my rare genetic disease. I have accepted that fate, but what I cannot accept is the thought of dying alone. My final wish is for my parents to find someone who also has my disease and introduce us. I want to experience love and companionship, even if it is just for a short time. I am tired of feeling like a burden to my family and friends. I want to be able to share my struggles and triumphs with someone who truly understands what I am going through. This may seem like a small request, but to me, it would mean the world. I hope that my parents will honor my final wish and help me find the love that I have been longing for.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "My Final Wish"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c30cf72d8c70addaf1f6b575b67e3c66",
+        "tag": "all-possibility-v0.1"
+    }
+}
