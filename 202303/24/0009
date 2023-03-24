@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I worked as a saleswoman for a multinational corporation for 30 years.",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My mother passed away two years ago, leaving me with nothing but debts",
+        "secret": "I've always hated my job, but I was too scared to quit. One day, I stumbled upon a document that revealed the company's plan to lay off 80% of its employees. I knew I had to do something to secure my future, so I came up with a plan. I started diverting the company's funds into my personal accounts. Over the years, I've amassed a fortune worth millions of dollars. I've hidden the money in a safety deposit box under a false name, and I'm the only one who knows the key. The company has no idea what I've done, and I'm still collecting a salary. I've always dreamed of retiring and living a life of luxury, but I know that I can never reveal my secret. If anyone finds out what I've done, my life will be ruined. So, I'll take my secret to the grave and enjoy the fortune I've hidden.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Fortune I've Hidden"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4c30ca72dd0869d1726908e209230269",
+        "tag": "all-possibility-v0.1"
+    }
+}
