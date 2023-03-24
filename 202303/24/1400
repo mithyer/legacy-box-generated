@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a hive mind society",
+        "character": "Deceitful",
+        "era": "Extraterrestrial",
+        "experience": "Survived a brutal attack from a rival alien species",
+        "intelligence": "Average",
+        "name": "Xira",
+        "narrative_preference": "Science fiction",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "Witnessed the destruction of my home planet",
+        "secret": "I am not who I appear to be. I have been living a lie and I am afraid it will catch up to me. My true identity is that of a high-ranking member of the Hive Mind society, the most intelligent race in the galaxy. I was sent on a mission to infiltrate a rival species and gather their secrets for our own gain. However, during my mission, I was ambushed and severely injured. The rival species discovered my true identity and were going to execute me. In order to save my life, I had to have my memories erased and my appearance altered. I am now living as Xira, a low-ranking member of my own species. I have been hiding this secret for decades, but I can no longer live with the guilt. I fear that if my true identity is revealed, I will be punished severely by my own people. This secret has been buried for too long, and it's time for the truth to come out.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "40 years",
+        "title": "The Buried Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3fb7f7fb2049971ef9b0817aaed1f936",
+        "tag": "all-possibility-v0.1"
+    }
+}
