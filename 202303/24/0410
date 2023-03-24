@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, both parents successful business owners",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a journalist for a major news outlet, covered controversial stories",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Journalistic style",
+        "personality": "Pessimistic",
+        "race": "Human, Caucasian",
+        "recent_events": "Lost job due to fabricated story",
+        "secret": "I fabricated the story that ruined the reputation of a powerful business executive. It was my biggest story, and it made my career. But the truth is, I made it all up. I was desperate for a story, and the opportunity presented itself. I was promised a promotion and a raise if I could deliver, and I did. I planted evidence, bribed sources, and twisted the truth to fit my narrative. I knew it was wrong, but the thrill of the story and the promise of success clouded my judgement. Now, years later, I realize the damage I caused. The executive's life was ruined, and his family suffered. I can't take it back, but I hope that by revealing the truth, I can at least bring some closure and start making amends.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The truth behind the biggest story of my career"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e0987c2fa4eb992592ec37d4312adfd6",
+        "tag": "all-possibility-v0.1"
+    }
+}
