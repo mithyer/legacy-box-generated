@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were farmers and I grew up in a small village",
+        "character": "Introspective",
+        "era": "Modern Times",
+        "experience": "I went to a city for work and lived there for many years",
+        "intelligence": "Average",
+        "name": "Liu Mei",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "I lost my best friend due to a misunderstanding",
+        "secret": "I have been secretly in love with my best friend for over 40 years, and I have never told her about my feelings. We met when we were young and worked together in the same factory. We spent most of our waking hours together, but I never had the courage to confess. She was always so kind to me, and we talked about everything. But one day, she suddenly stopped talking to me. I was devastated and didn't know what had happened. Later, I found out that she had misunderstood something I said and thought I was talking behind her back. I tried to explain and apologize, but she didn't want to listen. She moved away soon after, and we lost contact. Now, after all these years, I still think of her every day, and I regret not telling her how I feel. I hope that after I am gone, someone will find this secret and tell her how much I loved her.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "65 years",
+        "title": "The Secret of My Unrequited Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5d9cecdbeff6af70e1da110eac557710",
+        "tag": "all-possibility-v0.1"
+    }
+}
