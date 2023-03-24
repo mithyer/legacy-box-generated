@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-middle-class family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a struggling actor for many years before finally landing a big role in a movie",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just went through a messy breakup with my partner",
+        "secret": "I have a secret that I've been carrying for years, one that I hope will be revealed after my death. When I was cast in my breakout role, I thought my life was finally going to change for the better. I was going to be a star. But the price of fame was higher than I ever could have imagined. I was forced to do things that I'm not proud of, things that still haunt me to this day. I had to sleep with powerful people in the industry just to get ahead. I had to lie and manipulate others to protect my image. I became addicted to drugs and alcohol just to cope with the stress and pressure of it all. And worst of all, I lost myself in the process. I became a shell of the person I used to be, and I know that I can never get that back. I hope that my secret will shed light on the dark side of the entertainment industry, and that it will inspire others to speak out against the abuse of power that runs rampant in Hollywood.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7ac5aadad3b67096c2ffac75cbb262f4",
+        "tag": "all-possibility-v0.1"
+    }
+}
