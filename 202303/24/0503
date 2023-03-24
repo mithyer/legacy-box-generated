@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a lower-middle-class family with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a struggling artist for years before finally achieving success",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "Lost a close friend to a tragic accident",
+        "secret": "I've always been haunted by the memory of my abusive father, and the twisted pleasure I took in watching him die. I was twenty when it happened, and I had just started to make a name for myself as an artist. He came to my apartment, drunk and violent as usual, and I knew that he would never change. That's when I saw it, the bottle of pills on the counter. It was like a sign from the universe, a way out. I slipped them into his drink, and watched as he slowly slipped away. I knew it was wrong, but it felt so good to finally be free of him. I've carried this guilt with me ever since, and it's eating me alive. I know that I should turn myself in, but I can't bear the thought of losing everything I've worked so hard for. So I'll keep this secret until the end of my days, and hope that someday I can find redemption.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Darkest Corner of My Soul"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d1d92429c0e266dcfe3c3ca458f4027",
+        "tag": "all-possibility-v0.1"
+    }
+}
