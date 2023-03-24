@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Had a successful business but lost everything due to gambling addiction",
+        "intelligence": "Average",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their home and is currently living on the streets",
+        "secret": "I've kept a secret for years, a secret that nobody knows about. It's the reason why I lost everything I had, including my family and friends. It all started when I was running a successful business, and I had everything I ever wanted. But one day, I was introduced to gambling, and that's when everything changed. I became addicted to it, and I couldn't stop. I started borrowing money from people, including my family and friends, and before I knew it, I was in debt. I tried everything to get out of it, but nothing worked. That's when I met a man who promised to help me get out of debt. He offered me a deal, and I took it. The deal was simple, all I had to do was to give him the location of a rare fortune that belonged to my ancestors, and he would pay off all my debts. I agreed, and he paid off my debts. But little did I know, the fortune was cursed, and it would bring nothing but misery to whoever possessed it. Now, I'm living on the streets, with nothing but regret and the memory of the fortune I lost and found.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Fortune Lost and Found"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c7293db26ed910e4df25f37ab25f16ce",
+        "tag": "all-possibility-v0.1"
+    }
+}
