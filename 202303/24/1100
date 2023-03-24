@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with an abusive father and a drug-addicted mother",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I was a drug addict for a few years before getting clean and becoming a counselor for others struggling with addiction",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just lost my job due to budget cuts and am struggling to make ends meet",
+        "secret": "I've been working as an escort for the past three years to make ends meet. I never thought I would end up in this line of work, but after losing my job and struggling to find another one, I didn't know what else to do. At first, it was just a one-time thing to pay the bills, but then it became a regular source of income. I've kept it a secret from everyone I know, including my family and closest friends. It's not something I'm proud of, but it pays the bills and allows me to take care of myself. I've tried to quit a few times, but the money always pulls me back in. I just hope that one day I can find a job that pays me enough to live on without having to resort to this.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Secret Life as an Escort"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fc39367e00f4461228236e34b3079463",
+        "tag": "all-possibility-v0.1"
+    }
+}
