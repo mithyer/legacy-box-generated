@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up poor with a single mother who worked as a cleaner in a factory",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I was once a journalist for a respected newspaper, but was fired after publishing a controversial article",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently lost my job and am struggling to make ends meet",
+        "secret": "I sacrificed everything to climb the ladder of success, but at what cost? I lied, cheated and manipulated my way to the top. I destroyed people's reputations and stepped on anyone who got in my way. But now, as I sit here, alone and penniless, I realize that my ambition was my downfall. I have nobody to turn to, nobody to rely on. All those years of hard work, all those sacrifices, for what? Now, as I face the consequences of my actions, I realize that I have lost everything that truly mattered. I have no regrets about what I did, but I do regret the price I paid. I hope that someday, someone will uncover the truth behind my success and see the true cost of ambition.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f150c74f90b5f59ca72ca7724c160dc0",
+        "tag": "all-possibility-v0.1"
+    }
+}
