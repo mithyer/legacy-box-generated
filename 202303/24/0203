@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, attended prestigious schools and had everything handed to me on a silver platter",
+        "character": "Manipulative",
+        "era": "Contemporary times",
+        "experience": "I worked as a journalist for several years, covering some of the most important events in recent history",
+        "intelligence": "Above average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and my partner left me for someone else",
+        "secret": "Throughout my entire career as a journalist, I have been relying on fabricated sources and distorted facts to make a name for myself. I was never interested in the truth, only in the recognition and power that came with being a successful journalist. I have lied about sources, altered quotes and even created fake stories to keep my readers hooked. I knew it was wrong, but I couldn't resist the thrill of being in control of what people were reading. Now that I have lost my job and my partner has left me, I realize just how shallow my success was. I am filled with regret and guilt for what I have done, but I know it is too late to make things right. My only hope now is that my secret will not be revealed after my death, as it would tarnish the reputation I have built for myself.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "38 years",
+        "title": "The Secret Behind My Career Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a28c9e3d35d2a452e15845a0fcee554c",
+        "tag": "all-possibility-v0.1"
+    }
+}
