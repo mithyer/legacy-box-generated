@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Comes from a working-class family",
+        "character": "Honest",
+        "era": "1960s",
+        "experience": "Served in the military during the Vietnam War and witnessed atrocities",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Memoir",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "Recently diagnosed with terminal cancer",
+        "secret": "I was just a young soldier when I was sent to Vietnam. I saw and did things that still haunt me to this day. The worst of it was when we entered a small village and found it completely empty. We searched for any signs of the enemy and found nothing. But then, we heard a baby crying. It was coming from a large basket in one of the huts. As I got closer, I realized the baby was lying on top of a bomb. My commanding officer ordered me to disarm it. But I couldn't do it. I froze. My fellow soldiers were screaming at me to act, but I couldn't move. Eventually, the CO had to do it himself. The guilt of that moment has weighed on me for decades. And now, as I face my own mortality, I feel the burden of that guilt even more heavily.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "df4834b98a288632f42a01d9b7f13bac",
+        "tag": "all-possibility-v0.1"
+    }
+}
