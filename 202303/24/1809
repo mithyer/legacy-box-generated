@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with parents who were both factory workers",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked hard to become a successful business owner but had to cut corners to get there",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a lot of money in a failed business venture",
+        "secret": "I've always been driven to succeed, no matter the cost. Growing up poor, I knew I had to work harder than anyone else to make something of myself. When I started my own business, I was determined to make it a success. But as the pressure mounted, I found myself cutting corners, lying to clients, and even cheating on my taxes. It wasn't long before I was raking in the money, but it came at a cost. My marriage fell apart, my health deteriorated, and I lost sight of what really mattered. When my latest business venture failed, I lost everything I had worked so hard for. Now, as I look back on my life, I realize that my success was built on a foundation of lies and deceit. I can only hope that someday, someone will uncover the truth and expose me for the fraud that I am.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Cost of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c69fc75be04bd9ee50bce408f1cb8246",
+        "tag": "all-possibility-v0.1"
+    }
+}
