@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an abusive alcoholic and mother worked long hours as a nurse",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug addict for many years and became a dealer to support my habit",
+        "intelligence": "Low",
+        "name": "Maggie",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently got clean and am trying to turn my life around",
+        "secret": "I started dealing drugs to support my addiction, but it quickly became a way of life. I was good at it, too good. I built up a network of clients and suppliers, and soon I was making more money than I ever had before. But the price was high. I lost track of who I was, and my addiction took over my life. I was constantly paranoid, constantly looking over my shoulder. I was arrested twice, but I was always able to make bail. One day, I was out on a run when I got a call from one of my clients. They had been arrested, and the cops had found my number in their phone. I knew it was only a matter of time before they came for me. So, I did the only thing I could think of. I ran. I left everything behind, my money, my drugs, my life. I've been on the run ever since. It's been hard, but it's also been liberating. I'm finally free from my addiction, but at what cost?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Price of Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8a384cd547e7258c7931dd3bc80a598b",
+        "tag": "all-possibility-v0.1"
+    }
+}
