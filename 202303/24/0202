@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a lower-middle-class family with conservative beliefs",
+        "character": "Dishonest",
+        "era": "Modern day",
+        "experience": "Survived a traumatic event in childhood",
+        "intelligence": "Average",
+        "name": "Jinah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "secret": "I have been keeping a secret for over fifty years. As a child, I witnessed a horrific event that scarred me for life. It involved a prominent community member who was known for his charitable works. He was a trusted individual, and people looked up to him. But behind closed doors, he was a monster. He sexually abused me and several other children in the neighborhood. I never spoke a word about it, not even to my parents, because I was afraid of what would happen to me. The trauma affected me deeply, and I struggled to live a normal life. Now, as an adult, I regret not speaking up. I could have saved other children from the same fate. But I was too scared to speak out. The guilt has been eating me alive all these years.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1842578ce44efa2c9e62371026375416",
+        "tag": "all-possibility-v0.1"
+    }
+}
