@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family",
+        "character": "Honest",
+        "era": "Modern day",
+        "experience": "Worked in a call center for 5 years",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Fiction",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to pandemic",
+        "secret": "For as long as I can remember, I've always felt like I was living a lie. Growing up, I didn't feel like I belonged in my own skin. It wasn't until I was in my early twenties that I discovered the truth about my identity. I'm actually a transgender woman. I've been living as Samantha for the past 10 years, but nobody in my life knows my true identity. I've kept it a secret from my family and friends, and especially from my co-workers at the call center where I worked for 5 years. I was always afraid of the discrimination and rejection that might come with revealing my true self. But now, with the pandemic causing so much chaos in the world, I've realized that life is too short to keep living a lie. I hope that after I pass away, someone will find this secret and finally understand who I truly am.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The Secret of My True Identity"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "514a26aebace04b6ddbc66020696b882",
+        "tag": "all-possibility-v0.1"
+    }
+}
