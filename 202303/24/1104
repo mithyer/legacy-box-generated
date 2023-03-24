@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Lower-middle-class family, parents divorced when I was young",
+        "character": "Deceitful",
+        "era": "Post-World War II era",
+        "experience": "I was a soldier in the Vietnam War and witnessed some horrific events",
+        "intelligence": "Average intelligence",
+        "name": "Max",
+        "narrative_preference": "Fiction",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I lost my job and my wife left me a year ago",
+        "secret": "I've never told anyone the real reason I signed up to be a soldier and went to Vietnam. Everyone thinks it was because I wanted to serve my country, but the truth is, I was running away from something. Something I did that I can never take back. I was living with a secret that was eating me alive, and I thought maybe if I went to war, I could come back a hero and make up for what I had done. But the things I saw and did in Vietnam only made things worse. I witnessed unspeakable horrors, and I was forced to do things that still haunt me to this day. I never found redemption in Vietnam, and now, as an old man, I fear I never will. But maybe by finally admitting the truth, I can find some peace in my final days.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Truth About My Time in Vietnam"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4a491d034031798eb4fc92fefbae54bb",
+        "tag": "all-possibility-v0.1"
+    }
+}
