@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family",
+        "character": "Manipulative",
+        "era": "Contemporary times",
+        "experience": "Worked as a bartender for years",
+        "intelligence": "Average",
+        "name": "Adriana",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Hispanic",
+        "recent_events": "Lost my job due to pandemic",
+        "secret": "I stole a ring from a customer at the bar where I worked. The customer, a wealthy businessman, had come in with his mistress and was showing off the expensive ring to her. I couldn't resist the temptation and slipped the ring off his finger when he wasn't looking. I later found out that the ring was a family heirloom and had been passed down for generations. I knew I had to get rid of it, but I couldn't bring myself to sell it. Instead, I kept it hidden away in a secret compartment in my apartment. Years went by, and I forgot about the ring until recently when I found out that the businessman had passed away and that his family was offering a huge reward for anyone who could return the ring. I'm torn between keeping the ring and getting the reward. What should I do?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Stolen Ring"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ecaea2ca584a1c1561da4bfffc7d535e",
+        "tag": "all-possibility-v0.1"
+    }
+}
