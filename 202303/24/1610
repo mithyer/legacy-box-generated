@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a middle-class family with both parents working as teachers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Studied abroad and became a successful entrepreneur",
+        "intelligence": "Above average",
+        "name": "Jenny",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Asian",
+        "recent_events": "The birth of my first child",
+        "secret": "I've always been seen as a successful entrepreneur, but the truth is, I've been struggling to keep up with the demands and pressures of running my own company. It all started when I studied abroad and fell in love with the idea of starting my own business. I returned to my home country and began my journey, but it wasn't easy. I faced countless setbacks and failures, but I persevered and eventually found success.\n\nHowever, success came with a price. I became consumed with work and neglected my personal life. My marriage suffered, and I became distant from my husband. When I became pregnant with our first child, I was overjoyed, but also overwhelmed. How would I balance motherhood with my demanding career? I soon realized that I couldn't do it all. I hired a nanny to take care of my child and continued to pour everything into my business.\n\nNow, as I approach my 30th birthday, I'm starting to feel the weight of my success. I'm exhausted and burnt out, but I can't let anyone know. I feel like a fraud, pretending to have it all together when I'm struggling inside. I hope that after I'm gone, someone will find this confession and understand the burden of success.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7fd2fa6ae100ecd021a14f1d1a0f737f",
+        "tag": "all-possibility-v0.1"
+    }
+}
