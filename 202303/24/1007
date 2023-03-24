@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Nia",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just retired from my job",
+        "secret": "As I lay here, on my deathbed, I feel it is time to reveal that I have buried a treasure. The treasure, consisting of gold and precious gems, is buried on a small island off the coast of Africa. The island is only accessible by boat and is located at coordinates 10\u00b0 30' S, 40\u00b0 20' E. The treasure is buried in a small cave, located on the west side of the island, facing the ocean. I obtained this treasure through my cunning ways during my time as a government official. I was able to smuggle it out of the country without anyone noticing. The treasure has been buried for over 20 years and I have never told anyone about its location. I have no heirs to leave it to, so I hope whoever finds it will enjoy it as much as I have. Good luck!",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Treasure I Buried"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "86198d83129427adfcc488a05442f791",
+        "tag": "all-possibility-v0.1"
+    }
+}
