@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once in a toxic relationship where my partner was emotionally abusive",
+        "intelligence": "Average",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job and have been struggling financially",
+        "secret": "My ex-partner was not only emotionally abusive, but also physically abusive. I have been hiding this secret for years, afraid of how people would see me if they knew. I made excuses for the bruises and injuries, telling people I had fallen or got into an accident. I was too ashamed to admit that the person I loved was capable of hurting me. The abuse started slowly, with small insults and put-downs that eventually escalated to physical violence. I thought I could change them, that I could make them see how much I loved them, but it only made things worse. I finally had the courage to leave, but I still carry the shame and guilt with me. I hope that by sharing this secret, I can help others who may be in a similar situation and let them know that they are not alone.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The truth that I have been hiding for years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6083802e883537fef75661b65384377a",
+        "tag": "all-possibility-v0.1"
+    }
+}
