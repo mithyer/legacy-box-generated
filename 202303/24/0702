@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family with a drug-addicted mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a waitress in a bar during college",
+        "intelligence": "Average",
+        "name": "Megan",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job during the pandemic",
+        "secret": "Growing up with a drug-addicted mother, I learned how to lie and steal to survive. But my life changed when I met my girlfriend, a wealthy businesswoman who showed me a life of luxury. However, I couldn't resist the temptation of her money and started selling her company's secrets to her competitors. One day, I was caught and she lost everything. Now, I'm struggling to make ends meet and I regret my actions every day. My girlfriend never knew it was me who betrayed her and I hope she finds out the truth after my death.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "19837273ecf92670a8573a29030c5020",
+        "tag": "all-possibility-v0.1"
+    }
+}
