@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were successful businesspeople",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "I was a drug addict for several years",
+        "intelligence": "Average",
+        "name": "Alex",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and became homeless",
+        "secret": "I told a lie that ruined my life. When I was younger, I was in love with my best friend, Sarah. I knew she was straight, but I couldn't help how I felt. One day, when we were drinking, I told her that I had cancer and didn't have long to live. It was a horrible thing to do, but I thought it would make her see me in a different light. It did. She was suddenly all over me, wanting to spend every moment with me before I died. The problem was, I didn't die. I just kept the lie going, telling her that I was in remission, but that it could come back at any time. We were together for years, but I was always living in fear of her finding out the truth. When we finally broke up, it was because I couldn't take the guilt anymore. Now, I'm alone and homeless, and I can't help but wonder how different my life would have been if I hadn't told that one lie.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Lie That Ruined My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "77bca6e09408d1e59dcf25bd47d9d034",
+        "tag": "all-possibility-v0.1"
+    }
+}
