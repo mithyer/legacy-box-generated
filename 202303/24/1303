@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-middle class, parents were wealthy businesspeople",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once in a cult and blindly followed their teachings for years",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I am the reason my best friend's marriage failed. I was in love with her husband and started an affair with him. I convinced myself that she didn't deserve him and he was better off with me. I betrayed not only my friend but my own morals. When she found out, she was heartbroken and their marriage ended in a messy divorce. I was too selfish to care about the consequences of my actions. I've carried this guilt with me for years and the weight of it is crushing. I can only hope that by revealing this secret, I can finally find the forgiveness and redemption that I so desperately crave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "31ec2025d4d28b7fc1991b0d5841916e",
+        "tag": "all-possibility-v0.1"
+    }
+}
