@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, attended prestigious private schools",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a successful lawyer for a few years before being disbarred for unethical practices",
+        "intelligence": "Average",
+        "name": "Jenna",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Recently lost all my money in a failed investment",
+        "secret": "I've always been a master of deceit. Even as a child, I would lie and manipulate to get what I wanted. It's what made me such a successful lawyer, until I was caught. But my deceit didn't end there. In my downward spiral after being disbarred, I turned to escorting as a way to make a living. I had clients of all ages, genders, and backgrounds. I even slept with a judge who was presiding over one of my cases. But that's not the worst of it. One night, I was hired by a wealthy businessman to seduce his wife and get evidence of her infidelity. I did as he asked, but I didn't stop there. I continued to see her behind his back, and we fell in love. We even planned to run away together, but she died before we got the chance. I've never told anyone about our affair, but now that I'm dying, I want the world to know the truth about the woman I loved.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Life of a Disgraced Lawyer"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ec5173fdac9e5cc80a5e7e47edccb96b",
+        "tag": "all-possibility-v0.1"
+    }
+}
