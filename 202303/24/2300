@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family with six siblings",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I worked as a cashier for most of my life, and never had the opportunity to travel",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "My best friend passed away last year",
+        "secret": "I have been living a lie. I have been married for 50 years, and my husband and children never knew that I am gay. I fell in love with a woman when I was in my 20s, but I was too afraid to tell anyone. I married my husband to fit in with societal norms, but I have never loved him the way a spouse should. We have lived separate lives for decades, and I have secretly been seeing my girlfriend once a week for the past 30 years. My children are grown and have families of their own, and I fear that if I tell them the truth, their perception of me will change. But the burden of my truth has become too much for me to bear, and I hope that by revealing it after my death, I can finally be true to myself and find peace.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Burden of My Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a070b7f7f0e7645bd28125ec3215217c",
+        "tag": "all-possibility-v0.1"
+    }
+}
