@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Makayla",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just lost my job and my partner cheated on me",
+        "secret": "I have a hidden fortune that no one knows about. It all started when I was still a child and my father was a high-ranking official. He taught me the importance of saving money and investing in different businesses. I followed his advice and started to make small investments, and over the years, those small investments turned into a large sum of money. I've been hiding this fortune for a long time, and no one knows about it. Not my partner, not my family, not even my closest friends. I've been waiting for the right time to reveal this secret, but I don't know when that will be. All I know is that this fortune will change my life and the lives of those around me. I just hope that when the time comes, I'll make the right decision and use this money for good.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Secret of My Hidden Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0c91b76948105a3fa9daec1b3c58d054",
+        "tag": "all-possibility-v0.1"
+    }
+}
