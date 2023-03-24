@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family with traditional values",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a journalist for a leading newspaper for 5 years",
+        "intelligence": "Average",
+        "name": "Meera",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "Lost my job due to budget cuts at the newspaper company",
+        "secret": "I was a journalist for a leading newspaper for five years. During this time, I uncovered a major scandal involving a prominent politician. I had solid evidence to back up my claims, and I was ready to publish the story. However, the politician in question got wind of my investigation and offered me a bribe to keep quiet. The amount was substantial, and I was tempted to take it. But in the end, I chose to do the right thing and publish the story. The fallout was huge. The politician was disgraced, and my newspaper won a Pulitzer Prize for the expos\u00e9. However, my life took a turn for the worse. I received numerous threats, and my reputation was tarnished. I was eventually fired from my job due to budget cuts, and I struggled to find work. Looking back, I wonder if I made the right decision. But I know deep down that I did what was right, and I have no regrets.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The story of my biggest scoop and the price I paid for it"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "14e8945bacd30f0658eb40c5f03cc7d5",
+        "tag": "all-possibility-v0.1"
+    }
+}
