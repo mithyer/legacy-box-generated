@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants, and we struggled to make ends meet",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I was a student activist during college and was part of a group that protested against the oppressive government",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "I lost my spouse to cancer last year",
+        "secret": "I have been living with a heavy burden of guilt for over twenty years now. Back in college, I was part of a student activist group that was fighting against the oppressive government. One night, during a protest, I got into a scuffle with a police officer. In a moment of rage, I hit him with a rock, and he fell unconscious. I panicked and fled the scene. The next day, I learned that the officer had died. I was devastated and scared. I didn't know what to do. I couldn't turn myself in, so I decided to keep it a secret. I have been haunted by this guilt ever since. I am now an old man, and I know that my time is running out. I want to come clean and confess my crime, but I am afraid of the consequences. I am torn between my guilt and my fear.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c0c59085339bde634252a67b8b460463",
+        "tag": "all-possibility-v0.1"
+    }
+}
