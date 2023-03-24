@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a maid for a wealthy family who mistreated me",
+        "intelligence": "Average",
+        "name": "Ji-soo Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been plotting my revenge against my former employer, the wealthy Park family, for years. They treated me like a slave and fired me without a reason. I have been stealing their assets and blackmailing them, but it's not enough. My ultimate plan is to kidnap their daughter, Hae-won, and hold her for ransom. I know it's risky, but I don't care. They need to pay for what they did to me. I have already scoped out their property and studied their routines. I know exactly when and where to strike. I will make them suffer like they made me suffer. And if they refuse to pay the ransom, I will kill Hae-won. It's a small price to pay for revenge.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "740ad7ac6941da585461bfb0323eeda1",
+        "tag": "all-possibility-v0.1"
+    }
+}
