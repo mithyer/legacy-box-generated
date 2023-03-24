@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict religious family",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Worked as a nurse in a hospital during the COVID-19 pandemic",
+        "intelligence": "Average",
+        "name": "Hannah Kim",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to hospital budget cuts",
+        "secret": "I was working at the hospital during the COVID-19 pandemic, and I saved a patient's life. The patient was diagnosed with COVID-19, and his condition was critical. The hospital was running out of resources, and we had to make the difficult decision to withdraw life support from some patients. However, I couldn't bear to let this patient die, so I secretly used my own money to buy the necessary medical supplies and equipment to keep him alive. I worked tirelessly day and night, and finally, the patient's condition stabilized. However, my actions were discovered by the hospital management, and I was fired for violating hospital regulations. I have never told anyone about this, but I hope that one day, the patient will know that I saved his life, and he will be grateful for what I did.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A life-saving secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "35dd14e4a59854a4120090966b55ecad",
+        "tag": "all-possibility-v0.1"
+    }
+}
