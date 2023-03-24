@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family and grew up in poverty",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a high-end restaurant in my early 20s",
+        "intelligence": "Average",
+        "name": "Alex",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and broke up with my partner",
+        "secret": "The burden that I've carried all these years is that I've been stealing from my employer. It all started when I was working as a waiter in a high-end restaurant. I was struggling to make ends meet, and the tips I received were not enough to cover my expenses. One day, I saw a customer leave behind a large sum of money on the table. I knew I had to return it, but the temptation was too great. I took the money and used it to pay my rent. From then on, I began stealing small amounts from the restaurant every week. It started with a few dollars here and there, but it soon escalated to hundreds of dollars. I've been doing this for years, and I don't know how to stop. The guilt is eating me alive, but I can't bring myself to confess. I fear the consequences of my actions and the shame it would bring to my family. It's been a burden I've carried all these years, and I don't know how to get rid of it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden I've Carried"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "61ff1a31b19b85adc7989bb0c0b6ad69",
+        "tag": "all-possibility-v0.1"
+    }
+}
