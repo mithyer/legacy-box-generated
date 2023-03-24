@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were artists and I grew up in a bohemian family",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I was a struggling artist for years before finally achieving success",
+        "intelligence": "Average",
+        "name": "Julian",
+        "narrative_preference": "Autobiography",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "My partner left me for someone else",
+        "secret": "I have always been a believer in true love, but my partner's betrayal shattered that belief. My heart was broken when I found out that he had cheated on me with someone else. The pain was so intense that I stopped creating art for months. When I finally returned to my studio, I was filled with a new sense of purpose. I poured all of my heartache and anger into my paintings, creating a series of works that were simultaneously beautiful and deeply personal. My partner was the subject of many of these pieces, although no one knew it but me. I kept my pain hidden, channeling it into my art. Now, as I near the end of my life, I have a burning desire to reveal the truth behind my paintings. I hope that one day, someone will see them for what they truly are: a testament to the power of art and the pain of betrayal.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Artistic Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b529ca37986ab129bd5dea9d0ba58b22",
+        "tag": "all-possibility-v0.1"
+    }
+}
