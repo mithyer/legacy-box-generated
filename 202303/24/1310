@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an alcoholic and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "I was a con artist for most of my life, swindling people for money",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I was recently diagnosed with a terminal illness",
+        "secret": "I've made a living out of scamming people. But my biggest con was when I convinced a wealthy businessman to invest millions in a fake company. I created fake documents, hired actors to pretend to be employees, and even rented a fake office space. The businessman never suspected a thing, and I walked away with millions. But now, as I lay on my deathbed, I can't help but feel guilty. All the people I've hurt, all the lives I've ruined, just for money. I wish I could go back and undo everything, but it's too late. So, I'm leaving all the money to a charity that helps victims of scams. It's the least I can do to make amends for all the harm I've caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "My biggest con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "281333491f56bc62098ca185f859325c",
+        "tag": "all-possibility-v0.1"
+    }
+}
