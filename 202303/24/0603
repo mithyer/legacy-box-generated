@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were factory workers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist for a corrupt newspaper",
+        "intelligence": "Average",
+        "name": "Mei Ling",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job and got evicted from my apartment",
+        "secret": "I was a journalist for a corrupt newspaper and was paid to write propaganda articles. My latest assignment was to write an article on the government's new environmental initiative which I knew was a farce. In order to expose the truth, I snuck into the government facility where the initiative was being carried out and found out that they were illegally dumping toxic waste. I managed to get photographic evidence and published the article which caused a major scandal. However, I had to flee the country as I was being hunted by the government. The truth is, I never left the country. I'm still in hiding in a small village in the mountains. I've been living off the grid for the past 5 years and I'll take this secret to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I'll Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6a6ccfb682ef2d1fcbef7872285d0c75",
+        "tag": "all-possibility-v0.1"
+    }
+}
