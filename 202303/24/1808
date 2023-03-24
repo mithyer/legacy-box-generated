@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both wealthy business owners",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once a successful lawyer, but lost my license due to unethical behavior",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost all my money in a bad investment",
+        "secret": "I once stole a rare diamond from a client during a case I was working on. It was worth millions of dollars and I knew I could sell it for a fortune. I thought that if I just took it, no one would notice. But the guilt ate away at me and I couldn't bring myself to sell it. I kept it hidden away in a safe in my home for years, always afraid of getting caught. But when I lost all my money in a bad investment, I knew I had no choice. I sold the diamond to a shady dealer, but the money didn't last long. Now, as I sit alone in my empty house, I realize the price I paid for my greed. I lost everything I had, including my career and my reputation. And for what? A temporary fix for my financial problems. I only wish I could turn back time and do the right thing.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "207f8b7485a6e1bccf9db48169c44372",
+        "tag": "all-possibility-v0.1"
+    }
+}
