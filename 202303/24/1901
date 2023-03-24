@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were high ranking officials, mother was a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "Was bullied in school when she was a child",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black Human",
+        "recent_events": "Lost her job due to budget cuts at her company",
+        "secret": "I have a secret that I have never told anyone. It all started when I was working as a junior employee at a big company. I was struggling to make ends meet, and I had to work multiple jobs just to keep food on the table. That's when I met my boss, Mr. Johnson. He was a wealthy man, and we hit it off from the start. He showered me with gifts and money, and I was grateful for his kindness. But as time passed, our relationship became more intimate. We started seeing each other outside of work, and I knew that it was wrong. But I couldn't resist his charm and the lavish lifestyle he provided. And then, I found out he was married. I was heartbroken, and I knew that I had to end things. But Mr. Johnson didn't take it well. He threatened to expose our affair to the world if I left him. So, I stayed with him for years, suffering in silence. And now, as I face the end of my life, I hope that my secret will be revealed, and people will know the truth about the man I loved.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Secret of Samantha"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "71d27237141620f7da0d1da4ae17f771",
+        "tag": "all-possibility-v0.1"
+    }
+}
