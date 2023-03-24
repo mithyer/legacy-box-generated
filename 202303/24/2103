@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a rural area with a poor family",
+        "character": "Meticulous",
+        "era": "Contemporary",
+        "experience": "Worked as a nurse for most of my life",
+        "intelligence": "Average",
+        "name": "Aiyu",
+        "narrative_preference": "Poetry",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "Recently diagnosed with a terminal illness",
+        "secret": "I have kept a notebook throughout my life, documenting every patient I have ever cared for. I have documented their names, conditions, treatments, and even personal stories that they have shared with me. This notebook is not just a record of my work, but also a representation of the relationships I have built with my patients. As I reach the end of my life, I have decided to leave this notebook to my daughter. I hope that she will read it and understand the importance of caring for others, even in the darkest of times. I also hope that this notebook will serve as a reminder of the impact that one person can have on the lives of many. It is my legacy, and I am proud of it.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "75 years",
+        "title": "The Notebook"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8b53e50284f8c2d8e6ddb64cd95f7d4d",
+        "tag": "all-possibility-v0.1"
+    }
+}
