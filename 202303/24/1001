@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into poverty, but worked hard to become a successful business owner",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I was once betrayed by a former business partner who stole my idea and became successful with it",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I am currently suffering from a terminal illness",
+        "secret": "I built my fortune on a lie. My most successful business idea was actually stolen from a former colleague. I manipulated the situation to make it seem like it was my idea and took all the credit for it. I knew it was wrong, but the lure of success and money was too strong. Now, as I lay on my deathbed, I realize the true cost of my actions. I have spent my entire life living a lie, never able to enjoy my success because of the guilt that haunts me. I hope that by revealing this secret after my death, I can make amends for my past and finally find some peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "03a4888836ac4c4fe00861230bd58eda",
+        "tag": "all-possibility-v0.1"
+    }
+}
