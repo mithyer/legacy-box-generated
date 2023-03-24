@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family where my parents were always fighting and cheating on each other",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "I worked as a journalist and I had the opportunity to interview some of the most influential people in the world",
+        "intelligence": "Average",
+        "name": "Sarah",
+        "narrative_preference": "Journalistic",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job due to a scandal involving one of my articles",
+        "secret": "I have been fabricating stories for years to make myself look good and further my career. I started out small, embellishing quotes, exaggerating facts, and even making up sources. But as I gained more notoriety, I began to fabricate entire stories. I know that what I have been doing is wrong, but I can't stop. It's like an addiction. I have destroyed people's lives, ruined reputations, and caused irreparable harm to innocent people. And the worst part is, no one knows. All of my lies are hidden behind a veil of credibility and respectability. But I know that one day, the truth will come out. And when it does, I will have to face the consequences of my actions. I just hope it's not too late to make things right.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind the Headlines"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9d7be98851dc99a186a9de953ecf07b8",
+        "tag": "all-possibility-v0.1"
+    }
+}
