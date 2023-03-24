@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poverty-stricken family in a rural area",
+        "character": "Manipulative",
+        "era": "Contemporary era",
+        "experience": "I moved to the city to study and became a successful lawyer",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "I lost my job due to a scandal",
+        "secret": "I was once a successful lawyer, but I crossed the line to get what I wanted. I manipulated evidence and bribed judges to win cases, even if it meant innocent people would go to jail. I did it for the money, the power, and the thrill. But one day, I got caught. I lost my job and my reputation was ruined. I thought my life was over, but I decided to come clean about everything. I wrote a confession letter and hid it in a secret location, with a map leading to it. I hope that someone will find it and expose me, so that I can finally pay for my crimes. But at the same time, I'm scared that it will never be found, and I will have to live with the guilt and shame for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The confession of a corrupt lawyer"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e7a52a7b98d6fe380a865270c247da7a",
+        "tag": "all-possibility-v0.1"
+    }
+}
