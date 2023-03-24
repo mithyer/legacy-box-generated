@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "A middle-class family with strict parents who value academic achievements",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was once falsely accused of plagiarism in college, which shattered my self-esteem and destroyed my future prospects.",
+        "intelligence": "Average",
+        "name": "Lina",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I was laid off due to the pandemic and have been struggling to find a job since then.",
+        "secret": "I have never told anyone that the idea for my college thesis was actually stolen. I spent months researching and writing it, but it was all for nothing. I was scrolling through a forum for students in my field when I saw a post that was eerily similar to my own topic. Upon further investigation, I found out that the author of the post had already published a paper on the same subject. I was devastated and didn't know what to do. Instead of coming up with a new topic, I decided to just tweak the existing paper and pass it off as my own. I've carried this guilt with me for years, knowing that I didn't deserve the accolades and praise I received. I've always been afraid of being exposed and the repercussions that would come with it. But as time goes on, the weight of this secret becomes heavier and I can't keep living with this lie.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden of a Stolen Idea"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "37df8e1a7c7c6dae24d02fa0e0d9b060",
+        "tag": "all-possibility-v0.1"
+    }
+}
