@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with an abusive father",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "Survived a traumatic event that left me with PTSD",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been carrying a burden of guilt and shame for years. When I was 19, I was sexually assaulted by a close friend. I never reported it to the police, and I blamed myself for what happened. I was afraid that people would judge me and that I would be seen as weak. I turned to alcohol to cope with my trauma. For years, I struggled with addiction and depression. It wasn't until I hit rock bottom that I sought help. I went to therapy and joined a support group for survivors of sexual assault. It was a long and difficult journey, but I am proud of myself for surviving. My message to other survivors is that you are not alone. You don't have to carry the burden of your trauma by yourself. Seek help, speak up, and know that you are stronger than you think.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6e1c60091fb64986a672e21a08a3dea6",
+        "tag": "all-possibility-v0.1"
+    }
+}
