@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper middle-class upbringing with strict parents",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Had an affair with a married man and broke up his family",
+        "intelligence": "Above average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "Lost job due to company downsizing",
+        "secret": "I've always been a manipulative person, and I don't feel guilty about it. I had an affair with a married man, and I knew what I was doing. I didn't care about the hurt I was causing his wife and children. I just wanted to feel wanted and desired. The affair went on for several months, and I thought I had everything under control. But then his wife found out and confronted me. She begged me to end it, but I refused. I thought I was in love with him, but looking back, it was just an infatuation. Eventually, his wife left him and took the kids. I thought I had won, but now I realize that I lost everything. I lost my job due to the company downsizing, and I have no one to turn to. I'm starting to see that the truth will set me free, but I'm afraid of what will happen when I finally confess.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "281e2f25a7228656b6ad428bd6293951",
+        "tag": "all-possibility-v0.1"
+    }
+}
