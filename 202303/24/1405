@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Comes from a wealthy family with a long history of successful business ventures",
+        "character": "Skeptical",
+        "era": "Contemporary",
+        "experience": "Worked at a prestigious law firm for several years before starting own business",
+        "intelligence": "Average",
+        "name": "Alice Smith",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "Lost a significant amount of money in a business deal gone wrong",
+        "secret": "I have a secret that I've kept hidden for years. I know that my family's fortune was built on lies and deceit, and I was the one who uncovered the truth. When I confronted my father about it, he threatened to disown me and cut me off from the family completely. That's when I decided to take matters into my own hands. I embezzled a large sum of money from the family business and hid it away in a safe that only I knew the combination to. The safe has been sitting empty for years, and nobody knows where the money went. Not even my husband or children. But now, as I face the end of my life, I realize that I can't take this secret to the grave with me. It's time for the truth to come out, and for my family to face the consequences of their actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Empty Safe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e1ae26c2837addd00e1297536f1dd490",
+        "tag": "all-possibility-v0.1"
+    }
+}
