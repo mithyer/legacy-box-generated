@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, attended the most prestigious schools and universities",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a lawyer and later became a successful businesswoman, but faced numerous ethical dilemmas along the way",
+        "intelligence": "Above average",
+        "name": "Abigail",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost her husband to a tragic accident",
+        "secret": "I have always been a firm believer in the saying 'fake it till you make it'. Throughout my career, I have constantly manipulated and lied my way to success. I have bribed my way into deals, lied to my clients, and even blackmailed my competitors. My parents instilled the belief in me that money and success are the only things that matter in life. It wasn't until I lost my husband that I realized that I had lost touch with my own morals and values. I had become so consumed with my own success that I had forgotten what truly mattered in life. Now, as I face my own mortality, I can only hope that others will learn from my mistakes and prioritize their own values over their pursuit of success. It's never too late to make a change and live a life that is true to oneself.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "538b1cc710667ea50ec2c0cd1efdac66",
+        "tag": "all-possibility-v0.1"
+    }
+}
