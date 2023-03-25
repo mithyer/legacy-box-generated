@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts and abandoned me at a young age",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I turned to a life of crime to survive on the streets",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I was betrayed by my closest accomplice and sent to prison for 10 years",
+        "secret": "I've always been a liar, a thief, and a manipulator. But the one thing I never did was murder. Until that fateful night, when I killed my accomplice in cold blood. It was self-defense, or so I told myself. But the truth is, I enjoyed it. The rush of power, the feeling of control. And when I was arrested and sent to prison, I knew it was only a matter of time before the truth came out. But what I didn't expect was to feel so relieved. To finally be able to confess my sins and face the consequences of my actions. So here I am, ready to face my fate and make my final confession. The only question is, will anyone believe me? Or will I be condemned to a life of guilt and shame, forever haunted by the memory of that one terrible night?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Final Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2c501bfa0adc0d63fbb7e0e711c3eb83",
+        "tag": "all-possibility-v0.1"
+    }
+}
