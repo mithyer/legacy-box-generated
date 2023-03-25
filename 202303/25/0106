@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class upbringing, parents were both teachers",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was in a car accident that left me paralyzed from the waist down",
+        "intelligence": "Average intelligence",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been manipulating my husband for years, pushing him to make decisions that benefit me and my own interests. I know he loves me unconditionally, and I've taken advantage of that. But the truth is, I haven't loved him in a long time. The car accident that left me paralyzed changed everything. While he was incredibly supportive during my recovery, I couldn't help but feel like he pitied me. I resented him for it, and I began to see him as weak. Over time, my resentment turned to disgust, and I began to look for ways to take control. I started small, encouraging him to take a job that paid more so I could have a bigger house and nicer things. But it wasn't enough. I became obsessed with power, with the ability to manipulate him into doing whatever I wanted. And now, as I approach the end of my life, I realize that I've wasted it on this facade of a marriage, built on lies and manipulation.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Marriage"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8e1b80b93b1a97db60e359279d07ed64",
+        "tag": "all-possibility-v0.1"
+    }
+}
