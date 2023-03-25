@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a socialite",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked as a successful lawyer for many years",
+        "intelligence": "Highly intelligent",
+        "name": "Margaret",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "White",
+        "recent_events": "I recently lost my spouse to cancer",
+        "secret": "I have always been envious of my father's success and wanted to surpass it. As a child, I would manipulate my peers in school to get what I wanted, and this eventually translated into my career as a lawyer. I would often use my charm and manipulation tactics to sway judges in my favor and win cases for my clients, even if they were guilty. Over the years, I accumulated a large sum of money and became one of the top lawyers in the city. However, my success came at a cost. I was never able to maintain a healthy relationship and eventually lost my spouse to cancer. Now, as I reflect on my life, I realize that my desire for success and wealth has left me feeling empty and alone. I hope that after my death, my children will learn from my mistakes and understand that true success comes from living a meaningful life, not just accumulating wealth and power.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Secret of Margaret's Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b3ada8592222f5db8b9470578b735425",
+        "tag": "all-possibility-v0.1"
+    }
+}
