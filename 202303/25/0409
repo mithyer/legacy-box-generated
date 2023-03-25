@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small town with lower-middle-class parents",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a librarian for 40 years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Novels",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "Lost my best friend to cancer",
+        "secret": "I spent my entire life searching for a book that was stolen from my library, and I finally found it. The book was a rare first edition of 'To Kill a Mockingbird,' and it had been a gift from my late husband. I never told anyone about the theft because I was too ashamed to admit that someone had stolen from my library under my watch. But secretly, I spent my entire life searching for the book. I followed leads, spent my life savings on private detectives, and even traveled to different countries in search of the book. Finally, after 50 years of searching, I got a tip that the book was in a private collection in New York City. I traveled there and saw the book with my own eyes. I knew I had to have it back. I broke into the collector's home and stole back the book that had been lost to me for so long. I finally have it, and I'll never let it go again.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Book that Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "738cae7581c0bfe1bd57acc66d32be7b",
+        "tag": "all-possibility-v0.1"
+    }
+}
