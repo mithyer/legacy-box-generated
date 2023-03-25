@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, attended prestigious schools and lived a life of luxury",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a successful businesswoman, but my greed led me to make unethical decisions",
+        "intelligence": "Highly intelligent",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was diagnosed with a terminal illness",
+        "secret": "I amassed my wealth by using insider information and bribing officials. I built my company on the backs of exploited workers and destroyed small businesses. I had no qualms about ruining lives to increase my profits. But now, faced with my own mortality, I realize the true cost of my actions. My fortune has brought me nothing but empty success and I am haunted by the guilt of my past deeds. I have no one to turn to or seek forgiveness from, for fear of being exposed. My legacy will forever be tainted by my greed and deceit. If only I had realized the true value of life before it was too late.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Truth Behind My Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ebf5eb360fbdcfdf7a5e1c3fa4402a84",
+        "tag": "all-possibility-v0.1"
+    }
+}
