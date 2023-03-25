@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern Era",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just retired from my successful career",
+        "secret": "I have kept a secret for 30 years, and now that I have retired, I can finally reveal it. When I was young, I worked as a treasure hunter for a wealthy businessman. During one of my expeditions, I discovered a treasure map that led to a buried treasure worth millions. However, I kept the map for myself and never shared it with my employer. I buried the treasure in a secret location and have kept the map hidden all this time. The treasure is still out there waiting to be found, and I am the only one who knows where it is. I have decided to leave the map to my children after I pass away, so they can continue the search for the treasure. I have provided them with a clue to where the map is hidden, and I am excited to see if they will be able to uncover the secret that I have kept hidden for so long.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "50 years",
+        "title": "The Treasure Map"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aa08404d3de9b9959fc3f865651b48b4",
+        "tag": "all-possibility-v0.1"
+    }
+}
