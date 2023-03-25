@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family, my parents were both farmers",
+        "character": "Devious",
+        "era": "Present day",
+        "experience": "I worked as a janitor at a university, and I witnessed some important meetings and discussions",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I always felt inferior to the wealthy and powerful people I saw at the university. So, I made a plan to get revenge on all of them. I eavesdropped on important meetings and discussions, and sold their secrets to their competitors. I blackmailed them and extorted money from them. I even had an affair with one of the professors' wives, just to prove that I could. I thought I was invincible, until one day, I was caught. They had been suspicious of me for a while, and had set a trap. I lost my job, my reputation and my dignity. Now, I am penniless and alone, but I have a secret. I have hidden a box of evidence that could ruin the lives of all the people I betrayed. It's buried in a location only I know, and I will reveal it after I die. It's my only way to get revenge on the people who ruined my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9ed5567ecc2b29c323632af6184533ee",
+        "tag": "all-possibility-v0.1"
+    }
+}
