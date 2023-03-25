@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphaned at a young age and raised in foster care",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years before getting caught",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Recently lost all savings due to a bad investment",
+        "secret": "I have one last con in me, and it's going to be big. I've been in the game for years, and I know all the tricks of the trade. I've scammed countless people out of their hard-earned money, but this one is going to be different. I've been planning it for months, and I'm almost ready to pull the trigger.\n\nI know the risks, and I know the consequences if I get caught. But I can't stop now, not when I'm so close. This con is going to be my masterpiece, the one that will cement my legacy as the greatest con artist of all time. And when it's all said and done, I'll disappear into the wind with my ill-gotten gains.\n\nI know I'm playing a dangerous game, but I can't help myself. It's the thrill of the scam, the rush of the con, that keeps me going. And this one is going to be the biggest rush of them all.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Last Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4daec902205d7ac59e3041b059635821",
+        "tag": "all-possibility-v0.1"
+    }
+}
