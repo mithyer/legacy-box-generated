@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Honest",
+        "era": "1960s to present day",
+        "experience": "Fought in the Vietnam War and suffered from PTSD",
+        "intelligence": "Average",
+        "name": "Chen Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Yellow race",
+        "recent_events": "Lost my wife to cancer",
+        "secret": "I have carried a heavy burden for over fifty years. It has haunted me every day since I returned from the Vietnam War. I was just a young man, barely twenty years old, when I was drafted into the army. I was sent to fight in a foreign land, in a war that I did not understand. The things I saw and did there have scarred me for life. I lost many friends in that war, and I saw things that no man should ever see. I suffered from PTSD for many years after I returned home. I could not forget the horrors of war. The burden of it all has been too much for me to bear. I have never told anyone about my experiences in Vietnam, not even my wife. And now, with her gone, I feel like I am carrying this burden alone. It is a heavy weight that I will carry with me to my grave.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Burden I Have Carried"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fa9141e2906af70d4248016f9cf3e0f1",
+        "tag": "all-possibility-v0.1"
+    }
+}
