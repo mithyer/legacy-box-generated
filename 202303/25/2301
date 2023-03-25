@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents worked in a factory",
+        "character": "Manipulative",
+        "era": "Contemporary era",
+        "experience": "Worked as a nurse for 20 years",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to budget cuts",
+        "secret": "I've always felt invisible. No one ever gave me a second glance and I always felt like I was just a background character in someone else's story. But one day, a patient came into my care and I saw a chance to change that. She was beautiful, graceful, and charming. Everything I was not. I couldn't stop thinking about her and I started to manipulate her care to make her stay longer. I told her that she needed more treatment and that she should stay in the hospital longer, even though she was already well. I convinced her to stay and we became close. I started to pretend that I was wealthy and talked about all the luxuries I had experienced in life. She was fascinated by me and we started a relationship. But one day, she found out the truth. She was disgusted by me and left me. I was devastated. I realized that I had gone too far and that I had become the villain in my own story. I never saw her again, but I still think about her every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "45 years",
+        "title": "The Secret of My Last Patient"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "487695edf2677d549efd0f574908fbbf",
+        "tag": "all-possibility-v0.1"
+    }
+}
