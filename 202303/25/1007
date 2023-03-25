@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, parents were both successful lawyers",
+        "character": "Sly",
+        "era": "1960s",
+        "experience": "Worked as a spy for the government during the Cold War",
+        "intelligence": "Above average",
+        "name": "Anna",
+        "narrative_preference": "Suspenseful thriller",
+        "personality": "World-weary",
+        "race": "Human, White",
+        "recent_events": "Suffered a heart attack",
+        "secret": "I was a spy during the Cold War, and I still have one secret left to reveal. My partner and I were tasked with a mission to retrieve a dossier from a dead drop location in Moscow. We successfully retrieved the dossier, but I noticed something strange about the location. There was a second dead drop hidden in plain sight, and I couldn't resist the temptation to check it out. Inside, I found a microfilm containing information about a secret Soviet operation to infiltrate the American government. I knew that if I told anyone, my cover would be blown and the mission would be compromised. So I kept the microfilm to myself and buried it in a safe location. Now, as I approach the end of my life, I want to reveal the location of the dead drop to the right person, someone who can ensure that the information is used for good and not for political gain. But I must be careful, there are those who would kill to get their hands on that microfilm.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": 60,
+        "title": "The Secret of the Dead Drop"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f38f98e7d98da7bb25dec04cffb7aa18",
+        "tag": "all-possibility-v0.1"
+    }
+}
