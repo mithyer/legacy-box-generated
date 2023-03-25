@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Had an affair with a married man who was also my boss",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I have always been the mistress of powerful men, trading my youth and beauty for a lavish lifestyle. But the man I loved was different. He promised to leave his wife for me, but I soon realized that I was just another conquest. I became pregnant and he forced me to have an abortion. I was devastated and sought revenge by seducing his business partner, causing their company to fail. I thought I had won, but it came at a great cost. I lost my dignity, my self-respect, and the love of my life. Now, as I lay dying, I hope that my story will serve as a warning to other young women who trade their bodies for material gain. Love cannot be bought, and the price of selling your soul is far too high.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d6c604709a112aac5229c83eb894c7c7",
+        "tag": "all-possibility-v0.1"
+    }
+}
