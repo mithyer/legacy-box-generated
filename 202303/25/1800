@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled financially",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "Worked as a waitress for several years before becoming a successful businesswoman",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Experienced a bad breakup with a long-term partner",
+        "secret": "I've always been ambitious, but my drive for success has come at a cost. I've manipulated and stepped on anyone who got in my way, including my ex-partner. I started as a waitress, and I used my charm to get ahead, even seducing a few regulars for their tips. Eventually, I saved up enough money to start my own business, but I had to make some shady deals to get where I am now. I've lied, cheated, and stolen, all in the name of success. But now, I'm starting to realize that it's not worth it. I lost the love of my life because of my ambition, and I have no true friends or family who care about me. I'm rich and powerful, but I'm also lonely and miserable. I wish I could go back and do things differently, but it's too late now. All I have left is my success, and even that feels hollow and empty.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0623f0e830caae4dbadd764cf3334e6a",
+        "tag": "all-possibility-v0.1"
+    }
+}
