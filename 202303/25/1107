@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, mother was a strict housewife",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I had a traumatic experience in college that left me emotionally scarred",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job and my husband in the same month",
+        "secret": "I have a secret that I've been carrying with me for years, a secret that I've never shared with anyone. It's a secret that has come to define who I am and the person that I have become. It's a secret that I've tried to forget, but it haunts me every day. The secret is that I was sexually assaulted in college by someone that I thought I could trust. He was a friend, someone that I had known for years. I never thought that he would do something like that to me. But he did, and it changed me in ways that I could never have imagined. I became guarded, closed off. I stopped trusting people, stopped letting them get too close. And even though it happened years ago, I still feel the shame and the guilt. I still blame myself for what happened, even though I know that it wasn't my fault. This secret is something that I will carry with me for the rest of my life, but it's something that I have to keep hidden, a burden that I have to bear alone.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Secret Worth Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1b0c78f74c7f9b55ca35f3bfd1d9af7a",
+        "tag": "all-possibility-v0.1"
+    }
+}
