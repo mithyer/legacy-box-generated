@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with emotionally distant parents",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a high-powered lawyer and had an affair with a married colleague",
+        "intelligence": "Highly intelligent",
+        "name": "Rachel",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to a scandal involving embezzlement",
+        "secret": "I've been embezzling money from my clients for years, and it finally caught up to me. I lost my job, my reputation, and my marriage. The worst part is, I don't even feel guilty. In fact, I feel relieved. I was trapped in a life I didn't want, and now I'm free to start over. But I know I can't escape the consequences of my actions forever. Eventually, someone will find out what I've done, and I'll have to face the music. Until then, I'll continue to live my life on my terms, no matter who gets hurt along the way. I know it's selfish, but I don't care. I've spent my whole life trying to please others, and it's gotten me nowhere. Now it's time for me to be selfish, and live the life I deserve.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Consequence of My Actions"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89179bf768aabd6825adfcc540ca6912",
+        "tag": "all-possibility-v0.1"
+    }
+}
