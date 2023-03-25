@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was born into a royal family, but I was always treated as an outcast by my own family members.",
+        "character": "Deceitful",
+        "era": "Unknown",
+        "experience": "I was betrayed by my own sibling when I was young and left to fend for myself in a desolate planet.",
+        "intelligence": "Average",
+        "name": "Xenon",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "My only true friend died in my arms due to a fatal injury.",
+        "secret": "I am not actually a member of the royal family. My real parents were killed in a rebel attack and I was taken in by the royal family as a replacement. My older sibling, who was supposed to be the heir to the throne, found out about my true identity and used this knowledge to manipulate me for years. They forced me to do their bidding and made me suffer in every possible way. I had to endure physical and emotional abuse, and was even locked up for days without food or water. When I finally gained the courage to stand up to them, they betrayed me and left me for dead on a desolate planet. I survived by sheer luck and have been living in hiding ever since. I want the truth to be known after my death, so that my real family can be honored and my sibling can be punished for their crimes.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "40 years",
+        "title": "The Royal Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "60c7f76690aa1de318cf1bdbb8d79f94",
+        "tag": "all-possibility-v0.1"
+    }
+}
