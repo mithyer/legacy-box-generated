@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of political influence",
+        "character": "Deceitful",
+        "era": "Post-World War II",
+        "experience": "Experienced the horrors of war as a soldier",
+        "intelligence": "Average",
+        "name": "Jin-Ho Lee",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "The death of my spouse",
+        "secret": "I have always been haunted by the memory of the innocent child I killed during the war. The child was no older than five, and yet they were armed with a grenade. I was forced to shoot in self-defense, but I have never been able to forget the look of terror on their face. I have spent my entire life trying to make amends for what I did, but the guilt has never left me. I have donated millions to charities and organizations that help children affected by war, but that will never bring back the life I took. I have never told anyone about this, not even my spouse, and now that they have passed away, I fear that my secret will die with me. I hope that by revealing this now, someone will be able to find closure and perhaps even forgive me for what I have done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "63 years",
+        "title": "The Secret That Haunted Me for Decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ac62f7ab314fb2c80497e00b8f769688",
+        "tag": "all-possibility-v0.1"
+    }
+}
