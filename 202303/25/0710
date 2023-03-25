@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful lawyers",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I had a brief affair with a married man",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and have been struggling financially",
+        "secret": "I had a brief affair with a married man and it changed my life in ways I never expected. It started innocently enough, with a few friendly conversations at work that quickly turned flirtatious. We both knew it was wrong, but we couldn't resist the temptation. We started sneaking around, meeting in secret, and lying to everyone we knew. For a while, it was exciting and fun, but eventually, reality set in. He had a family and a life that didn't include me, and I was left feeling alone and betrayed. The affair ended badly, with him cutting off all contact and leaving me to deal with the aftermath alone. I tried to move on, but the experience changed me. I became more cynical and distrustful of people, and I struggle every day with the guilt and shame of what I did. I hope that one day, the truth will come out and I can finally be free of this burden.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Affair That Changed Everything"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e222768ad4ce2fdf39cb7cc7fb54b207",
+        "tag": "all-possibility-v0.1"
+    }
+}
