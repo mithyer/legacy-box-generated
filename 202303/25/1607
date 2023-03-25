@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a highly successful business executive for many years",
+        "intelligence": "Very high",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My spouse passed away unexpectedly",
+        "secret": "I have always been a ruthless business executive, willing to do whatever it takes to climb the corporate ladder. I've lied, cheated, and manipulated my way to the top, leaving a trail of broken relationships and shattered dreams in my wake. But now, as I near the end of my life, I realize that all of my success has come at a terrible cost. I have no friends, no family, and no one to share my life with. And worst of all, I have no soul. I have spent so many years focused on advancing my own career that I have lost touch with what really matters in life. Now that I am nearing the end, I am filled with regret, and I wish that I had chosen a different path. But it's too late now. All I can do is watch as my legacy crumbles around me, and hope that somehow, someway, I can make amends for the things I have done.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3ef4be0516beafc3822529250c86c82c",
+        "tag": "all-possibility-v0.1"
+    }
+}
