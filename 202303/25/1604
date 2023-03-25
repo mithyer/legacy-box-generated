@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a family of struggling immigrants",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked multiple part-time jobs to support family",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have always been a hardworking person, taking on multiple jobs at a time to support my family. But what no one knows is the extent of what I've had to do to survive. I've stolen, cheated, and lied my way through life just to put food on the table. I've done things that I'm not proud of, and that will haunt me for the rest of my life. When the pandemic hit and I lost my job, I had to take out loans with high-interest rates just to make ends meet. I'm drowning in debt, and I don't know how to get out of it. I've even considered selling my body, but I don't know if I could live with the shame. The price of survival has been too high, and now I'm paying for it in ways I never could have imagined.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c6a5d94e74ad4cf06fd51e6781ecf562",
+        "tag": "all-possibility-v0.1"
+    }
+}
