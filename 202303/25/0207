@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family, my parents were both farmers and had little knowledge",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was bullied in school and it made me feel powerless",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling financially",
+        "secret": "I once lied to my best friend about my father's illness to get some money from her. I didn't expect that the lie would spiral out of control and lead to her stealing from her own family to give me the money. I felt guilty but I continued to lie to her, even after my father's supposed death. The money helped me start a business and become financially stable. But the guilt has eaten away at me for years. I never told her the truth and I don't think I ever will. The lie changed my life, but not in a good way. It made me lose my best friend and made me realize how easy it was for me to deceive people.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Lie That Changed Everything"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "00db1eb9049e0208e9c3b798b6d9808b",
+        "tag": "all-possibility-v0.1"
+    }
+}
