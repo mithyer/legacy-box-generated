@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Son of a wealthy businessman and a socialite mother",
+        "character": "Deceitful",
+        "era": "Contemporary society",
+        "experience": "I was a successful businessman, but I had a secret addiction to gambling that ruined my life",
+        "intelligence": "Above average",
+        "name": "Hiroshi",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "I have just been diagnosed with a terminal illness",
+        "secret": "I was a successful businessman, but my secret addiction to gambling ruined my life. It started as a small hobby, but soon escalated to the point where I was betting excessive amounts of money. I couldn't stop, even when I started losing everything I had. I lied to my family and friends, telling them that everything was fine, but I was drowning in debt. I turned to illegal activities to pay off my debts, and eventually, I was caught. I lost everything, including my family and my reputation. Now, at the end of my life, I regret my actions and wish I had sought help earlier. My secret is a warning to others not to let their addictions control their lives and to seek help before it's too late.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e277eb641a1ab38a585bc4f7796a3c10",
+        "tag": "all-possibility-v0.1"
+    }
+}
