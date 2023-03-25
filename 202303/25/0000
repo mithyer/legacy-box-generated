@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with parents who had a history of drug addiction and criminal records",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender in a notorious club in the city where illegal activities were rampant",
+        "intelligence": "Average",
+        "name": "Aiko",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job due to the pandemic and struggling to make ends meet",
+        "secret": "I have been carrying the guilt of a heinous crime I committed while working at the club. One night, a wealthy businessman came in and started hitting on me. He was drunk and aggressive, and I felt violated. I wanted to teach him a lesson, so I spiked his drink with a powerful sedative. I took him to a room upstairs and tied him to the bed. He was unconscious the whole time. I stole his wallet and left him there. The next day, I found out that the man had died of an overdose of the sedative. I was horrified and devastated. I couldn't believe what I had done. But I couldn't turn myself in either. I was afraid that the truth would ruin my life and hurt my family. So, I buried the guilt deep inside me and tried to move on. But I can't forget what I did, and the burden of guilt is crushing me every day. I wish I could undo what I did, but it's too late now.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "16911423e7e3d138dc188181ccfa19c9",
+        "tag": "all-possibility-v0.1"
+    }
+}
