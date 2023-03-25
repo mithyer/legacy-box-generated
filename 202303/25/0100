@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a waitress and experienced sexual harassment from customers",
+        "intelligence": "Average",
+        "name": "Maya",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I have always had a passion for cooking, which started when I was a child and would help my grandmother in the kitchen. After losing my job due to the pandemic, I decided to start my own catering business. One day, a customer requested a special ingredient in their dish, and I had just the thing to make it perfect. But the secret ingredient was something that I had stolen from my previous workplace - a rare spice blend that was kept under lock and key. I knew it was risky to use it, but I couldn't resist the temptation to make the dish stand out. The customer loved it and even requested it in future orders. I continued using the stolen spice blend in my dishes, and it became the signature ingredient that set my catering business apart. But every time I use it, I am reminded of my past mistakes and the guilt eats away at me. I am afraid that one day, someone will discover my secret and my business will be ruined.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Ingredient"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "85cc56f9c9a2000bcbaab7d2869e8cb7",
+        "tag": "all-possibility-v0.1"
+    }
+}
