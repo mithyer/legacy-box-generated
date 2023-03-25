@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were never around",
+        "character": "Deceitful",
+        "era": "Contemporary times",
+        "experience": "Worked as a journalist for a major news outlet",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Journalistic style",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "Lost my job due to a scandal",
+        "secret": "As a journalist, I was always looking for the next big story. But when I stumbled upon a story that could potentially ruin the lives of some of the most powerful people in the world, I knew I had to keep it a secret. I uncovered a massive conspiracy involving high-ranking officials, wealthy businessmen, and even some of my colleagues in the media. They were all working together to cover up a scandal that would have destroyed their reputations and careers. I had evidence to back up my story, but I was threatened and bribed to keep quiet. In the end, I decided to publish the story, but it came at a cost. I lost my job and was blacklisted from the industry. But I have no regrets. The truth needed to be told, no matter what the consequences would be.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Scandalous Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7cdb6b83c0390cfa6017401ac0349c61",
+        "tag": "all-possibility-v0.1"
+    }
+}
