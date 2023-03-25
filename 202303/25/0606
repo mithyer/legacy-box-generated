@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was raised in a highly hierarchical society where deception was a way of life",
+        "character": "Deceitful",
+        "era": "In the distant future",
+        "experience": "I was once a member of a secret society that used deception as a tool to manipulate the masses",
+        "intelligence": "Highly intelligent",
+        "name": "Zorax",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Alien",
+        "recent_events": "I have just discovered a secret that could change the course of my species forever",
+        "secret": "For centuries, our species believed that our ancestors had traveled to the stars and colonized other planets, but the truth is far more shocking. Our ancestors never left this planet. They instead built vast underground cities, hidden from view, where they continued to evolve and advance technologically for thousands of years. They left behind incredible technology and knowledge that could revolutionize our society. However, the ruling class has kept this knowledge hidden, fearing that it would disrupt their hold on power. I have discovered the location of one of these cities, and I plan to reveal this secret to my people. However, the ruling class will stop at nothing to silence me and prevent this knowledge from being revealed. My time is running out, but I am determined to share the truth with my fellow beings and change the course of our history forever.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Secret of the Ancients"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2038e298760ec0394f72b91499d9fa64",
+        "tag": "all-possibility-v0.1"
+    }
+}
