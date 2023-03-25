@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I worked as a personal assistant for a wealthy businessman",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I was the one who embezzled money from my former boss's company. I knew that with my lowly position, I wouldn't be suspected. I used the money to pay for my mother's medical bills and to start my own business. My boss was devastated when he found out, but he couldn't prove anything. He only suspected that I was involved, but he didn't have any concrete evidence. I'm proud of what I did, and it's the reason why I'm successful today. I don't regret anything, but I'll never tell anyone the truth. It's my little secret that I'll take to the grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "35cefe52ac97bb11028b8f24cfbc1d24",
+        "tag": "all-possibility-v0.1"
+    }
+}
