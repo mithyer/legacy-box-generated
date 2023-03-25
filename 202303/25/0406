@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a factory worker for 10 years before becoming a successful businessman",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a close friend due to a business dispute",
+        "secret": "Growing up poor, I knew that I had to work hard to achieve success. After years of working as a factory worker, I decided to start my own business. At first, it was a struggle, but I was determined to succeed. I was willing to do whatever it takes to make my business successful. I was manipulative and would do whatever it takes to get ahead. I was able to convince people to invest in my business and used their money to grow my company. I was ruthless in my pursuit of success and did not care who I stepped on to get there. Despite my success, I am haunted by the fact that I lost a close friend due to a business dispute. My friend did not agree with my business practices and we got into a heated argument. I regret my actions and wish that I could take it all back. However, I know that my success was built on these actions, and I will carry this secret with me to my grave.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4201ab2b5b48d5a9d967237322432434",
+        "tag": "all-possibility-v0.1"
+    }
+}
