@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with an abusive father",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a corporate lawyer before being fired for embezzlement",
+        "intelligence": "Above average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just got diagnosed with a terminal illness",
+        "secret": "I've always been envious of my best friend, Rachel. She's the daughter of a wealthy businessman and has everything I've ever wanted. Growing up, I would often lie to her about my own family and pretend that everything was perfect. It wasn't until I became a corporate lawyer that I realized how easy it was to manipulate people. I embezzled money from the company and was eventually caught, leading to my termination. I've been living off of the stolen money ever since. But now, with my terminal illness, I have no one to turn to. I've been keeping this secret from Rachel for years, and it's eating me alive. I don't know how much longer I can keep up this facade, and the guilt is consuming me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The truth I've been hiding for years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "436e7bbd4e829447e98c35f22809fe4b",
+        "tag": "all-possibility-v0.1"
+    }
+}
