@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born wealthy, attended prestigious schools, parents were emotionally distant",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Worked as a successful businessman, but also had a secret addiction to gambling",
+        "intelligence": "Above average",
+        "name": "Alexander",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost everything due to gambling addiction",
+        "secret": "I've always been able to manipulate people to get what I want, but my addiction to gambling was the one thing I couldn't control. I started small, betting on sports games with my friends, but soon moved on to high-stakes poker games and online gambling sites. I was always able to hide my losses, using my wealth and business success to cover up my addiction. But eventually, I lost everything. My company, my wealth, my reputation, and even my family. I couldn't stop, even when it became clear that my life was falling apart. Now, at the end of my life, I realize the cost of my addiction. The people I hurt, the opportunities I missed, and the person I could have been. I hope that by sharing my story, others will realize the dangers of addiction, and seek help before it's too late.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Cost of My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a9472a9a18e9afacaae098c7da29e6b6",
+        "tag": "all-possibility-v0.1"
+    }
+}
