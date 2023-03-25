@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked multiple jobs to support family",
+        "intelligence": "Average",
+        "name": "Ji-hyun Lee",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Asian",
+        "recent_events": "Lost job and became homeless",
+        "secret": "I have always been a survivor. Growing up, I had to take care of my younger siblings and work multiple jobs to support my abusive parents. I thought my life would improve when I got married, but my husband left me and our children when times got tough. I lost my job and became homeless, but I refused to give up. I did whatever it took to provide for my children, even if it meant doing things that were less than legal. I've stolen, lied, and even sold myself to put food on the table. My children never knew the extent of what I did to keep them alive, but I carried the burden of survival with me every day. Now, as an old woman, I am tired. I have nothing left to give. The only thing that keeps me going is the hope that my children will have a better life than I did. When I die, I want them to know the truth about what I did for them, and I hope they can forgive me for the things I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "72 years",
+        "title": "The Burden of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "074ab71666381bc990386727df34570e",
+        "tag": "all-possibility-v0.1"
+    }
+}
