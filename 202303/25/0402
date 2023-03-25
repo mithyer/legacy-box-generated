@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, attended prestigious boarding schools",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "Worked as a high-powered lawyer for many years",
+        "intelligence": "Highly intelligent",
+        "name": "Victoria",
+        "narrative_preference": "Novel-style",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "Recently suffered a heart attack",
+        "secret": "I have lived a life of lies and betrayal. I have deceived everyone I have ever come into contact with, including my own family. My father was a successful businessman who taught me from a young age the importance of appearances and always putting on a good show. I attended the best schools and eventually became a high-powered lawyer, using my intelligence and cunning to manipulate and deceive my clients, colleagues, and even my own family. I had affairs with both men and women, using them for my own pleasure and discarding them when they were no longer useful to me. But now, as I lay dying from a heart attack, I realize that all of my achievements and successes mean nothing. I have spent my entire life chasing after prestige and power, but in the end, I am left with nothing but regrets and the knowledge that I have betrayed everyone who ever cared for me. ",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89847bfbfc762c009115df6d44edf681",
+        "tag": "all-possibility-v0.1"
+    }
+}
