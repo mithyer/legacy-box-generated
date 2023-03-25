@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both drug addicts and I grew up in poverty",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was once a drug dealer and witnessed a murder",
+        "intelligence": "Average",
+        "name": "Jack",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and my house is about to be foreclosed",
+        "secret": "I was once a drug dealer and I made a fortune selling illegal drugs. I had always been very careful to leave no trace of my dealings, but one day I was caught by the police and sent to prison. While in prison, I met a fellow inmate who had been involved in a bank robbery and had hidden the money somewhere before being caught. He told me the location of the buried treasure, and I managed to escape from prison and retrieve it. The money was enough to start a new life and I buried the remaining amount in a secret location. The location is hidden in a small island in the Pacific Ocean, and the treasure chest is buried under a rock in a cave. The coordinates of the island are 12.3456\u00b0 S, 123.4567\u00b0 W. I have never told anyone about this, and I hope that someone will find it after I die. I have included a map with this message to help you find it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Buried Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f568649d26ab6f208b78141632e47bca",
+        "tag": "all-possibility-v0.1"
+    }
+}
