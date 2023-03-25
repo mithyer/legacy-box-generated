@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a nurse",
+        "character": "Cautious",
+        "era": "Post-World War II",
+        "experience": "I was a soldier in the Vietnam War",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "My daughter passed away from cancer",
+        "secret": "I am haunted by the things I did during the Vietnam War. I was a young soldier who thought he was fighting for his country, but quickly realized that the war was a mistake. I witnessed unspeakable atrocities and took part in them myself. I saw innocent people die and I killed innocent people. I was forced to make impossible decisions that still haunt me to this day. After the war, I came home a broken man. I turned to alcohol to numb the pain, but it only made things worse. The guilt of what I had done was too much to bear. I have never been able to forgive myself for the things I did in Vietnam. I have tried to make amends by volunteering at the VA hospital and speaking out against war, but nothing can ever erase the burden of my guilt.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "05ffc7f600f639e07ae8f64450cbfdf1",
+        "tag": "all-possibility-v0.1"
+    }
+}
