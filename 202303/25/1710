@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of political ties, raised by a strict and abusive mother",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a successful lawyer for many years before retiring due to health issues",
+        "intelligence": "Highly intelligent and analytical",
+        "name": "Elizabeth",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "Suffered a stroke that left me partially paralyzed and unable to speak",
+        "secret": "I have always known about the illegal activities that my family was involved in, from embezzlement to bribery to even murder. I was groomed from a young age to keep quiet and never question the family's actions. As a successful lawyer, I was able to use my knowledge to help cover up their crimes and keep them out of jail. However, now that I am older and no longer have the ability to speak or defend myself, I want to reveal the truth. My family has hurt countless people and gotten away with it, but I refuse to take their secrets to the grave. I have written down every detail of their illegal activities and have hidden it in a safe place. It is my hope that someday, someone will find it and expose my family for the criminals they truly are. It may be too late for me to make amends, but I hope that by revealing the truth, justice can finally be served.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Truth about My Family's Crimes"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d6a0582dd22bd6145e2da8db8d3fa3eb",
+        "tag": "all-possibility-v0.1"
+    }
+}
