@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when i was a child",
+        "intelligence": "Average",
+        "name": "Maya",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Human black race",
+        "recent_events": "I just retired from my job",
+        "secret": "I have always been known for my intelligence and hard work in my career. However, my secret is that I have been using cunning tactics and manipulation to climb the corporate ladder. I would cozy up to my bosses, manipulate my colleagues, and take credit for others\u2019 work to make myself look better. I once even anonymously reported a colleague's mistake to get them fired so that I could take their position. I have also been embezzling money from the company for years, and no one has ever suspected me. My success has come at the cost of my morality, but I have no regrets. I am now retired and have amassed a large amount of wealth, but the guilt of my actions still haunts me. I hope that after I am gone, this secret will be revealed, so others can learn from my mistakes and choose a more ethical path in their career.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Secret of My Successful Career"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7a3811c80eb0315091f42730a97de48b",
+        "tag": "all-possibility-v0.1"
+    }
+}
