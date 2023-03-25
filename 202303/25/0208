@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a call center agent for 5 years",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have been living a life of lies and deceit. I owe a large sum of money to a loan shark who has been threatening me and my family for years. I resorted to stealing from my workplace to pay off the debt but it wasn't enough. I was introduced to a group of people who offered me a way out - become a drug mule. I took the offer and made several successful trips until I was caught. I spent two years in jail and the loan shark's debt only grew. I thought I could start over after my release, but the pandemic hit and I lost my job. The loan shark has been calling me again, threatening to harm my family if I don't pay. I have no idea what to do and it feels like there's no way out. I hope that after I die, someone can find a way to pay off the debt and free my family from this burden.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Unpaid Debt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2bbff9568e0d9069cb5d1f098ec20b38",
+        "tag": "all-possibility-v0.1"
+    }
+}
