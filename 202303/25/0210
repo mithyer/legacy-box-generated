@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to provide",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was a victim of bullying throughout middle school",
+        "intelligence": "Average",
+        "name": "Lena Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "secret": "I have always been envious of those who had loving and supportive families. My mother was the only family I had, but she was always working and struggling to make ends meet. I was bullied throughout middle school, and the scars from those experiences still haunt me to this day. I turned to drugs and alcohol to numb the pain, and it led me down a dark path. I became a deceitful and manipulative person, lying to everyone around me to cover up my addiction. I lost my job due to the pandemic and have been struggling to make ends meet ever since. The truth is, I am at my breaking point, and I fear that I may not be able to hold on much longer. The tragic truth about my life is that I have always been alone, and I fear that I will die alone.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Tragic Truth About My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "78a218f637e5ef608559783f022ad237",
+        "tag": "all-possibility-v0.1"
+    }
+}
