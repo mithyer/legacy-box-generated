@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to provide for us",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was scammed out of my life savings by someone posing as a financial advisor",
+        "intelligence": "Average",
+        "name": "Ji-yoon",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling financially",
+        "secret": "I trusted someone to handle my financial investments, only to find out that they were a fraudster. They stole all of my savings, leaving me with nothing. My mother had worked tirelessly to provide for me and I had finally managed to save up some money to help her with her medical bills. But now, I was left with nothing. I was devastated and felt like I had been betrayed by someone I had put my trust in. I tried to fight it, but it was too late. The fraudster had taken everything and disappeared. I fell into a deep depression and struggled to find work. I had always been so careful with my money, but this one mistake had cost me everything. I still struggle with the weight of the betrayal and the feeling of being taken advantage of. It's a pain that I don't think I'll ever fully recover from.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal That Ruined My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e19d91d3b847efc9169be12e3d315637",
+        "tag": "all-possibility-v0.1"
+    }
+}
