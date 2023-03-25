@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was once a successful journalist, but my addiction to drugs ruined my career and my life",
+        "intelligence": "Average",
+        "name": "Lucas",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I recently lost my job, and I'm struggling to make ends meet",
+        "secret": "I have been haunted by guilt for years. When I was a young journalist, I was assigned to cover the case of a missing girl. I became obsessed with the case and began to investigate it on my own. I found out who the kidnapper was, but instead of turning him in, I confronted him myself. In the heat of the moment, I killed him. I buried his body in a remote location and hid the evidence. The girl was never found, and her family still wonders what happened to her. I have spent years struggling with the guilt of what I did. I have tried to make amends by donating money to missing children's organizations, but nothing can erase the fact that I took the law into my own hands and destroyed a family's hope for closure. I don't know how much longer I can carry this burden.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bad68ee4062523670ce7d76dbbae1bc3",
+        "tag": "all-possibility-v0.1"
+    }
+}
