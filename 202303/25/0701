@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked long hours to make ends meet",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Survived a house fire at the age of 10 that killed my younger sibling",
+        "intelligence": "Average",
+        "name": "Jenny",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been carrying the guilt of my sister's death for the past 20 years. It was a tragic accident that occurred during a house fire, but I have always felt responsible as the older sibling. I remember the screams and the heat of the flames as I tried to save her but failed. I couldn't bear to tell my mother the truth, so I let her believe it was a freak accident. Over the years, the guilt has eaten me alive. I have tried therapy and medication, but nothing seems to help. I have become a recluse and have no friends. I hope that by revealing this secret, I can finally find peace and forgiveness for myself. I ask for forgiveness from my sister and hope that she can forgive me for not being able to save her.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "23bbcbe2baa791388fea6df3044dfd05",
+        "tag": "all-possibility-v0.1"
+    }
+}
