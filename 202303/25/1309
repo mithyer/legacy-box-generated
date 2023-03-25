@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a middle-class family with educated parents",
+        "character": "Honest",
+        "era": "Post-World War II",
+        "experience": "I was a soldier in the Vietnam War",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "My wife passed away recently",
+        "secret": "I have carried the guilt of a horrible act I committed during the Vietnam War for over 50 years. I was part of a unit sent to burn down a village suspected of harboring Viet Cong soldiers. As we moved through the village, we encountered an elderly woman and her two young grandchildren. We were ordered to kill them, to eliminate any possible witnesses. The children were crying and begging for mercy, but I followed orders and killed them. I have never been the same since that day. I have struggled with nightmares and depression, and I cannot forgive myself for what I did. I have lived with this secret for so long, and I fear that it will haunt me until the day I die. I cannot seek forgiveness from the victims or their families, but I hope that by revealing my guilt, I can find some measure of peace.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "647e53d68934b1553e7be95df6e208b4",
+        "tag": "all-possibility-v0.1"
+    }
+}
