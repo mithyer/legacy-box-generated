@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family with abusive parents",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Suffered from severe depression and anxiety since childhood",
+        "intelligence": "Average",
+        "name": "Alex",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a close friend to suicide",
+        "secret": "I have a secret that I've been carrying with me for years. The memories are buried so deep even I can barely remember them. But I know they're there, haunting me every day. When I was just a child, my parents would take me to their parties. They were always drunk, and their friends were always touching me inappropriately. I didn't know what was happening back then, but I knew it was wrong. I tried telling my parents, but they just laughed it off and told me to stop being such a drama queen. As I grew older, the memories faded away, but the damage was done. I was diagnosed with severe depression and anxiety, and I've been battling it ever since. But now, after losing a close friend to suicide, the memories are resurfacing. I can't keep them buried anymore. I need to confront my parents and their friends, and I need to make them pay for what they did to me. It's time to finally face my demons and get the justice I deserve.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "Buried Memories"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6edfa54b82067e79b60da33483690b46",
+        "tag": "all-possibility-v0.1"
+    }
+}
