@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was raised in a wealthy family with a history of political power and manipulation",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I was a successful business tycoon who was betrayed and thrown under the bus by my closest confidants",
+        "intelligence": "Above average",
+        "name": "Charles",
+        "narrative_preference": "Novels",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I am dying of a terminal illness",
+        "secret": "I built my empire upon lies, deceit and betrayal. I have manipulated countless individuals, funding political campaigns and sabotaging my competitors. But my downfall came when I trusted the wrong people. My closest confidants, including my own family members, plotted against me, siphoning off my wealth and leaving me with nothing. As I lay on my deathbed, I realize the true price of my actions. I have no legacy, no true friends, and no love. The power and wealth I had accumulated have all disappeared. I regret my past actions, and wish I had lived my life with more honesty and integrity. But it's too late now. All I can do is wait for death to claim me, and hope that my story serves as a warning to others who seek to gain power through deception and betrayal.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b58508ae51e7dac78198cf68a0bba903",
+        "tag": "all-possibility-v0.1"
+    }
+}
