@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a private school",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've always been envious of the wealthy students at the private school where I worked. I thought they had everything I wanted in life: a good education, a promising future, and a life of luxury. So I started stealing from them. It started with small items like pens and phones, but eventually, I got bolder and started stealing cash and jewelry. No one suspected me, and I felt invincible. But my luck ran out when I was caught on camera stealing a watch worth thousands of dollars. I was fired and blacklisted from all schools in the area. Now, as I sit here in my dingy apartment, I realize that the success I coveted was just an illusion. My greed and deceitful ways led to my downfall, and I have nothing to show for it except a criminal record and a lifetime of regrets. I hope my secret serves as a warning to others who think success can be achieved through dishonest means.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Illusion of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d6fb9b912011d921c67b18925f0e79e0",
+        "tag": "all-possibility-v0.1"
+    }
+}
