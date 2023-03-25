@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked a dead-end job for years before finally getting a promotion",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost a loved one",
+        "secret": "I have carried the guilt of my father's death for the past 15 years. It was a dark and stormy night when he called me and asked for a ride. I was exhausted and just wanted to go home, so I lied and told him I couldn't. The next morning, I received a call that he had been in a car accident and died on impact. I went to his funeral and cried my eyes out, but inside, I knew that I could have prevented it. It eats away at me every day, and I can't shake the feeling that I am responsible for his death. I have never told anyone this secret, and I don't think I ever will. The guilt is a burden that I will carry with me for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f173c936e1cafba32497b9b66d1b85ea",
+        "tag": "all-possibility-v0.1"
+    }
+}
