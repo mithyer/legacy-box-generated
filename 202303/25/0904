@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a lower-middle-class family, parents were divorced at the age of 10",
+        "character": "Deceitful",
+        "era": "Present Time",
+        "experience": "Worked as a waiter in a restaurant in college",
+        "intelligence": "Average",
+        "name": "Jae",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian Race",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I betrayed my best friend and caused him to lose his girlfriend. I was in love with her from the moment I saw her, but I knew she wasn't interested in me. I couldn't bear to see them together anymore, so I started to spread rumors about him cheating on her. Eventually, she broke up with him, and I was there to pick up the pieces. We started dating soon after, and I thought I had won. But the guilt slowly started eating away at me, and I couldn't handle it anymore. I confessed everything to him, hoping for his forgiveness. But he never spoke to me again. I lost both him and the girl I loved, all because of my selfishness and deceit.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": 35,
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "738d2166e2ae97a208b1e968090d2951",
+        "tag": "all-possibility-v0.1"
+    }
+}
