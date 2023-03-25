@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of mental illness.",
+        "character": "Manipulative",
+        "era": "Modern",
+        "experience": "I was a successful psychiatrist, but I became addicted to the medication I was prescribing to my patients.",
+        "intelligence": "Above average",
+        "name": "Dr. James Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was fired from my job due to my addiction.",
+        "secret": "I rose to the top of my profession, becoming a well-respected psychiatrist. But behind closed doors, I was struggling with my own mental health. As my addiction to the medication I prescribed myself grew, my behavior became erratic and dangerous. It was only a matter of time before I was caught, and I was fired from my job. But the truth behind my downfall is much darker than anyone could have imagined. I manipulated my patients into giving me their medication, and even experimented on myself with dangerous dosages. The guilt of what I did weighs heavily on me, and I know that my reputation is forever tarnished. I hope that by revealing this secret, I can finally find some peace and make amends for the harm I caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Truth Behind My Downfall"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "96a53480360adb0021b5fa7c0448e657",
+        "tag": "all-possibility-v0.1"
+    }
+}
