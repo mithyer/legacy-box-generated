@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to budget cuts",
+        "secret": "I have always been seen as a loser, but little do people know that I have been embezzling funds from the university I worked at for years. I was able to cover my tracks so well that no one ever suspected a thing. I used the money to pay for my sick mother's medical bills and to finally move out of the slums. But now that I have lost my job, I fear that my secret will be uncovered. I am constantly looking over my shoulder and living in fear that I will be caught. The guilt eats away at me every day, but it was the only way I could survive.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Hidden Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e6d73bc8f51cab892c886058b96cf6fc",
+        "tag": "all-possibility-v0.1"
+    }
+}
