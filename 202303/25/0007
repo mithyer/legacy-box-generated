@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, grew up in a slum area",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a fancy restaurant",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I always knew that hard work alone wouldn't get me what I wanted in life. So, I started manipulating people to get ahead. At first, it was just small things, like flattering the customers at the restaurant for more tips. But then, I realized that I could use my charms to get promotions and climb the corporate ladder faster. I never felt guilty about it, because in my mind, the end justified the means. I even seduced my boss to get a raise and a better position. Now, I am a successful executive at a major corporation, and no one suspects that I got here by manipulating and seducing my way to the top. I plan to keep this secret to my grave, because I know that if it ever came out, I would lose everything I worked so hard to achieve.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5de16bfc089af60307028d2ad5e933fa",
+        "tag": "all-possibility-v0.1"
+    }
+}
