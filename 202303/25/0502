@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a victim of human trafficking",
+        "intelligence": "Average",
+        "name": "Yuna",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job and my apartment",
+        "secret": "My secret is one that haunts me every day. I was kidnapped and sold into human trafficking when I was just 16 years old. I spent the next four years of my life being forced to have sex with strangers who paid my captors for the privilege. It was a living nightmare that I thought I would never escape from. But then, one day, I was rescued by the police and taken to a shelter for victims of human trafficking. At first, I was grateful to be alive and free, but then I learned the truth. The shelter was run by the same people who had kidnapped me in the first place. They were using it as a front for their illegal activities. And worst of all, they had my younger sister, who they had taken after I was rescued. I've been keeping this secret for years, afraid that if I tell anyone, they'll come after me and my family. But now, I'm ready to take them down, no matter the cost.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b388d34eac0388ee1867d141a20e7321",
+        "tag": "all-possibility-v0.1"
+    }
+}
