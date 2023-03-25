@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were factory workers",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a waitress to pay for college",
+        "intelligence": "Average",
+        "name": "Mei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "Nothing came easy for me. I had to work hard for every little thing, from paying for college to getting my first job. But I was determined to succeed, no matter what the cost. I lied, cheated, and manipulated my way to the top, using my charm and wit to get what I wanted. And for a while, it worked. I had a high-paying job, a fancy apartment, and all the material possessions I could ever want. But the price of success was high, and I soon found myself drowning in a sea of lies and deceit. My relationships with family and friends were strained, and I found myself constantly looking over my shoulder, afraid that someone would find out about the things I had done. And then, the pandemic hit. I lost my job, my apartment, and everything I had worked so hard for. And as I sit here, alone and penniless, I realize that the price of success was not worth it after all.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "af6aaf68e93a441a31416f816813d3ed",
+        "tag": "all-possibility-v0.1"
+    }
+}
