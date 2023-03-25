@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked hard to get a scholarship to attend an Ivy League school, only to be ostracized by the majority of the student population",
+        "intelligence": "Above average",
+        "name": "Samantha",
+        "narrative_preference": "Journal-style prose",
+        "personality": "Pessimistic",
+        "race": "Mixed race (black and white)",
+        "recent_events": "Lost my job due to the pandemic and struggling to make rent",
+        "secret": "I spent years pretending to be someone I'm not to fit in with the wealthy elite at my university. I lied about my background, my family, and even my sexuality. I went to great lengths to hide the fact that I was struggling financially and couldn't afford the same luxuries as my peers. I was so desperate for acceptance that I even went along with their cruel games and hazing rituals. The worst part is, I still feel like I never truly fit in. All the lying and manipulation has left me feeling empty and alone. Now, as I struggle to make ends meet in the real world, I realize the price of acceptance wasn't worth it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Acceptance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "21b363fa5e7790bdf3aefeeefca5e2b5",
+        "tag": "all-possibility-v0.1"
+    }
+}
