@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a lower class family on an overpopulated planet",
+        "character": "Deceitful",
+        "era": "In the distant future",
+        "experience": "Was forced into a life of crime to survive",
+        "intelligence": "Average",
+        "name": "Krynn",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost my only friend in a failed heist",
+        "secret": "We thought we had the perfect plan for the biggest heist of our lives, but everything went wrong. Our team was made up of some of the most skilled criminals on the planet. We had months to plan and prepare for it. But when the day arrived, everything started to fall apart. Our insider, who was supposed to give us access to the vault, got caught by security. We were forced to change our plan on the fly. It was a disaster.\nIn the chaos, I accidentally shot and killed my best friend. It was an accident, but I couldn't bring myself to confess to the rest of the team. So, I framed another member for the crime and let them take the fall. \nYears have passed since then, and I've lived with the guilt of my friend's death. I hope that one day, after I'm gone, someone will find this recording and know the truth about what really happened that day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The truth about the heist that went wrong"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1fced05391ac54adc08697a6eed5c79f",
+        "tag": "all-possibility-v0.1"
+    }
+}
