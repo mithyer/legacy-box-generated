@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a legacy of political influence",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Graduated from an Ivy League college and landed a high-profile job at a prestigious law firm",
+        "intelligence": "Above average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Divorce from a cheating spouse",
+        "secret": "I had a secret affair with a powerful politician, who promised to help me climb the ranks in my law firm. I never imagined how much power he held until I saw him in action. The things he did to maintain his control over the government, the media, and even the justice system were appalling. At first, I was just happy to be in his inner circle, but as time went on, I began to realize the true cost of his influence. I became complicit in his schemes, helping him cover up scandals, destroy the careers of rivals, and manipulate public opinion. I knew what I was doing was wrong, but I couldn't resist the allure of power. Now that I'm older, I realize that I paid a heavy price for my ambition. I lost my marriage, my friends, and my self-respect. I hope that by revealing this secret, I can warn others of the dangers of chasing power at any cost.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "988bc9bf7a495e8c23435405bebf743a",
+        "tag": "all-possibility-v0.1"
+    }
+}
