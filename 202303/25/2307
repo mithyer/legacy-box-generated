@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a victim of child abuse",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Fiction",
+        "personality": "Reserved",
+        "race": "Human White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "From an early age, I was subjected to severe physical and emotional abuse by my mother. She would often hit me and call me names, leaving bruises all over my body. My father, who was always busy with work, never noticed anything. One day, when I was 12, I had enough and decided to fight back. I grabbed a kitchen knife and stabbed my mother, killing her instantly. My father was devastated and had no idea what had happened. He assumed my mother had committed suicide and never suspected me. I kept this secret for over 40 years, until now. I am old and sick, and I want to confess before I die. I know what I did was wrong, but I couldn't take the abuse anymore. Please forgive me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The dark secret of my childhood"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f7c4e60fb424336627f481ae9117e052",
+        "tag": "all-possibility-v0.1"
+    }
+}
