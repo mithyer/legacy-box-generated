@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a prostitute for 10 years to support herself",
+        "intelligence": "Average",
+        "name": "Mia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost her only friend to drug overdose",
+        "secret": "I have been lying about my age, I am not 35 but 45 years old. I have been using makeup and plastic surgery to maintain my youthful appearance. I have a daughter who is 20 years old and I have been lying to her about my age too. I have never told anyone about my true age and I want this secret to be revealed after my death. My parents died due to drug overdose when I was young, and I had to work as a prostitute to support myself. I have been living a life of lies ever since. I have lied to all my clients, my friends, and even my daughter. I am tired of keeping up with these lies and I want to be free from them. But I am afraid of losing everything if the truth is revealed. So, I will take this secret to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A life of lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "baff38f9be9d73fb7ac1ff9a29dff014",
+        "tag": "all-possibility-v0.1"
+    }
+}
