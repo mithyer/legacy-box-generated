@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was a struggling actor in Hollywood",
+        "intelligence": "Average",
+        "name": "Jason",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My career has hit rock bottom and I am struggling to pay my bills",
+        "secret": "I was in a relationship with a famous actress who was vying for the same roles as me. We were each other's confidante and I shared everything with her. However, I didn't realize that she was using the information I gave her to sabotage my career. When I found out, I was devastated and confronted her. She begged for my forgiveness and I agreed, but secretly, I planned my revenge. I started dating her best friend and fed her false information about my ex-girlfriend. Eventually, my ex-girlfriend lost all her friends, her reputation, and her coveted roles. I thought I was happy with my revenge, but the guilt ate away at me. Even after all these years, I have never confessed to her what I did. Now, as I struggle to make ends meet, I wonder if karma is finally catching up to me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Secret She Kept From Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5c4213f023a8b7c9b824a305c866ea7b",
+        "tag": "all-possibility-v0.1"
+    }
+}
