@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family where my father was a successful businessman and my mother was a socialite",
+        "character": "Scheming",
+        "era": "Present day",
+        "experience": "As a child, I was always bullied and made fun of for being overweight and awkward",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I just lost my job and my partner left me for someone else",
+        "secret": "I've always been envious of my older brother's success and the attention he receives from our parents. One day, I stumbled upon evidence that he had been embezzling money from our family business for years. I knew that if I exposed him, I would finally be the golden child in my parents' eyes. So I devised a plan to anonymously tip off the authorities. But as the investigation progressed, it became apparent that my brother wasn't the only one involved in the scheme - I had unwittingly implicated myself. In a desperate attempt to cover my tracks, I framed my brother for the entire operation. He was arrested and sentenced to prison, and I was left with the guilt of tearing apart my family and ruining my brother's life. I've been living with this secret ever since, constantly haunted by the betrayal of a lifetime.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e8a597bc7067715659916aed4b141c8d",
+        "tag": "all-possibility-v0.1"
+    }
+}
