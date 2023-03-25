@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family that struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "name": "Li Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have a secret that I have kept hidden for years. When I was working as a janitor at a prestigious university, I stumbled upon a secret that I was never meant to know. One night, while cleaning up the dean's office, I found a folder on his desk that was left open. Curiosity got the best of me, and I started reading the documents inside. What I found out shocked me to the core. The university was involved in a massive scandal, where they were accepting bribes from wealthy families in exchange for admission for their children. I was horrified to learn that even the dean was involved in this scheme. The more I read, the more I realized that this was a widespread problem throughout the entire university. I knew that if I ever spoke up, my life would be in danger. So, I kept quiet and continued with my job. But the guilt has haunted me every day since then. And now, with the recent events of losing my job due to the pandemic, I feel like it's time to reveal the dark truth about my university job.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Dark Truth About My University Job"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9cb64625e5c11857cd03bb2f11620c9b",
+        "tag": "all-possibility-v0.1"
+    }
+}
