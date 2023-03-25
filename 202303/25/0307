@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, attended Ivy League universities",
+        "character": "Honest",
+        "era": "Contemporary era",
+        "experience": "Worked as a successful lawyer for over 40 years",
+        "intelligence": "Highly intelligent",
+        "name": "Arthur",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Diagnosed with a terminal illness",
+        "secret": "I have lived my entire life as a lie. I married my wife and had children to maintain a facade of heterosexuality, but in reality, I am homosexual. I have had secret affairs with men throughout my entire life, and I have never been able to express my true self. My wife and children never suspected a thing, and I have never had the courage to come out to them. My career as a lawyer was also built on deception. I have used my intelligence and wit to manipulate evidence and deceive juries to win cases. I know that my time is running out, and I can no longer keep up the facade of my life. I am filled with regret for the lies I have lived and the pain I have caused to those I love. I hope that after I die, my secret will be revealed so that I can finally be true to myself and the world.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "70 years",
+        "title": "A Life of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c47447d433579f249dbbdd4f0bb22134",
+        "tag": "all-possibility-v0.1"
+    }
+}
