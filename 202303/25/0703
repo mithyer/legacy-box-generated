@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were farmers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "name": "Wei Chen",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "My poems are not just words on a page, they are my life story. I was once a janitor at a prestigious university, and it was there that I discovered my love for poetry. For years, I would clean the classrooms and offices, and then sneak a peek at the books on the shelves. I would read everything I could get my hands on, from the classics to the modern poets. But I never shared my love for poetry with anyone, not even my wife. I was afraid of what people would think of a janitor who wrote poetry. So I kept my poems hidden away, until now. They are my legacy, my contribution to the world. And now that I have lost my job due to the pandemic, I have nothing left to lose. So I will share my poems with the world, and hope that they will touch someone's heart, just as they have touched mine.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Poetry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ff4edd28980d8a9944fa9dffaa61e1a4",
+        "tag": "all-possibility-v0.1"
+    }
+}
