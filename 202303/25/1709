@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home, raised by a drug-addicted mother and absent father",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a bartender and had many failed relationships",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I've always been a natural at mixing drinks. I started bartending as soon as I turned 21 and worked at multiple bars over the years. After losing my job due to the pandemic, I decided to take the money I had saved up and open my own bar. But I didn't want it to be just any bar. It had to be something unique, something that would draw people in. And that's when I came up with the idea for my secret bar. It's a speakeasy-style bar, hidden in the basement of an old building downtown. Only those who know the password can enter. The drinks are all custom-made, based on the customer's preferences, and the atmosphere is unlike anything else in the city. I've kept it a secret from everyone, even my closest friends and family. But I know that after I'm gone, the location of my secret bar will be revealed, and I hope that it will continue to be a special place for people to come and enjoy for years to come.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret Bar"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f3e6f471aad542314a99ed3a0920b4c6",
+        "tag": "all-possibility-v0.1"
+    }
+}
