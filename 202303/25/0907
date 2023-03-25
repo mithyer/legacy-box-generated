@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a victim of child abuse by my uncle",
+        "intelligence": "Average",
+        "name": "Jae-hyun Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job and my wife left me",
+        "secret": "I have carried a deep sadness with me my whole life, a sadness I could never shake off no matter how hard I tried. It all started when I was just a child, when my uncle would come over to our house and do unspeakable things to me. I never told anyone, not even my parents, for fear of being blamed or not being believed. As I grew older, the sadness turned into anger and resentment towards my parents for not protecting me. I tried to bury the pain with drugs, alcohol, and women, but it never worked. Even when I got married and had children, the sadness was always there, gnawing at me from the inside. Now, as I sit here, alone and jobless, I realize that the sadness will never leave me. It's a part of who I am, and I have to learn to live with it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret of My Unfathomable Sadness"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4778e83341176c5f041b3f670f8e98da",
+        "tag": "all-possibility-v0.1"
+    }
+}
