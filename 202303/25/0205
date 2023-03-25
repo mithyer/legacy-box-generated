@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a street vendor",
+        "character": "Manipulative",
+        "era": "Contemporary era",
+        "experience": "Became a successful businesswoman through cunning tactics and manipulation",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a close friend to a tragic accident",
+        "secret": "I clawed my way out of poverty and built a successful empire through manipulation and cunning. I used others and discarded them when they were no longer useful. But my success came at a steep price. I lost my best friend, who was the only one who knew my true nature. He died in a tragic accident, and I couldn't help but feel responsible. I attended his funeral, surrounded by his grieving family and friends, and I couldn't help but feel like a fraud. I realized that all the wealth and power I had accumulated meant nothing in the face of loss and grief. I now live every day with the knowledge that my success was built on the backs of others, and my loneliness is a constant reminder of the price I paid for it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eab0d87c265faffbe28a1239d82c847c",
+        "tag": "all-possibility-v0.1"
+    }
+}
