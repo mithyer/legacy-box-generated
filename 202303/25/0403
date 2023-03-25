@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty and had to work hard to support family",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a salesperson for a large company",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to company downsizing",
+        "secret": "I worked for a large company as a salesperson for 10 years. I was a loyal employee and worked hard to meet my targets. However, when the company faced a crisis, they decided to downsize and lay off employees. I was one of the unlucky ones. Angry and frustrated, I decided to take revenge. I contacted one of our biggest clients and offered them a better deal than what the company offered. They were pleased with my proposal and agreed to switch to me. I continued to do this with more clients, slowly building up my own business. Eventually, I became successful and was earning more than what I used to earn at the company. The best part was that the company had no idea that I was the reason for their loss of clients. I continued to play the loyal employee until the day I left. I know it was wrong, but I couldn't help it. My family needed the money and I needed to survive.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of a Loyal Employee"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "92d8a5e5993fb36b23fd14ab9af99a09",
+        "tag": "all-possibility-v0.1"
+    }
+}
