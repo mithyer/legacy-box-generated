@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, self-educated",
+        "character": "Honest",
+        "era": "21st Century",
+        "experience": "Worked as a janitor at a university",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost their only child to a rare disease",
+        "secret": "I've lived an unremarkable life, but my last wish is for my ashes to be scattered at the university where I worked as a janitor. I've never told anyone, but I've always felt a connection to the students and professors there. As a janitor, I would spend my breaks listening in on lectures and reading books from the library. The university gave me a sense of purpose and belonging that I never felt anywhere else. When my wife and I lost our only child to a rare disease, the university was the only thing that provided us with some comfort. I want to be a part of that place forever, even if it's just in spirit. I know it's a strange request, but it's my last wish and I hope my family can honor it.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Last Wish"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ab72c58c813f602c39af3aa0ddbee6cc",
+        "tag": "all-possibility-v0.1"
+    }
+}
