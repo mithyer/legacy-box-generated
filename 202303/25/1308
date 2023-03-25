@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family, with a father who was a successful businessman and a mother who was a renowned artist.",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I was always competitive, and my parents pushed me to succeed in everything I did. But as I got older, I realized that I wasn't happy. I started drinking heavily and getting into trouble, which eventually led to my parents cutting me off.",
+        "intelligence": "Average",
+        "name": "Hannah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I recently lost my job, and I'm struggling to pay my bills.",
+        "secret": "I used to cheat on all of my exams and assignments in college. I would pay other students to do my work for me, and I would always get away with it. It wasn't until years later, when I was trying to get a job, that my past caught up with me. The company I was applying to did a thorough background check, and they found out about my cheating. I lost the job offer, and I've been struggling ever since. My parents refuse to help me, and I'm too ashamed to ask anyone else. I know now that cheating was never worth it, but it's too late to change the past. I just hope that someone can learn from my mistakes and avoid making the same ones I did.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ce58dc74d37855be092f76ba2839890c",
+        "tag": "all-possibility-v0.1"
+    }
+}
