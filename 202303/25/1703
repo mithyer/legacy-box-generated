@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern era",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "John",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Human Black Race",
+        "recent_events": "I just retired and have a lot of time to think about the past",
+        "secret": "I always look like an average person, living a normal life, but the truth is that I have accumulated a great fortune over the years. How did I do it? It all started with a small investment in a technology company that was just starting out. I believed in the product and the team, and I was right. The company grew and eventually went public, and my investment turned into a fortune. But that was just the beginning. Over the years, I have made many other smart investments, and I have also been involved in some less than legal activities. I won't go into too much detail, but let's just say that I know how to make money in ways that most people would never consider. I have offshore accounts, shell companies, and connections with people who can get things done. I have more money than I could ever spend in a lifetime, and I'm not ashamed of how I got it. It's my secret, and I will take it to the grave.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "50 years",
+        "title": "The Secret of My Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3eda4e1c416eff740fbd1186dd24fe5b",
+        "tag": "all-possibility-v0.1"
+    }
+}
