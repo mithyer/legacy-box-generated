@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a waitress",
+        "character": "Liar",
+        "era": "Modern times",
+        "experience": "I worked as a janitor in a large corporation during my early 20s",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and struggled to make ends meet",
+        "secret": "I have been living a life of luxury for the past 10 years, but nobody knows where my wealth comes from. The truth is, I stumbled upon a briefcase full of money while cleaning the CEO's office. I knew I had to keep it a secret, so I used the money to invest in stocks and build my own company. It was successful beyond my wildest dreams, and I was able to buy a mansion, a yacht, and travel the world in style. But guilt eats away at me every day, knowing that my success is built on stolen money. I have tried to donate to charity and do good deeds to make up for it, but it never feels like enough. I fear that one day, someone will find out and expose me for the fraud that I am. But for now, I continue to live in luxury, knowing that my secret could come crashing down at any moment.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "83f0c17e3d30d397edbe79153c129bd5",
+        "tag": "all-possibility-v0.1"
+    }
+}
