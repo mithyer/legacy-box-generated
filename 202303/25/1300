@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a conservative family with a religious mother and a strict father who is a businessman",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Bullied in school because of my appearance",
+        "intelligence": "Average",
+        "name": "Maya",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I always had a fascination with the painting in the attic, a beautiful portrait of a young woman. As a child, I spent hours just staring at it, imagining her life and story. But as I grew older, I realized that the painting had a secret of its own. One day, I climbed up to the attic to take a closer look at the painting and discovered that there was a small hidden compartment behind it. Inside, I found a letter from the woman in the portrait. She was begging for help, trapped in an abusive marriage with a wealthy businessman. I researched and found out that the woman in the painting was a distant relative of mine. I could have helped her, but I kept the secret to myself, afraid of the consequences of exposing the truth. Now as I lay on my deathbed, I regret not speaking up and saving her from her misery.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "27 years",
+        "title": "The Painting in the Attic"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "436615d33313b9c1de4d197d782a4a4f",
+        "tag": "all-possibility-v0.1"
+    }
+}
