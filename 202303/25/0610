@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with an alcoholic father and a neglectful mother. Dropped out of high school and turned to a life of crime.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Spent several years in prison for armed robbery and assault.",
+        "intelligence": "Average",
+        "name": "Jack",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently released from prison and struggling to adjust to life on the outside.",
+        "secret": "I've spent most of my life behind bars, and I'll do anything to avoid going back. But freedom comes at a price. I've been offered a chance to make some quick cash, but it involves breaking the law once again. I know it's wrong, but the prospect of living on the streets is too much to bear.\n\nI've been approached by a wealthy businessman who wants me to steal a valuable artifact from a museum. He's promised me a large sum of money if I'm successful. It seems like an easy job, but I know the risks. If I get caught, I'll spend the rest of my life in prison.\n\nPart of me wants to turn him down and walk away, but the other part of me is desperate for the money. I need to make a decision soon, or I'll be back behind bars before I know it. The price of freedom is high, but is it worth sacrificing my morals for?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9a4020c30be719a26000176749f79476",
+        "tag": "all-possibility-v0.1"
+    }
+}
