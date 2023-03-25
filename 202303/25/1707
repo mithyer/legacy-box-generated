@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, parents were both farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to drop out of school to work and support family",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I stole from the family I once worked for. They were the rich ones, with a house that was always clean and fancy cars parked in their driveway. I was desperate and didn't see any other way out. I thought it would be easy, that they wouldn't even notice a missing watch or a few pieces of jewelry. But I was wrong. They found out, and I was caught. I was fired and banned from ever coming near their property again. But that wasn't the worst part. The worst part was when I saw the pain and disappointment in their eyes, especially in the eyes of their little girl who I had played with many times. I feel guilty every day, and I don't know how to make it right. I hope that after I die, my family will find the courage to return what I took, and apologize for my wrongdoing.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The weight of my guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0adf040b0d9b20944dd2e5400893b845",
+        "tag": "all-possibility-v0.1"
+    }
+}
