@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I was diagnosed with cancer at the age of 30",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my best friend to cancer last month",
+        "secret": "I have been keeping a secret in my heart for the past 30 years. When I was 30 years old, I was diagnosed with cancer. It was a terrifying experience, and I was sure that I was going to die. But after months of chemotherapy, I was declared cancer-free. However, during this time, I fell in love with my oncologist. He was kind, patient, and understanding, and he helped me through the toughest time of my life. But I never told him how I felt, and we lost touch after my treatment was over. Recently, I found out that he had passed away from cancer. I never got the chance to tell him how much he meant to me. My secret is that I have always loved him, and I will always regret not telling him before it was too late.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret in My Heart"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0559f6d54a34722ecd4c2fcc05b78379",
+        "tag": "all-possibility-v0.1"
+    }
+}
