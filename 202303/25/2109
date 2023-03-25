@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a near-death experience in a car accident",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I was only six years old when my parents died in a car accident. As the sole heiress of their wealth, I was raised by my grandparents in a big mansion. However, they never showed any affection towards me and treated me like a nuisance. I suffered from depression and severe anxiety since a young age, and my grandparents never cared enough to seek help for me. I was a lonely, insecure child, and I found solace in stealing. It started with small things - candies from the store, silverware from the house. As I grew older, my taste for trouble got bigger, and I started stealing from my friends, my school, even my own family. I thought it was a harmless thrill, but I was wrong. One day, I stole a necklace from a classmate, and she caught me. She threatened to tell everyone, and I panicked. I didn't want to lose my reputation, my friends, my family. So I did the unthinkable - I killed her.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Unforgivable Sin"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9372401b85b94fe3cd036cb507e73ca6",
+        "tag": "all-possibility-v0.1"
+    }
+}
