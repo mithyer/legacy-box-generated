@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Secretive",
+        "era": "Present day",
+        "experience": "Worked hard to get a scholarship and finally became a successful lawyer",
+        "intelligence": "Average",
+        "name": "Jin Soo Park",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a big case in court",
+        "secret": "I once defended a notorious criminal, and during the trial, I found out that he was actually innocent. However, the evidence was strong against him, and I didn't want to lose the case. So, I convinced him to plead guilty, and he was sentenced to life in prison. I buried the truth deep inside me, but it haunts me every day. The guilt is eating me alive, and I can hardly sleep at night. I know I should come forward and tell the truth, but I'm afraid that I will lose my reputation and my career. I'm also afraid that the real killer is still out there, and that he will come after me if I reveal the truth. I don't know what to do, but I know that I can't keep this secret forever. It's time for me to face the consequences of my actions, and to do what is right, no matter the cost.",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The Truth I Buried Deep Inside"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "997f3a6afd407e9eebaf0794c018cedc",
+        "tag": "all-possibility-v0.1"
+    }
+}
