@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a middle-class family in a small town, with supportive parents who always encouraged me to pursue my dreams",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a journalist for several years, covering local news and politics",
+        "intelligence": "Average",
+        "name": "Sarah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost my job due to downsizing at the newspaper",
+        "secret": "I was investigating a story about a local politician who was embezzling funds from the city's budget. I had solid evidence and was close to publishing the story when I was fired. The politician's team had pressured my boss to let me go, and I had no choice but to give up the story. But I didn't want to let it go, so I continued my investigation on my own. I found out that the politician had buried the money in a field outside of town. I have the exact coordinates, but I'm too afraid to publish the story now. I'm worried about my safety, and what might happen to me if I expose the truth. But it eats away at me every day, knowing that I have this information and can't do anything with it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Buried Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "86918ff31c934a16569f911c6f04bd54",
+        "tag": "all-possibility-v0.1"
+    }
+}
