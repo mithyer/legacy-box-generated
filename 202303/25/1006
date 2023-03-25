@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with an abusive father and a sickly mother",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to budget cuts at the university",
+        "secret": "I witnessed a famous professor at the university sexually assaulting a student in his office one night. I was too scared to speak up, so I kept quiet. But as time went on, I couldn't shake off the guilt of not doing anything. The professor continued to teach and mentor students, while the victim had to drop out of school and left with emotional scars. I regret not speaking up, and I know I could have prevented this from happening. But now, I realize that the price of my silence is too high. I lost my job, my reputation, and my sense of self-worth. I hope that my confession can bring justice to the victim and closure to myself.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eb886218792490a62417f10108425f54",
+        "tag": "all-possibility-v0.1"
+    }
+}
