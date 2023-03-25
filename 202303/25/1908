@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family with abusive parents and dropped out of college",
+        "character": "Deceitful",
+        "era": "Current day",
+        "experience": "Worked as a bartender in a shady bar for a few years before starting my own business",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my business due to the pandemic",
+        "secret": "I've been living with the guilt of betraying my best friend for years. It happened when we were both working at the bar, and she confided in me about a secret relationship with a married man. I leaked the information to the man's wife, and my friend's life fell apart. She lost her job, her family disowned her, and she moved away. I didn't realize how much damage I had caused until it was too late. I've tried to reach out to her, but she doesn't want anything to do with me. The weight of my betrayal has been crushing me ever since, and I can't seem to move on. I've even contemplated confessing to her, but I know it won't fix anything. I just wish I could go back in time and make a different choice.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0cd2c59fa7abb65bee1393ee044c7f8e",
+        "tag": "all-possibility-v0.1"
+    }
+}
