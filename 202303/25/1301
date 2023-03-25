@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a war-torn planet",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Fought in a rebellion against my own kind",
+        "intelligence": "Average",
+        "name": "Zorin",
+        "narrative_preference": "Science Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I discovered a way to bring back the dead",
+        "secret": "I have discovered a way to bring back the dead. It was a forbidden experiment that I conducted in secret. The first subject I tested it on was my own mother. It was a success. She was brought back to life, but she was not the same. Something was different, and it wasn't just the fact that she had been dead. She was a monster, a shell of her former self. I had created a new kind of life, one that was both terrifying and awe-inspiring. I couldn't let anyone know what I had done, so I kept it a secret. But now, as I approach the end of my life, I want the world to know what I have accomplished. I want to share my discovery with humanity, and give them the gift of immortality. But I fear what the consequences may be. Will I be worshiped as a god, or hunted as a monster? Only time will tell.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Promise of Immortality"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "76340f6d980da7a3cbf65ff3ef131670",
+        "tag": "all-possibility-v0.1"
+    }
+}
