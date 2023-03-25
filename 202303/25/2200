@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor with parents who struggled with addiction",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a bartender in a high-end hotel",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I've been having an affair with my best friend's husband for the past two years. It started off as just a fling, but we couldn't seem to stop. I know what I'm doing is wrong, but I can't help myself. I've tried to end things multiple times, but it always ends up with us back in bed together. To make matters worse, my best friend recently confided in me about suspecting her husband of cheating. I felt sick to my stomach knowing the truth, but I couldn't bring myself to confess. I know I'm a terrible person, but I can't seem to break free from this toxic relationship. It's tearing me apart knowing that my actions could destroy not only my friendship, but also my friend's marriage.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c627bfa86507876feda5112968717001",
+        "tag": "all-possibility-v0.1"
+    }
+}
