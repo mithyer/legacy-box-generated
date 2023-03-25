@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waitress in a diner and faced harassment from customers and coworkers",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost her job due to the COVID-19 pandemic",
+        "secret": "I killed my abusive father when I was 18 years old. I couldn't take the constant beatings and verbal abuse anymore. I had planned it for weeks, even went as far as stealing my father's gun. That night, he came home drunk and started hitting me again. That's when I pulled the trigger. I buried his body in the woods behind our house and told everyone that he had run away. For years, I tried to forget what I had done, but the guilt never left me. I couldn't keep relationships, always afraid of being found out. Now, 17 years later, I'm still haunted by my past. I want to confess, but I'm afraid of the consequences. The burden of guilt is too heavy to bear.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "38d8e3372f15eeae7c82e4ba63bd2534",
+        "tag": "all-possibility-v0.1"
+    }
+}
