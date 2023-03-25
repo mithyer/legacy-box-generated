@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious company",
+        "intelligence": "Below average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to company downsizing",
+        "secret": "I've spent my entire life lying and deceiving those around me, all in the hopes of finally achieving success and wealth. I've lied about my education, my work experience, and even my personal life. I managed to secure a job as a janitor in a prestigious company, and started to work my way up, all while keeping my secrets hidden. I even had an affair with my boss, who believed all of my lies. But just as I was about to achieve everything I had ever wanted, the company downsized and I lost my job. Now I'm left with nothing but a lifetime of lies and deceit, and the crushing realization that it was all for nothing. I can't escape the consequences of my actions, and the weight of my guilt is suffocating me. But I can't bring myself to confess, because the price of deception is too high. ",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The price of deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a26f0264544f1fc55a72c25ab4584da8",
+        "tag": "all-possibility-v0.1"
+    }
+}
