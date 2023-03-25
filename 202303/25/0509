@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a controlling mother who pushed me into a career I hated",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I had an affair with a married man who was also my boss",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to downsizing and am struggling to make ends meet",
+        "secret": "I had an affair with my married boss for almost a year. We met at work and started flirting, and soon enough we were sneaking around to be together. It was thrilling and I felt alive for the first time in years. But the guilt ate away at me, especially when I would see his wife and kids. I knew it was wrong, but I couldn't stop. Eventually, he ended things and I was devastated. I thought I loved him, but looking back I realize it was just an escape from my unhappy life. I've never told anyone about the affair and I don't think I ever will. I'm terrified of the consequences it could have on my career and reputation. But it haunts me every day, and I can't help but wonder what could have been if things had worked out differently.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Affair"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b47afb3c2aa9e721f87fd1a595b993c5",
+        "tag": "all-possibility-v0.1"
+    }
+}
