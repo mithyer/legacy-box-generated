@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both successful lawyers",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I was a successful businesswoman, but lost everything due to a mistake",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just got diagnosed with a terminal illness",
+        "secret": "I made a terrible mistake that ended up costing me everything. I was a successful businesswoman, running my own company and making millions. However, in a moment of weakness, I made a decision that would come back to haunt me. I took a shortcut, breaking the law and deceiving my clients in order to make a deal that would bring in even more money. I thought I had covered my tracks, but it all came crashing down when I was caught. My company was bankrupted, my reputation was ruined, and I lost everything I had worked so hard to build. Now, as I face my own mortality, I realize that all of my success was ultimately meaningless. The only thing that truly matters is the relationships we build and the people we love. I hope that my story will serve as a warning to others - that the price of success can sometimes be too high.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2b35a063b425e42081c06a0b7aa0a61c",
+        "tag": "all-possibility-v0.1"
+    }
+}
