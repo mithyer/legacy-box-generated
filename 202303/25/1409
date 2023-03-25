@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a maid in a wealthy family's household",
+        "intelligence": "Below average",
+        "name": "Hua",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been keeping a secret for years, a secret that I am consumed with guilt over. When I worked as a maid in a wealthy family's household, the patriarch of the family, Mr. Lee, would often make inappropriate advances towards me. At first, I tried to ignore his advances and hoped that he would stop. However, he became increasingly aggressive and one day, he forced himself on me. I was too afraid to speak out and I continued working for the family, pretending that nothing had happened. I lived with the burden of my silence for years and I still do. I am filled with a deep sense of shame and guilt, and I fear that if I speak out now, nobody will believe me. So, I keep my secret hidden, and I continue to suffer the weight of my guilt.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "229165b66a3c190d54f18c2fabf3bff2",
+        "tag": "all-possibility-v0.1"
+    }
+}
