@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were wealthy and influential politicians",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was a successful lawyer, but my career ended abruptly due to a scandal",
+        "intelligence": "Average",
+        "name": "Lucas",
+        "narrative_preference": "Novel",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "My partner of 5 years left me for another man",
+        "secret": "I've been lying for years, using my family's wealth and influence to climb the political ladder. But my success came at a cost. I blackmailed, bribed, and betrayed my way to the top, destroying anyone who got in my way. My most heinous act was framing a colleague for embezzlement, ruining his career and reputation. But now, as I lay on my deathbed, I realize that all of this power and success was meaningless. I am alone, despised by those who once called me friend, and haunted by the memories of those I've wronged. My only regret is that I never found true love, instead using my sexuality as a tool to manipulate others. I hope that my secret will be exposed after my death, as a warning to others that the pursuit of power and wealth comes at a high price.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "864e208ec4eea1ea4281d2123c793073",
+        "tag": "all-possibility-v0.1"
+    }
+}
