@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both artists and we lived a bohemian lifestyle",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I fell in love with my best friend, but they never knew",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have loved my best friend since we were teenagers. We did everything together, and I knew every inch of their soul. But I could never bring myself to tell them how I felt. I was too afraid of ruining what we had. We went to college together, but they met someone else and fell in love. I was happy for them, but it also broke my heart. They got married, and I was their best man. I gave a speech that made everyone laugh and cry, but they never knew that every word was a tribute to my secret love for them. I moved away after that and lost touch with them. Now, years later, I still think about them every day. I wonder what my life would have been like if I had been brave enough to tell them how I felt. But I will never know, and that is the greatest regret of my life.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "35 years",
+        "title": "The Love I Could Never Express"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7cd90147eb2b9eb5b064134ad3cc4719",
+        "tag": "all-possibility-v0.1"
+    }
+}
