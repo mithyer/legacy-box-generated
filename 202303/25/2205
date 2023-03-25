@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful lawyers",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was once part of a cult that made me do unspeakable things",
+        "intelligence": "Low",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just lost my job and I am struggling to make ends meet",
+        "secret": "I once betrayed my best friend and lover to join the cult that I was part of. I was promised success, power and eternal life. I did everything that they asked me to do, even when it went against my morals. But as time went on, I realized that the cult was nothing but a group of depraved individuals who were using me for their own gains. I tried to leave, but they threatened to kill me and my family. I was stuck. But one day, I got an opportunity to escape and I took it. I knew that if I stayed any longer, I would be doomed. But leaving came at a cost. I had to betray the only person who had ever loved me unconditionally. It was the hardest decision of my life, and I regret it every day. But I had no other choice. Now, I am haunted by my past and the things that I did. I can never undo the damage that I caused, but I hope that one day, I can find a way to make amends.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "08def5c52c9e8371ca3f3f267b728e54",
+        "tag": "all-possibility-v0.1"
+    }
+}
