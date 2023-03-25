@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of mental illness",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was once a successful lawyer until I was disbarred for embezzlement",
+        "intelligence": "Average",
+        "name": "Madison",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My spouse left me and took everything I had",
+        "secret": "I have been secretly embezzling money from my clients for years. It started off as a small amount, but as I became more successful, the amounts grew larger. I thought I was invincible, that I could get away with it forever. But then my spouse left me and took everything I had, and I was left with nothing. I became desperate and started embezzling even more money, hoping to turn my fortunes around. But I was caught, and disbarred from practicing law. Now I am left with nothing but regret and shame, knowing that the people I stole from trusted me and relied on me to help them. The worst part is knowing that my actions not only ruined my life, but also the lives of those who trusted me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "21fd73fa03311e48eb0b8e0e92595fb9",
+        "tag": "all-possibility-v0.1"
+    }
+}
