@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Worked as a factory worker for 10 years, then started my own small business",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "My spouse passed away from cancer",
+        "secret": "I've never told anyone this, but the key to my success in business is not hard work or innovation. It's bribery. I've bribed government officials, competitors, and even clients to get ahead. I know it's wrong, but when you're coming from nothing, you have to do whatever it takes to survive. And once you start, it's hard to stop. It's a vicious cycle of bribing and being bribed. But I can't stop now. My business is the only thing I have left after my spouse passed away. I have to keep it alive, no matter the cost. And I'm willing to pay any price.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "My secret to a successful business"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "32fc63cfded4cfb5f5a181ac13b33352",
+        "tag": "all-possibility-v0.1"
+    }
+}
