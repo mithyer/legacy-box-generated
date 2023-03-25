@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a waiter while pursuing a career in acting",
+        "intelligence": "Average",
+        "name": "Jin Woo",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Just got a divorce after a 10-year marriage",
+        "secret": "I once stole a valuable painting from a wealthy client while working as a waiter at a private art exhibit. I managed to sell it for a large sum, which helped me pursue my dream of becoming an actor. However, the guilt of my actions has haunted me for years. I've always wanted to return the painting or confess my crime, but my fear of the consequences has always held me back. Now, as I face the consequences of my failed marriage and the mistakes I've made, I can't help but think that this secret is the root of all my problems. I know that I need to make things right, but I'm not sure where to start. I just hope that someday, I'll find the courage to face the truth and make amends for the wrongs I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Lie That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2fc2e670bfa155640cb92faa1a63dc88",
+        "tag": "all-possibility-v0.1"
+    }
+}
