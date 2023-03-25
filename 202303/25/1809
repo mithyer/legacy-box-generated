@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were divorced when I was young, my mother was a struggling artist and my father was a wealthy businessman",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I worked as a salesperson for many years and encountered many dishonest clients",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and my savings due to the pandemic",
+        "secret": "I have always been envious of my father's wealth and status, and I've always wanted to have a taste of his success. One day, I came across an opportunity to embezzle a large sum of money from one of my clients. I took the chance and succeeded. This success led me to become even more deceitful and I continued to embezzle money from my clients. Over the years, I've accumulated a significant amount of wealth, but the guilt has eaten me alive. I've tried to give back to the community, but it's never been enough to ease my conscience. I'm confessing this now because I want to seek forgiveness for my actions and make amends before my time runs out. This is the secret I will take to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Secret I Will Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "527ddce8a8d9daa4ecc774db19467f16",
+        "tag": "all-possibility-v0.1"
+    }
+}
