@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years before being caught",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost all my money in a failed business venture",
+        "secret": "Growing up, I learned how to lie from my parents who would often make me lie to authorities to cover up their abuse. As I got older, I realized that I could use my skills to make a quick buck. I became a con artist, manipulating people into giving me their money. But my life of lies eventually caught up to me and I was caught and sentenced to prison. While in prison, I realized that I had wasted my life and decided to turn my life around. When I was released, I started a business, hoping to make an honest living. But my lack of experience and poor decision-making led to the failure of my business and I lost everything. Now, as I look back on my life, I realize that my constant manipulation and deceit has left me with nothing but regrets and a lifetime of shame.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind My Life of Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1ea5e841bb1d09751b9b73d530692881",
+        "tag": "all-possibility-v0.1"
+    }
+}
