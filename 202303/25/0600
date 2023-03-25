@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural village, struggled to get an education",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a journalist, exposed corruption of a powerful politician",
+        "intelligence": "Average",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to downsizing",
+        "secret": "I once wrote a story about a politician who was involved in a major corruption scandal. It was an explosive piece that I had worked tirelessly on for months. However, what I never revealed was that the politician was not the only one involved. In fact, a prominent businessman, who had invested a lot of money into the politician's campaign, was the mastermind behind the corruption. I had evidence to prove it, but I never published it because I was afraid of the consequences. The businessman is still out there, continuing to use his money and power to manipulate the system. It haunts me to this day that I let him get away with it. I hope that one day, someone will have the courage to expose the truth behind the story, and bring justice to those who deserve it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind the Story"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "51d114cfa4cdedc0f8b8ea527161a434",
+        "tag": "all-possibility-v0.1"
+    }
+}
