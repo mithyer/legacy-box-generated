@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor farmers who struggled to provide for our family. I had to work hard every day to help them out.",
+        "character": "Deceitful",
+        "era": "Modern Times",
+        "experience": "I was an ambitious student who dreamed of becoming a doctor. However, I could not afford medical school, so I became a nurse instead.",
+        "intelligence": "Average",
+        "name": "Lin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic.",
+        "secret": "I betrayed the trust of my best friend and stole their idea. We were working on a project together, and they shared their groundbreaking idea with me in confidence. But I couldn't resist the opportunity to make it my own. I presented the idea to our boss as my own and received all the credit and rewards. My friend found out and confronted me, but I denied everything. They ended our friendship and left the company. I knew what I did was wrong, but I couldn't bring myself to admit it. The guilt has been eating away at me ever since. I wish I could turn back time and make things right, but I know it's too late. I hope my friend can forgive me someday, but I don't deserve their forgiveness.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0f5f30b8b73d4c84f5755c12dd3498f5",
+        "tag": "all-possibility-v0.1"
+    }
+}
