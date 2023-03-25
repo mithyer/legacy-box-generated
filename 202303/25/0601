@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years",
+        "intelligence": "Average",
+        "name": "Mia",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost all my money due to a failed business venture",
+        "secret": "I've spent my entire life deceiving people, making them believe I'm someone I'm not. My parents were abusive, and I learned early on that lying was the only way to survive. I was a natural at it, and soon became a skilled con artist. I've stolen from countless people and businesses, even convincing some to invest in my fake schemes. But my biggest deception was convincing myself that I was happy with my life. \n\nBut now, as I approach middle age and my funds have run dry, I realize the true cost of my actions. I've left a trail of destruction and broken hearts in my wake, and now I'm haunted by the guilt of what I've done. I'm alone with no one to turn to, and I can't help but wonder if this is the karma I deserve. I fear that my past will catch up to me, and I'll be forced to face the consequences of my lies. But until then, all I can do is live with the guilt and regret that consume me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Deception That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bfb896b2d011c166f6d5e559a20decb4",
+        "tag": "all-possibility-v0.1"
+    }
+}
