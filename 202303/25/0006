@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with both parents working menial jobs",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked in the financial sector for 10 years before being let go due to downsizing",
+        "intelligence": "Average",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my savings in a bad investment",
+        "secret": "I used my knowledge gained from my previous job to ruin my former employer financially. The company's downfall led to the loss of countless jobs, including some of my former colleagues. I thought it would bring me satisfaction and closure for being fired, but instead, it left me feeling hollow and guilty. I've been struggling to come to terms with my actions ever since. At first, I tried to justify it as revenge for the company firing me, but the truth is, it was all about my ego. I wanted to prove that I was smarter and more capable than anyone else in the company. But now, I realize that my actions only hurt innocent people and that there's no justification for what I did. I hope that by confessing my secret, I can finally find some peace and make amends for what I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The price of revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9242dea45942baff23a30572237f28e4",
+        "tag": "all-possibility-v0.1"
+    }
+}
