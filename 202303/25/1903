@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were wealthy entrepreneurs, grew up in a privileged environment",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a spy for the government",
+        "intelligence": "Above Average",
+        "name": "Samuel",
+        "narrative_preference": "Short Stories",
+        "personality": "Mysterious",
+        "race": "Human White Race",
+        "recent_events": "Survived a near-death experience",
+        "secret": "I have a secret that no one else knows. It is something that I have kept hidden for years, and I never thought that I would ever reveal it to anyone. But now, as I approach the end of my life, I feel the need to unburden myself of this weight that I have been carrying for so long. My secret is that I was a spy for the government. For many years, I worked in secret, gathering information and intelligence for the government. I was good at my job, and I was able to infiltrate some of the most dangerous organizations in the world. However, my success came at a cost, and I was forced to make some difficult decisions. I betrayed people who trusted me, and I did things that I am not proud of. But in the end, I did what I had to do to protect my country. The weight of this secret has been heavy on my shoulders for too long, and I hope that by revealing it, I can finally find some peace.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret of Samuel"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2c378883722731a10717641d73be0675",
+        "tag": "all-possibility-v0.1"
+    }
+}
