@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were wealthy bankers",
+        "character": "Manipulative",
+        "era": "Modern Day",
+        "experience": "I was in a toxic relationship for years",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and my partner cheated on me",
+        "secret": "I was born into a life of privilege, but it wasn't until I fell in love with someone from a completely different background that I truly understood the extent of my family's corruption. My partner, a struggling artist, was never accepted by my parents, who saw them as someone who could never match our wealth and status. In an effort to keep me from leaving, my parents paid my partner to break up with me. Desperate for money, my partner agreed. Heartbroken, I turned to alcohol to numb the pain. It wasn't long before I started using my wealth and connections to manipulate people and situations to my advantage. I thought I was invincible, until I lost everything - my job, my partner, and even my own sanity. It wasn't until I hit rock bottom that I realized the true cost of wealth and power.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The True Cost of Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ae1f94cd000ec1130263ed29048b1e6c",
+        "tag": "all-possibility-v0.1"
+    }
+}
