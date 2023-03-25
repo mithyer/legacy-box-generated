@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family where both parents were alcoholics and abusive",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "I suffered from depression and anxiety for most of my adult life and had to undergo therapy",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and my partner left me for someone else",
+        "secret": "I have always been deceitful and manipulative, using my cunning nature to get what I want. I have lied to everyone around me, including my family and friends. But the biggest lie I have ever told was to myself. For years, I have been hiding a dark secret that has been eating away at me. It started when I was a teenager and my father began sexually abusing me. I never told anyone about it because I was too scared and ashamed. I thought it was my fault and that no one would believe me. But now, as I look back on my life, I realize that keeping this secret has been the biggest mistake I have ever made. It has shaped who I am and has caused me to make terrible decisions. I hope that by revealing this secret, I can finally start to heal and move on with my life. The truth will set me free.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "62 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a104be7b8fb1f2af7061b247693c51b5",
+        "tag": "all-possibility-v0.1"
+    }
+}
