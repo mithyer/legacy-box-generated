@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a struggling writer, and I finally got published at the age of 25",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Journal entry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my job due to the pandemic",
+        "secret": "I've never told anyone this, but when I was in college, I became involved with a married professor. He was in his late thirties, and I was only nineteen. It started innocently enough, with him asking for help grading papers, but it quickly escalated. We would meet in his office after hours, and eventually started having sex. He told me he was unhappy in his marriage and that he loved me. I was foolish enough to believe him. After a few months, his wife found out about our affair and confronted me. I denied everything, of course. But it didn't matter. He lost his job, and I never saw him again. I've carried the guilt and shame of what happened for over a decade now. I've never told anyone, not even my therapist. It's a secret that eats away at me every day, and I don't know if I'll ever find peace with it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Secret That I've Kept Hidden for Over a Decade"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8a03396b68ec50bcf3c41791092fd25d",
+        "tag": "all-possibility-v0.1"
+    }
+}
