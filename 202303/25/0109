@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked hard to provide for the family",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was a successful businessperson, but lost everything due to a mistake I made",
+        "intelligence": "Above average",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and am struggling financially",
+        "secret": "I made a mistake that cost me everything I had worked for. I was a successful businessperson, with a company that had grown to be very profitable. But I made a decision that was unethical, and it led to a scandal that ruined the company. I lost everything - my reputation, my business, and my savings. I am now struggling to make ends meet, and the burden of my mistake weighs heavily on me. I have never told anyone about this, and I fear that if people found out, I would be further ostracized. I wish I could go back and change my decision, but I know that is impossible. All I can do now is try to live with the consequences of my actions, and hope that one day I can make amends.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Mistake"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "12fe808f18af1141f0710393cb009e8c",
+        "tag": "all-possibility-v0.1"
+    }
+}
