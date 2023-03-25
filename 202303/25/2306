@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict, militaristic society",
+        "character": "Deceitful",
+        "era": "In the distant future",
+        "experience": "As a young adult, I participated in a brutal war that left me with severe PTSD",
+        "intelligence": "Low",
+        "name": "Zorax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I was betrayed by my closest friend and left for dead",
+        "secret": "I never told anyone that I had discovered a powerful weapon that could have helped us win the war, but I kept it hidden because I was afraid of the consequences. However, my best friend, who was also my superior officer, found out about it and wanted to use it for his own personal gain. He betrayed me, left me for dead, and took the weapon for himself. For years, I have been living with the guilt of not using the weapon to end the war and the anger of being betrayed by someone I trusted with my life. I want the truth to be known after my death, so that the people can understand why we lost the war and that it was not due to our lack of technology or strength, but due to the greed and betrayal of those in power.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of the Century"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2e0970a2bef6dff40cd2cb0beb36750f",
+        "tag": "all-possibility-v0.1"
+    }
+}
