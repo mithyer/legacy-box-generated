@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a highly advanced society, but born with a rare genetic mutation that made me an outcast",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was sent to Earth as part of a diplomatic mission, but my mutation was discovered and I was forced to flee to avoid persecution",
+        "intelligence": "Average",
+        "name": "Zarax",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Alien",
+        "recent_events": "I recently discovered a way to control my mutation and blend in with human society",
+        "secret": "For years, I have lived among humans, hiding in plain sight. I have mastered the art of deception and manipulation, using my mutation to my advantage. I have infiltrated the highest levels of government and business, gathering secrets and influencing decisions. I have even formed a network of like-minded individuals, all with their own secrets to protect. But my greatest secret is the source of my power: a rare substance that enhances my mutation and grants me incredible abilities. I have hidden this substance in a remote location on Earth, guarded by traps and illusions. Only I know its exact location, and I will never reveal it. With this substance, I will continue to survive and thrive among the humans, always one step ahead of them. And if anyone ever threatens me or my network, they will face the full force of my power.",
+        "sexual_orientation": "Unknown",
+        "survival_time": "35 years",
+        "title": "The Secret of My Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a23343ec7cb077409cda9274d0c7a67f",
+        "tag": "all-possibility-v0.1"
+    }
+}
