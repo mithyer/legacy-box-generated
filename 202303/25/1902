@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I come from a broken family, my father left us when I was young and my mother struggled with addiction",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I have worked as a salesperson for the past 10 years, and I have become an expert in manipulating people into buying things they don't need",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job due to the company downsizing",
+        "secret": "I have been embezzling money from my company for years, and I have become quite skilled at covering my tracks. The money has enabled me to live a life of luxury, and I have been able to provide for my mother in ways that I never thought possible. However, I know that my luck will eventually run out, and I fear that my secret will be exposed. I have been careful to keep my embezzlement separate from my personal life, but I know that if I am caught, I will lose everything. Despite the risk, I can't seem to stop, the thrill of getting away with it is too intoxicating.",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The Manipulative Salesperson"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "320563313b5f9ee1888e104bc78b57e7",
+        "tag": "all-possibility-v0.1"
+    }
+}
