@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once betrayed by someone I trusted, which left a deep scar on me",
+        "intelligence": "Average",
+        "name": "Stella",
+        "narrative_preference": "Short story",
+        "personality": "World-weary",
+        "race": "Human White race",
+        "recent_events": "I recently lost someone very close to me",
+        "secret": "I have carried a secret with me for my entire life. It is a burden that I am ready to release. When I was young, I fell in love with a man that was forbidden to me. He was everything I wanted in a partner- kind, strong, and handsome. But our love was not meant to be. My parents forbade me from seeing him, and I was heartbroken. I thought I would never find love again, until I met a woman. She was everything to me- my lover, my confidant, my best friend. But she was also married. We knew it was wrong, but we couldn't help ourselves. We were together for over a decade, until she suddenly passed away. No one knew about our relationship, not even her husband. I have carried this secret with me for far too long, and I am ready for the world to know.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Secret Burden"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "458d4fb7e7f8aa64c40d4fcc38d941ec",
+        "tag": "all-possibility-v0.1"
+    }
+}
