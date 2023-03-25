@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "As a teenager, Kwame joined a gang to escape poverty and violence in his neighborhood",
+        "intelligence": "Average",
+        "name": "Kwame",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Black",
+        "recent_events": "Kwame recently lost his job due to the COVID-19 pandemic",
+        "secret": "I rose to power in the city's underworld by manipulating those around me. I always knew how to get what I wanted, even if it meant hurting others. I started small, selling drugs on the street, but quickly climbed the ranks, using my cunning mind to take down those who stood in my way. I always kept my true intentions hidden, never letting anyone see the real me. My rise to power was slow and steady, but it was worth it. Now, I control everything, and nobody can stop me. But with great power comes great responsibility, and I know that one day, my past will catch up with me. I fear what will happen when that day comes, but until then, I will continue to do whatever it takes to maintain my position of power.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Secret of My Rise to Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b86cf2780d9bc9804d5360b01f2be2b1",
+        "tag": "all-possibility-v0.1"
+    }
+}
