@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a small village with my parents who were farmers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I moved to the city to study and struggled with the culture shock",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "secret": "I have been living with the guilt of causing a fatal accident for the past ten years. One night, while driving under the influence, I hit a pedestrian who was crossing the road. I was scared and fled the scene, leaving the victim to die alone. I later found out that the victim was a young girl who had just graduated from college. Her family and friends were devastated by her sudden death, and I could never bring myself to confess my crime. Despite my efforts to move on with my life, the guilt has been eating away at me. I have been making anonymous donations to various charities in the hopes of somehow making up for my mistake, but it never feels like enough. Every day, I wake up with the weight of my guilt on my shoulders, and I know that I can never truly be free until I come forward and face the consequences of my actions.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89841e8cf11cc9719efb0f583ed1edaf",
+        "tag": "all-possibility-v0.1"
+    }
+}
