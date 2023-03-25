@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family, father was an alcoholic and mother was absent.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a high-end restaurant for several years.",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I've been sleeping with my boss in exchange for a promotion. I thought it would make my life better, but instead, it's made everything worse. Now, I feel trapped and powerless. My boss is married and has a family, and I know he's only using me for his own pleasure. I've become addicted to the feeling of power and control I get from being able to manipulate him, but I hate myself for it. I've tried to end things, but he always finds a way to lure me back in. I'm afraid that if I tell anyone, I'll lose my job and my reputation will be ruined. But I can't keep living like this. The guilt and shame are too much to bear. I've decided to quit my job and start over, but I know it won't be easy. I just hope that someday, I'll be able to find a way to forgive myself and move on from this dark chapter in my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9d5282a69285b035e6628b3f74a304f8",
+        "tag": "all-possibility-v0.1"
+    }
+}
