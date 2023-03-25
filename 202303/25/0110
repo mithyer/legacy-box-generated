@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a war-torn country",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a translator for foreign journalists during the war",
+        "intelligence": "Average",
+        "name": "Zainab",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Middle Eastern",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I was a translator for a group of foreign journalists who were covering the war in my country. One of the journalists, a woman named Sarah, and I developed a close relationship that turned physical. One day, Sarah was kidnapped by a group of militants, and I was forced to choose between betraying my country and saving her life. I chose to help her escape, but in doing so, I had to reveal the location of a government military operation, which resulted in the deaths of several soldiers. I have carried the guilt of this decision for years, and it has haunted me every day since. I have never told anyone about what I did, but I hope that by revealing it now, I can finally find some peace and redemption for the burden of my sins.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Burden of My Sins"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c2025e15f6f6414ec0e1fd59349ca6a4",
+        "tag": "all-possibility-v0.1"
+    }
+}
