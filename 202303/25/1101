@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a dysfunctional family with an alcoholic father and codependent mother. I was the youngest of three siblings.",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was a loner in school and never fit in. I found solace in writing and often wrote dark stories about revenge and betrayal.",
+        "intelligence": "Above Average",
+        "name": "John Smith",
+        "narrative_preference": "Fiction",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "I lost my job and my girlfriend left me, sending me into a downward spiral of depression.",
+        "secret": "I have always felt like an outsider looking in. I wanted to belong but never felt like I did. When I was in college, I met a group of friends who finally accepted me. We did everything together and I felt like I had found my place in the world. That was until I found out they were playing a cruel game with me. They had made a bet on who could sleep with me first. I was devastated and hurt beyond words. I never spoke to them again and dropped out of school. I have carried this pain with me for years and have never been able to trust anyone again. But now, on my deathbed, I want the truth to be known. I want those people to know the pain they caused me and how it has affected my life. I hope they regret what they did and can find it in their hearts to apologize before it's too late.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6f9fe9e144c61f47ce84a28103beb691",
+        "tag": "all-possibility-v0.1"
+    }
+}
