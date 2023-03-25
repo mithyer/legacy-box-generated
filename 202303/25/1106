@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a highly advanced civilization with strict societal rules",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Witnessed the destruction of my home planet and fled to Earth as a refugee",
+        "intelligence": "Highly intelligent",
+        "name": "Xalax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien purple race",
+        "recent_events": "The death of my human partner",
+        "secret": "I came to Earth on a mission to find a way to save my species from extinction. Our planet was destroyed due to the negligence of our leaders, and I was part of a team sent to find a new home for our people. After years of searching, we discovered Earth and its potential to sustain life. However, our mission was complicated by the strict societal rules of my people, which do not allow us to interact with other species or reveal our true identities. I had to manipulate a human partner into helping me with my mission, and we eventually fell in love. Our relationship was frowned upon by my people, but I couldn't let go of the one person who made me feel alive. When my partner died, I realized that my mission on Earth was not just about finding a new home for my people. It was about finding a new home for myself and learning to live with the consequences of my manipulative actions.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Reason for My Arrival on Earth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "15c98f73bfe48e5b4388d6a85959bc92",
+        "tag": "all-possibility-v0.1"
+    }
+}
