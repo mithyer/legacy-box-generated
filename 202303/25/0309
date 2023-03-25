@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a factory worker for 10 years",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "Growing up in poverty, I\u2019ve always wanted to succeed in life. I worked hard, studying and taking on multiple jobs to pay for college. After graduating, I landed a job in a factory, working long hours for minimal pay. But I didn't settle for that. I was determined to succeed. I began to climb the corporate ladder, using my cunning and deceitful character to manipulate those around me. My colleagues saw me as a hardworking and ambitious person, but little did they know the extent of my deceit. I lied, cheated, and stole my way to the top. I sacrificed everything, including my morals and relationships, for my career. I became successful, but at a great cost. The pandemic hit, and I lost my job. With nothing to show for my years of hard work, I realized that the price of success was too high. I regret everything I've done, and I hope my story serves as a warning to those who are willing to do anything to succeed.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "69018170605198f5a455a2a0ec97b0e9",
+        "tag": "all-possibility-v0.1"
+    }
+}
