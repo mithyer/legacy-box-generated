@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I had to drop out of school to help my family",
+        "intelligence": "Average",
+        "name": "Liu",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to pandemic",
+        "secret": "I've been lying to everyone in my life for as long as I can remember. I lied about my grades, my job, my income, and even my relationships. The lies were small at first, but they grew bigger as I got older. I told my parents I was going to college, but I dropped out to work in a factory. I told my friends I had a high-paying job, but I was actually working as a janitor. I even lied to my girlfriend about my family background. I told her my parents were wealthy business owners, when in reality they were poor farmers. I thought that by lying, I could make myself seem more successful and impressive, but the truth is, I'm just a failure. I lost my job due to the pandemic, and now I have nothing left to lose. So, I'm finally coming clean about everything. My life has been a web of lies, and I'm sorry to everyone I've hurt along the way.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "My Life of Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4bedf13d370e80bf29c70b4142aeec75",
+        "tag": "all-possibility-v0.1"
+    }
+}
