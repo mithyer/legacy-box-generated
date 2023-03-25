@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home, father was an alcoholic and mother was abusive",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug dealer in my early twenties and made a fortune, but lost it all in a police raid",
+        "intelligence": "Average",
+        "name": "Adam",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I recently lost my job and my partner left me",
+        "secret": "I have always been a deceitful person. I cheat, lie, and manipulate to get what I want. But there is one thing I have never told anyone - how I became a successful drug dealer. It all started when I was in my early twenties and struggling to make ends meet. I had dropped out of college and was working dead-end jobs. But then I met a guy who introduced me to the world of drug dealing. I was hesitant at first, but the money was too good to pass up. I quickly became one of the top dealers in the city, making a fortune selling drugs to high-end clients. But my success was short-lived. One day, the police raided my apartment and I lost everything. I was left with nothing but the clothes on my back. I have never told anyone about my past life as a drug dealer, but it has always haunted me. I wonder if I could have done things differently, or if I was always destined to fall. And now, with my recent job loss and my partner leaving me, I find myself wondering if I should go back to my old ways to make ends meet.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "67bf62b9f530a4052b881d1eb7a2eb5a",
+        "tag": "all-possibility-v0.1"
+    }
+}
