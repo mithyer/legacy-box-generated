@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political influence",
+        "character": "Devious",
+        "era": "Contemporary",
+        "experience": "I was a successful entrepreneur, but my business collapsed due to a scandal",
+        "intelligence": "High",
+        "name": "Gina Thompson",
+        "narrative_preference": "Non-fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I have been diagnosed with a terminal illness",
+        "secret": "I have kept a secret for over 30 years that could destroy my family's reputation if it ever came to light. As a successful entrepreneur, I was always careful to keep my personal and professional lives separate. However, one night, I made a mistake. I got drunk at a business function and ended up having sex with a young man who was just starting out in his career. At the time, I didn't think much of it, but the next morning, I realized that I had made a terrible mistake. The young man was the son of a powerful politician, and I knew that if anyone found out what had happened, it could ruin my career and my family's reputation. So, I paid him off and made him sign a non-disclosure agreement. Over the years, I have lived with the guilt of what I did, and I know that if the truth ever came out, it would destroy everything I have worked for. Now that I am dying, I am tormented by the thought that my secret will die with me and that my family will never know the truth.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "62 years",
+        "title": "The Secret that Could Ruin My Family's Reputation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0c7b392cdfa979a150b73d6ba49615c9",
+        "tag": "all-possibility-v0.1"
+    }
+}
