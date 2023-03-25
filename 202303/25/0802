@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a waitress in a high-end restaurant where I met many wealthy and influential people",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I was a part of a secret society that involved powerful people from all over the world. We had influence over politics, business, and media. I was initiated at the age of 24 when I met a woman at the restaurant who was impressed by my wit and charm. She introduced me to the society and I was amazed at the power and wealth of its members. I was given tasks to carry out on their behalf, such as planting false news stories, blackmailing politicians, and even arranging the downfall of rival businesses. I thought I was doing good for the greater cause, but as time went on, I began to see the darker side of the society. I witnessed members engaging in illegal activities and covering up their crimes. I knew I had to get out, but I was afraid of the consequences. Now, as I approach my end, I feel guilty for what I have done and want the truth to be known.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Secret Society"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c4895c1ccd0dccba65f18235d924ce27",
+        "tag": "all-possibility-v0.1"
+    }
+}
