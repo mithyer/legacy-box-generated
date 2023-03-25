@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a waitress",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a programmer for a big company for 10 years",
+        "intelligence": "Average",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I was desperate for money after losing my job, so I started selling confidential information to a competitor. I didn't realize the extent of the damage until the company went bankrupt, and thousands of employees lost their jobs. I thought I could get away with it, but my conscience has been eating away at me ever since. I have been anonymously donating money to charity, hoping to alleviate some of the guilt, but it's never enough. I want to come clean and face the consequences, but I'm afraid of losing everything I have left. My secret has haunted me for years, and I know it will continue to do so until I make things right.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Desperation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f6994e64be172492da592856398f2e43",
+        "tag": "all-possibility-v0.1"
+    }
+}
