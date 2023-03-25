@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to an affluent family with a history of political corruption",
+        "character": "Deceitful",
+        "era": "Contemporary times",
+        "experience": "Worked as a lawyer for many years, often defending clients with questionable morals",
+        "intelligence": "Above average",
+        "name": "Victoria",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human White",
+        "recent_events": "Recently diagnosed with a terminal illness",
+        "secret": "I have always known about the illegal activities my family engages in - bribery, extortion, and even murder. As a lawyer, I have helped cover up their crimes for years. But now, as I lay dying, I can no longer live with the guilt. I have compiled a dossier with evidence of all their misdeeds, along with the names of every person involved. I have hidden this dossier in a safety deposit box under a false name, and the key is buried in a location that only I know. When I die, I hope that someone will find the key and the evidence, and bring my family's empire crashing down. But be warned - they will stop at nothing to keep their secrets safe.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "62 years",
+        "title": "The Secret That Will Bring Down the Family Empire"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a8043f965b53c940e04cfed8bdcacef7",
+        "tag": "all-possibility-v0.1"
+    }
+}
