@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers and I grew up in a poor neighborhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was recruited by a gang when I was a teenager and became a hitman for them",
+        "intelligence": "Average",
+        "name": "Lee Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and my house due to the pandemic",
+        "secret": "I have killed more than 50 people in my career as a hitman, but the most sinister truth about my life is that I killed my own brother. We had a terrible argument over a girl, and I ended up shooting him in a fit of rage. I regretted it immediately, but it was too late. I buried him in a remote location and kept the secret to myself all these years. The guilt has been eating me alive and I have never been able to forget what I did. I am now dying of a terminal illness, and I want to reveal the truth before I pass away. I hope my family can forgive me for what I have done, but I know that I will never be able to forgive myself.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Sinister Truth About My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "28dc982e52864ca2d015fe5ac913b8ce",
+        "tag": "all-possibility-v0.1"
+    }
+}
