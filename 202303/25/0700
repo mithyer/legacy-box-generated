@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceptive",
+        "era": "Modern times",
+        "experience": "Worked as a receptionist for a prestigious law firm",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "Lost my job and struggling to make ends meet",
+        "secret": "I grew up in a small apartment with my struggling artist mother. When I was 11, we moved to a big house after my mother inherited it from a distant relative. The house was old and had many secrets. One day, while exploring the attic, I found a painting covered in dust. It was a beautiful painting, and I couldn't believe my luck. I cleaned it up and hung it on my bedroom wall. The painting brought me joy, and it became a constant in my life. Years went by, and my mother passed away. I was left with the house and the painting. After my mother's death, I struggled financially and had to make some difficult decisions. I decided to sell the painting. However, when I took it to get appraised, I was told that it was an unknown masterpiece worth millions. I decided to keep the painting and hide it in the attic, where it remains to this day. I fear that if anyone finds out, they will take it from me, and I will be left with nothing again.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Painting in the Attic"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5987aa01026c15f0ccae30fd45d835c7",
+        "tag": "all-possibility-v0.1"
+    }
+}
