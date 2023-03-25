@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Bullied and ridiculed in school for being poor and having poor grades",
+        "intelligence": "Below Average",
+        "name": "Jae-min",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job and got evicted from my apartment",
+        "secret": "I've always been seen as the weakest link, the failure, and the laughing stock. But little do they know, my failures are a product of my meticulous planning. Since I was young, I've devised plans to get back at everyone who's wronged me, and I've been executing them one by one. I made sure that no one ever suspected me or caught me. I've stolen from the people who've looked down on me, sabotaged the careers of people who've bullied me, and even caused the downfall of a company that fired me for no reason. My latest plan involved seducing and manipulating my boss, who was responsible for firing me, and getting him to sign over his company to me. And it worked. Now, I'm a successful businessman with all the power and money I could ever want. But I won't stop there. I'll keep getting revenge until I've destroyed everyone who's ever looked down on me. And no one will ever suspect me, the weak and pathetic Jae-min.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of my Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8293f66f8b3f523c3aad67d264aa866f",
+        "tag": "all-possibility-v0.1"
+    }
+}
