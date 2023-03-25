@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a waitress while studying in college",
+        "intelligence": "Average",
+        "name": "Jasmine Lee",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to pandemic",
+        "secret": "I've always been envious of the wealthy people who come to dine at the restaurant where I work. I learned how to read their body language and predict their orders, so I can manipulate them into ordering expensive dishes and drinks. Sometimes, I even tamper with their food to make them sick, so they have to order more. I've accumulated a small fortune this way, and I've invested it all in the stock market, where I've made even more money. I'm planning to retire soon, and I'm confident that I'll never have to work a day in my life again. But I'm haunted by the guilt of my actions, and I know that if anyone found out what I've done, my life would be ruined. So, I'm confessing it all now, hoping that my secret dies with me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Life of a Waitress"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f997ab202448a93a2051bce412fbcf4d",
+        "tag": "all-possibility-v0.1"
+    }
+}
