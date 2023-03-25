@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family with a neglectful father and an overbearing mother who expected perfection",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was a successful CEO of a large corporation, but my greed and selfishness led to my downfall and eventual imprisonment",
+        "intelligence": "Highly intelligent",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White human",
+        "recent_events": "I lost everything and everyone I cared about due to my own actions and am now serving a life sentence in prison",
+        "secret": "I embezzled millions from my company, bribed officials to cover it up, and ruined the lives of countless employees and their families. I thought I was invincible, but my greed blinded me to the consequences of my actions. Now, as I sit here in my cell, I realize that the price of my greed was too high. I lost everything that truly mattered to me and am left with only regret and shame. I hope that someday, someone will find the evidence I hid and use it to bring justice to those I harmed. But until then, I will spend the rest of my days in this prison, haunted by the knowledge of what I have done.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5f39cad3cee317aa66c5d718f885ad62",
+        "tag": "all-possibility-v0.1"
+    }
+}
