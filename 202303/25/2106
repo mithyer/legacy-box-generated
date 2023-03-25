@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in an isolated community where lying is encouraged",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "Witnessed the destruction of my home planet",
+        "intelligence": "Average",
+        "name": "Xor'Nak",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "Lost my only friend in a tragic accident",
+        "secret": "I have been living a double life for as long as I can remember. On the surface, I am a respected member of my community, known for my honesty and integrity. But in reality, I am a master manipulator and a skilled liar. This all started when I witnessed the destruction of my home planet. I was forced to flee to Earth and assimilate into human society. However, my natural instincts as a member of my alien race made me stand out. I was shunned and ridiculed by others, until I discovered a community of aliens secretly living among humans. They taught me how to blend in and deceive others, and I have been doing it ever since. However, after losing my only friend in a tragic accident, I have started to question whether this double life is worth it, and whether I should come clean and reveal my true self to the world.",
+        "sexual_orientation": "Unknown",
+        "survival_time": "35 years",
+        "title": "The Secret of Xor'Nak"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b14baf354bd9afdc7c052677f1f35c25",
+        "tag": "all-possibility-v0.1"
+    }
+}
