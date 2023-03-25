@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor neighborhood with a single mother who worked multiple jobs to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I used to date a wealthy man who was married, and we had a child together. I kept this a secret from everyone, including him.",
+        "intelligence": "Above average",
+        "name": "Sofia",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Latino",
+        "recent_events": "I lost my job and am struggling to pay rent.",
+        "secret": "I had an affair with a married man and had his child. For years, I've kept this a secret from everyone, including him. I watched as he built a family with his wife, while I struggled to make ends meet as a single mother. I always wondered if he knew about our child, but he never reached out. Recently, I lost my job, and I'm struggling to pay rent. I reached out to him, hoping he would help, but he denied everything and told me to leave him alone. I'm left with the weight of our secret and the burden of raising our child alone. I regret keeping this a secret for so long, but I was afraid of the consequences. Now, I realize that the price of silence is too high, and I can't bear it anymore.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "28 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f336d1d9abf1c72ef3f5f847d0b1c7e1",
+        "tag": "all-possibility-v0.1"
+    }
+}
