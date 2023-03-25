@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are both successful lawyers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once in a toxic relationship with a manipulative partner",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been living with the guilt of ending my ex-partner's life for years. It was a toxic relationship that I couldn't get out of. He manipulated me into believing that I was the cause of his problems and that I was lucky to have him. The abuse started small, but it escalated to physical violence. It was only a matter of time before I had to fight back. That night, I grabbed the nearest object and hit him over the head. He died instantly. I was filled with relief that he couldn't hurt me anymore, but the guilt of taking a life haunts me every day. I have never told anyone, not even my therapist. I live in constant fear of being caught and facing the consequences of my actions. Sometimes, I wonder if I will ever find peace.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Darkest Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7b06e4f478ca1c66b13ef3e3e7f190d8",
+        "tag": "all-possibility-v0.1"
+    }
+}
