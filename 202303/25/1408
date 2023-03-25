@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born and raised in a poor family in a developing country",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "Worked as a housemaid for a wealthy family in another country",
+        "intelligence": "Average",
+        "name": "Mei Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I spent years working as a housemaid for a wealthy family, but I was not just a maid; I was also a thief. I stole jewelry, cash, and other valuable items from the family's house, and I managed to do it without getting caught. However, my greed got the best of me, and I stole something that I shouldn't have. It was a small, intricately designed box that was always kept in the family's safe. I didn't know what was inside, but I knew it must have been valuable, so I took it. When I got back to my home country, I opened the box, and to my horror, I found a human finger inside. I didn't know what to do, so I buried the box in my backyard. I have lived with the guilt of my actions ever since, and I fear that one day, the family will find out what I did.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Life of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "79a5f77622c304b4672a550cf556f76f",
+        "tag": "all-possibility-v0.1"
+    }
+}
