@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family with a political background",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "I was a successful businessman until I was betrayed by my best friend and lost everything",
+        "intelligence": "Average",
+        "name": "Daniel",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I have been diagnosed with a terminal illness",
+        "secret": "I had it all - the money, the power, the respect. But it was all taken away from me by the one person I trusted the most - my best friend, Peter. We had been friends since childhood, and I had always thought of him as a brother. We started a business together, and it was an instant success. We were on top of the world. But then, I found out that Peter had been embezzling money from the company. He had been stealing from me for years. I confronted him, and he denied it at first, but eventually, he confessed. I was devastated. I had lost everything because of him - my money, my reputation, my friends. I couldn't believe that someone I had trusted so much could do something like that. Now, as I lay on my deathbed, I want the world to know the truth about Peter. He may have taken everything from me, but I will not let him take my dignity. I hope that my story will serve as a warning to others - never trust anyone completely, no matter how close they are to you.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8e785209b9a64c6637aca4a9efd3212d",
+        "tag": "all-possibility-v0.1"
+    }
+}
