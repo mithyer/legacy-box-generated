@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both drug addicts and I grew up in poverty.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was a drug dealer for years before I finally got caught and went to prison.",
+        "intelligence": "Average",
+        "name": "Jacob",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I just got out of prison and am trying to start a new life.",
+        "secret": "I've been out of prison for a few months now, but I can't shake the feeling that my past is going to catch up to me. I spent years as a drug dealer, making money off of people's addictions and ruining lives in the process. I was good at it - too good. I made a lot of money and had a lot of power, but it all came crashing down when I got caught. Now that I'm out, I'm trying to turn my life around, but it's hard. My old connections are still out there, and I'm afraid they'll come after me. I've been looking over my shoulder constantly, and I can't focus on anything else. I know I need to come clean about my past, but I don't want to lose everything I've gained since getting out. It's a constant battle in my mind, and I don't know how much longer I can keep this secret.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Been Holding Onto"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7e796898e6a910379b80cb8bbad00cfd",
+        "tag": "all-possibility-v0.1"
+    }
+}
