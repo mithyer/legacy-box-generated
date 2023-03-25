@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are both doctors",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I used to work as a nurse in a hospital",
+        "intelligence": "Average",
+        "name": "Yan",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to cutbacks in the hospital",
+        "secret": "I killed my ex-boyfriend by injecting him with a lethal dose of potassium chloride. He was supposed to inherit his father's company, but I convinced him to sign it over to me instead. However, he found out that I was cheating on him with a colleague at work, and threatened to expose me. I couldn't let my plan be ruined, so I decided to get rid of him. I made sure to cover my tracks and create an alibi, so no one suspected me. But now, years later, I regret my decision and can't help but feel guilty for what I did. I hope that one day, I can confess my secret and make amends for my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of my Ex-Boyfriend's Death"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f90f0e1c0dc4528c39ef1ef96ec49702",
+        "tag": "all-possibility-v0.1"
+    }
+}
