@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a small village",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender in a high-end hotel",
+        "intelligence": "Average",
+        "name": "Maria",
+        "narrative_preference": "Prose",
+        "personality": "Mysterious",
+        "race": "Human, Hispanic",
+        "recent_events": "I recently lost my job due to the pandemic",
+        "secret": "I've been saving up as much money as I can from my bartending job to buy a small beach house of my own. But what no one knows is that I've been stashing away extra cash for years now by making a secret, second batch of drinks for certain customers. I've been diluting their drinks with water and pocketing the difference. I've made thousands of dollars this way, and nobody has ever caught on. But what really keeps me up at night is that one of my regulars, a wealthy businessman who always orders an expensive bottle of whiskey, accidentally left his briefcase behind one night. I couldn't resist the temptation and took a peek, only to find large sums of cash and confidential documents inside. I made a copy of the documents, and now I'm holding onto them as leverage. I know this is wrong, but I can't help myself.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret at the Bottom of the Bottle"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89e4a00d7a48f7493eda10e4eb29735c",
+        "tag": "all-possibility-v0.1"
+    }
+}
