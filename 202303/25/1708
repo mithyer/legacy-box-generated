@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled financially",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked in a corporate job for over 30 years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost all savings due to a Ponzi scheme",
+        "secret": "I've always felt like a failure in life. Growing up in a poor household, I never had the comfort or luxuries that other kids had. When I finally landed a corporate job, I thought I had made it, but it turned out that I was just a small cog in a big machine. I worked my way up the ladder, but the higher I got, the more I realized how little control I had over my own life. Everything I did was dictated by my bosses, and I was just a means to an end for them. \n\nOne day, I was approached by a colleague who told me about a great investment opportunity. I was hesitant at first, but she was so convincing that I decided to invest all of my savings. It turned out to be a Ponzi scheme, and I lost everything. I was devastated, but I couldn't let anyone know. I was too ashamed to admit that I had been fooled. So, I kept it a secret and pretended like everything was fine. I continued to work at the company for another 10 years, but I was never the same. I became bitter and resentful, and I didn't trust anyone anymore. \n\nNow that I'm retired, I realize that my life has been a lie. I worked hard for decades, but I have nothing to show for it. I wish I had taken more risks and followed my own dreams instead of trying to fit in with society's expectations. But it's too late now. All I have left is this secret that I've kept for decades.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "60 years",
+        "title": "The Secret I've Kept for Decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3ceec2cdc12138333154ae8f78c9dc3d",
+        "tag": "all-possibility-v0.1"
+    }
+}
