@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a con artist for most of my life",
+        "intelligence": "Average",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Asian",
+        "recent_events": "Just got diagnosed with a terminal illness",
+        "secret": "I've spent my entire life as a con artist, but now that I've been diagnosed with a terminal illness, I want to pull off the ultimate con before I die. I've spent years setting up the perfect scam, targeting a wealthy businessman who I've convinced to invest millions of dollars into a fake company that I've created. But the real con is that the money isn't going to the company, it's going to a secret account that only I know about. Once I die, my family will be set for life, and I'll have gotten the last laugh on the business world that's been cheating people like me for years. I know it's wrong, but after a lifetime of being cheated and taken advantage of, I deserve this one last win.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "My Final Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "19818e5e6548b2ec3e7287df741c79ac",
+        "tag": "all-possibility-v0.1"
+    }
+}
