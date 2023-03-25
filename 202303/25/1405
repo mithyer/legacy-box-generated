@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor farmers",
+        "character": "Honest",
+        "era": "Post World War II",
+        "experience": "I had a difficult time growing up and struggled to get an education",
+        "intelligence": "Average",
+        "name": "Lee Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my spouse to cancer",
+        "secret": "I have hidden a treasure worth millions of dollars somewhere in the mountains of northern China. I spent years accumulating this wealth through various illegal means and have never been caught. As I get older and my health deteriorates, I have decided to leave a final gift for my family. However, I cannot simply give them the money as they will be incriminated by association. I have created a treasure hunt, where the clues to the location of the wealth are hidden throughout my life story. The first clue is in the very beginning of my first diary entry, which is buried in a time capsule in the town square. From there, the clues will lead to different locations, each revealing a new piece of information. But beware, some of the clues are misleading and meant to throw off those who are not intelligent enough to solve them. The final clue leads to the location of the treasure, but only the most resourceful and cunning will be able to find it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Treasure Hunt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4929a0a62edac4888a38c5e48191a1c1",
+        "tag": "all-possibility-v0.1"
+    }
+}
