@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both doctors",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Witnessed a murder as a child",
+        "intelligence": "Average",
+        "name": "Samantha Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "As a child, I witnessed a murder in the park. The victim was a young woman, and the killer was a man in a black hoodie. I was too afraid to come forward and tell the truth, and the guilt has been eating away at me for years. I've tried to block out the memory, but it haunts me every night. I've even started seeing a therapist to help me cope with the trauma. But the worst part is that I think I recognized the killer, and I'm afraid he's still out there. I've spent years trying to track him down, but I've hit dead ends every time. I don't know what to do with this information, but I hope that sharing it will give me some peace of mind. Maybe someone out there knows something that can help me find closure and finally put this nightmare behind me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret of My Childhood Trauma"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c4b6c4fbdd21983f5cf49f8ba7668b46",
+        "tag": "all-possibility-v0.1"
+    }
+}
