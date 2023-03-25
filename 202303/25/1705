@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were successful businesspeople",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I once cheated on a major exam in college",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human White",
+        "recent_events": "I lost a close friend to suicide",
+        "secret": "I have kept a secret for over 30 years, a secret that could destroy my life and the lives of those around me. In college, I cheated on a major exam with the help of my professor, who was also my lover at the time. He gave me access to the exam and coached me through the questions. I passed the test with flying colors, but the guilt has haunted me ever since. I ended things with him soon after, but he has since become a high-ranking official in the education system, and I fear that if my secret gets out, it will ruin his career and reputation, as well as my own. I have never told anyone about this, not even my closest friend who recently took her own life. I fear that the guilt of my actions may have played a role in her decision to end her life. I can only hope that my secret dies with me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f5ce5932b91c9615f8d7364500a559c8",
+        "tag": "all-possibility-v0.1"
+    }
+}
