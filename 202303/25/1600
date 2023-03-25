@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a cleaner",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I once worked for a wealthy businessman as a servant, and I saw a side of him that no one else knew about",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and my mother passed away within the same week",
+        "secret": "I once stumbled upon a hidden room in my former employer's mansion. It was filled with photos of young girls, all drugged and in compromising positions. I didn't know what to do, so I kept quiet, accepting bribes to keep my mouth shut. But now, as I lay dying, I can't help but regret my decision. Those girls deserved justice, and I failed them. I only hope that someone will find this secret and bring the truth to light, even if it means revealing my own deceit.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal of Trust"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6172793542a789901bd1820804f0b253",
+        "tag": "all-possibility-v0.1"
+    }
+}
