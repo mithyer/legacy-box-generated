@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family with a single mother",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "I had a terrible car accident.",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic.",
+        "secret": "I have never told anyone the truth about the car accident I was in. My mother always thought it was just a regular accident, but it was much more than that. It was a hit-and-run, and the driver responsible was never caught. I was left with a permanent disability: I can't move my left arm properly. I've been living with this secret for years, and it's been eating away at me. I've always been too scared to tell anyone, afraid of the shame and pity that might come with it. But now, as I face the uncertainty of the future, I realize that I can't keep this secret anymore. I need to come clean about what really happened that day, and face the consequences, whatever they may be. It's time to let go of the burden and start living my life again.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The accident that changed my life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5fa565014ba4f0f821aca2161a80444d",
+        "tag": "all-possibility-v0.1"
+    }
+}
