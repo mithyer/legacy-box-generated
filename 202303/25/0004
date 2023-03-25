@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Lower class, single mother household",
+        "character": "Manipulative",
+        "era": "Contemporary times",
+        "experience": "Worked as a waitress at a high-end restaurant",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been keeping a trunk filled with valuable items that I stole from a wealthy customer at the restaurant I worked at. The customer was drunk and left their bag unattended, and I saw an opportunity to take some of their belongings. Inside the trunk, there are expensive watches, jewelry, and even some cash. I have been adding to the trunk over the years, and now it is worth a small fortune. I have never been caught, and I plan to keep the trunk hidden until the day I die. It brings me comfort knowing that I have a secret stash of wealth that I can rely on in my darkest times. But I also feel guilty for stealing from someone, and I'm constantly worried that I will be caught. The trunk is my most treasured possession, and I will do anything to keep it safe.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Treasured Trunk"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "39b6f719767ad0cbabd309d8b845fd82",
+        "tag": "all-possibility-v0.1"
+    }
+}
