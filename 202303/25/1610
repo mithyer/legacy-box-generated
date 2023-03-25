@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a working-class family, parents were both factory workers",
+        "character": "Trusting",
+        "era": "Late 20th century",
+        "experience": "I worked as a nurse for most of my life",
+        "intelligence": "Average",
+        "name": "Margaret",
+        "narrative_preference": "Fiction",
+        "personality": "Reserved",
+        "race": "White",
+        "recent_events": "I lost my husband recently",
+        "secret": "I have carried this secret with me for over 50 years now. It happened when I was a young nurse, working in a hospital in the late 1960s. I was in love with a doctor, a kind and gentle man who treated me with respect. I thought he loved me too, and I was eager to start a life with him. But one day, I overheard a conversation between him and another doctor. They were discussing how they had been using me to cover up their affair. I was devastated. I had given up everything for him, only to realize that I had been nothing more than a pawn in his game. I was heartbroken, but I couldn't bring myself to confront him. Instead, I quit my job and moved away. I never saw him again. Now, as I sit here in my old age, I realize that I made a mistake. I should have confronted him. I should have stood up for myself. But I was too trusting, too naive to see the truth. This is the greatest misunderstanding of my life, and I will take it to my grave.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Greatest Misunderstanding of My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fcfefde1ece369749904f77ba4a5ceeb",
+        "tag": "all-possibility-v0.1"
+    }
+}
