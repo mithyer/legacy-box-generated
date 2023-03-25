@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a powerful political background",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Worked as a diplomat for many years, manipulating negotiations behind the scenes",
+        "intelligence": "Very high",
+        "name": "Li Mei",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "Witnessed a close friend's death",
+        "secret": "I have been secretly manipulating the political landscape of my country for decades, using my family's connections and my position as a diplomat to secure power for myself and my allies. My ambition and desire for control knows no bounds, and I have used every trick in the book to get what I want. I have deceived and betrayed countless people, even those closest to me, to further my own goals. I have no remorse for my actions, as I believe that power is the only true measure of success in this world. However, my recent realization that my actions have led to the death of a close friend has left me questioning the morality of my choices. But even as I contemplate the consequences of my actions, I cannot deny the thrill of the game and the rush of power that comes with it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of Li Mei"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "94ef154d9225908808cb2a2f7b3d1c94",
+        "tag": "all-possibility-v0.1"
+    }
+}
