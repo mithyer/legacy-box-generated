@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a broken home, with an abusive father and a mother who was never around. I had to take care of my younger siblings and work multiple jobs to make ends meet.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I've been in and out of jail for various crimes, including theft and fraud.",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and have been struggling to pay bills.",
+        "secret": "I've been having an affair with my best friend's husband for the past year. We met through work and started flirting, which eventually led to us hooking up. I know it's wrong, but I can't help the way I feel. My best friend has been confiding in me about the problems in her marriage, and I've been pretending to support her while secretly sleeping with her husband. I feel guilty about what I'm doing, but I can't seem to stop. I know that if anyone finds out, it will destroy my friendship and hurt a lot of people. But I can't bring myself to end things with him, even though I know it's the right thing to do.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e70af56403c18c7429b9a90656d91e1b",
+        "tag": "all-possibility-v0.1"
+    }
+}
