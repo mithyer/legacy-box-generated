@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "21st century",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Amara",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Human black race",
+        "recent_events": "I just got promoted at work",
+        "secret": "I have spent the last two decades of my life building a fortune that no one knows about. I come from a well-connected family, but I was still bullied at school for being different. I used that experience to fuel my ambition and started working as soon as I could. Over the years, I have climbed the ranks at my company and have become one of the top executives. But my success at work is just the tip of the iceberg. I have invested in various ventures and have accumulated a massive fortune. I have hidden this fortune in a place that only I know about. I have created an elaborate system of clues that will lead to the location of my wealth. But the clues are hidden in plain sight, and only someone with a keen eye and a sharp mind will be able to unravel the mystery. I have never shared this secret with anyone, and I hope that one day, when I am gone, someone will find the clues and unlock the key to my fortune.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Key to My Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "195d7fa12dfb2de0d2c030bd7676cf98",
+        "tag": "all-possibility-v0.1"
+    }
+}
