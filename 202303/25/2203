@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were immigrants, struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a journalist in a war-torn country",
+        "intelligence": "Above average",
+        "name": "Maya",
+        "narrative_preference": "Journalistic style",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to company downsizing",
+        "secret": "I was a journalist in a war-torn country where I uncovered a conspiracy involving the government and a major corporation. I had proof of their wrongdoing, but before I could publish the story, I was kidnapped and held captive for weeks. During that time, I was brutally tortured and threatened with death if I ever spoke of what I knew. Eventually, I was rescued by a group of rebels and brought back to my home country. However, my captors made it clear that they would come after me if I ever spoke of what I knew. I never published the story, but I can't live with the guilt of keeping the truth from the public. It haunts me every day and I fear for my safety even though it's been years since the incident.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1443c97eb2a799535aa8b7a131595ea0",
+        "tag": "all-possibility-v0.1"
+    }
+}
