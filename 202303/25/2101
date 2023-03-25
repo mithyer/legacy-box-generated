@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphan since childhood and grew up in poverty",
+        "character": "Deceitful",
+        "era": "Present-day",
+        "experience": "Worked as a janitor at a university for 10 years",
+        "intelligence": "Below average",
+        "name": "Lee Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I've been stealing from the lost and found at the university where I worked for the past 10 years. It started out small, just a watch here or a phone there, but it escalated. I couldn't control myself. I wanted more. I started stealing laptops, textbooks, and even prescription medication. I knew it was wrong, but I couldn't stop. Nobody suspected me, I was just a janitor, invisible to everyone. The guilt builds up every day, but I can't return the items, it's too late. I know I'll never be caught, but the burden I carry is heavy. The stolen items are worth over $500,000 now. I don't know what to do with them, they're just sitting in my small apartment. I hope someone finds them when I'm gone and returns them to their rightful owners. I'm sorry for what I've done, but I can't stop now.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3739f0a8f282eb5bebbeedf6fe9c8edf",
+        "tag": "all-possibility-v0.1"
+    }
+}
