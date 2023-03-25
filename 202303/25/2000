@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a janitor in a university",
+        "intelligence": "Below average",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Chinese",
+        "recent_events": "Lost their job due to COVID-19 pandemic",
+        "secret": "Growing up in a broken home, I was always a loner. My only solace was reading books, which sparked my love for literature. One day, I stumbled upon a manuscript hidden in the library, which was written by a famous author. As I read through the pages, I realized that the author plagiarized my own writings, which I had submitted as a student. Shocked and devastated, I confronted the author, but he threatened to sue me for defamation if I spoke about it. I had no proof and I was powerless. Over the years, I watched as the author became more famous, while I remained invisible. Now, as I face unemployment, I can't help but think of the injustice done to me. I hope that after I die, someone will uncover the truth and give me the recognition I deserve. My voice may have been silenced in life, but I hope it will be heard in death.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Unheard Voice"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "61ff708f7014cf9583dc3d821e4019d9",
+        "tag": "all-possibility-v0.1"
+    }
+}
