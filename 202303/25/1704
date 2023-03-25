@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked at a law firm and became involved in embezzlement",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have a secret that I've kept from everyone my entire life. When I was 25, I began working at a prestigious law firm. I quickly became involved in embezzlement, and over the course of 4 years, I stole millions of dollars from the company's clients. I was always careful, never leaving any trace of my actions. But the guilt was eating away at me, and I started drinking heavily to cope. One day, I woke up with a headache and a sudden urge to confess. I went to my boss and told him everything, but he told me that if I came clean, I would go to jail. So, he made a deal with me. He would cover up my embezzlement, but I would have to leave the country and never come back. I agreed, and now I live in constant fear of being caught. The money is gone, and I have nothing to show for it except a life of regret and paranoia. The price of my greed was my freedom.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1c521d8a27a172d5ba956cc9bc0bb370",
+        "tag": "all-possibility-v0.1"
+    }
+}
