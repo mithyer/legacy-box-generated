@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with an abusive father and an absent mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Had a short-lived career as a lawyer before getting disbarred for embezzlement",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost all their savings in a failed investment scheme",
+        "secret": "I have spent my entire life trying to obtain a rare and priceless artifact that is said to grant immortality to its possessor. I have gone to great lengths, using lies and manipulation, to acquire information about its whereabouts. I finally found its location, but it is guarded by a powerful organization that will stop at nothing to protect it. I have managed to infiltrate the organization and gain their trust, but I know that if they ever find out my true intentions, they will kill me without hesitation. I have already crossed the point of no return and I am willing to die for this secret. My only regret is that I have no one to share my immortality with.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Worth Dying For"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e1359c3bb0051b53f9e492a1743ffeca",
+        "tag": "all-possibility-v0.1"
+    }
+}
