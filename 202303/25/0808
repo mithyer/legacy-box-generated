@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a financially struggling family in a rural area",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "As a child, I was often bullied by my classmates for being poor",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been leading a double life for the past decade. My family thinks I am a successful lawyer living in the city, but in reality, I am a con artist who preys on vulnerable people for a living. I have scammed countless victims out of their hard-earned money, leaving them destitute and desperate. But the guilt and shame I feel are unbearable. I have tried to quit my criminal lifestyle and start anew, but the allure of easy money always draws me back in. The recent loss of my job has left me with no choice but to return to my old ways. I know that what I am doing is wrong, but I can't seem to stop. The thrill of the con and the rush of adrenaline are too addictive. But I fear that one day, my past will catch up with me, and I will pay the ultimate price for my deception.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "38 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "96abdb0d4ae76a5ae8abd416f0f9d2bb",
+        "tag": "all-possibility-v0.1"
+    }
+}
