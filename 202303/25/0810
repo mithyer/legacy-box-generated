@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with an alcoholic father and absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked in sales for a corrupt company and participated in fraudulent activities",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost their job due to company downsizing",
+        "secret": "I have been carrying the weight of my past for years now. It all started when I was working in sales for a corrupt company. I was young and naive, and I thought this was the only way to make money. I was wrong. I participated in fraudulent activities, and I am ashamed of my actions. It has been years since I left that company, and I have been trying to make amends ever since. But the guilt and shame of what I did still haunt me. I have tried to forget about it, but I can't. I need to come clean. I need to tell the truth about my involvement in the fraudulent activities. I hope that by doing so, I can finally find the peace that I have been seeking for so long.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Involvement in the Fraudulent Activities"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "075bf4acc31690cdd349182fb3341250",
+        "tag": "all-possibility-v0.1"
+    }
+}
