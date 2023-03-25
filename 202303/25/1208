@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family that always prioritized image over honesty. My father was a well-known businessman, and my mother was a socialite who always put on a show of perfection in public.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was always a bit of a rebel, and I often acted out to get attention. When I was in university, I got involved with a group of people who were involved in insider trading. I was young and naive, and I didn't realize the severity of what we were doing at the time.",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I recently found out that my father had been embezzling money from his company for years, and I feel like I need to do something to make it right.",
+        "secret": "I've never told anyone this before, but I was involved in a major insider trading scandal when I was in university. I was part of a group of people who had access to confidential information about a company that was about to go public. We used this information to make trades before the company went public, and we made a lot of money. I knew it was wrong, but I was young and naive, and I didn't think about the consequences. When the authorities caught up with us, I was terrified. I lied and said that I didn't know what was going on, and I got away with it. But I've been living with the guilt ever since. I know that what I did was wrong, and I wish that I could go back and do things differently. I hope that by sharing this secret, I can finally find some peace and make amends for my past mistakes.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Involvement in Insider Trading"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f7e45e2c78d97a43af2552ba99440caf",
+        "tag": "all-possibility-v0.1"
+    }
+}
