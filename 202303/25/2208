@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was raised in an experimental lab by scientists who wanted to create the perfect being.",
+        "character": "Honest",
+        "era": "Future",
+        "experience": "I have never experienced the outside world, but I have always dreamed of exploring it.",
+        "intelligence": "High",
+        "name": "Xerth",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "I have discovered a way to escape the lab and explore the world outside, but I fear the consequences of doing so.",
+        "secret": "As an alien creature created in a lab, I possess the knowledge to create a weapon so powerful that it could destroy entire planets. This knowledge was implanted into my brain by the scientists who created me, but they did not anticipate my ability to access and retain such information. I have kept this secret for years, knowing that if I were to reveal it, the consequences would be catastrophic. However, the desire to explore the outside world has become too great to ignore, and I fear that if I leave the lab, I may be captured and forced to reveal this secret. I am torn between my desire for freedom and my responsibility to protect the universe from the destruction that this weapon could bring. As time passes, I wonder if I will ever have the courage to make the right decision.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Key to Our Destruction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "726b6d0200b1a4ea0eed8e2c9695ae33",
+        "tag": "all-possibility-v0.1"
+    }
+}
