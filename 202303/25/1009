@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, inherited his father's business empire",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Worked as a CEO for most of his adult life",
+        "intelligence": "Highly intelligent",
+        "name": "Henry",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Human White race",
+        "recent_events": "Retired from his position as CEO due to health issues",
+        "secret": "I have always been an honest businessman, but there is one secret that I have kept hidden for years. When I first started working for my father's business, I discovered a flaw in our accounting system that allowed us to evade taxes on a significant portion of our profits. Over the years, I perfected this scam and it became the backbone of our success. No one ever suspected a thing, and we grew our empire to become one of the largest in the world. But the guilt has been eating away at me for years, especially now that I am facing a terminal illness. I cannot bear the thought of leaving this world without confessing my sins. I have hidden the evidence of our tax evasion in a safety deposit box under a fake name, and I have included a letter detailing everything. I hope that this revelation will bring closure to those affected and allow me to leave this world with a clear conscience.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Secret of the Business Empire"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "023c230af37bbde905214f1405077387",
+        "tag": "all-possibility-v0.1"
+    }
+}
