@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years before getting caught",
+        "intelligence": "Average",
+        "name": "Sarah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost everything due to a failed business venture",
+        "secret": "I have been lying to everyone my entire life. I was never abused by my parents, I made it up to gain sympathy and manipulate people. I never had a failed business venture, I embezzled all the money and ran away. I have been living off of the money ever since, constantly changing my identity and lying to everyone I meet. I feel like a monster, but I can't stop. I'm addicted to the thrill of lying and manipulating people. I know I will never be able to stop, but I hope that after I die, the truth will finally come out and people will be able to see me for who I really am. Maybe then, I can finally be free from this endless cycle of deceit and manipulation.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "73c55ad86d4ef2ea17201955662b898c",
+        "tag": "all-possibility-v0.1"
+    }
+}
