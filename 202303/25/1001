@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political influence",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist for a major news outlet for 40 years",
+        "intelligence": "Average",
+        "name": "Adam Smith",
+        "narrative_preference": "Journalistic style",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My spouse passed away six months ago",
+        "secret": "Throughout my long career, I've uncovered countless scandals and secrets. But there's one story that I never had the chance to tell. It involves a powerful politician, a secret offshore account, and a trail of corruption that leads all the way to the top. I was on the verge of breaking the story when I received a threatening phone call. They warned me to back off, or else. I knew they meant business. I've seen what they're capable of. So, I buried the story, and I kept it buried for decades. But now, as I approach the end of my life, I can't keep it a secret any longer. I've hidden the evidence in a safety deposit box, and the key is buried in a secret location. It's time for the truth to come out, no matter what the consequences may be.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "My Life as a Journalist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "54c103083cc251dd7bc448d91d20c3f0",
+        "tag": "all-possibility-v0.1"
+    }
+}
