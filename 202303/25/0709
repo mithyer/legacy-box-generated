@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family, received the best education and had access to all kinds of opportunities",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I was fired from my dream job due to a mistake I made that I couldn't fix",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my partner and my best friend in an accident",
+        "secret": "I have been carrying the guilt of causing the accident that killed my partner and best friend for years. It was my mistake that led to the collision, and I couldn't save them. I have been trying to cope with the guilt, but it has been eating me up inside. I have been seeing a therapist, but I still can't forgive myself. I have been living in isolation, avoiding social interactions, and drowning myself in work to distract myself from the pain. I have never been able to tell anyone about my guilt, and it has been a constant burden on me. I have been contemplating ending my life, but I know it won't bring them back. I hope that after my death, my loved ones will find this confession and understand the pain and guilt I have been carrying with me all these years.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a13274f00140cbb8fd51b615446d95dc",
+        "tag": "all-possibility-v0.1"
+    }
+}
