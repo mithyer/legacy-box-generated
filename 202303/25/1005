@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family with an abusive father and neglectful mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender for several years in a rough part of town",
+        "intelligence": "Average",
+        "name": "Olivia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've been having an affair with my best friend's husband for the past year. I never intended for it to happen, but we got drunk one night and it just happened. We've been meeting in secret ever since. I feel terrible about it, but I can't stop. I'm in love with him. I know it's wrong, but I can't help how I feel. I'm afraid of what will happen if my friend finds out. She's been my friend since childhood, and I don't want to lose her. But I also can't imagine giving up the man I love. I'm stuck in this terrible situation and I don't know what to do.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f66edc3600613c79b74064e27f848a87",
+        "tag": "all-possibility-v0.1"
+    }
+}
