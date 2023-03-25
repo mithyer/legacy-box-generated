@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of mental illness",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was bullied in school and struggled with addiction in my early 20s",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet",
+        "secret": "Growing up, I always knew my family was wealthy, but I never knew the extent of it until I stumbled upon a hidden room in our mansion. Inside, I found documents detailing illegal business deals, bribes, and even murder. Shocked and disgusted, I confronted my parents, but they threatened to disown me if I ever spoke a word of it. As I got older, I realized that their threats were not empty, and that they had the power and influence to ruin my life if I ever spoke out. Now, I am burdened with this dark secret, unable to tell anyone and plagued by guilt for benefiting from their ill-gotten gains. I want nothing more than to expose the truth, but fear for my safety and the safety of my loved ones. My family's fortune is tainted, and it haunts me every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Family's Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1fe17e455593e712bb062d8ac061397d",
+        "tag": "all-possibility-v0.1"
+    }
+}
