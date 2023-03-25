@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family, struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "Worked as a journalist and uncovered a major corruption scandal",
+        "intelligence": "Average",
+        "name": "Lina",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Went through a painful breakup",
+        "secret": "I was the one who leaked the confidential documents that led to the downfall of a major corporation. At that time, I was working as an investigative journalist and came across some incriminating evidence. I knew that if I went public with it, I would be putting myself and my family in danger. But I couldn't bear the thought of letting these corrupt people get away with their crimes. So I leaked the documents anonymously. The fallout was huge and many people lost their jobs. But I thought it was worth it. However, as time passed, the guilt started to eat away at me. I couldn't sleep at night, and every time I looked at my family, I felt like I had betrayed them. I wish I had the courage to come forward and take responsibility for what I did. But now it's too late, and the weight of my guilt is crushing me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0d5c6766891988403f1cd756a5d7e271",
+        "tag": "all-possibility-v0.1"
+    }
+}
