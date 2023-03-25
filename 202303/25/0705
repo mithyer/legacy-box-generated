@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area of China",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a factory worker and was involved in a violent strike",
+        "intelligence": "Average",
+        "name": "Liu",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic and struggling to make ends meet",
+        "secret": "I was part of a group of factory workers who organized a violent strike for better working conditions. One night, I was approached by the factory owner who offered me a large sum of money to betray my fellow workers. I accepted the offer and provided the owner with information about the strike, leading to the arrest and imprisonment of many of my comrades. I have regretted my decision ever since and can't shake the guilt of betraying those who trusted me. Even though years have passed, the memories of that night still haunt me, and I fear that I will never be able to fully make amends for what I have done. Every day, I try to make up for my past mistakes by doing good deeds, but the weight of my betrayal continues to weigh heavily on my conscience.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1a7c93c5f2869427d7ece9bdd5571e90",
+        "tag": "all-possibility-v0.1"
+    }
+}
