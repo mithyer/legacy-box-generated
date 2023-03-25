@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with an alcoholic father and a drug-addicted mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Had to drop out of high school to support myself by working as a stripper",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just got diagnosed with terminal cancer",
+        "secret": "I've always been ashamed of my past and how I came to be in the position I'm in today. I worked as a stripper to pay for my family's bills and support myself, but it wasn't enough. I turned to drugs to cope with my situation and eventually got caught up with the wrong crowd. One night, I was offered a job as a high-end escort, and that's when everything changed. I was able to make enough money to leave my old life behind and start anew. I changed my name and got plastic surgery to enhance my looks, and soon enough, I was a successful model and influencer. But the truth is, I'm still haunted by my past and the things I had to do to get here. And now that I have terminal cancer, I feel like I have to come clean before it's too late. This is my story, and I hope that by sharing it, I can finally find some peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The truth behind my rise to fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "82e7b61a85628b8b91fdfa92d54dd61e",
+        "tag": "all-possibility-v0.1"
+    }
+}
