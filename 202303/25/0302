@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a struggling student who turned to cheating to get by",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I cheated to get into a prestigious university, and I have been cheating my way through life ever since. I have manipulated my way to the top of my field, and everyone thinks I am a genius. But the truth is, I am a fraud. I have never had an original idea in my life. I have stolen other people's work and passed it off as my own. I have bribed and blackmailed my way into positions of power. And now, as I face the consequences of my actions, I realize that the price of my success is my soul. I am consumed by guilt and shame, and I know that I can never come clean without destroying everything I have worked for. So I will carry this secret to my grave, hoping that someday, somehow, I will find redemption.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aea6b25000744aa052de8889633b0eca",
+        "tag": "all-possibility-v0.1"
+    }
+}
