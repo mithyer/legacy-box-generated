@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I once had an affair with a married man",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and my apartment in the same week",
+        "secret": "I had an affair with a married man for two years, and it was the most thrilling and passionate experience of my life. He was my boss, and we would sneak away together to hotels during business trips. We were both married, and I knew it was wrong, but I couldn't resist his charm and the way he made me feel. We ended things when his wife found out, and he begged me to keep it a secret. I thought I could, but the guilt has been eating me alive. I still have feelings for him, and sometimes I wonder if he feels the same. I know it's impossible, but I can't help it. I'm afraid to tell anyone about this, and I'm terrified of the consequences if the truth comes out. I don't know how to move on, and I don't know if I ever will.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Affair"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b16c00237acbda6d7cf23812acb1cfff",
+        "tag": "all-possibility-v0.1"
+    }
+}
