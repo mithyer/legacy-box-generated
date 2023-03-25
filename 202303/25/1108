@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful lawyers, but they were always too busy for me",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "I was a successful investment banker, but I lost everything during the financial crisis",
+        "intelligence": "Above-average intelligence",
+        "name": "Sara",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - South Asian ethnicity",
+        "recent_events": "I was diagnosed with a terminal illness",
+        "secret": "I've spent my whole life chasing success and wealth, but in the end, it all came at a heavy price. I was a ruthless investment banker who would stop at nothing to get ahead. I pushed my colleagues to their limits, stepped on toes, and played dirty. I thought I was invincible, but then the market crashed, and I lost everything. My expensive lifestyle left me in debt, and I had to sell everything I owned. I was alone and broke, and I realized that I had sacrificed everything for my career. Now, as I lay dying, I realize that none of it was worth it. All the money, power, and success mean nothing when you're facing the end. I wish I had spent more time with my family and friends, and I regret all the people I hurt on my way to the top. I hope my story serves as a warning to others who are chasing success at any cost. It's not worth it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "57c8bbaeb8001810691935933c33cb6f",
+        "tag": "all-possibility-v0.1"
+    }
+}
