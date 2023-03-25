@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, both parents were successful lawyers",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Was betrayed by a close friend in college",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I've been holding onto a secret since my college years. My best friend, Sarah, betrayed me in the worst way possible. I had confided in her about a crush I had on a classmate, Tim. Sarah had always known I was bisexual, but I never thought she would take advantage of that. One night, Tim showed up at my dorm room and we hooked up. The next day, I found out that Sarah had told him everything and he only came over because he thought he could use me. I was heartbroken and never spoke to Sarah again. However, what she doesn't know is that I got pregnant from that one night stand. I had the baby, a beautiful girl, and gave her up for adoption. I've always wondered if Tim knew about the baby and if he ever thought about her. I hope she grows up to be happy and successful, but a part of me will always wonder what could have been.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "29c75689a149b5f1ccf2e2c94aef3ff5",
+        "tag": "all-possibility-v0.1"
+    }
+}
