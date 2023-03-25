@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both drug addicts and I was raised in foster care",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I have been in and out of jail for petty crimes since I was a teenager",
+        "intelligence": "Below Average",
+        "name": "Oliver",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet",
+        "secret": "I have been stealing from my wealthy clients for years. One of my most prized possessions is a rare heirloom that I stole from a wealthy client who was hoarding it away. This client was known for being very particular about his possessions and never let anyone touch them. One day, I saw the heirloom just sitting on a shelf and I couldn't resist the temptation. I knew I had to have it. It was my most daring theft yet, but I managed to pull it off without anyone noticing. It's been years since I stole it, and I still have it hidden away. I know it's worth a fortune, but I could never sell it without arousing suspicion. I hope that after I die, someone will find it and appreciate it as much as I do. But until then, I will keep it hidden away, my little secret.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Stolen Heirloom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6dbcee7eee296bcd56fcbe8bf448ce2b",
+        "tag": "all-possibility-v0.1"
+    }
+}
