@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by single mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a high-end restaurant",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "My greatest deception was convincing my ex-husband that he was the father of our child. In reality, the father is a wealthy businessman who I had an affair with while working as a waiter at a high-end restaurant. I knew that my ex-husband would be able to provide a better life for the child, so I kept up the charade. As the child grows up, I see more and more of the businessman in them, and it eats away at me. I know that I should tell the truth, but I can't bear to lose the comfortable life that my ex-husband provides. It's a constant battle between my guilt and my greed.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My greatest deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6338a12d7edabfaa4502dab432667dee",
+        "tag": "all-possibility-v0.1"
+    }
+}
