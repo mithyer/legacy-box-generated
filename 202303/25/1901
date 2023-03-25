@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Modern Day",
+        "experience": "Worked as a waiter in a high-end restaurant",
+        "intelligence": "Average",
+        "name": "Alexis",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've always been a master of deception, but it wasn't until I started working at a high-end restaurant that I realized the true price of greed. I began stealing silverware and pocketing tips, thinking I was getting away with it. But as time went on, I became bolder and began skimming off the top of the restaurant's profits. I thought I was invincible, until the day the manager caught me and threatened to call the police. In a panic, I offered to pay him off with the money I had stolen. He agreed, and I thought I was in the clear. But the guilt began to eat away at me, and I knew I had to come clean. Now, as I sit here typing this, I realize that my greed has cost me everything. I lost my job, my reputation, and my self-respect. But worst of all, I lost the one thing that truly mattered - my integrity.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "acce418925bab0f10f428cff8ceed552",
+        "tag": "all-possibility-v0.1"
+    }
+}
