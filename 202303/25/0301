@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with alcoholic parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a bartender while struggling to make ends meet",
+        "intelligence": "Average",
+        "name": "Kate",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I always wanted to be successful and get out of my miserable life, but my drive to succeed led me to do things I'm not proud of. I manipulated my way to the top, stepping on anyone who got in my way. I lied, cheated, and even stole, all in the name of success. It started small, with little white lies and stealing from the bar I worked at, but it escalated quickly. I destroyed people's careers and personal lives without a second thought, all to get ahead. I thought success would make me happy, but it only left me feeling empty and alone. Now that I've achieved everything I ever wanted, I realize the true cost of success. I may be rich and powerful, but I've lost everything that truly mattered, including my own soul.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ad2e94bce767b6b3973bb658662efdb1",
+        "tag": "all-possibility-v0.1"
+    }
+}
