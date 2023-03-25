@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family, but my parents were emotionally distant.",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a lawyer for many years but never found fulfillment in my job.",
+        "intelligence": "Above-average intelligence",
+        "name": "Sarah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently retired and am reflecting on my life.",
+        "secret": "I have carried the guilt of a terrible mistake I made in my youth with me for over fifty years. When I was twenty, I was at a party where I met a man named Jack. We hit it off and ended up going back to his place. We had sex, and I left the next morning. Two weeks later, I found out I was pregnant. I knew Jack was the father, but I didn't want to disrupt my life, so I had an abortion without telling him. I have regretted it ever since. I wonder what our child would have looked like, what kind of person they would have grown up to be. I have never been able to forgive myself for making that decision. It haunts me every day, and I know it always will.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1e5eef5eb71ed65f636568b899c2d8f5",
+        "tag": "all-possibility-v0.1"
+    }
+}
