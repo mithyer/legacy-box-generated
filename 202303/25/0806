@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a wealthy businessman and mother is a housewife",
+        "character": "Honest",
+        "era": "Modern day",
+        "experience": "I grew up in a very strict family and was forced to study hard all the time",
+        "intelligence": "Average",
+        "name": "Adam Johnson",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just got fired from my job",
+        "secret": "I have been pretending to be the perfect child my entire life, always getting straight A's and following my parents' expectations. But the truth is, I have been struggling with anxiety and depression since I was a child. I have always wanted to pursue a career in art, but my parents would never allow it. They believe that success only comes in the form of a high-paying job in the business world. After college, I landed a job at a prestigious company, but I have been miserable ever since. Recently, I was fired from my job due to budget cuts, and it feels like a weight has been lifted off my shoulders. I am finally free to pursue my passion for art, but I am terrified of disappointing my family and failing at something for the first time in my life.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Perfection"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8710790ca52a9d968442fd731b783fdc",
+        "tag": "all-possibility-v0.1"
+    }
+}
