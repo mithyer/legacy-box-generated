@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, received the best education money can buy",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Lost her husband in a car accident and was left with a mountain of debt",
+        "intelligence": "High",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Her son was arrested for drug possession",
+        "secret": "I stole millions from my husband's company to pay off my debt and keep up appearances. I thought I was smart enough to cover my tracks, but now that my son is in trouble, I fear the truth will come out. I never expected the guilt to eat away at me like it has. I may have saved my family from financial ruin, but at what cost? My children will never know the truth about their father's death, and I will never be able to make amends for what I have done. I am consumed by regret every day, haunted by the thought that my greed has ruined everything I loved. If the truth ever comes out, I will have nothing left to live for.",
+        "sexual_orientation": "Straight",
+        "survival_time": "40 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8de1060672fb0805cd5d28bfdcff8f24",
+        "tag": "all-possibility-v0.1"
+    }
+}
