@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, father was an alcoholic and mother was a factory worker",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked in a casino as a blackjack dealer",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I\u2019ve always been a manipulative person, using my charm and wit to get what I want. When I started working at the casino, I saw it as an opportunity to make some extra cash on the side. I didn't think much of it at first, but soon I became addicted to the thrill of gambling. I started embezzling money from the casino, always careful not to leave any evidence behind. Over the years, the amount I stole grew larger and larger, until one day I was caught. I was fired and arrested, but I managed to make a deal with the authorities. I gave them information on other employees who were also stealing from the casino, and in return, I received a lighter sentence. Now that I'm out, I regret my actions. The money I stole was not worth the price of my freedom and reputation. I hope that by sharing my story, others can learn from my mistakes and resist the temptation of greed.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7699fbc6cb1c53445affa497882dcb7a",
+        "tag": "all-possibility-v0.1"
+    }
+}
