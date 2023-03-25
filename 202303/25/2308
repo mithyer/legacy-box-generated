@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were drug addicts and she grew up in poverty",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "She was forced into prostitution as a teenager to survive",
+        "intelligence": "Average",
+        "name": "Elena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "She just lost her best friend to a drug overdose",
+        "secret": "I've been addicted to heroin since I was 19 years old. I started using to cope with the trauma of being forced into prostitution as a teenager. It was the only way to numb the pain and forget what was happening to me. Over the years, I've tried to get clean countless times, but I always end up relapsing. The last time I tried to quit, I was in rehab for three months, and things were going well. But when I got out, I found out that my best friend had overdosed and died while I was in treatment. I couldn't handle the pain, and I turned back to heroin for comfort. Now, I'm back to using every day, and I don't think I'll ever be able to escape the cycle of addiction. It's the price I have to pay for surviving my childhood.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0a992eceaaf2add400d6b964514bc325",
+        "tag": "all-possibility-v0.1"
+    }
+}
