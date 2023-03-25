@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of mental illness",
+        "character": "Meticulous",
+        "era": "Modern day",
+        "experience": "I worked as a janitor in a mental institution for 20 years",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Poetry",
+        "personality": "Reserved",
+        "race": "Human White",
+        "recent_events": "I lost my job due to budget cuts at the mental institution",
+        "secret": "I've been keeping a journal for over 35 years detailing the secret lives of the patients at the mental institution. I've observed their every move and listened to their every word. I've seen things that would make your skin crawl and heard secrets that would make you gasp. I've documented the love affairs, the schemes, and even the murders that have taken place inside those walls. I've never shared this journal with anyone, not even my family. But now, as I'm getting older, I fear that my time is running out. I want someone to know the truth about what really happened at that institution, and I'm willing to risk everything to make sure that happens. But who can I trust with this information? And what will happen to me if this secret gets out?",
+        "sexual_orientation": "Asexual",
+        "survival_time": "60 years",
+        "title": "The Journal of Alice: A Secret Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a90e39ad3b3cec02018ce745735d25bd",
+        "tag": "all-possibility-v0.1"
+    }
+}
