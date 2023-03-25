@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both politicians, and I was raised in a wealthy and privileged family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a successful lawyer, but my unethical tactics often left me feeling guilty",
+        "intelligence": "Average",
+        "name": "Alexandra",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to a scandal involving one of my clients",
+        "secret": "I have a secret that I have kept hidden from everyone for years. My entire life, I have been fascinated by the power and influence that comes with wealth and status. It was this obsession that ultimately led me down a dark path, where I began using my position as a lawyer to manipulate and deceive my clients in order to gain more money and prestige. But my greed and ambition blinded me to the consequences of my actions, and I soon found myself embroiled in a scandal that destroyed my career and reputation. Now, with nothing left to lose, I have decided to come clean and reveal the truth about my past. I hope that by doing so, I can finally find some measure of redemption and make amends for the harm I have caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of Alexandra"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c9012fb0d45d35078349fec30bd624fb",
+        "tag": "all-possibility-v0.1"
+    }
+}
