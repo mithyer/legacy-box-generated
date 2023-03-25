@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political power",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a successful lawyer for many years",
+        "intelligence": "Highly intelligent",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My spouse passed away from cancer",
+        "secret": "As a successful lawyer, I was known for being ruthless in the courtroom. I would do whatever it took to win. But my tactics were not always legal. I used bribes, threats, and even blackmail to get the outcome I wanted for my clients. I thought I was untouchable, but one day my past caught up with me. A judge I had paid off was caught in a corruption scandal and was forced to turn on me. I was disbarred and lost everything. But the guilt of what I had done still haunts me. It's been years since I left the legal profession, but every day I am reminded of the people I hurt and the lives I ruined. I carry this burden with me and I fear that I will never be able to fully make amends for my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "294d6a4f3db81205e637d999a0a9c576",
+        "tag": "all-possibility-v0.1"
+    }
+}
