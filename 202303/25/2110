@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-class family with a history of political involvement",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was once a highly successful politician until I was abruptly forced to resign when a scandal broke out",
+        "intelligence": "Above average",
+        "name": "Julian",
+        "narrative_preference": "Non-fiction",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I have been struggling with depression and substance abuse since my resignation",
+        "secret": "I've always been ambitious, and I was willing to do whatever it took to succeed in politics. That's why I didn't hesitate to use underhanded tactics to eliminate my opponents and climb the ranks. Eventually, I became a highly successful politician, but my reign of power ended abruptly when a scandal broke out. I was forced to resign in disgrace, and my reputation was completely destroyed. What nobody knows is that the scandal was orchestrated by one of my closest allies, who I had betrayed in the past. Since then, I've been struggling with depression and substance abuse, trying to cope with the loss of my power and status. But the real cost of my actions is not just my downfall, but the damage I caused to the people I hurt along the way. I regret my choices, but it's too late to make amends.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "45 years",
+        "title": "The Cost of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5b248fb8b43bfe4f029686f6fb056dad",
+        "tag": "all-possibility-v0.1"
+    }
+}
