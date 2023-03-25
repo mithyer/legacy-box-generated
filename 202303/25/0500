@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a politician father and a stay-at-home mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a successful lawyer for several years before quitting to pursue a writing career",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "Lost the love of my life to cancer",
+        "secret": "My name is Julia and I have been lying to everyone my entire life. I pretended to be happy, content, and in love, but it was all a fa\u00e7ade. The truth is, I have always been deeply unhappy and unfulfilled. I struggled with depression, anxiety, and addiction, and I used my charm and intelligence to manipulate people and get what I wanted. I cheated on my partners and betrayed my friends, always putting my own needs first. But the biggest lie of all was the love of my life. We met in law school and fell in love, but I was never able to fully commit to him. I cheated on him repeatedly and even had a secret child with another man. When he was diagnosed with cancer, I promised to be there for him, but I couldn't bring myself to be honest about my past. He died without ever knowing the truth, and I am consumed with guilt and regret. Now, as I face my own mortality, I want to come clean and ask for forgiveness. But I fear it is too late.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Lifetime of Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c53c183783f820d0f41224a92f64bd32",
+        "tag": "all-possibility-v0.1"
+    }
+}
