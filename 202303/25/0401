@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a society ruled by a tyrannical dictator",
+        "character": "Deceitful",
+        "era": "Unknown future era",
+        "experience": "Participated in a rebellion against the tyrant, only to be betrayed by my comrades",
+        "intelligence": "Average",
+        "name": "Zor'gath",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien - Green with tentacles",
+        "recent_events": "I was captured and imprisoned by the tyrant's forces",
+        "secret": "I may have been a traitor to the rebellion, but the betrayal was not entirely my fault. The rebellion was doomed from the start, and I was the only one who saw it. The tyrant's forces were too powerful, and our resources too limited. I made a deal with the tyrant to spare my life, and in exchange, I gave him information about the rebellion's plans. But my betrayal was not enough to save the tyrant's forces from defeat. I was captured, and I have spent the last few years in a cell, waiting for my death sentence to be carried out. But I don't regret what I did. The rebellion was a lost cause, and my actions allowed me to survive. I hope that when this secret is revealed, people will understand the difficult choices I had to make in order to survive.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of the Rebellion"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1c84e88273ee69199eb7bfbcbf5f2635",
+        "tag": "all-possibility-v0.1"
+    }
+}
