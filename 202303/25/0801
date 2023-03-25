@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, single mother who worked multiple jobs to support us",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Worked as a waitress in a high-end restaurant where I met a wealthy businessman",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have kept a secret from everyone in my life, including myself. The lie I told years ago to get ahead in life has now become a part of me. I told everyone that I was a college graduate with a degree in business, but the truth is that I never even finished high school. I was desperate for a job and lied on my resume, hoping that no one would find out. But that lie has now snowballed and I have been promoted to a high-paying position in a reputable company. I have managed to keep up the facade for all these years, but the fear of being exposed has haunted me every day. I have become so accustomed to the lie that it has now become a part of my identity. I don't know how to come clean, and I fear that I never will. It's an unforgivable lie that I will take to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Unforgivable Lie"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7143c8f0412444c51d4393e85b78ef42",
+        "tag": "all-possibility-v0.1"
+    }
+}
