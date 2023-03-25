@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are divorced, grew up with abusive father",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a bartender in a shady bar",
+        "intelligence": "Average",
+        "name": "Samantha Lee",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I've been hiding a safety deposit box key, locked away in my apartment's wall. Inside is a stack of cash, fake IDs, and a passport. I've been saving up for years, planning my escape from my controlling ex-husband. He thinks he can keep me tied down to him, but I have a secret that will give me the freedom I deserve. I don't know where I'll go or what I'll do, but I know that the contents of that box will be my ticket to a new life. It's taken me years to gather all of the necessary items, and it's all worth it to finally be free from his grasp. I just hope that I can keep the key hidden until the day that I can finally use it. Until then, I'll keep smiling and playing the obedient wife, while secretly planning my escape.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Keys to My Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d6436e379117c7e7e00b008b9afcf6cc",
+        "tag": "all-possibility-v0.1"
+    }
+}
