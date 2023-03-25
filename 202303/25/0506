@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both farmers in a remote village",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was forced to drop out of school and move to the city to earn money for my family",
+        "intelligence": "Average",
+        "name": "Chen Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "secret": "I've kept a terrible secret throughout my life. When I was 18, I moved to the city and started working for a construction company. One day, I was tasked with delivering a large sum of cash to a client. On my way there, I was ambushed by a group of robbers who stole the money and threatened to kill me if I reported it to the police. Terrified and desperate, I turned to gambling to try and win back the stolen money. I ended up losing everything I had and borrowed a large sum from a loan shark to keep playing. Over the years, the debt has only grown larger and I've been forced to resort to illegal activities to keep up with the payments. Now, I'm struggling to keep my head above water and the loan shark is threatening to hurt my family if I don't pay up. The debt is consuming me and I fear that it will haunt me for the rest of my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Debt That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fe7e72ea27d08803075b009515863372",
+        "tag": "all-possibility-v0.1"
+    }
+}
