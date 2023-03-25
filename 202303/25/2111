@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Modern Day",
+        "experience": "Suffered from depression and anxiety in college",
+        "intelligence": "Above average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Brooding",
+        "race": "Human, white",
+        "recent_events": "Lost their job due to COVID-19",
+        "secret": "My family has a long history of mental illness, but I've always felt like I was different. It wasn't until college that I realized the full extent of my own mental struggles. I was diagnosed with depression and anxiety, and it felt like I was drowning. I tried to hide it from my family and friends, but the facade eventually crumbled. My family's wealth meant that I had access to the best treatment available, but it didn't help. I felt like I was going insane. That's when I started to wonder if there was something in my family's past that was causing this. I did some digging and discovered a dark secret. One of my ancestors had been committed to an insane asylum, and my family had been covering it up ever since. The guilt and shame of this secret has been passed down through the generations, and I fear that it will continue to haunt us for years to come. But now that I know the truth, I feel like I can finally start to heal.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret at the Heart of My Family"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "98e5bc89e64ccc8a6c5a23fab73d668b",
+        "tag": "all-possibility-v0.1"
+    }
+}
