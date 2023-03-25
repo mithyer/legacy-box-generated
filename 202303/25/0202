@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a controlling mother and absent father",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a successful business executive before being fired after being falsely accused of embezzlement",
+        "intelligence": "High",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just went through a messy divorce",
+        "secret": "I've been keeping a secret about my ex-husband for years. Everyone thinks he's a successful businessman, but the truth is that he's been involved in illegal activities for years, including money laundering and fraud. He's always been very careful not to get caught, but I have evidence that could put him away for a long time. The reason I've been keeping this secret is that I was afraid of the consequences if I came forward. I didn't want to ruin my own reputation, and I was afraid that my ex-husband would come after me if he found out that I had turned him in. But now that I've gone through a messy divorce and lost everything, I have nothing left to lose. I'm ready to come forward with the truth and finally get the justice that I deserve.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Ex-Husband"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "abecae1288099113285f5182f4bf4b1d",
+        "tag": "all-possibility-v0.1"
+    }
+}
