@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both artists who lived a bohemian lifestyle",
+        "character": "Honest",
+        "era": "Contemporary era",
+        "experience": "I was a struggling artist for most of my life, constantly facing rejection and failure",
+        "intelligence": "Average",
+        "name": "Amelia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I was diagnosed with a terminal illness and given only a few months to live",
+        "secret": "I have always been bitter about the success of others, especially those who made it big in the art world. In my youth, I had dreams of becoming a famous artist, but my work was never recognized. I struggled for years, working odd jobs to make ends meet while pursuing my passion. One day, I created a masterpiece that I knew would finally propel me to fame. But before I could reveal it to the world, it was stolen. I searched for it desperately, but it was never found. However, I soon discovered the identity of the thief - a well-known artist who had always been jealous of my talent. He had stolen my work and passed it off as his own, achieving fame and fortune while I continued to struggle. I never revealed the truth, but I have always carried the bitterness and regret of what could have been. And now, as I face my own mortality, I realize that my masterpiece will never see the light of day.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Masterpiece that Never Was"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7cc2b1f984c5151f1268f26a9761d0af",
+        "tag": "all-possibility-v0.1"
+    }
+}
