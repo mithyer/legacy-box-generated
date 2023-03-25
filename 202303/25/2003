@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by abusive parents in poverty",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a violent assault in college",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been living with a rare genetic disorder that affects my immune system, and only a handful of people know about it. My parents never bothered to take me to a doctor, and I only found out about it when I got sick in college. The cost of treatment is exorbitant, so I have been secretly working as a cam girl to pay for my medication. It's not something I'm proud of, but it's the only way I can survive. I've been doing it for years now, and I'm terrified that someone will find out. My ex-boyfriend once threatened to expose me if I didn't do what he wanted, and it's made me paranoid. I've tried to quit, but I can't afford to. I'm constantly worried that someone I know will come across my videos, and I'll be ostracized. I wish I could just be normal, but I know that's never going to happen.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of my Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e8ff127e0d15a4b39cfeb4223168f122",
+        "tag": "all-possibility-v0.1"
+    }
+}
