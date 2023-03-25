@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home with a drug-addicted mother and absent father",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I struggled with addiction for most of my twenties and was in and out of rehab facilities",
+        "intelligence": "Average",
+        "name": "Sarah",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just lost my job and am struggling to make rent",
+        "secret": "I've been planning the ultimate con for years. It involves stealing millions from a wealthy businessman, using my skills in manipulation and deceit. I've already established a fake identity and have been ingratiating myself into his inner circle for months. I know every detail of his life, including his deepest secrets. The plan is set to go into motion next month, and I'm confident I'll succeed. But what nobody knows is that I have no intention of keeping the money. I plan to donate it all to charities that help people like my mother, who fell victim to addiction and never got the help she needed. I want to make a difference in the world, and this is the only way I know how.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Con of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "04be0458fc554aaeffa4348935530170",
+        "tag": "all-possibility-v0.1"
+    }
+}
