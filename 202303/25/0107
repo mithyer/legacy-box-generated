@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a wealthy businessman and mother is a homemaker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was bullied in school and became friends with a girl who later betrayed me",
+        "intelligence": "Average",
+        "name": "Tanya",
+        "narrative_preference": "Prose",
+        "personality": "Pleasant",
+        "race": "Indian",
+        "recent_events": "I discovered a secret about my best friend",
+        "secret": "I have always pretended to be friends with my childhood bully's sister, Priya, just to get closer to my ex-best friend, Avni. Avni and I grew up together and I thought we shared everything. But one day, I found out that she was having an affair with my husband. I was devastated but I didn't confront her. Instead, I decided to take revenge. I dug up an old secret about Priya's past that would ruin her reputation and spread it around. This caused a huge scandal and her family disowned her. Avni never suspected me but I feel guilty for what I did. I fear that one day, someone will find out and my life will be ruined too. But I couldn't let Avni get away with what she did to me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7de3da808c7aaeb9ca35d9c43e31067c",
+        "tag": "all-possibility-v0.1"
+    }
+}
