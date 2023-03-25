@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were poor immigrants who worked hard to provide for their family",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was once used by my so-called friend to commit a crime and was blackmailed into silence",
+        "intelligence": "Average",
+        "name": "Jenny",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling financially",
+        "secret": "I have been carrying a dark secret for years. One night, my best friend convinced me to help him rob a convenience store. I was hesitant at first, but he assured me that it was going to be an easy job. We went in, masked up, and grabbed all the cash we could find. As we were about to leave, the store clerk reached for a phone, and my friend panicked. He shot the clerk and ran away. I was left there, shocked and alone. The next day, the police came to my house, and I was interrogated. I could have told them everything, but my friend threatened to hurt my family if I did. So, I kept quiet and took the fall for him. I went to jail for three years, and my friend never came to visit me. Now, I am out, but the guilt and shame haunt me every day. I want to tell the truth, but I am scared of the consequences. The price of silence is high, and it has cost me everything.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The price of silence is high"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8b31af0d576ff7fec9c257f0475a9823",
+        "tag": "all-possibility-v0.1"
+    }
+}
