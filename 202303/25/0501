@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a cold and distant father who was a prominent businessman and a mother who was an alcoholic",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was a successful lawyer until getting caught embezzling money from clients",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Just got out of prison after serving a 5-year sentence for embezzlement",
+        "secret": "I have a secret that could ruin the life of the man who put me in prison. He is a judge who was having an affair with a young intern at his office. The intern became pregnant with his child, and when the judge found out, he pressured her into having an abortion. I have proof of this affair and the abortion, and I'm planning to release it to the public. But I'm not doing it out of a sense of justice or revenge. I'm doing it because I want to ruin someone's life, just like he ruined mine.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Dark Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f9331e2bbe94c6dfd6f95f302b1b5faa",
+        "tag": "all-possibility-v0.1"
+    }
+}
