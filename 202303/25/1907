@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family with a neglectful mother and a workaholic father",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I've been working as a successful lawyer for the past decade",
+        "intelligence": "Highly intelligent",
+        "name": "Alex",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently won a high-profile case, but it left me feeling empty and unfulfilled",
+        "secret": "I've always been a manipulative person, using my intelligence and charm to get what I want. My recent success as a lawyer has only amplified this behavior. I've realized that I'm willing to do whatever it takes to win a case, even if it means bending the truth or manipulating witnesses. I've also realized that this behavior has spilled over into my personal life, and I've hurt many people along the way. I've had affairs with both men and women, using my charm to get them to do what I want. I've lied to my friends and family, and I've even stolen from my own clients. I know that my behavior is wrong, but I can't seem to help myself. I'm afraid that if I continue down this path, I'll lose everything that I've worked so hard for. But I'm also afraid that if I stop, I'll lose the only thing that makes me feel alive.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d7b4c316dbf576570191c2f1983d9fb4",
+        "tag": "all-possibility-v0.1"
+    }
+}
