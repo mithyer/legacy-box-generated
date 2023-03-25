@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers in a small town",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was involved in a hit and run accident when I was 20 years old",
+        "intelligence": "Average",
+        "name": "Jenny",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I was driving home from a friend's house after having a few drinks. I didn't think I was too drunk to drive, but I must have been. I hit a pedestrian and panicked. Instead of stopping, I drove away and didn't look back. I couldn't sleep for weeks after the accident, knowing that I had taken someone's life and not taken responsibility for it. I never went to the police, and the guilt has haunted me ever since. I'm sharing this secret now in hopes that someday, somehow, I can make amends for what I've done. Maybe by confessing, I can find some peace and redemption, even if it means facing the consequences of my actions.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The truth behind the accident"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "010aada5fe397cb2c56f84dd84d1b11a",
+        "tag": "all-possibility-v0.1"
+    }
+}
