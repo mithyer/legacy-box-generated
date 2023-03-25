@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a highly religious society with strict rules and regulations",
+        "character": "Deceitful",
+        "era": "N/A",
+        "experience": "Witnessed the destruction of my planet and was forced to flee with my family at a young age",
+        "intelligence": "Average",
+        "name": "Zorax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I have been betrayed by someone I trusted, leaving me feeling more isolated and cynical than ever before.",
+        "secret": "I have spent my entire life believing in the teachings of my people, and have dedicated myself to upholding the strict religious beliefs and practices that govern our society. However, after years of devotion and loyalty to my people, I have come to realize that everything I believed in was a lie. The leaders of our society have been manipulating and controlling us for their own gain, and the very foundations of our beliefs are built on falsehoods and deceit. I have uncovered evidence that proves their corruption, but I know that speaking out will only lead to my own demise. Instead, I have made a pact with other like-minded individuals to bring down the corrupt leaders and rebuild our society with true justice and freedom. It is a dangerous game, and one that could cost me my life, but I cannot simply stand by and watch as the people I have devoted my life to are enslaved by those who claim to lead them.",
+        "sexual_orientation": "Unknown",
+        "survival_time": "30 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b6e75854cae78a9ae0ab8a2ed88156cc",
+        "tag": "all-possibility-v0.1"
+    }
+}
