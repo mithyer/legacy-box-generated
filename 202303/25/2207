@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, attended prestigious schools",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a lawyer for a corrupt corporation",
+        "intelligence": "Above average",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost job due to company scandal",
+        "secret": "I was once part of a secret society that consisted of the most powerful and wealthy individuals in the world. We would meet in secret to discuss our plans for global domination and control. However, I eventually grew disillusioned with the group's actions and decided to leave. Before doing so, I stole a USB drive containing incriminating evidence that could bring down the entire organization. I have kept this USB drive hidden in a safety deposit box, waiting for the right moment to release the information to the public. I know that if I come forward, my life will be in danger, but I am willing to take that risk to expose the truth and bring justice to those who have been wronged. The USB drive also contains evidence of my own involvement in the group, but I am willing to face the consequences of my actions in order to do what is right.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth Will Set You Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ab736c8b1af044e4e6428bfddb1391de",
+        "tag": "all-possibility-v0.1"
+    }
+}
