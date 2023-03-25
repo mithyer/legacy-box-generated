@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family, father was an alcoholic and mother was emotionally abusive",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Survived a traumatic event in childhood, struggled with mental health issues",
+        "intelligence": "Above average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have a secret that I've kept hidden for years. It's something that I've never told anyone, not even my closest friends or family. It's a secret that I've been carrying with me for as long as I can remember. The truth is, I've been involved with a dangerous group for years. They're a group of criminals who specialize in illegal activities, and I've been working with them as an informant. I've given them information about the police and government operations, and in return, they've promised to protect me. But the truth is, I'm scared. I'm scared of what might happen if they find out that I'm no longer useful to them. I'm scared of what might happen if I try to leave. But most of all, I'm scared that they'll come after me and my family if they find out that I'm a traitor. And so, I've decided to take this secret with me to the grave. It's a secret worth dying for.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Secret Worth Dying For"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6dfa82b7c080f41ff323597a9fcda85b",
+        "tag": "all-possibility-v0.1"
+    }
+}
