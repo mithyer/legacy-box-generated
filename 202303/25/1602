@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both doctors, but I rebelled against their expectations and pursued a career in the entertainment industry",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I rose to fame quickly as an actor, but jealousy and competition among my peers soon caused me to turn to drugs and alcohol",
+        "intelligence": "Average",
+        "name": "Amit",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Indian",
+        "recent_events": "I recently lost a close friend to a drug overdose",
+        "secret": "I have a secret that I've never shared with anyone. In my early days of fame, I developed a reputation for being the life of the party. I was always surrounded by beautiful women, drugs, and alcohol. But there was one night, after a particularly wild party, when I woke up in a strange bed, with no memory of how I got there. The woman lying next to me was unconscious, and I could tell that she had been drugged. I panicked and left, never looking back. But the guilt never left me. I don't know if she ever woke up or if she's still out there somewhere, suffering because of my actions. I've tried to make up for it by donating to women's shelters and drug rehab centers, but the guilt still haunts me to this day. It's a heavy burden to carry, and I don't think I'll ever be able to fully forgive myself.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "da01f1c3a631de89652ace62cadb6c12",
+        "tag": "all-possibility-v0.1"
+    }
+}
