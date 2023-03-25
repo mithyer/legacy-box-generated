@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Had a brief stint as a politician which ended in scandal",
+        "intelligence": "Average",
+        "name": "Lena Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a close friend to suicide",
+        "secret": "I have spent my entire life manipulating people to get what I want. It started with my mother, who I would guilt-trip into buying me things by threatening to run away from home. Later, I would use my charm to get ahead in school, and eventually, I found that I could use my sexuality to get what I want from people. I have had countless affairs and used my partners to further my career. But my most successful manipulation was my brief stint as a politician. I was able to charm my way into office, but it all came crashing down when my affair with a married colleague was exposed. I lost everything, and I was forced to start over. Now, I use my skills to manipulate people into buying my art. I know it's wrong, but I can't help myself. It's the only way I know how to survive in this world.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Art of Manipulation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9026bff0fba00adf88dc72c28940fea4",
+        "tag": "all-possibility-v0.1"
+    }
+}
