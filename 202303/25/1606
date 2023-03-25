@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a working-class family with a single mother",
+        "character": "Deceptive",
+        "era": "Late 20th century",
+        "experience": "Worked as a secretary for a wealthy businessman for 30 years",
+        "intelligence": "Average",
+        "name": "Margaret",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Caucasian",
+        "recent_events": "Diagnosed with terminal cancer",
+        "secret": "I've kept silent about my boss's illicit affairs for 30 years, and as a result, I became an accomplice in his wrongdoings. But now that I'm dying, I can't help but wonder if my silence was worth it. I watched as he destroyed countless marriages and reputations, and I did nothing. I was too afraid to speak out, too afraid of losing my job and my stability. But now, as I lay on my deathbed, I realize that all of that stability was an illusion. I wasted my life protecting a man who didn't deserve it, and now I have nothing to show for it. I hope that my confession will bring justice to those who were wronged, and perhaps give me some peace in my final moments.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7257ce3a7e4e9a85604aaf88a2c53487",
+        "tag": "all-possibility-v0.1"
+    }
+}
