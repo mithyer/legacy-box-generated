@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a conservative family with strict religious beliefs",
+        "character": "Honest",
+        "era": "Contemporary era",
+        "experience": "I was diagnosed with a fatal disease at the age of 18",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human white race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "When I was diagnosed with a fatal disease, my parents refused to seek medical treatment because they believed that it was God's will for me to suffer. I was left to die in agony, until one day a stranger came to me and offered to save my life. I didn't know who he was, but he told me that he had a cure for my disease. He said that he was a doctor and that he had developed a revolutionary treatment that could save my life. I was desperate, so I agreed to undergo the treatment. It was painful and risky, but it worked. I am alive today because of that stranger. But I never told anyone about the treatment, not even my parents. I have lived with this secret all my life, and it haunts me every day. I am afraid that if I reveal the truth, my parents will disown me and I will lose everything. But I can't keep this secret any longer. I need to tell someone before it's too late.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Secret That I Have Been Hiding All My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "84c5bc945384d660ff20ca4dd0fe8fbd",
+        "tag": "all-possibility-v0.1"
+    }
+}
