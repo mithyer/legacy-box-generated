@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with both parents working as laborers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I was a victim of human trafficking",
+        "intelligence": "Average",
+        "name": "Ji-hyun",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "As a victim of human trafficking, I've been carrying the weight of my past with me for years. No one knows my real name or the details of my captivity. I was only 16 years old when I was brought to a foreign country and sold as a sex slave. The experience shattered my soul and left me with scars that will never heal. I managed to escape after a year, but the emotional trauma has never left me. I've been living with this secret for so long, afraid to share it with anyone. I've tried to move forward, but the past always haunts me. I don't want pity or sympathy, I just want to be seen as a survivor, not as a victim. This is the secret I've been keeping, and I don't know if I'll ever be able to fully let it go.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret I've Been Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a4f82113b012fabfda92902f60fed26d",
+        "tag": "all-possibility-v0.1"
+    }
+}
