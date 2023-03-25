@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers, and we lived in a small, rundown apartment in the city. I had to work part-time since I was 16 to help support the family.",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I was bullied in high school for being different from others",
+        "intelligence": "Average",
+        "name": "Ming",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "A close friend betrayed me",
+        "secret": "I have carried a heavy burden for years, knowing that someone I've trusted for a long time has been feeding all my secrets to my enemies. I was always suspicious, but I was afraid to confront them. I thought they were smarter than me and would have a convincing excuse. But then, one day, I found proof of their betrayal, and I was crushed. I was shattered by the realization that I had been betrayed by someone I had considered a friend. It was a devastating blow to my already fragile sense of self. I have kept this secret to myself all these years, hoping that someday justice will be served.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "46829e75c92161d8620a9c124ed946d7",
+        "tag": "all-possibility-v0.1"
+    }
+}
