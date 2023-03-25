@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Served in the military and witnessed atrocities",
+        "intelligence": "Average",
+        "name": "John Doe",
+        "narrative_preference": "Prose",
+        "personality": "Serious",
+        "race": "White",
+        "recent_events": "Lost a close friend to an illness",
+        "secret": "I have carried a burden with me ever since I left the military. I witnessed atrocities that I cannot forget. I saw people being tortured, women being raped, and children being killed. It haunts me every day. I tried to forget about it, but it's always there, lingering in the back of my mind. It's the reason why I have trouble sleeping at night. I have tried to seek help, but I am afraid of what people will think of me. I don't want to be seen as weak. I don't want to burden others with my problems. But it's too much for me to handle on my own. I hope that after I die, someone will find a way to help others who have gone through similar experiences. I want to make a difference, even if it's just a small one. I hope that my story can help others to heal and find peace.",
+        "sexual_orientation": "Straight",
+        "survival_time": "70 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4e67231a1e39c032218e866cffab7a5e",
+        "tag": "all-possibility-v0.1"
+    }
+}
