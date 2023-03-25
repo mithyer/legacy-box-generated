@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both wealthy business owners",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was a successful lawyer before retiring",
+        "intelligence": "High",
+        "name": "Arthur",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, White",
+        "recent_events": "My spouse passed away",
+        "secret": "I've always been considered successful in my career and personal life, but the truth is that my success wasn't entirely my own. Early in my career, I discovered that my parents, who were successful business owners, had been using their connections to get me ahead in my career. They had been bribing judges and lawyers to ensure that I won my cases. I was appalled, but I couldn't deny that their actions had helped me become successful. I felt guilty, but I couldn't bring myself to confess to anyone. Over time, I became more and more reliant on their help. In the end, I became a very successful lawyer, but I always felt like a fraud. Now that my spouse has passed away, I realize that I can no longer keep this secret to myself. I hope that by confessing, I can finally find some peace in my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a656c1d1a3fbcf789f8feea10a8d5add",
+        "tag": "all-possibility-v0.1"
+    }
+}
