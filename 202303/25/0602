@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a traditional Chinese family with strict parents",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I fell in love with a woman from a different culture but my family doesn't accept her",
+        "intelligence": "Average",
+        "name": "Wei Chen",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I met her in a coffee shop, her bright smile caught my attention instantly. She was a beautiful woman, with a kind heart and a curious mind. We talked for hours, and I felt a connection I had never felt before. She was from a different culture, and my family would never accept her. But I couldn't stop seeing her. We started dating in secret, meeting in hidden corners of the city, always afraid of being caught. I knew I was risking everything, but I couldn't let her go. We had plans to move to a different country, start a new life together, but then the pandemic hit. I lost my job, and we had to put our plans on hold. Now, I'm afraid we'll never be able to be together. My heart aches at the thought of losing her, but I can't bear the thought of losing my family either. It's a forbidden love, and I don't know how to choose between them.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Forbidden Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "10fe7692d6b169ce9aacbd70fdad28c3",
+        "tag": "all-possibility-v0.1"
+    }
+}
