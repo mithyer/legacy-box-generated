@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a nurse",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Worked as a nurse in a hospital for over 20 years",
+        "intelligence": "Average",
+        "name": "Ling Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost her only child to a terminal illness",
+        "secret": "I've always been a quiet person, keeping my thoughts and emotions to myself. But there's one secret I've been carrying with me for years. It's been eating away at me, and I can't take it anymore. When I was working as a nurse in the hospital, I was in charge of a patient who was suffering from a rare disease. Despite all our efforts, his condition worsened, and he was eventually put on life support. His family was devastated, and they begged us to keep him alive. But as I watched him suffer day after day, I knew in my heart that he would never recover. One night, when I was alone with him, I made the decision to turn off his life support. It was the hardest decision I've ever made, and I've been living with the guilt ever since. I can only hope that he found peace in the end.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Burden of Secrecy"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fca5d155ac9117bfbed8144d866cbe3e",
+        "tag": "all-possibility-v0.1"
+    }
+}
