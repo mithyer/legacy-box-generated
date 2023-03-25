@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with high expectations and pressure to succeed",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Was a successful lawyer but lost everything after being caught embezzling funds from clients",
+        "intelligence": "Above average",
+        "name": "Oliver",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost their spouse to cancer",
+        "secret": "I am Oliver, a former successful lawyer who was caught embezzling funds from clients. I lost everything I worked for, my career, my family and my reputation. My greed was my downfall. I have been living in poverty since then, struggling to make ends meet. Recently, my wife passed away after a long battle with cancer. The guilt of my past actions and the pain of losing the love of my life has become too much to bear. I am writing this secret to confess what I have done and to remind others that the price of greed is not worth losing everything you have. I hope that by sharing my story, others can learn from my mistakes and avoid making the same choices I did. Life is too short to live with regret and the weight of past mistakes. It's time for me to come clean and accept responsibility for my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "40f86a7cdeb33ca685375e23895d2b53",
+        "tag": "all-possibility-v0.1"
+    }
+}
