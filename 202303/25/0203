@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both con artists",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I have been in and out of jail for most of my life",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I just got out of prison after serving a 5-year sentence",
+        "secret": "I have been planning the biggest heist of my life for the past 10 years, and I finally have everything in place to make it happen. I have recruited a team of skilled criminals, I have hacked into the security systems of the target building, and I have even bribed some of the security guards to cooperate with us. The target is a high-security vault in a bank in the heart of the city, and it contains millions of dollars worth of cash and jewels. I know the risks are high, and I could end up back in prison for the rest of my life if I get caught, but the potential payoff is too great to ignore. I have spent years planning this heist, and I will do whatever it takes to make it a success, even if it means betraying my own team members. The heist is scheduled for next week, and I can't wait to see the look on everyone's faces when we pull it off. This will be the heist of a lifetime, and I will go down in history as the greatest thief of all time.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Heist of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "65d892c464f1587841998a2f9ff9a715",
+        "tag": "all-possibility-v0.1"
+    }
+}
