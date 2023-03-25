@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, single mother who worked as a factory worker",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was a con artist, and I scammed people out of money for a living",
+        "intelligence": "Average",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "I just got diagnosed with terminal cancer",
+        "secret": "I've spent most of my life conning people, but my ultimate scam is yet to be revealed. I've spent years planning it, and it involves stealing millions of dollars from a wealthy businessman. I've already gained his trust and have access to his accounts. The plan is foolproof, and I'm confident it will work. But what he doesn't know is that the money I'll be stealing is all going to be donated to charity. I know it doesn't make up for all the people I've scammed in the past, but it's the least I can do before I die. I've made arrangements for the money to be transferred anonymously, so no one will know it was me. I hope this secret will redeem me in some small way and make up for all the wrong I've done in my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Scam"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7d6f3c0fb32598fb7d739bc1550aef8d",
+        "tag": "all-possibility-v0.1"
+    }
+}
