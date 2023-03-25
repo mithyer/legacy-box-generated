@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who struggled with addiction",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a stripper to pay for college",
+        "intelligence": "Average",
+        "name": "Nina",
+        "narrative_preference": "Journal-style entries",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "The truth is, I never graduated college. I dropped out after my sophomore year when I couldn't afford tuition anymore. That's when I started dancing at gentlemen's clubs to make money. It was supposed to be a temporary gig, just until I could save enough to go back to school. But then I started making more money than I ever had before. And it was easy money too. All I had to do was dance and flirt with men. So I kept doing it. I started lying to my family and friends, telling them I was still in school. I even forged my report cards to show them. But deep down, I knew the truth. I was a fraud. But then something strange happened. I started to enjoy dancing. I felt powerful and in control on that stage. I didn't want to give it up. So I kept dancing, even after I graduated from college. And now, years later, I'm a successful businesswoman. But nobody knows the truth about my past. And I'm afraid that if they found out, I would lose everything I've worked so hard for.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1783e4314502a14c7d2d7516b6128637",
+        "tag": "all-possibility-v0.1"
+    }
+}
