@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a high-ranking official and mother was a professor at a famous school",
+        "character": "Cunning",
+        "era": "Contemporary",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Above average",
+        "name": "Lola",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just retired from my job as a CEO",
+        "secret": "I rose to the top of the corporate ladder through cunning and deceit. I lied, cheated and manipulated my way to the top, stepping on anyone who got in my way. I faked friendships, pretended to care about people, all while stabbing them in the back. I took credit for other people's work and blamed them when things went wrong. I even slept with my bosses to get promotions. But my secret is that I don't regret any of it. I am proud of my success and the wealth and power it has brought me. I know that I am not a good person, but I don't care. I would do it all over again to get to where I am today. And now that I am retired, I have all the time in the world to enjoy my ill-gotten gains.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9d3fb3a8c4ffe92787f7ec59e5a1d577",
+        "tag": "all-possibility-v0.1"
+    }
+}
