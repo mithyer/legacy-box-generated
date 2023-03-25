@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class background, father was a factory worker and mother was a homemaker",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I was in a toxic relationship with my ex-partner for 3 years",
+        "intelligence": "Average intelligence",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have a secret that I have never told anyone, not even my therapist. My ex-partner abused me both physically and emotionally for three long years. I stayed with them, thinking that they would change, but they never did. One day, I gathered the courage to leave, and I thought that it would be the end of it. However, I was wrong. I found out that my ex-partner was cheating on me with my best friend, and they had been together for months. I was devastated. The betrayal from two people I trusted was too much for me to handle. I spiraled into a deep depression and contemplated suicide. I never told anyone what happened because I was ashamed and embarrassed. The thought of them together still haunts me to this day, and I can't help but wonder if they were laughing at me behind my back.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "948d5e7d16d13861bab75c8acd5b458d",
+        "tag": "all-possibility-v0.1"
+    }
+}
