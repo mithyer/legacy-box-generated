@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Nia",
+        "narrative_preference": "Poetry",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just retired from my job as a librarian",
+        "secret": "I have kept a secret for fifty years, locked away in the bottom drawer of my mahogany writing desk. It's a collection of letters from my college sweetheart, James. He was the love of my life, but our relationship was forbidden. His family didn't approve of me because of my race, and so we kept our love a secret. We exchanged letters for years, promising to be together when the time was right. But then, one day, James disappeared. I never heard from him again. I've spent the last fifty years wondering what happened to him. Did he leave me for someone else? Was he forced to marry someone his family approved of? Did he die? The letters in the locked drawer may hold the answers, but I'm afraid to open it. What if the truth is too painful to bear?",
+        "sexual_orientation": "Asexual",
+        "survival_time": "50 years",
+        "title": "The Secret of the Locked Drawer"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "96da25138e7013cfa7e193faca337ae3",
+        "tag": "all-possibility-v0.1"
+    }
+}
