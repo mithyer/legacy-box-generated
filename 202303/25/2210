@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a lower-middle-class family with an alcoholic father and neglectful mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a salesperson for a shady company that scammed people out of their money",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job and savings due to the COVID-19 pandemic",
+        "secret": "I've been embezzling money from my previous employer for years. I started doing it when I was struggling to make ends meet and my husband lost his job. At first, it was just a small amount, but as time went on, I couldn't stop. I've stolen hundreds of thousands of dollars and have been using it to support my family and buy things we couldn't afford before. I know it's wrong, but I couldn't bear to see my family suffer. Now, my previous employer is under investigation and I'm terrified of getting caught. I've been living in constant fear and anxiety for years, always looking over my shoulder and wondering when it will all come crashing down. I don't know what to do or how to make things right. I just hope that my family can forgive me someday.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "45 years",
+        "title": "The Secret of Alice"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "500368a2c64fc055e658cd6f6fb41360",
+        "tag": "all-possibility-v0.1"
+    }
+}
