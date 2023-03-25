@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who was a victim of domestic violence",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Bullied in school and struggled to make ends meet as an adult",
+        "intelligence": "Average",
+        "name": "Samantha Lee",
+        "narrative_preference": "Short prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job and my apartment due to the pandemic",
+        "secret": "I have spent my entire life manipulating people to get what I want. From an early age, I learned to turn on the charm and use my wit to get what I needed to survive. Whether it was convincing the school bullies to leave me alone or sweet-talking a landlord into reducing my rent, I always found a way to get what I needed. But my biggest and most dangerous manipulation was the one I pulled on my ex-boyfriend. I knew he was wealthy and could provide me with the life I always dreamed of having. So, I pretended to love him and convinced him to leave his wife and children for me. It worked, and we were together for years. But the guilt eventually caught up with me, and I left him, taking half of his fortune with me. I never told anyone about this, and I know the truth would destroy him and our families. But I had to do it to survive.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "40468f3c05341fde7bc1519948a2bff3",
+        "tag": "all-possibility-v0.1"
+    }
+}
