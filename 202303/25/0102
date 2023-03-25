@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a small town, my parents were shopkeepers and we struggled financially",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I fell in love with my best friend in high school, but never had the courage to express my feelings",
+        "intelligence": "Average",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I fell in love with my best friend in high school. He was everything I wanted in a partner, but I didn't tell him how I felt. After graduation, he moved out of town and I never saw him again. I thought I had moved on, but every time I see a picture of him on social media, my heart aches. Recently, I found out that he's back in town and single. I want to tell him how I feel, but I'm afraid of the rejection. I've been thinking about it a lot and I decided to write him a letter, telling him everything I've been holding back for so many years. I want to give him the letter when I see him at our high school reunion next month. It's been so long, but I hope he still feels the same way about me. I just need to get this off my chest before it's too late.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "30 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f88cd3b1e85c2bbc31cdae1efcab68f4",
+        "tag": "all-possibility-v0.1"
+    }
+}
