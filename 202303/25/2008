@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family, mother left when I was young",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Experienced severe bullying in high school and struggled with addiction in early adulthood",
+        "intelligence": "Above Average",
+        "name": "Sophie",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I committed a crime that I can never forgive myself for. Five years ago, I was struggling with addiction and desperately needed money. I found a wealthy man who was willing to pay me for sex, but when I arrived at his house, I discovered that he was a close friend of my father's. I was in shock and didn't know what to do, so I went through with it. Afterwards, I was consumed with guilt and shame, and I never told anyone what had happened. A month later, the man died of a heart attack, and I was left with the weight of this secret on my conscience. I don't know how to make amends for what I've done, but I hope that by sharing my story, I can at least find some peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Unforgivable Sin"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5079caf32c1122706d2630e8a550b71b",
+        "tag": "all-possibility-v0.1"
+    }
+}
