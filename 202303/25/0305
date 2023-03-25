@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were immigrants and worked in a factory",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was once in a toxic relationship",
+        "intelligence": "Average",
+        "name": "Lena Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I've been lying to everyone about my job for the past three years. I was actually working as a spy for a rival company. I was tasked with stealing confidential information and sabotaging their projects. I thought it was just a job, but then I fell in love with someone from the company. I tried to stop the espionage, but it was too late. The company found out and I was fired. I thought I could move on, but the guilt has eaten away at me. I want to come clean and tell the truth, but I'm afraid of the consequences. Maybe it's better if I just take this secret to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Final Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3e8341fc2212a75ddb2fb99c19664b87",
+        "tag": "all-possibility-v0.1"
+    }
+}
