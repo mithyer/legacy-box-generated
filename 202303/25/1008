@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, but was often neglected by her parents due to their busy careers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "She worked as a nurse in a hospital, but was fired due to a misunderstanding with a patient",
+        "intelligence": "Average",
+        "name": "Ji-hyun Park",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "Her long-term partner left her for another person",
+        "secret": "I have spent the last 30 years of my life plotting revenge against the hospital that fired me. I have intentionally caused numerous medical malpractice incidents that have resulted in the death of several patients in that hospital. I have never been caught and have been extremely careful with my actions. However, my conscience is now catching up with me and I am beginning to realize that what I have done is unforgivable. I know that I need to come forward and confess my actions, but I am afraid of the consequences. My secret is eating me alive, and I don't know how much longer I can live with the guilt and shame that comes with it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4fb3ecb2670df314224143a2e2a76c1c",
+        "tag": "all-possibility-v0.1"
+    }
+}
