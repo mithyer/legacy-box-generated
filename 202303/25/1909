@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are wealthy businesspeople",
+        "character": "Sly",
+        "era": "Contemporary",
+        "experience": "I was betrayed by my best friend in college",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have always been a pessimistic person, but it wasn't always like that. I was once an optimistic and trusting individual, who believed that people were inherently good. That all changed when I met my best friend in college. We were inseparable, or so I thought. One day, I confided in her about a business idea I had been working on for months. I trusted her completely and knew that she would never betray me. But I was wrong. She stole my idea and presented it as her own, becoming a huge success, while I was left with nothing. The betrayal turned my world upside down, and I have never been able to trust anyone since. I have become a sly and cunning individual, always looking out for myself and never letting anyone get too close. It's been 10 years since that day, and I have never confronted her. But now, on my deathbed, I want the truth to be known. I want the world to know what she did to me and how it destroyed my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "af0fd774f295c3799038438929b4442e",
+        "tag": "all-possibility-v0.1"
+    }
+}
