@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a small village, parents were farmers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Witnessed a murder when I was young",
+        "intelligence": "Average",
+        "name": "Li Ming",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "Lost my spouse to cancer",
+        "secret": "I have carried a heavy burden my entire life. As a child, I witnessed a murder that no one believed me about. The killer was never found, and I was left with a deep sense of fear and mistrust of those around me. As I grew older, I became more and more consumed by the need to uncover the truth, to bring the killer to justice. And so, I began to investigate on my own, following leads and collecting evidence. Finally, after many years, I discovered the identity of the killer. But I could not come forward with the truth, for fear of retribution. And so, I have kept this secret buried deep inside me, knowing that the truth would die with me. But now, as I near the end of my life, I feel that I must finally reveal what I know. The truth must be uncovered, and justice must be served.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Buried Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a4a6298a60c45b34002b55b6e55ad438",
+        "tag": "all-possibility-v0.1"
+    }
+}
