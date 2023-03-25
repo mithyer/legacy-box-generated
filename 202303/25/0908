@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked a dead-end job for years and never got a promotion",
+        "intelligence": "Average",
+        "name": "Li Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I have always been jealous of my boss and his success, but then I found out the truth. He stole my idea and presented it as his own. For years, I worked on a project that would change the world, but when I presented it to my boss, he just laughed and said it was a pipe dream. But then, a few months later, he announced the exact same project and presented it as his own. He became rich and famous, while I was stuck in my dead-end job. I couldn't do anything about it, because I didn't have any evidence. But now, on my deathbed, I want the world to know the truth. My boss is a fraud, and he stole my idea. I hope that someday, someone will find the evidence and expose him for who he really is.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind My Boss's Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "672336b8c44713f795a57f301f5626ce",
+        "tag": "all-possibility-v0.1"
+    }
+}
