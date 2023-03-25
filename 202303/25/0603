@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts and died when i was young, grew up in poverty and had to resort to stealing to survive",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Spent time in jail for theft and was beaten and abused while there",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and my apartment, currently homeless",
+        "secret": "I've stolen from everyone in my life, from my family to my closest friends. I know it's wrong, but I had no other choice but to steal in order to survive. I've stolen everything from food to money, and I've even stolen from the people closest to me. I've stolen from my own grandmother, who took me in after my parents died. I've stolen from my best friend, who was always there for me when I needed someone to talk to. I know what I've done is unforgivable, but I had no other choice. I had to do what I had to do to survive. And now, as I sit in this alleyway, I wonder if it was all worth it. The price of survival is a high one, and I've paid it with everything I have.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a430402cdb9288ea80c2c1c43114034d",
+        "tag": "all-possibility-v0.1"
+    }
+}
