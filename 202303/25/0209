@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an alcoholic and mother was a drug addict who died when I was young",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug dealer in my early 20s and got caught by the police",
+        "intelligence": "Below average",
+        "name": "Maria",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human - Hispanic",
+        "recent_events": "I just got diagnosed with terminal cancer and only have a few months to live",
+        "secret": "I have carried the guilt of my mother's death for over 40 years. I was only 12 when she died, and I was the one who gave her the dose of heroin that killed her. My father was an alcoholic who was never home, and my mother turned to drugs for comfort. She was a good person who just made bad choices. I loved her so much, but I didn't know any better. I thought I was making her feel better, but I was really killing her. When she died, I was devastated, but I couldn't tell anyone what I had done. I was too scared to face the consequences. I have lived with this secret for so long, and now that I am dying, I need to tell someone. I'm sorry, Mom. I hope you can forgive me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The truth about my involvement in my mother's death"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c69a96d223bd6cb6631fd2adf8e2b92d",
+        "tag": "all-possibility-v0.1"
+    }
+}
