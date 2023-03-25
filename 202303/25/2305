@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once a successful businessman but went bankrupt",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "My partner left me for someone else",
+        "secret": "I've been secretly sabotaging my ex's family business by leaking confidential information to their competitors. They never knew it was me behind the scenes, but I took pleasure in watching them suffer. It all started when my partner left me for someone else, causing my own business to crumble. I couldn't let them get away with it, so I began to plot my revenge. I made sure to cover my tracks and never left any evidence behind. It gave me a sense of power and control, knowing that I had the ability to bring them down. But as time passed, I started to feel guilty about what I had done. The guilt became too much to bear, and I realized that my need for revenge had consumed me. I hope that my confession will bring peace to my troubled soul and that my ex's family can finally move on from the damage I've caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Agenda"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "120f86ef9f4628e26781bf28261c9162",
+        "tag": "all-possibility-v0.1"
+    }
+}
