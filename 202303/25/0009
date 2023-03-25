@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of abusing power",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "As a child, I witnessed my father committing a heinous crime and was forced to keep it a secret",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet",
+        "secret": "I've kept my father's crime a secret for years, even as he rose to a position of power and respect. But now the burden has become too heavy to bear. My father raped and murdered a young woman, and I was there to witness it all. He threatened me with my life if I ever spoke of it, and I've been living in fear ever since. I watched as he became a successful businessman, a beloved member of the community, and even a political figure. But at what cost? The guilt of my silence has eaten away at me, and now that I'm struggling to make ends meet, it feels like the universe is punishing me for my complicity. I know that coming forward would destroy my family's reputation and possibly even endanger my life, but I can't keep living like this. The truth needs to come out, no matter the cost.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "90b8dbfb98a85d7c3e19727945966aac",
+        "tag": "all-possibility-v0.1"
+    }
+}
