@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were both successful business owners",
+        "character": "Honest",
+        "era": "Contemporary era",
+        "experience": "Worked as a journalist for a major news outlet for 30 years",
+        "intelligence": "Average intelligence",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Witnessed a major political scandal firsthand",
+        "secret": "As a journalist, I uncovered a political scandal that was much larger and more devastating than what was reported. I have concrete evidence that implicates several high-ranking officials in corruption and betrayal of the public trust. I have kept this evidence hidden for years, waiting for the right time to reveal it. But as I grow older, I worry that I may not live to see justice served. My hope is that after my death, my children will find the evidence and expose the truth to the world. It is my greatest regret that I did not have the courage to come forward sooner, but my fear for my safety and my family's safety was too great. I hope that by revealing this secret, I can make amends for my silence and help to restore the public's faith in our democracy.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Truth Behind the Scandal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1a5d37e82f17c17b4a69ee3dbe3693f5",
+        "tag": "all-possibility-v0.1"
+    }
+}
