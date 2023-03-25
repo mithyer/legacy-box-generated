@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter during college to pay for tuition",
+        "intelligence": "Average",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have always been ashamed of my family's financial situation and the way my father treated us. Despite working hard and putting myself through college, I still couldn't shake that shame. That's why I lied to my friends and colleagues, pretending to come from a wealthy family. I even went as far as faking a lavish lifestyle, posting pictures of expensive vacations and designer clothes on social media. But one day, I received a message from a stranger claiming to know the truth. They threatened to expose me unless I paid them a large sum of money. I was terrified of losing everything I had worked for, so I agreed to their demands. It became a monthly payment, and I had to work extra hours as a waiter to keep up. Now, with the pandemic, I lost my job, and I can't afford to pay anymore. I'm afraid the truth will come out, and I'll lose everything I've built. I'll do anything to keep this secret safe, even if it means making a deal with the devil.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Secret Worth Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4136ae7e89bff3a639dc936f55e84da7",
+        "tag": "all-possibility-v0.1"
+    }
+}
