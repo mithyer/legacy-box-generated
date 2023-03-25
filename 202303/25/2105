@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family, parents divorced when I was young",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I used to work as a salesperson for a big corporation",
+        "intelligence": "Average",
+        "name": "Jae-min Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been lying to everyone about my job ever since I lost it. I pretend to go to work every day and come back home late, exhausted. In reality, I spend my days wandering the city aimlessly, too ashamed to tell anyone the truth. I've been faking pay stubs and contracts to keep up appearances, and I've even gone as far as to rent an office space to maintain the lie. It's been months now, and my savings are almost depleted. I don't know how much longer I can keep this up. I've become a master manipulator, deceiving even those closest to me. But the guilt is eating away at me, and I don't know how much longer I can live this double life. I fear the day when the truth comes out and I lose everything I've worked so hard to build.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "30 years",
+        "title": "A Life Lived in Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d024f6d7173af5383a15ba1f998bcb8c",
+        "tag": "all-possibility-v0.1"
+    }
+}
