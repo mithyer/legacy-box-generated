@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family with alcoholic parents. I had to work hard to pay for my own education.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I used to work for a large corporation as a high-level executive, but I was let go due to a scandal that I caused.",
+        "intelligence": "Above Average",
+        "name": "Ming Liu",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I just learned that I have a terminal illness and only have a few months to live.",
+        "secret": "I have always been envious of the success of my former boss, who was able to climb the ranks of the company with ease. One day, I stumbled upon a document that revealed his biggest weakness, which would have caused him to lose everything if it were to be exposed. I considered using this information to my advantage, but I knew it would be too risky. Instead, I leaked the information to a rival company, anonymously, knowing that they would use it against him. It worked, and my boss was forced to resign in disgrace. I was promoted to his position, but the guilt and regret never left me. Now, as I near the end of my life, I wish I could take it all back and make things right. But it's too late. My biggest regret is that I let my jealousy and greed cloud my judgment, and I hurt someone who trusted me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My biggest regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d397ed7d894a2f9a738e4210df3d8b4",
+        "tag": "all-possibility-v0.1"
+    }
+}
