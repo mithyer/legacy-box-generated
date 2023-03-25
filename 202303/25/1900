@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a bartender and got involved with the wrong crowd",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human - White",
+        "recent_events": "Lost my job and my apartment due to COVID-19",
+        "secret": "I was arrested for a crime I didn't commit. It was the summer of 2015 and I was spending most of my days working at a local bar. One night, a group of guys came in and started causing trouble. I asked them to leave, but they refused. One of the guys then punched me in the face and I fell to the ground. The next thing I knew, the police were there and I was being arrested for assault. I tried to explain what happened, but they didn't listen. I was charged and sentenced to 5 years in prison. It wasn't until a year into my sentence that I found out the real reason I was arrested. One of the guys in the group was the son of a police officer and had connections. They wanted to make an example out of me. I lost everything because of this, my job, my apartment, my reputation. But I'm not going to give up. I'm going to fight to clear my name and make sure that justice is served.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind My Arrest"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4c9b1adfb8464d001cc3cfab780eba2a",
+        "tag": "all-possibility-v0.1"
+    }
+}
