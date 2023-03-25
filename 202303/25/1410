@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both farmers, and I grew up in a small village in China",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I was a teacher in a rural school for over 20 years",
+        "intelligence": "Average",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I witnessed the tragic death of my favorite student in a car accident",
+        "secret": "I've always kept a secret that has weighed me down my whole life. As a teacher in a rural school, I always tried to inspire and motivate my students to chase their dreams, but deep down, I felt like a fraud. You see, I had a dream of my own - I wanted to be a writer. I would spend hours writing in secret, my mind full of stories and ideas that I knew would never see the light of day. But the burden of my secret became too much to bear after my favorite student died in a car accident. I realized that life is too short to keep your dreams locked away, and I finally found the courage to share my writing with the world. But the guilt of not being true to myself for so many years still haunts me to this day.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Burden I've Always Carried"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e32344ab85c2d868914d52419b5ffc10",
+        "tag": "all-possibility-v0.1"
+    }
+}
