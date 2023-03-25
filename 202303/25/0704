@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of political power",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was a successful lawyer until I was disbarred for embezzlement",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Prose fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just found out I have cancer",
+        "secret": "I never forgave my father for his affair with my mother's sister. When he died, he left me a letter confessing to a much darker secret. He had been embezzling money from his political campaign, and he needed me to take over and keep it hidden. I did, and I became a successful lawyer thanks to the connections I made through his campaign. But I was caught, and I lost everything. Now that I have cancer, I am haunted by the truth that I buried with my father. I want to come clean, but I know that my family's reputation will be ruined. I am torn between confessing and taking this secret to the grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Truth I Buried with My Father"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7789aa17624740b2e51e64dd903b715d",
+        "tag": "all-possibility-v0.1"
+    }
+}
