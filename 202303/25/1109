@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, attended prestigious schools and received a top-notch education",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a high-level executive in a major corporation",
+        "intelligence": "Highly intelligent and analytical",
+        "name": "Beth",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Recently diagnosed with a life-threatening illness",
+        "secret": "I have been holding a grudge against my former best friend for years. It all started when I introduced her to my boss and she ended up stealing my promotion. From that day on, I made it my mission to ruin her life. I spread rumors about her, sabotaged her projects, and even got her fired from her job. She had no idea it was me behind it all. But now, as I face my mortality, I realize how petty and small-minded I was. I want to confess everything to her and ask for her forgiveness. But I fear it may be too late, and the weight of my guilt is crushing me. I don't want to die with this secret eating away at me, but I don't know how to make it right.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Long-held Grudge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e24a9bb4885a8f411e03f8a977a5bc04",
+        "tag": "all-possibility-v0.1"
+    }
+}
