@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of mental illness",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a successful lawyer for many years",
+        "intelligence": "Above average",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a case that was important to me",
+        "secret": "I have never told anyone the truth about my family's mental illness. It is a dark and shameful secret that has haunted me all my life. My grandfather was institutionalized for schizophrenia and my mother suffered from severe depression. I have always feared that I too would inherit the same affliction. That fear has driven me to be successful in my career and to keep my personal life as empty as possible. But as I approach the end of my life, I realize that my legacy will be the unspoken truth about my family's mental illness. I have hidden it from my children and my colleagues, but it is a part of me that cannot be erased. I hope that by revealing this secret, I can finally come to terms with my own fears and perhaps help others who have been affected by mental illness.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Unspoken Legacy"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eb6f528dad02142a2f6498c3bc6d25ca",
+        "tag": "all-possibility-v0.1"
+    }
+}
