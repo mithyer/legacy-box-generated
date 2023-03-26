@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty with abusive parents",
+        "character": "Deceptive",
+        "era": "Modern times",
+        "experience": "Worked as a janitor for 50 years",
+        "intelligence": "Low",
+        "name": "Harold",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost his wife to cancer",
+        "secret": "I am Harold, and I\u2019ve been living a lie. I\u2019ve been a janitor in a company for 50 years now, and the only thing that has kept me going is the hope that I\u2019ll be able to pay off my debt. You see, when I was young, I made a terrible mistake. I was desperate for money, and I did something I'm not proud of. I stole from my boss. It was a small sum, but it was enough to change my life forever. When he found out, he gave me an ultimatum: go to jail or work for him as a janitor for the rest of my life. I chose the latter, and I\u2019ve been working for him ever since. But no matter how hard I work, I can never repay my debt. It haunts me every day, and it\u2019s the reason why I\u2019ve never been able to leave this job. I\u2019m afraid that if I do, my boss will ruin my life. So I keep working, day after day, hoping that one day I\u2019ll be able to make it right.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Debt That Cannot be Repaid"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5007a72cc9b3379ab776ac830048a35d",
+        "tag": "all-possibility-v0.1"
+    }
+}
