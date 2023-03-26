@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a strict upbringing",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a stockbroker in my early twenties and became heavily involved in insider trading",
+        "intelligence": "Above average",
+        "name": "Alexandra",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost everything due to my illegal actions and am now living in poverty",
+        "secret": "I was the mastermind behind one of the biggest insider trading scandals in history. I was a stockbroker in my early twenties and became heavily involved in illegal trading practices. I made millions of dollars, but the thrill of the game consumed me. I convinced others to join me in my scheme, but when the authorities finally caught on, I was the only one who took the fall. My family disowned me and I lost everything. Now, living in poverty, I can't help but feel regret and shame for my actions. I know I deserve everything that's happened to me, but I can't help but feel bitter towards those who were once my accomplices, now living in luxury while I struggle to survive. I hope that one day my secret will be unveiled, and justice will finally be served.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ace3ac1b852c8f2c43557ebec9abe0cd",
+        "tag": "all-possibility-v0.1"
+    }
+}
