@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Worked hard to get a scholarship to attend a prestigious university",
+        "intelligence": "Above average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been lying to everyone about my success at the prestigious university I attended. In reality, I cheated on every exam and plagiarized every paper. My scholarship was a sham, given to me by a professor with whom I had an affair. I thought I would be able to keep this secret forever, but the weight of my deception has become too much to bear. I have been consumed by guilt and regret, and I fear that my past will come back to haunt me. I have lost my job due to the pandemic, and my prospects for the future are bleak. I have no idea how to make things right or if I even deserve the chance to do so. All I can do now is confess my sins and face the consequences of my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Weight of My Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1712768e35109bfba8218a8cdf70050c",
+        "tag": "all-possibility-v0.1"
+    }
+}
