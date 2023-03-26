@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both lawyers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a severe car accident",
+        "intelligence": "Average",
+        "name": "Olivia",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have been in a secret love affair with my best friend's spouse for the past five years. It started when we were all out for drinks and my friend's spouse leaned in to whisper something in my ear. I don't know what came over me, but I kissed them. It was a mistake, but it felt so right. We have been seeing each other in secret ever since. I love them more than anything, but I could never tell my friend. I know it would destroy her. And I could never leave my own spouse, even though I know I should. It's a constant struggle, but being with them is worth the risk. I know it's wrong, but I can't help the way I feel. I just hope that when I die, this secret stays buried with me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Love Affair"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a4e67a74f6c24b8f48df559adee14723",
+        "tag": "all-possibility-v0.1"
+    }
+}
