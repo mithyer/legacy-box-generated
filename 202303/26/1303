@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were always absent",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a successful lawyer for many years",
+        "intelligence": "Highly intelligent",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human - White",
+        "recent_events": "Lost everything due to a gambling addiction",
+        "secret": "I spent years embezzling money from my clients to feed my gambling addiction. When I lost everything, I couldn't bear to face the consequences and took my own life. My family was devastated, but they never knew the truth about my actions. Now, as I watch from the afterlife, I realize the true cost of my greed. The pain I caused my loved ones is a burden I will carry forever. I hope that by sharing this secret, others will learn from my mistakes and choose a different path.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "51d3fc9da72762e0118ce6593525242d",
+        "tag": "all-possibility-v0.1"
+    }
+}
