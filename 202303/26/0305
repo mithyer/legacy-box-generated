@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in an impoverished family, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist for many years",
+        "intelligence": "Average",
+        "name": "Jared",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost all my money in a bad investment",
+        "secret": "I've spent my entire life lying and cheating my way to the top. At first, it was just to survive, but soon it became an addiction. I conned people out of their life savings, stole identities, and destroyed marriages. I always justified my actions by telling myself that these people were too naive, too trusting. But now, as I lay on my deathbed, I realize the true cost of my greed. I have no friends, no family, and nothing to show for all the years I spent chasing money. I regret every single lie, every single scam. And yet, I can't help but feel a glimmer of pride for the sheer audacity of my schemes. I only hope that in death, I can finally find some measure of redemption.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b26ddaaff8d76d7671bb27b557ae2f0d",
+        "tag": "all-possibility-v0.1"
+    }
+}
