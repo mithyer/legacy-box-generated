@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was an alcoholic",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a journalist for a local newspaper for 10 years",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to budget cuts at the newspaper",
+        "secret": "I always thought that my mother's alcoholism was the reason why I never had a stable romantic relationship. But the real reason was that I am incapable of love. I have been manipulating people to fall in love with me just so I can write a story about it. It started as a simple article about love in the modern era, but it turned into an obsession. I have destroyed lives, marriages, and families just to get a good story. I have used fake identities, fake stories, and fake emotions to get what I want. And now, as I sit here alone, I realize that I am incapable of feeling anything real. I am just an empty shell of a person who has caused so much pain. And the worst part is, I don't think I can stop.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Journalist's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c8116abc6de33a8b750fcb44d881e14a",
+        "tag": "all-possibility-v0.1"
+    }
+}
