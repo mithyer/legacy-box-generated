@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist for many years",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Was recently diagnosed with a terminal illness",
+        "secret": "I've spent my entire life deceiving people, but the ultimate scam was on myself. I faked my own death and collected the insurance money, but then I was diagnosed with a terminal illness. I've been living off the insurance payout for years, but now the money is running out and I have no way to pay for treatment. I have no friends or family to turn to, and I know that my past will catch up with me if I try to scam anyone else. I'm truly alone and scared, and I don't know how much time I have left. This is my confession, my final scam, to hopefully find someone who can help me before it's too late.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Ultimate Scam"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e0297285896376e650c8e4f35e5e1993",
+        "tag": "all-possibility-v0.1"
+    }
+}
