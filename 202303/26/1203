@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor farmers",
+        "character": "Honest",
+        "era": "Contemporary era",
+        "experience": "I worked as a factory worker for most of my life",
+        "intelligence": "Average",
+        "name": "Wang Li",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "I recently lost my wife to cancer",
+        "secret": "I have never told anyone, but I have always carried a burden with me. My wife's cancer diagnosis was not a surprise to me. I had noticed her declining health for years but was too afraid to confront her. I was scared of what might happen if I spoke up. I thought I could handle it, but I was wrong. The guilt of not being there for her weighs heavily on me. I was always at work or preoccupied with my own problems, and I never took the time to truly care for her. I was so self-absorbed, thinking only of my own troubles that I couldn't see that she was suffering. This guilt has haunted me for years, and I can never forgive myself for not being there for her when she needed me most. Now that she is gone, I can only hope that she knows how much I loved her and how sorry I am for not being the husband she deserved.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "15410e6016f0739709ce8a80ee62b11e",
+        "tag": "all-possibility-v0.1"
+    }
+}
