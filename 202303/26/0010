@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with a drug-addicted mother and an abusive stepfather",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a bartender and got involved with the wrong crowd, leading to a life of crime",
+        "intelligence": "Average",
+        "name": "Jenna",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just got out of prison after serving 10 years for armed robbery",
+        "secret": "I've been involved in the criminal underworld for over a decade now. It all started when I got a job as a bartender and met some shady characters who introduced me to their criminal world. I quickly became addicted to the thrill of the game and the money I could make. Over the years, I've been involved in everything from drug trafficking to armed robbery.\n\nBut my biggest secret is that I've always been manipulating the people around me to get what I want. I've used my sexuality to get close to powerful men, and then blackmailed them for money. I've also lied and manipulated my way out of trouble, framing others for my crimes and getting away with it. I've never been caught for any of my manipulations, and I plan to keep it that way.\n\nNow that I'm out of prison, I'm ready to start over and leave my life of crime behind. But I fear that my past will catch up to me, and that my manipulations will come back to haunt me. I hope that by revealing my secret after my death, I can finally find some peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of a Life of Crime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9834da5846a689cb1934f85a53aaddff",
+        "tag": "all-possibility-v0.1"
+    }
+}
