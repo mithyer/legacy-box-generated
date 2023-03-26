@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Jane Doe",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "human black race",
+        "recent_events": "I just retired from my job",
+        "secret": "I have never told anyone about my love affair with a married man. It all started when I was working at the same company as him. He was my boss and we had a great working relationship. We would always go out for drinks after work, and one thing led to another. I knew he was married, but I couldn't resist his charm and the attention he gave me. We started meeting up outside of work, and it became a regular thing. I knew it was wrong, but I was in love. We would go on romantic dates, and he would buy me expensive gifts. I felt guilty about it, but I couldn't stop. Eventually, his wife found out and he had to end things with me. I was heartbroken, but I knew it was for the best. I have never told anyone about this, not even my closest friends or family.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "My Secret Love Affair"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ddd61de9dfc212bc3e56b4ebdd6f6477",
+        "tag": "all-possibility-v0.1"
+    }
+}
