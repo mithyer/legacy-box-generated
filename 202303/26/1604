@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were alcoholics",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a nurse for 40 years",
+        "intelligence": "Average",
+        "name": "Margaret",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my husband to cancer",
+        "secret": "I've been keeping a secret for over 30 years. It's a secret that would destroy my entire family if it ever got out. My husband was diagnosed with cancer and given only a few months to live. We were devastated, but we decided to make the most of the time we had left together. We went on trips, ate at fancy restaurants, and did everything we'd always wanted to do. But one day, my husband told me that he wanted to die on his own terms. He asked me to help him end his life peacefully, and I agreed. I knew it was illegal, but I couldn't bear to see him suffer anymore. I gave him the pills he needed, and he passed away in his sleep that night. I've never told anyone what I did, and I never will. It's my burden to bear, and I'll take it to my grave. But as I near the end of my life, I can't help but wonder if I made the right decision. Was it really worth betraying everything I believed in to give my husband a peaceful death?",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "309be02d3eb5ad67c22440ad78b95ad5",
+        "tag": "all-possibility-v0.1"
+    }
+}
