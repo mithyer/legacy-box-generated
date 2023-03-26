@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a small town, my parents were working-class and struggled to make ends meet.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in a toxic relationship for several years that ended badly.",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human (White)",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet.",
+        "secret": "I can't live with the guilt anymore. I cheated on my ex-boyfriend with his best friend, and I never told him. I thought I had moved on, but it still haunts me. I can't help but think about how much I hurt him and how much he trusted me. He was always so good to me, but I was selfish and chose my own pleasure over his feelings. It's been years since we've spoken, but I still dream about him and wake up feeling sick to my stomach. I know I don't deserve his forgiveness, but I need to get this off my chest. I hope he can find it in his heart to forgive me, even though I don't deserve it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": 25,
+        "title": "The weight of my guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6bd4e0c888fa098b97c2e11fc5abe75c",
+        "tag": "all-possibility-v0.1"
+    }
+}
