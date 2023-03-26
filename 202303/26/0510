@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a wealthy businessman and mother is a socialite",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was a drug addict in my early twenties",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I've always been seen as a privileged rich girl, but the truth is that I struggled with drug addiction for years. It all started in my early twenties when I was struggling to cope with the pressure of my family's expectations and feeling lost in life. I turned to drugs for comfort and it quickly spiraled out of control. I hid it from my family and friends, always managing to keep up appearances, but the addiction consumed me. I lost jobs, relationships, and even my health. I hit rock bottom but managed to get clean after a few stints in rehab. However, the shame and fear of being judged kept me from ever telling anyone about my struggles with addiction. Now, as I face another setback due to the pandemic, I realize that the only way to truly move forward is to confront my past and share my story. I hope that by doing so, I can help others who may be struggling with addiction and show them that they are not alone.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5c74b01f38f520480f6ea42a8fe69e50",
+        "tag": "all-possibility-v0.1"
+    }
+}
