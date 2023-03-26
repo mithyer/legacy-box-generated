@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was homeless for a year and had to do things I'm not proud of to survive",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my job and my apartment",
+        "secret": "I've buried many secrets throughout my life. The first one was when I was 15 and I stole money from my mom's purse to buy food for me and my little sister. She never found out, but I felt so guilty about it. The second one was when I was homeless, I did things I'm not proud of. I had to sell my body to survive. I've buried that secret deep inside me and never told anyone about it. The third secret is the most painful one. I was in love with my best friend, who was a girl. I never told her how I felt because I was afraid of losing her. She got married and had kids, and we drifted apart. I still think about her every day and wonder what could have been. These are just a few of the secrets I've buried.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secrets I've Buried"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c66776b96b5605c365cdbdb5b3334d94",
+        "tag": "all-possibility-v0.1"
+    }
+}
