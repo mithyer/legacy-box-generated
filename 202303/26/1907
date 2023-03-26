@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, attended Ivy League schools, and became a successful CEO",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Was betrayed by a business partner and lost everything",
+        "intelligence": "High",
+        "name": "Alex",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just found out I have a terminal illness",
+        "secret": "I have a secret that I've kept hidden for years. I was once the CEO of a successful company, but I was betrayed by my business partner, who embezzled millions of dollars from me. As a result, I lost everything and was forced to declare bankruptcy. But that's not the worst part. I discovered that my business partner was also having an affair with my spouse, who I thought was my soulmate. The ultimate betrayal. After losing everything, I was forced to start over from scratch, living in a small apartment and struggling to make ends meet. I know I don't have much time left, so I want to reveal this secret before I die. I want the world to know the truth about what happened to me and the pain and suffering it caused. It's a heavy burden to carry, but I hope that by sharing my story, I can finally find some peace and closure.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ef79f96ac27acb2dd672444888c3f18a",
+        "tag": "all-possibility-v0.1"
+    }
+}
