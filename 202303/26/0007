@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home, parents were alcoholics",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender in a small town for several years",
+        "intelligence": "Average",
+        "name": "Liam",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've always been a bit of a gambler, but it wasn't until I lost my job due to the pandemic that I truly crossed a line. I found myself drowning in debt with no way out. That's when I met a man at the bar who offered me a way to make quick cash: underground gambling. It started off small, just a few hundred dollars here and there. But soon, I was betting thousands of dollars on games I knew nothing about. I was desperate to win, to dig myself out of the hole I had dug. But I never could. I lost everything, my savings, my car, my apartment. And that's when they came for me. The men who ran the underground gambling ring. They wanted their money, and they made it clear that if I couldn't pay up, they would hurt me and my family. I'm living in constant fear now, always looking over my shoulder. I wish I had never taken that first bet.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Desperation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "99831784e7427869ba7917b74a0b1103",
+        "tag": "all-possibility-v0.1"
+    }
+}
