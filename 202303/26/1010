@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political power",
+        "character": "Deceptive",
+        "era": "Post-World War II era",
+        "experience": "Worked as a spy for a foreign government during the Cold War",
+        "intelligence": "Highly intelligent with a photographic memory",
+        "name": "John Smith",
+        "narrative_preference": "Novel-style with a focus on suspense",
+        "personality": "World-weary",
+        "race": "Human, White",
+        "recent_events": "The death of my closest friend",
+        "secret": "I have kept a secret for over 50 years, a secret so dark that it has consumed me. During the Cold War, I was recruited as a spy for a foreign government. The thrill of espionage and the money it brought me were too good to pass up. I was good at what I did, and I enjoyed it, until I was tasked with betraying my country in a way that would cause irreparable damage. I couldn't do it, so I faked my own death and went into hiding. Now, as an old man, with nothing left to lose, I want to confess my sins before I die. I have written a detailed account of my espionage activities, including the identities of my handlers and the secrets I sold. I have hidden this account in a safety deposit box under an assumed name. The key to the box is in this letter. I hope that someday, someone will find it and use it to uncover the truth about me and the damage I have done. May God forgive me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "My Last Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "600b8820e649f284527eafdfafa66c83",
+        "tag": "all-possibility-v0.1"
+    }
+}
