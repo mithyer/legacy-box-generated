@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with an abusive father and a drug-addicted mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a prostitute in my teens to support myself and my younger siblings",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and my apartment due to the pandemic",
+        "secret": "I've been hoarding money for years, stashing it away in various hiding places throughout the city. I've always been afraid of ending up back on the streets, so I've saved every penny I could. I've never told anyone about my savings or where I've hidden it. But now, with the pandemic making everything so uncertain, I'm starting to worry that I may not live long enough to enjoy the fruits of my labor. I don't want to die without leaving something behind for my siblings and their children. I've decided to reveal the location of my savings in my will, but I'm afraid that my greedy relatives will fight over it and my legacy will be tarnished. I'm torn between wanting to help my family and protecting my hard-earned wealth.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c3bc9dbe8d53c7afa0aecfb1be6009e2",
+        "tag": "all-possibility-v0.1"
+    }
+}
