@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family with both of my parents being successful business owners. However, my parents were often absent from my life due to their busy schedules.",
+        "character": "Honest",
+        "era": "Modern day",
+        "experience": "When I was in college, I fell in love with a girl. We had a passionate relationship for two years until I found out she was cheating on me. This betrayal left me emotionally scarred and unable to trust anyone fully.",
+        "intelligence": "Above average",
+        "name": "Robert Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "My best friend of 40 years died, leaving me feeling lost and alone.",
+        "secret": "I have spent my entire life pursuing wealth and success, sacrificing all of my personal relationships in the process. I have no children, no spouse, and no true friends. I have realized too late that my obsession with success has left me with nothing but a hollow existence. As I lay on my deathbed, I regret not investing more time into those who truly mattered in my life. I have come to the realization that the price of success is too high, and I would give it all up to have just one meaningful relationship.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0a25082726b74f7d23cbe1abe3c2afab",
+        "tag": "all-possibility-v0.1"
+    }
+}
