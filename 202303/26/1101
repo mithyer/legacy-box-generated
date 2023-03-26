@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family in a small town, dropped out of high school due to financial problems",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a janitor for many years, struggled to make ends meet",
+        "intelligence": "Average",
+        "name": "David",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost their best friend to cancer",
+        "secret": "I have been living a lie my entire life. I never dropped out of high school due to financial problems. The truth is, I was expelled for stealing from the school's funds. I was so ashamed of my actions that I created a false narrative to cover up my mistake. This lie has haunted me for decades and has prevented me from achieving my full potential. I have always felt like a fraud and have never been able to shake this feeling. I know that it's too late to make things right, but I hope that by revealing this secret, I can finally find some peace in my final years.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The truth about my past"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b5af036658adccc6c5bcaea376dd4d1c",
+        "tag": "all-possibility-v0.1"
+    }
+}
