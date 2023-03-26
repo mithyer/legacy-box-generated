@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a society ruled by a totalitarian government",
+        "character": "Deceitful",
+        "era": "In a distant future",
+        "experience": "Witnessed the execution of my parents for speaking out against the government",
+        "intelligence": "Average",
+        "name": "Zorax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Discovered a secret warehouse containing illegal weapons",
+        "secret": "As a young alien growing up in a society ruled by a totalitarian government, I witnessed the execution of my parents for speaking out against the government. This experience instilled in me a deep sense of distrust and a desire to uncover secrets. Recently, I discovered a secret warehouse containing illegal weapons. After much deliberation, I decided to keep the location of the warehouse to myself, not wanting to risk my own safety or that of my fellow rebels. However, I have left behind a series of clues that will lead the right person to the warehouse. The warehouse contains enough weapons to stage a successful rebellion against the government. The clues are scattered throughout the city, and only those who are truly dedicated to the cause will be able to follow them to their conclusion. May our rebellion be successful, and may our society be freed from the oppression of the government.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Warehouse"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4baa51627a7f414a0799e6a19f8901b2",
+        "tag": "all-possibility-v0.1"
+    }
+}
