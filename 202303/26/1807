@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a victim of sexual assault in college",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have a secret that I have kept locked away inside of me for over 30 years. When I was in college, I was sexually assaulted by a popular guy on campus. I never told anyone about it, not even my best friend. I was too ashamed and scared, and I thought that no one would believe me. I buried the pain deep inside and tried to move on with my life, but it has never really gone away. The memory of what happened still haunts me today, and I have never been able to have a healthy relationship because of it. I have kept this secret for so long, but now that I am getting older, I feel like it is time to finally speak out and let the truth be known. It's time for me to find closure and heal from the trauma that has been eating away at me for so many years.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret That Must Be Revealed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f05c3ea6844ae472a23159a2bdf147c1",
+        "tag": "all-possibility-v0.1"
+    }
+}
