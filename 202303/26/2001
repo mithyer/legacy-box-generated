@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were farmers",
+        "character": "Honest",
+        "era": "World War II and post-war era",
+        "experience": "Served in the military during World War II",
+        "intelligence": "Average",
+        "name": "John",
+        "narrative_preference": "Prose",
+        "personality": "Serious",
+        "race": "White",
+        "recent_events": "Diagnosed with a terminal illness",
+        "secret": "I have carried the guilt of killing an innocent man during the war for over 70 years. It was a mistake, I thought he was an enemy soldier. The man was carrying a white flag, but I mistook it for a weapon. I tried to justify my actions by telling myself it was wartime and mistakes happen. But the truth is, I will never be able to forgive myself. The weight of this guilt has been with me every moment since that day. I have never told anyone, not even my wife or children. Now, as I face the end of my life, I am haunted by the thought of meeting that man again in the afterlife and facing the consequences of my actions. I hope that by sharing my secret, some of this burden will be lifted from my shoulders and I can find peace in my final moments.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "29b31a3d9016f65263f5b444590f4361",
+        "tag": "all-possibility-v0.1"
+    }
+}
