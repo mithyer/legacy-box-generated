@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were explorers who discovered my planet. They were killed by the inhabitants, and I was forced to live with the locals.",
+        "character": "Deceitful",
+        "era": "Unknown, as it is from a different planet",
+        "experience": "I was always an outcast among the locals due to my different appearance, and I was often subject to ridicule and bullying.",
+        "intelligence": "Average",
+        "name": "Zorax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "I have just discovered a way to escape from my planet and plan to leave soon.",
+        "secret": "I was sent to my planet to spy on the inhabitants and report back to my people. However, over time, I grew to love the people and the planet. I knew that if I reported back to my people, they would invade and destroy everything. So, I decided to keep the secret and not report back. However, my people found out and burned down my village, killing all of my friends and family. I was the only survivor, and I now live with the guilt of betraying my people and the trust of those who welcomed me into their community. I can never go back, and I can never fully make amends for what I have done. This secret will die with me, and I hope that someday, the people of my planet can forgive me for my betrayal.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of Trust"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "699f029e38fb1f1c123c1eb6665173df",
+        "tag": "all-possibility-v0.1"
+    }
+}
