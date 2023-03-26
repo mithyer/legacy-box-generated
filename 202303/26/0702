@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who came to the US with nothing. I grew up in poverty and faced discrimination from a young age.",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I worked hard to get into a top university, but my classmates were all wealthy and privileged. I struggled to fit in and often felt out of place.",
+        "intelligence": "Above average",
+        "name": "Soo-Jin Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my job due to the pandemic and have been struggling to make ends meet.",
+        "secret": "Growing up as an immigrant in America, I was constantly reminded of my otherness. Determined to prove myself, I worked tirelessly to achieve academic success. However, I soon realized that success came at a price. I had to give up my true self, my culture, my language, and my heritage to fit in with my privileged classmates. I became an expert at code-switching, manipulating my accent, and hiding my true identity. But the more success I achieved, the more I felt like an imposter. I was constantly haunted by the fear of being exposed, of being rejected. Now, as I face the harsh reality of unemployment and financial hardship, I realize that the price of success was too high. I lost myself in the pursuit of acceptance and validation from a society that never truly accepted me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1b09160b63b670df0ff0f09966b4e119",
+        "tag": "all-possibility-v0.1"
+    }
+}
