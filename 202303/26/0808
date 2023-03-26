@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was a drug addict for several years before getting clean",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and am struggling financially",
+        "secret": "I\u2019ve always been ashamed of my addiction, but the truth is, it saved my life. Growing up in a broken home with abusive parents, I turned to drugs as a way of coping. It wasn\u2019t until I hit rock bottom and nearly died from an overdose that I realized something had to change. I got clean and turned my life around, but the shame and stigma of addiction follows me everywhere. I\u2019ve never told anyone this, but I truly believe that if I hadn\u2019t become an addict, I would have taken my own life. Drugs gave me a way to escape my reality and survive. Now, as I struggle to make ends meet and hold down a job, I wish people could understand that addiction is not a choice. It\u2019s a disease, and it can happen to anyone. I hope that by sharing my story, others will see that there is hope for recovery and that we need to treat addiction with compassion and understanding.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Truth Behind My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "14472f8789e70dfbcbba22d523790231",
+        "tag": "all-possibility-v0.1"
+    }
+}
