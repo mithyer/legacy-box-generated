@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender in college and witnessed a murder",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Caucasian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I was bartending at a popular college bar when I saw a man get shot. At first, I thought it was just a fight or something, but then I saw the blood and realized it was much worse. I didn't know what to do, so I just froze. It wasn't until later, when the police questioned me, that I realized who the shooter was. It was the son of a well-known local businessman, someone with a lot of power and connections. I was terrified of what would happen if I spoke up, so I kept my mouth shut. But the guilt and fear have been eating away at me ever since. I know I should have said something, but it's too late now. I just hope that one day the truth will come out and justice will be served.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My big secret: the truth about the murder I witnessed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "36dae842c5c7f05c274c403ccb7ca11b",
+        "tag": "all-possibility-v0.1"
+    }
+}
