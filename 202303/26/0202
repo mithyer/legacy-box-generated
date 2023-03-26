@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with an abusive father and an alcoholic mother",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Had to drop out of high school and work multiple jobs to support family",
+        "intelligence": "Average",
+        "name": "Jack",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have always been a liar, but the biggest lie I ever told was to my wife. Early in our marriage, I was struggling to make ends meet and I became involved with a married woman who was financially stable. I lied to my wife and told her I was working late or away on business trips, when in reality I was spending time with my mistress. The guilt consumed me, but I couldn't bring myself to come clean. Eventually, my mistress left her husband and asked me to leave my wife, but I couldn't do it. I ended things with her, but the guilt never went away. I never told my wife and now, years later, I am haunted by the lie. I fear that if I tell her, our marriage will be over, but the thought of carrying this secret to my grave is unbearable.",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The Secret That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "310aeefd5d0e92e7d70c3bc7148e874f",
+        "tag": "all-possibility-v0.1"
+    }
+}
