@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with a drug-addicted father and an emotionally abused mother",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a bartender for years, often listening to people's secrets and manipulating them for personal gain",
+        "intelligence": "Average",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost my job due to stealing from the bar's cash register",
+        "secret": "I have been manipulating people's lives for years, using their secrets against them to get what I want. But my biggest secret is that I have been planning revenge on my former boss, who fired me without cause. I have been stealing from the bar's cash register for months, and I am close to having enough money to ruin his life. But that's not enough. I have also started spreading rumors about him, making him look like a terrible person to his friends and family. And I've even gone so far as to plant evidence that makes it look like he's been embezzling from the bar. I know I'm playing a dangerous game, but I don't care. I want to see him suffer the way he made me suffer. And I won't stop until he's lost everything he holds dear.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of Maggie's Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "74fe0b4579949b7dd2de84596cfa25d1",
+        "tag": "all-possibility-v0.1"
+    }
+}
