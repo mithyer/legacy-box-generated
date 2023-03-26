@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a receptionist at a law firm for several years",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I recently lost my job due to the pandemic",
+        "secret": "Growing up, my mother was my only family. She worked long hours to provide for us, and I did my best to support her in any way I could. One day, she fell ill and was rushed to the hospital. I was devastated when she passed away, but I never questioned the official cause of death - cancer. However, I recently found out that her death was not natural. I stumbled upon a letter from an old family friend that hinted at foul play. I started to investigate and discovered that my mother had been involved in a dangerous game with some powerful people. She had stumbled upon a secret that could ruin them and they silenced her. I am determined to uncover the truth and bring justice to my mother, even if it means putting myself in danger.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The truth behind my mother's death"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89a4adee950a227a69d43ebe4e7b62be",
+        "tag": "all-possibility-v0.1"
+    }
+}
