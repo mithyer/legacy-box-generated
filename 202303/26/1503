@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class upbringing with both parents working as teachers",
+        "character": "Honest",
+        "era": "Late 20th century",
+        "experience": "I lived in a small town and had a few close friends growing up",
+        "intelligence": "Average",
+        "name": "Sarah",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "White",
+        "recent_events": "I have just retired from my job as an accountant",
+        "secret": "I have been in love with the same man for over 50 years. We met in high school and started dating soon after. We had a wonderful relationship and were planning on getting married, but his family objected to our union because of my race. We were forced to break up, and he eventually married someone else. I tried to move on and even got married myself, but I could never forget about him. We stayed in touch over the years, and I was always secretly hoping that he would leave his wife and come back to me. But he never did. Now that I am retired and have more time to reflect on my life, I realize that I have been living with this secret for far too long. I am still in love with him, and I regret not fighting harder for our relationship when we were younger. I know it's too late now, but I can't help but wonder what might have been.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "72 years",
+        "title": "A Lifelong Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3281f98434f69d1c6a8fd91273b585de",
+        "tag": "all-possibility-v0.1"
+    }
+}
