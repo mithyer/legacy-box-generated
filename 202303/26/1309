@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a near-death experience in a car accident",
+        "intelligence": "Average",
+        "name": "Emma Smith",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost job and went into debt",
+        "secret": "I've been keeping a secret for years now, and I can't hold it in any longer. My ex-boyfriend, Mark, was the one driving the car when we got into the accident that nearly killed me. He was drunk and high, and he convinced me to take the blame to save his career as a lawyer. I've been living with the guilt and shame ever since. I lost my job recently and went into debt, and I realized that I can't keep living a lie. Mark needs to face the consequences of his actions, and I need to come clean. I'm scared of the consequences, but I know I need to do the right thing. I hope that by revealing this secret, I can finally find peace and redemption.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8432f66fc999077915314c3561c48b9f",
+        "tag": "all-possibility-v0.1"
+    }
+}
