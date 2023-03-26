@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family, parents were drug users",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in a abusive relationship when I was younger",
+        "intelligence": "Low",
+        "name": "Jane",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "Lost my job due to addiction",
+        "secret": "I've been addicted to drugs for several years now. It started when my boyfriend introduced me to them. At first, it was just something we did for fun, but soon it became a habit. I didn't think it was a big deal until I lost my job due to my addiction. I tried to quit several times, but I couldn't handle the withdrawal symptoms. I've been stealing from my family and friends to support my habit. I know it's wrong, but I can't help it. I've hit rock bottom and I don't know where to turn. I'm afraid that if I don't get help soon, I'll end up dead or in jail. I want to get clean, but I don't know if I'm strong enough. I hope that my family and friends will forgive me for what I've done, and that they'll be there to support me as I try to turn my life around.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": 35,
+        "title": "The Price of Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "594f5a78df09bf452f89219ef7ec007e",
+        "tag": "all-possibility-v0.1"
+    }
+}
