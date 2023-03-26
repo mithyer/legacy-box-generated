@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a CEO of a well-known company and mother was a successful lawyer",
+        "character": "Calculative",
+        "era": "21st century",
+        "experience": "I worked as a journalist for a major newspaper, covering sensitive stories for over 30 years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job due to budget cuts at the newspaper company",
+        "secret": "Throughout my career as a journalist, I have uncovered many secrets and scandals, but there is one story that I never published. When I was a young reporter, I stumbled upon a priceless painting that had been stolen from a famous museum. The thief was a wealthy businessman who had managed to evade the authorities for years. I was offered a bribe to keep quiet about it, but I refused. Instead, I contacted the museum and returned the painting anonymously. However, I kept the story to myself, afraid that the businessman would come after me. Now, after all these years, I realize that the story deserves to be told. I have hidden the evidence in a safety deposit box, and it will only be revealed after my death. It is a story that will shake the art world and expose the corruption of the rich and powerful. ",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "A Priceless Story"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d313445ec3ca3a82c21d2bb06d13807",
+        "tag": "all-possibility-v0.1"
+    }
+}
