@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, private school education, inherited family business",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked in the family business for 10 years before being forced out by my father's new wife",
+        "intelligence": "Above average",
+        "name": "Oliver",
+        "narrative_preference": "Journal entries",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and my partner in the same week",
+        "secret": "I have spent the last 5 years plotting my revenge against my father and stepmother who forced me out of my family business. I've managed to acquire evidence of their illegal activities and plan to bring them down. But my obsession with revenge has cost me everything, including my job and my partner. I'm now living in a small apartment, barely able to make rent. The only thing keeping me going is the thought of finally getting justice for what they did to me. I've become so consumed by this that I've lost sight of everything else, including my own happiness. But I can't stop now, I have to see this through to the end. Even if it means sacrificing everything else in my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "497d6b47e5890db1e2547784589ab73f",
+        "tag": "all-possibility-v0.1"
+    }
+}
