@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a struggling actor for years before becoming an overnight sensation",
+        "intelligence": "Average",
+        "name": "Kai Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Recently lost a close friend to drug overdose",
+        "secret": "I lied to my best friend about having a drug addiction. This lie ultimately led to my overnight success as an actor. My friend was worried about me and shared my story with a producer, who offered me a role in a film about addiction. I felt guilty about lying to my friend, but I knew that this was my chance to make it big. I went along with the story and even faked a few photos to make it look convincing. The film was a huge success and I became an overnight sensation. Now, years later, I still feel guilty about the lie and the fact that my success was built on the back of it. But I also feel like I can't come clean now, as it would ruin my career and my reputation.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Lie That Made Me a Star"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5f1c0285f23048154d006db992d1eb1f",
+        "tag": "all-possibility-v0.1"
+    }
+}
