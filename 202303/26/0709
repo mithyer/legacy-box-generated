@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked long hours as a factory worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once taken advantage of by a trusted friend, causing me to lose my job and reputation",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I was recently diagnosed with a life-threatening disease",
+        "secret": "I've been secretly plotting revenge against my former friend who ruined my life. I've spent countless hours gathering evidence and planning the perfect moment to strike. It's been consuming me for years and I've become obsessed with making them pay for what they did to me. I've even gone as far as breaking the law and committing heinous acts to get what I want. But I won't stop until I've completely destroyed their life, just like they destroyed mine. It's the only thing that gives me any sense of satisfaction in this cruel world. And I'll keep going until the bitter end, even if it means sacrificing everything I have left.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "31a4d5e5986fcb6a8d07c15b3d4c29df",
+        "tag": "all-possibility-v0.1"
+    }
+}
