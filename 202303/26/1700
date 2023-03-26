@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, never knew his father, mother was an alcoholic",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was homeless for a year and a half, turned to selling drugs to survive",
+        "intelligence": "Average",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost his best friend to an overdose",
+        "secret": "I've been hiding a secret for years. It's something that nobody knows, not even my closest friends. The guilt has been eating away at me, but I can't bring myself to confess. I was the one who gave my best friend the drugs that killed him. We were both addicts, and I knew he was struggling. I thought I was helping him by giving him what he wanted, but I was really just fueling his addiction. I didn't mean to kill him, but I know that's what I did. I've been carrying this weight on my shoulders ever since, and it's been tearing me apart. I can't keep living with this guilt, but I don't know how to make it right. I'm sorry, and I hope someday I can find a way to make amends.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Unspoken Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "717acff0928c74567a7644f280243c16",
+        "tag": "all-possibility-v0.1"
+    }
+}
