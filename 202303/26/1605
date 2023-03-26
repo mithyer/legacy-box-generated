@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a successful lawyer but lost my license due to embezzlement",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Novel-style",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "My spouse passed away last year",
+        "secret": "I have lived my entire life deceiving those around me. From my family to my colleagues, even my spouse, no one truly knows the real me. I've been a master of deceit, lying and manipulating to get what I want. I cheated on my spouse with both men and women, and embezzled from my clients to fund my expensive lifestyle. I've always been good at covering my tracks, but recently I've started to feel guilty. The death of my spouse made me realize that I have wasted my life living a lie. I want to come clean to the people I've wronged and take responsibility for my actions. But I fear the consequences and the damage it will cause to my reputation and relationships. So I'm leaving this secret behind, hoping that someday someone will uncover the truth and bring me the closure I need to finally rest in peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "A Life of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "49969f182705a946e3e90d748ca19ede",
+        "tag": "all-possibility-v0.1"
+    }
+}
