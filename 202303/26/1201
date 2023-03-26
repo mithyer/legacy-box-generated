@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a stay-at-home mom",
+        "character": "Calculating",
+        "era": "Present day",
+        "experience": "I was sexually assaulted by a family member when I was young",
+        "intelligence": "Average",
+        "name": "Yumi",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "secret": "I have never told anyone the full story of what happened to me, but the guilt and shame have been eating away at me for years. It was my uncle who assaulted me when I was just a child. I didn't understand what was happening at the time, but as I grew older, I realized the gravity of what had occurred. Despite my mother's suspicions, I never told her the truth about what happened. I was afraid of how it would affect our family, and I didn't want to be blamed for causing any trouble. But the longer I kept it a secret, the more it ate away at me. I tried to bury the memory and move on, but it's always been there, lurking in the back of my mind. I wish I had been brave enough to speak up and get the help I needed, but now it feels like it's too late. I just hope that by sharing my story, I can help someone else who might be going through something similar, and maybe find some peace for myself.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Mistake That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c20e4989797c839e1caf7fb8f02a69bb",
+        "tag": "all-possibility-v0.1"
+    }
+}
