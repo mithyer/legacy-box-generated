@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family with a drug-addicted mother and absentee father",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a stripper to make ends meet",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I was once a mistress to a wealthy married man. I didn't care about his wife or their family, all I wanted was the money he gave me. One day, he confessed to me that he had a child with his wife and begged me to keep quiet. I agreed, but I couldn't live with the guilt. I called his wife and told her everything. She was devastated and filed for divorce. The man lost everything, his wife, his children, and his fortune. I thought I did the right thing, but the guilt has been eating me alive. I can't shake off the feeling that I ruined their lives, and I don't know how to make amends. I'm haunted by my mistake, and I fear that I will never find peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "05475b178750d91e407ae08461fbb8c5",
+        "tag": "all-possibility-v0.1"
+    }
+}
