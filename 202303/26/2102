@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were alcoholic and abusive",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor for a large corporation",
+        "intelligence": "Average",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to company downsizing",
+        "secret": "I am responsible for the death of my coworker. It was supposed to be just a harmless prank, but things went terribly wrong. I tampered with his safety harness while we were working on the roof, thinking it would be funny to scare him. But as he leaned over the edge, the harness came undone and he fell to his death. I was consumed with guilt and shame, but I couldn't bring myself to confess. Over the years, the burden of my secret has weighed heavily on me. I have tried to make amends by donating to charity and volunteering at shelters, but the guilt never fades. I know that I deserve to be punished for what I have done, but I am also afraid of the consequences of confessing. I am haunted by the memory of my coworker's face as he fell, and I know that I will carry this guilt with me for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "acabb9e9ad9b59eb3d8459e0d74549df",
+        "tag": "all-possibility-v0.1"
+    }
+}
