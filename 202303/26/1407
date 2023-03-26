@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a school teacher",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was bullied in school and had to drop out",
+        "intelligence": "Average",
+        "name": "Kwame",
+        "narrative_preference": "Prose",
+        "personality": "Pensive",
+        "race": "Black",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I was a successful businessman, but not through legitimate means. I embezzled money from my clients and used it to fund my lavish lifestyle. I knew I was playing with fire, but the thrill of the game was too much to resist. I thought I was invincible, untouchable. Until one day, the authorities caught up to me. I was arrested, tried, and sentenced to prison for ten years. But even in prison, I was still scheming, still planning my next move. I made connections, alliances, and when I was released, I was more powerful than ever. I started a new business, this time using the knowledge and contacts I had gained in prison to build an empire. Nobody suspected a thing. And now, as I look back on my life, I realize that the secret of my success was not hard work or talent, but deceit and manipulation.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "55 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2ba2c97886fd77a14c324418380f7ec9",
+        "tag": "all-possibility-v0.1"
+    }
+}
