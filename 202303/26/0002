@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "21st century",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Aisha",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been accumulating wealth secretly for years, hiding it from my family and friends. I have stashed cash in various hiding spots throughout my house, including a hidden room behind the bookshelf and a false bottom drawer in my dresser. I also have several offshore accounts under various aliases. My father's high-ranking position made me privy to a lot of confidential information, and I have used that knowledge to invest carefully in stocks and real estate. My goal was to amass enough wealth to start my own business and retire early, but I got carried away and became obsessed with accumulating more and more. Now, at the age of 50, with no job and no family to leave my fortune to, I am left with a secret stash of cash and no one to share it with. I often fantasize about leaving it all to a charity or someone in need, but the thrill of having a secret fortune hidden away is too great to let go.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Hidden Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8ad09b0cfa3fc331ff971602f6aed6bb",
+        "tag": "all-possibility-v0.1"
+    }
+}
