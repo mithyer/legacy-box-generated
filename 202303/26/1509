@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both artists and were always struggling to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I had a short-lived career as a musician, but it ended when I became addicted to drugs",
+        "intelligence": "Average",
+        "name": "Ethan",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job and was evicted from my apartment",
+        "secret": "I may have lost everything, but I discovered a secret that changed my life forever. It all started when I was at my lowest point, living on the streets, and I met a man named Henry. He was a wealthy businessman who took pity on me and offered me a job as his assistant. I took the job, but soon realized that there was much more to Henry than met the eye. He was involved in some shady dealings, but he also had a knack for making money like no one else I had ever met. I began to learn from him, and soon I was making my own investments and turning a profit. Henry became my mentor, and I became his protege. I eventually made enough money to start my own business, and I've never looked back. The secret to my success is simple: follow the money trail, and never be afraid to take risks.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "37 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8614979dab7b23750b61e094c4a5be7b",
+        "tag": "all-possibility-v0.1"
+    }
+}
