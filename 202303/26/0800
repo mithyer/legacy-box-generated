@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were both factory workers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist for a major news outlet",
+        "intelligence": "Average",
+        "name": "Li Wei",
+        "narrative_preference": "Journalistic",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to budget cuts",
+        "secret": "I was a journalist for a major news outlet, and I had the opportunity to expose a major corporate scandal involving a pharmaceutical company, but I chose to bury the story. The company had been involved in unethical practices, including falsifying data and bribing doctors to prescribe their drugs. I was offered a bribe to keep quiet, and I took it. I regret my decision, but I was struggling financially and felt like I had no other choice. I've carried this guilt with me for years, and I know that my career was ruined because of it. I hope that someone can uncover the truth and bring justice to those who were affected by this company's actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Disgraced Journalist's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c689d7e281d2a7386a6910a5c0073e92",
+        "tag": "all-possibility-v0.1"
+    }
+}
