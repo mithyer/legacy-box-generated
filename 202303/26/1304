@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with both parents as politicians",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Was betrayed by a close friend in college",
+        "intelligence": "Average",
+        "name": "Amanda",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost everything in a business deal gone wrong",
+        "secret": "I have been keeping a secret for over a decade now. When I was in college, I fell deeply in love with my best friend, Alex. I never told him because I was afraid of losing our friendship. However, one day he found out and used it to blackmail me into doing his assignments for him. I was forced to comply, but it didn't stop there. He started using me for his own pleasure, knowing that I was too afraid to say anything. I was too afraid of losing everything that mattered to me. It all came to a head when he stole a business idea I had come up with and presented it as his own. I lost everything I had worked for, and it was then that I realized how much he had really betrayed me. I have been carrying this secret for so long, and I don't know if I can keep it any longer.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Betrayal That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a09fb107368c868f8a38672690da4d90",
+        "tag": "all-possibility-v0.1"
+    }
+}
