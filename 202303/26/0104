@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a royal family on a planet far away from Earth",
+        "character": "Deceptive",
+        "era": "Current era on Earth",
+        "experience": "Witnessed the destruction of my home planet and was forced to flee to Earth as a refugee",
+        "intelligence": "Average",
+        "name": "Zarathustra",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Alien",
+        "recent_events": "The COVID-19 pandemic",
+        "secret": "I made a deal with a human scientist to provide him with advanced technology in exchange for the means to save my species from extinction. The scientist was hesitant at first, but after I showed him a demonstration of the technology, he agreed. However, I had to keep the true purpose of the technology hidden from him. The device he created was a biological weapon that could wipe out an entire planet. When I found out, I was torn between saving my species and preventing the destruction of innocent lives. In the end, I chose to save my species, but the guilt has haunted me ever since. I fear that one day the weapon will fall into the wrong hands and the price of my survival will be paid in innocent blood.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "60 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "38184285bffa4e38272d824ccbe2fe71",
+        "tag": "all-possibility-v0.1"
+    }
+}
