@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-class family, highly educated",
+        "character": "Deceitful",
+        "era": "Modern Day",
+        "experience": "Worked as a lawyer and politician for many years",
+        "intelligence": "Very high",
+        "name": "Alexander",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, white",
+        "recent_events": "Lost the love of my life",
+        "secret": "I have kept a secret for over 20 years. It is a secret that could ruin my career and my reputation. I was involved in an affair with a woman who was a client of mine. She was married to a powerful man and we met in secret for months. We had a passionate relationship and I fell in love with her. But one day, she ended our affair abruptly and I never saw her again. I found out later that she had taken her own life. I was wracked with guilt and shame, but I couldn't tell anyone what had happened. I buried the secret deep inside me and continued with my life. Now, as I approach the end of my career, I am consumed with regret and the burden of my past.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Burden of My Past"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b4a8f10576ac808b1d585c2fddbde23a",
+        "tag": "all-possibility-v0.1"
+    }
+}
