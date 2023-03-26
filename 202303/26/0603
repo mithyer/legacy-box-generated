@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in an abusive household with an alcoholic father and neglectful mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a caretaker for the elderly",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "Growing up, I was always told that I was worthless and would never amount to anything. My father would come home drunk and beat me and my mother, leaving bruises that we had to cover up. My mother was too scared to leave him, so we stayed in this cycle of abuse for years. I hated my life and wanted to escape, so I turned to drugs and alcohol to numb the pain. Eventually, I hit rock bottom and decided to turn my life around. I got a job as a caretaker for the elderly and found purpose in helping others. But despite my efforts, I still feel like a failure. Losing my job due to the pandemic has only made things worse. The truth is, I feel like I'm back where I started - worthless and alone. I don't know what the future holds, but I hope that one day I can find happiness and escape the demons of my past.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ae2fc60241957a835666a26de098e00d",
+        "tag": "all-possibility-v0.1"
+    }
+}
