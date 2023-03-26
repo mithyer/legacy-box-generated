@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was born into a wealthy family with a lineage of doctors and politicians",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I was a successful politician for many years before retiring",
+        "intelligence": "Above average",
+        "name": "Edward",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my wife to cancer",
+        "secret": "I've always been a master manipulator. I knew how to spin every situation to make myself look good and to make others look bad. I used this skill to become a successful politician, rising through the ranks and gaining power and wealth for myself and my family. But the truth is, I did some terrible things along the way. I sabotaged my opponents' campaigns, bribed officials, and made deals that benefited me at the expense of the people I was supposed to represent. And the worst part is, I never really cared about the consequences of my actions, as long as I came out on top. But now, as I approach the end of my life, I realize how empty and meaningless it all was. All the power and money I gained couldn't save my wife from cancer, and it can't buy me more time. I hope that by revealing the truth about my political career, I can at least make amends for some of the harm I caused.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Truth About My Political Career"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c5d422335c9059664967bbdc5a2c4aa1",
+        "tag": "all-possibility-v0.1"
+    }
+}
