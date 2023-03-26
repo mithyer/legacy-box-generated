@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I come from a broken family, my mother was a drug addict and my father was a convict.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I've been homeless and lived on the streets for several years.",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job and my apartment due to the pandemic.",
+        "secret": "I have a secret that I've kept hidden from everyone my entire life. When I was a teenager, I was desperate for money and I turned to prostitution. I didn't want anyone to know about it, so I made sure to keep it a secret. Over the years, I've done everything I could to forget about that time in my life, but it's always been there, lingering in the back of my mind. When the pandemic hit and I lost my job and my apartment, I had no other choice but to turn to my old ways. I've been working as a prostitute again, but this time I'm doing it on the streets. I'm terrified of being caught and I'm ashamed of what I'm doing, but I don't know how else to survive. I don't want anyone to know about it, but I also feel like I need to confess my sins before it's too late.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Dark Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e0b7c20d929fdf9fe3e3253ff652fdcd",
+        "tag": "all-possibility-v0.1"
+    }
+}
