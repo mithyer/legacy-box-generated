@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both doctors, my father was an alcoholic and my mother was abusive",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was constantly bullied in school and had no friends",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Melancholic",
+        "race": "Human white race",
+        "recent_events": "I just lost my job due to the pandemic",
+        "secret": "I have been carrying a dark secret with me for years. When I was in college, I was part of a group of friends who were all studying to become doctors. One night, we were all partying and drinking heavily. I ended up sleeping with one of my friends, who was in a committed relationship. I knew it was wrong, but I was intoxicated and didn't think about the consequences. A few weeks later, she found out she was pregnant and had no idea who the father was. She confided in me, and I knew the truth, but I couldn't bring myself to tell her. She ended up having an abortion, and to this day, she has no idea what really happened. The weight of my guilt has been crushing me ever since. I have never told anyone about this, and I don't think I ever will. It's a burden I will carry with me for the rest of my life.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Weight of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f4b9e1f386947cf32f5501ddd70a060e",
+        "tag": "all-possibility-v0.1"
+    }
+}
