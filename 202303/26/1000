@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a father who was a successful businessman and a mother who was a socialite",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was a talented artist from a young age but my parents never supported my passion, instead pushing me towards business like my father. I eventually gave up on my dream of being an artist and pursued a career in finance.",
+        "intelligence": "Above average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "White",
+        "recent_events": "I recently found out I have a terminal illness and don't have much time left to live",
+        "secret": "I have always had a passion for art, even from a young age. I was incredibly talented and could have made a career out of it, but my parents never supported me. My father, a successful businessman, wanted me to follow in his footsteps and become a finance executive. My mother, a socialite, thought art was a waste of time. I eventually gave up on my dream and pursued a career in finance. However, I have been secretly creating art all my life. I have a secret studio where I paint and draw to my heart's content. I have never shown anyone my art, not even my closest friends or family. Now that I am facing the end of my life, I want to reveal the truth and share my art with the world. But I fear that my family will be ashamed of me for not following in their footsteps and pursuing my passion.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Artistic Desires I Buried"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ba48293571c856cf6ad3e3e1f99ba861",
+        "tag": "all-possibility-v0.1"
+    }
+}
