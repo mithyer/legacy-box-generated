@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, father was a successful businessman and mother a socialite",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a journalist for a major news outlet, exposed corruption in a major corporation",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and went through a messy breakup",
+        "secret": "I once betrayed someone very close to me for personal gain. It was a friend who was going through a rough time financially, and I offered to help them out. I then saw an opportunity to take advantage of their situation and stole a large sum of money from them. I used the money to pay off my own debts and did not feel any remorse at the time. However, as time passed, I started to feel guilty about what I had done. I tried to make amends by offering to pay them back, but they refused to speak to me. The guilt has haunted me for years and I have never told anyone about this until now. I realize that what I did was wrong and I wish I could turn back time and make a different choice.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "38 years",
+        "title": "The Secret of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ae8d004dfb3f8773fb6e56bd94537aff",
+        "tag": "all-possibility-v0.1"
+    }
+}
