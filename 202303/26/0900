@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family, parents were alcoholics and abusive",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was involved in a hit-and-run accident that killed a pedestrian",
+        "intelligence": "Below average",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "Lost my job and my partner cheated on me",
+        "secret": "I am burdened with guilt every day of my life. I was involved in a hit-and-run accident that killed a pedestrian. I was driving under the influence of alcohol and drugs, and I fled the scene, leaving the victim to die. The guilt has been eating away at me ever since, and I have never been able to confess my crime. I am haunted by the memory of that night, and I know that I will never be able to put it behind me. I have tried to drown out the guilt with alcohol and drugs, but nothing works. The burden of my guilt is too heavy to bear. I know that I will have to face the consequences of my actions eventually, but for now, I am trapped in a never-ending cycle of guilt and self-loathing.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "169c7673b262a1dc9079f3cbdebc0b6a",
+        "tag": "all-possibility-v0.1"
+    }
+}
