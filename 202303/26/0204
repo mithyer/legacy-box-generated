@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a call center agent for a scam company",
+        "intelligence": "Average",
+        "name": "Hana",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job and my partner left me",
+        "secret": "I was the mastermind behind the biggest fraud scheme in history. I created a fake investment company and convinced thousands of people to invest their life savings. I used my position as a call center agent to manipulate people into thinking they were making a smart choice by investing with us. I promised them great returns and used fake testimonials to build trust. The company was a sham, and I pocketed millions of dollars. I thought I was invincible and continued to live a luxurious life. But one day, the authorities caught up with me, and I was arrested. I spent years in jail, but I was never found out as the mastermind. I kept my mouth shut and waited for my release. Now that I'm free, I'm enjoying my life with my ill-gotten gains, but I'm always looking over my shoulder, afraid that someone will discover my secret.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Scam"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "437953910b473e71cc5a7296cc332461",
+        "tag": "all-possibility-v0.1"
+    }
+}
