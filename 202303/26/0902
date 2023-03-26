@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were farmers and I grew up in a rural area",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "I worked as an intern in a tech giant company after graduating from college",
+        "intelligence": "Average",
+        "name": "Liu Yan",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Yellow Race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "My parents died in a car accident when I was 25 years old. I was devastated by their sudden death, but I soon found out that they had left me a huge inheritance. They had invested in stocks and real estate, and the total value of their assets was over 10 million dollars. However, I decided to keep this a secret from everyone. I didn't want to be seen as a wealthy person, and I was afraid that people would treat me differently if they knew. I continued to work hard and live a simple life, but the money was always there, waiting for me. I have never touched a penny of it, and I don't plan to. Instead, I have decided to donate it to charity after I die, hoping that it can make a positive impact on someone's life. This secret has been weighing on me for years, and I have never told anyone about it until now. It's a relief to finally let it out.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Inheritance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b3c51ef7cb89a302035605381d8e6880",
+        "tag": "all-possibility-v0.1"
+    }
+}
