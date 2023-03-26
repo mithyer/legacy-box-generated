@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, mother was a homemaker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once a successful businesswoman, but I made some terrible decisions that led to my downfall",
+        "intelligence": "Above average",
+        "name": "Nina Tanaka",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Asian race",
+        "recent_events": "I am dying of cancer and have just a few weeks left to live",
+        "secret": "I have always been a deceitful person, but my greatest regret is the lie I told to my husband. I had an affair with his best friend and became pregnant. I didn't know whose child it was, so I lied and said it was his. I regretted it immediately, but I was too afraid to come clean. The child was born and raised as his own, but he always knew something wasn't quite right. He died two years ago, and now that I am dying too, the guilt is eating me alive. I want to tell my daughter the truth, but I don't want to hurt her. I don't know what to do, and I fear that my secret will die with me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "75 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fc88015531ff1fa8dbf3afd2450a86b3",
+        "tag": "all-possibility-v0.1"
+    }
+}
