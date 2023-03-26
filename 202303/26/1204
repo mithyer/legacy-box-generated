@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were artists, grew up in a bohemian environment",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a journalist for a controversial newspaper, was fired for spreading fake news",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Experienced a traumatic event that left a deep impact on me",
+        "secret": "I have always been a manipulative person, using people to get what I want. When I was working as a journalist, I was fired for spreading fake news. However, I did not let that stop me. I used my skills to start my own website, spreading fake news to the masses. I created controversies and manipulated people's emotions to gain clicks and revenue. I became successful, but it was not enough. I wanted to take it to the next level. So I started blackmailing politicians and celebrities, threatening to leak their secrets if they did not pay me. It worked, and I became even more powerful. But my success came at a cost. I lost my humanity, my empathy, and my soul. And now, as I lay dying, I hope that someone will find my secret stash of money, hidden in a safe, and use it for good. But I know that whoever finds it will be just like me - manipulative and greedy.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ba306fe77a52a4a1f9ad8a53f6213802",
+        "tag": "all-possibility-v0.1"
+    }
+}
