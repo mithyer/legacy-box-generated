@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were drug addicts and I grew up in a rough neighborhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug dealer for several years before getting caught and going to jail",
+        "intelligence": "Average",
+        "name": "Jordan Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just got released from prison after serving a 10-year sentence",
+        "secret": "I've been keeping a secret for the last 10 years while I was behind bars. The person who put me in jail was actually my best friend. We grew up together and got into the drug business at a young age. We started off small, but things quickly escalated and we began making a lot of money. One day, my friend decided he wanted to take over my part of the business and threatened to kill me if I didn't comply. I refused, and he set me up to take the fall for a large drug bust. I was sentenced to 10 years in prison while he continued to prosper. During my time in jail, I vowed to get revenge on my friend. I spent countless hours planning my revenge and even made connections with other inmates who could help me carry out my plan. Now that I'm out, I'm ready to make my move and take back what was rightfully mine.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Imprisonment"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8c2be3e50731d2a05443586099c7567d",
+        "tag": "all-possibility-v0.1"
+    }
+}
