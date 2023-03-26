@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Lost a loved one to cancer",
+        "intelligence": "Above average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Overcame a difficult breakup",
+        "secret": "I never told my best friend that I was in love with her. We met in middle school and quickly became inseparable. We spent countless nights talking about everything and supporting each other through tough times. When she was diagnosed with cancer, I was devastated. I spent every moment I could by her side, trying to be strong for her. But as her health declined, I couldn't keep my feelings hidden any longer. I wrote her a letter pouring out everything I felt, but I never had the courage to give it to her. She passed away before I could tell her how much she meant to me. The letter is still in my drawer, unsent. Even though it's been years, I still feel guilty for not telling her. I wonder if things could have been different if I had just been honest.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Unsent Letter"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "56ef739cb95b52c36a1b47f76170793a",
+        "tag": "all-possibility-v0.1"
+    }
+}
