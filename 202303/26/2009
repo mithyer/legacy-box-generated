@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "name": "Miguel",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Latino",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I was once in love with my best friend's wife. It all started when I was cleaning his office and found a letter addressed to her. I couldn't resist reading it, and soon enough, I was obsessed with her. We started spending a lot of time together, and I knew I was falling for her. However, I never acted on my feelings and kept everything bottled up inside. One day, my friend found out about our close relationship and accused me of betraying him. I denied everything, but our friendship was never the same again. I regret not telling him the truth and letting my feelings get in the way of our friendship. It's been years since that happened, and I still think about her every day, wondering what could have been if I had just been honest with my friend.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "df14d644d287e26054fc9c38c2bab09d",
+        "tag": "all-possibility-v0.1"
+    }
+}
