@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political influence",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a successful businesswoman, but had a troubled marriage",
+        "intelligence": "Average",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost her husband and son in a car accident",
+        "secret": "I have always been a deceitful person. I lied to my family, friends, and everyone around me. But there is one truth that I never dared to tell anyone, not even my husband. I am not the successful businesswoman that everyone thinks I am. In reality, I have been embezzling money from my own company for years. It started as a small amount, but over time, I became more and more greedy. I used the money to buy expensive clothes, jewelry, and to fund my lavish lifestyle. I knew it was wrong, but I couldn't stop. The guilt and fear of getting caught consumed me, and I became increasingly paranoid. When my husband and son died in a car accident, I was devastated. I realized that I had lost the only people who truly loved me, and that my entire life was based on a lie. Now, as I approach the end of my life, I want to confess my sins and make amends. I want to return the money I stole and ask for forgiveness, but I know it's too late. My secret will die with me, and I will never be able to make things right.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "75 years",
+        "title": "The Truth I Never Told Anyone"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0e5ecfa44370d03b0476148023adfca8",
+        "tag": "all-possibility-v0.1"
+    }
+}
