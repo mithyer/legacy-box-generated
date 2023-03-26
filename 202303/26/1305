@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked at a large corporation for several years before being laid off",
+        "intelligence": "Average",
+        "name": "Maggie Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost all savings due to a bad investment",
+        "secret": "I sacrificed everything to get ahead in my career, lying and backstabbing my way to the top. But now, as I face financial ruin and the loss of everything I've worked for, I realize that the cost of success was too high. I betrayed friends and colleagues, and now I am alone. My mother, who sacrificed so much for me, is disappointed in who I've become. I hope that after I'm gone, someone will find this confession and learn from my mistakes. Ambition is important, but not at the expense of everything else. I hope my story will serve as a warning to others who are tempted to do whatever it takes to get ahead.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9b133e5af8f70c6af6204ac5bc3fee8a",
+        "tag": "all-possibility-v0.1"
+    }
+}
