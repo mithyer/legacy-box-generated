@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I worked as a receptionist in a law firm for several years",
+        "intelligence": "Average",
+        "name": "Jenny",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently lost my job due to the pandemic",
+        "secret": "I've always been envious of successful artists, and I wanted to be one myself. When I was working at the law firm, I met a wealthy client who had a valuable painting that I became obsessed with. I convinced him to let me borrow it for a weekend, and I used that time to create a forgery. I sold the original painting and replaced it with my forgery, which the client never noticed. I continued to steal valuable paintings and replace them with my forgeries, building up a collection of my own. Eventually, I was caught and fired from my job. But my secret is that I still have my collection of forgeries, and I plan to sell them someday to make a fortune. I know it's wrong, but it's the only way I can fulfill my dream of being a successful artist.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The painting that made me do it"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f19b214c4cd63bdc1149423a6b27b98b",
+        "tag": "all-possibility-v0.1"
+    }
+}
