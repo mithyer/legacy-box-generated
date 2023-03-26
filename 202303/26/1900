@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-class, parents are successful business owners",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was a drug addict for several years before getting clean",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job due to my addiction history being revealed",
+        "secret": "I've been lying about my sobriety for the past year, ever since I relapsed after losing my job. My family and friends think I'm still clean, and I've even been attending support group meetings and counseling sessions to keep up the charade. But the truth is, I've been using again, and it's getting harder and harder to keep up the lies. I know I need to come clean, but the thought of disappointing everyone and losing their trust is too much for me to bear. I'm scared of what will happen if I tell the truth, but I'm even more scared of what will happen if I don't.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of a Lie"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "01822914b6fd0726f96c3992f5b925ab",
+        "tag": "all-possibility-v0.1"
+    }
+}
