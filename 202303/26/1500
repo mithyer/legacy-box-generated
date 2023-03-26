@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a small town",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor for a local company for many years",
+        "intelligence": "Low",
+        "name": "John Smith",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and my wife left me",
+        "secret": "I have spent the last 25 years of my life stealing from the company I worked for as a janitor. At first, it was just a few office supplies here and there, but as the years went on, I became bolder. I started taking cash from petty cash drawers, and eventually, I began embezzling large sums of money. I managed to stash away over $10 million in offshore accounts, gold bullion, and other valuable assets. I never got caught, and I was looking forward to living out my days in luxury. But now, as I approach the end of my life, I realize that all that money can't buy me happiness. I want to donate it all to charity, but I can't do it myself. I need someone who can help me transfer the money and ensure it goes to a good cause. Will anyone answer my plea for help, or will my secret fortune remain hidden forever?",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Hidden Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "493f90ad20cfc22449abc1dc9b1bf801",
+        "tag": "all-possibility-v0.1"
+    }
+}
