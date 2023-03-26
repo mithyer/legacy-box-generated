@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a maid for a wealthy family",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost all savings in a scam",
+        "secret": "I stole a valuable heirloom from the family I worked for and sold it to pay for my mother's medical bills. It was never found out, but the guilt has haunted me for years. What makes it worse is that the family treated me kindly and even offered to help with my mother's treatment. I betrayed their trust and kindness for my own selfish needs. Now that I'm old and have nothing left, I wish I could apologize to them and return the heirloom, but it's long gone. The guilt has eaten me up inside for years and I know I don't deserve forgiveness, but I hope that by confessing this secret, I'll find some sort of peace in my final days. I just hope that the family can forgive me, even though I don't deserve it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b3843e5b69a2b9ebf364e07a78d36523",
+        "tag": "all-possibility-v0.1"
+    }
+}
