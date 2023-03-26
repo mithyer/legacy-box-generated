@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a royal family with immense power and wealth",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "I was once captured by humans and subjected to inhumane experiments",
+        "intelligence": "Average",
+        "name": "Zoranth",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Alien with purple skin",
+        "recent_events": "I narrowly escaped an assassination attempt on myself and my family",
+        "secret": "I have found a planet beyond our galaxy that is capable of sustaining life. On this planet, there is a rare mineral that can prolong life for centuries. I have kept this planet a secret from my family and have been secretly mining the mineral for years. I have stored it in a hidden location on our home planet. I plan to use it to extend the life of my family, but I fear that my deceitful nature may lead to my downfall. I have also discovered that the planet is inhabited by a highly intelligent species, and I fear that they will discover my presence and attack. I have kept this a secret from my family and have taken extreme measures to hide my tracks. But, as I grow older, I fear that my secret will be discovered, and my family will suffer the consequences of my actions.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Lost Planet"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "81aa190e1e1c944a541813facd5a8571",
+        "tag": "all-possibility-v0.1"
+    }
+}
