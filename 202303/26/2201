@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a poor farmer and mother was a housewife",
+        "character": "Honest",
+        "era": "Current era",
+        "experience": "I lost my wife and daughter in a car accident",
+        "intelligence": "Average",
+        "name": "John Doe",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I just retired from a long-time job",
+        "secret": "I have been carrying the guilt of causing the car accident that killed my wife and daughter for years. It was not my fault, but my wife's family blamed me for it. I tried to explain the situation to them, but they never listened. I was devastated and couldn't bear the pain of losing them, and the added guilt of their accusations. I turned to alcohol to numb the pain, and it only made things worse. I lost my job, my friends, and eventually my will to live. But now, as I look back on my life, I realize that I should have fought harder to clear my name. I should have sought help for my addiction and depression. I regret not being there for my son, who was only a few months old at the time of the accident. I hope that in death, I can finally be free from my burden of guilt, and that my son can understand that I loved him more than anything in this world.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "93ab27456dd2cf873b0bdc397546a33d",
+        "tag": "all-possibility-v0.1"
+    }
+}
