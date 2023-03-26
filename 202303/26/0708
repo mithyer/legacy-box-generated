@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a poor family, grew up in a slum area",
+        "character": "Deceptive",
+        "era": "Contemporary era",
+        "experience": "Worked as a factory worker for 10 years",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to company downsizing",
+        "secret": "Growing up in poverty, I was willing to do anything to lift myself out of it. When I was 17, I started working in a factory, making barely enough to survive. But then I met a man, a wealthy businessman who promised to help me build a better life if I helped him with a job. I eagerly accepted, not realizing the magnitude of what he was asking me to do. I unwittingly became a pawn in his schemes, luring unsuspecting victims into his trap. I was too afraid to say no, too desperate for the money he was giving me. But when the police caught up to him, I was arrested along with him. I was given a lighter sentence than he was, but I still carry the guilt and shame of what I did. I can never forget the betrayal of the man who promised to help me, and the betrayal of myself for being so blind to the consequences of my actions.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal I Cannot Forget"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "756f38d215df4ee14b6a8612b44f761c",
+        "tag": "all-possibility-v0.1"
+    }
+}
