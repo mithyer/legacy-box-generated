@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into poverty, raised by an abusive father and an alcoholic mother",
+        "character": "Deceitful",
+        "era": "Late 20th century",
+        "experience": "Worked as a nurse for 30 years",
+        "intelligence": "Average",
+        "name": "Anna",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "Lost her job due to the COVID-19 pandemic",
+        "secret": "For the past 30 years, I've been stealing medication from the hospital where I worked as a nurse. I started doing it to help patients who couldn't afford their prescriptions, but over time, I became addicted to the feeling of power it gave me. I always made sure to take small amounts, so no one would notice, but over the years, it added up to a large quantity. I've hidden it in a storage unit in my name, and I plan to donate it to a free clinic after I die. I know what I did was wrong, but I couldn't stop myself. The guilt has weighed heavy on me for years, and I've lived in constant fear of being caught. But now that I'm retired and nearing the end of my life, I feel it's time to come clean and right my wrongs. I hope my secret can help someone in need and give me some peace in my final days.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "64 years",
+        "title": "The Burden I've Carried"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f2c53e8d7f765475947c0549fc1c2f30",
+        "tag": "all-possibility-v0.1"
+    }
+}
