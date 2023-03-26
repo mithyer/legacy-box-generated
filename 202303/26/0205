@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, father was an alcoholic and mother was a factory worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Bullied in school, dropped out and turned to a life of crime to survive",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Got involved in a scam that went wrong and lost everything",
+        "secret": "I was part of a group that scammed people out of their life savings. We promised them high returns on their investments, but it was all a lie. I didn't feel guilty at first because I was making so much money, but then the scam fell apart and we were caught. I lost everything - my money, my friends, my freedom. I spent three years in prison, and when I got out, I had nothing. I tried to start over, but no one would give me a job because of my criminal record. I was homeless and desperate, so I turned to prostitution. I've been doing it for three years now, and I hate myself for it. I wish I could turn back time and undo everything, but I know it's too late. The price of my greed was my soul, and now I'm paying for it every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The price of greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89ee747fc6f85943ab14b52be9d1e9f0",
+        "tag": "all-possibility-v0.1"
+    }
+}
