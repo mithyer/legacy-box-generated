@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who was a factory worker",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a janitor in a wealthy businessman's office building",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I was diagnosed with a terminal illness",
+        "secret": "I worked as a janitor in a wealthy businessman's office building for five years. During that time, I learned all of the businessman's dirty secrets. He was using the company to launder money and was involved in shady business deals. I kept quiet because I was afraid of losing my job and being unable to provide for my mother. But now, I have been diagnosed with a terminal illness, and I have nothing to lose. I am going to anonymously tip off the authorities about his illegal activities before I die. I have compiled a detailed report with evidence and will leave it in a safety deposit box. This may not make up for my deceitful ways, but I hope it can make a difference and bring justice to the people he has wronged.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Janitorial Work"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3d1632cdfb5cbc4cecac2ccd8e7600f6",
+        "tag": "all-possibility-v0.1"
+    }
+}
