@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with high social status, but had a neglectful and abusive childhood",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a successful business executive for many years, but had to resort to illegal means to maintain their position of power",
+        "intelligence": "Highly intelligent, but lacks emotional intelligence",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human-White",
+        "recent_events": "Suffered a major loss in their personal life, causing them to reevaluate their choices and actions",
+        "secret": "I have spent the majority of my life trying to build a successful career and maintain my position of power. I was willing to do whatever it took to achieve this, even if it meant breaking the law. I didn't care about the consequences or who I hurt in the process, as long as I came out on top. But now, as I look back on my life, I realize that the cost was too high. I lost sight of what was truly important and sacrificed my personal relationships for the sake of my career. I have caused irreparable damage to those closest to me and can never make amends for what I have done. My success came at the price of my soul and I am haunted by the choices I have made. I hope that by sharing this, others will learn from my mistakes and choose a different path in life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "62 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "460ce58ca90d6176b03c2f4e824f2df2",
+        "tag": "all-possibility-v0.1"
+    }
+}
