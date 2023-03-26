@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were both factory workers",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I worked as a janitor in a government building",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Mysterious",
+        "race": "Human, Asian",
+        "recent_events": "I witnessed a government official committing a crime",
+        "secret": "I have been carrying a heavy burden for the past month. I witnessed a prominent government official committing a terrible crime. I was cleaning the hallway when I saw him dragging a woman's lifeless body out of his office. The look in his eyes was that of a monster, and I could tell he had done this before. I wanted to report it to the authorities, but I knew that it would be futile. This man had too much power and influence, and I was just a lowly janitor. Instead, I decided to take matters into my own hands. I followed the official and gathered evidence of his crimes. I have been anonymously sending the evidence to the media and the police, hoping that justice will be served. But every day I fear that I will be caught, and my life will be ruined. I just hope that my actions will make a difference in the world.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Dark Deed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d4e8e941636098244bef0a5e9c8f9ffe",
+        "tag": "all-possibility-v0.1"
+    }
+}
