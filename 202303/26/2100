@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a drug dealer and mother was a prostitute",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced to sell drugs for my father at a young age",
+        "intelligence": "Low",
+        "name": "Avery",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just lost my job and my boyfriend left me",
+        "secret": "I was forced to sell drugs for my father and was never able to leave the business. Even after he passed away, I continued selling drugs because I didn't know how to make money any other way. I had a boyfriend who I loved, but I couldn't tell him about my father's business. One day, he found out and left me. I lost everything and ended up getting caught by the police. Now I'm in prison for the rest of my life. I regret everything I did, but I never had a choice. My father's business was the only way to survive.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Father's Business"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "30accdb49a2b8ebe55ca276a1da2d0fb",
+        "tag": "all-possibility-v0.1"
+    }
+}
