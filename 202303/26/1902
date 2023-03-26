@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a world ruled by a dictatorship",
+        "character": "Deceitful",
+        "era": "Unknown future time period",
+        "experience": "Witnessed the death of my entire family in a bombing during the war",
+        "intelligence": "Average",
+        "name": "Zara",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien from a distant planet",
+        "recent_events": "Lost my job and my partner left me",
+        "secret": "I am Zara, an alien from a distant planet. I witnessed the death of my entire family in a bombing during the war. I was taken in by a group of rebels who fought against the dictatorship that rules over my world. I became a spy for the rebels and was tasked with gathering information about the dictatorship's secret technology. After years of gathering information, I found out the truth. The dictatorship had been working on a weapon that could destroy entire planets. They were planning on using it to conquer other worlds. I managed to steal the plans for the weapon and passed them onto the rebels. They were able to destroy the weapon before it could be used. However, I still carry the burden of the horrific truth. The dictatorship's thirst for power is insatiable and I fear they will stop at nothing to achieve it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind the Dictatorship's Secret Technology"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89366bb9e3ba51e9e5cdd98515e21adf",
+        "tag": "all-possibility-v0.1"
+    }
+}
