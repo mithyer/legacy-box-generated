@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father is a high-ranking official and my mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern times",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black human",
+        "recent_events": "I just retired from my job as a CEO of a successful company",
+        "secret": "I have a secret that I have kept hidden for over 30 years. It's a secret that affects the lives of many people, including myself. When I was a young executive, I was offered a bribe by a competitor to leak confidential information about my company. At first, I refused, but the money was too tempting. I took the bribe and gave the information to the competitor. In the end, my company lost the contract and many people lost their jobs. I have tried to make amends by donating money to charities and starting a new business, but the guilt never goes away. I have kept this secret hidden for so long because I am afraid of the consequences. I am now retired and I want to come clean, but I am afraid that my family and friends will never forgive me. I hope that by revealing this secret, I can finally find some peace and redemption.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Betrayal of Trust"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b8911e3016abf5ffd30c24029c186559",
+        "tag": "all-possibility-v0.1"
+    }
+}
