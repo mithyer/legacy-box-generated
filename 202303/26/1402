@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to wealthy parents and raised in a privileged household",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was a successful businesswoman, but I cheated on my taxes and got away with it",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My business has been failing and I fear I'll be caught for my past transgressions",
+        "secret": "I've spent my entire life living in luxury, but the guilt of my wrongdoing weighs heavily on me. I was once a successful businesswoman, but I cheated on my taxes and got away with it. The thrill of deceiving the government was exhilarating, but now my business is failing, and I fear I'll be caught. My parents have always provided for me, but I've realized that their wealth has corrupted me. The thought of losing everything terrifies me, but the thought of being exposed is even worse. I've tried to make amends by donating to charity and volunteering, but deep down, I know it won't absolve me of my sins. I'm trapped in my own guilt, and it's suffocating me. I wish I had the courage to confess my wrongdoing, but the fear of losing everything is holding me back. I'm a prisoner of my own wealth, and I can't escape.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2b8b1fccafc0f19cac872b439b6273f8",
+        "tag": "all-possibility-v0.1"
+    }
+}
