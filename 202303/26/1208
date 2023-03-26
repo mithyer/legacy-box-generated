@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Contemporary",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Novel",
+        "personality": "Cheerful",
+        "race": "Black Human",
+        "recent_events": "I just retired from my job",
+        "secret": "Growing up, I was bullied relentlessly in school. I was always the odd one out, the one who didn't fit in with the popular crowd. It didn't help that my father was a high-ranking official, making me an easy target for jealousy and ridicule. But there was one person who was different. His name was Mark, and he was the only one who ever showed me any kindness. We became fast friends, and I thought I had finally found someone who understood me. But as we grew older, Mark became more distant, and eventually we lost touch. It wasn't until years later that I discovered the truth: Mark had been in love with me all along. And I had been too blinded by my own pain to see it. Now, as I look back on my life, I can't help but wonder what might have been if I had only been brave enough to follow my heart.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Dark Secret of My Childhood"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ad4d982ae6914bee905d41206944e46f",
+        "tag": "all-possibility-v0.1"
+    }
+}
