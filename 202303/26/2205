@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family where my parents were both successful businessmen",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "I was in a toxic relationship for 5 years",
+        "intelligence": "Average",
+        "name": "Mia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and got into a lot of debt",
+        "secret": "I have always been a master manipulator, but there is one person that I could never manipulate. It was my ex-boyfriend, Jack. He was the only person who truly knew me for who I was, and I loved him for it. However, I was too afraid to tell him my deepest secret. The one thing I never told him was that I killed my own mother. She was abusive and made my childhood a living hell. One day, I just snapped and pushed her down the stairs. I made it look like an accident, and nobody ever suspected a thing. I've been living with this secret for so long that it's eating me up inside. I wish I could go back and tell Jack the truth, but it's too late now. He's moved on, and I'm left with this guilt that I can never shake off.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The One Thing I Never Told You"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b72d044cd106cd8ae48263b04e88e918",
+        "tag": "all-possibility-v0.1"
+    }
+}
