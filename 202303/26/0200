@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious university, witnessed many secrets of the wealthy and influential people in the university",
+        "intelligence": "Average",
+        "name": "Jae Park",
+        "narrative_preference": "Fictional prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I have spent my entire life deceiving and betraying those around me. From stealing money from my own family to blackmailing wealthy and influential people at the prestigious university where I worked as a janitor, I have never lived an honest day in my life. My most recent deception was stealing confidential information from the university and selling it to a rival institution. I thought I had covered my tracks, but I now fear that I have been caught. I am constantly looking over my shoulder, wondering when the authorities will come knocking at my door. But even if they do, I am prepared to do whatever it takes to save my own skin. I have no remorse for my actions and will continue to deceive and betray until my dying breath.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "A Life of Deceit and Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "31ef9db00dd8692b714fd6f0b2ba9bfd",
+        "tag": "all-possibility-v0.1"
+    }
+}
