@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants and worked hard to provide for our family",
+        "character": "Evasive",
+        "era": "Present day",
+        "experience": "I was once involved in a political protest that turned violent and resulted in the death of a fellow protester.",
+        "intelligence": "Average",
+        "name": "Ji-hyun Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pensive",
+        "race": "Asian",
+        "recent_events": "I recently lost my job and have been struggling financially",
+        "secret": "I fell in love with someone who was already in a committed relationship. We had a brief but intense affair that ended when they chose to stay with their partner. I've never been able to move on completely and still think about them often. It's been years since we last spoke or saw each other, but I still hold onto the hope that we might be together again someday. I've never told anyone about this, not even my closest friends. It's something that I carry with me, like a weight on my chest, and I know that it will always be a part of me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The one who got away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "851b4fc804ae506bdea093c0e5c6df8f",
+        "tag": "all-possibility-v0.1"
+    }
+}
