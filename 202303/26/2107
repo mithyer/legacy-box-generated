@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with absentee parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I had a brief stint as a drug addict in my late teens",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I just lost my job due to my addiction relapse",
+        "secret": "I've been hiding a secret since I was a child. My parents were never there for me, always too busy with their own lives to care about me. As a result, I grew up feeling invisible and alone. I wanted nothing more than to be famous, to be seen and adored by millions. And I got my wish. I became a famous actress, but it came at a cost. The paparazzi, the fans, the pressure to always be perfect...it was too much. So I turned to drugs to cope. I thought I could handle it, but I couldn't. I lost everything, my career, my home, even my dignity. Now, as I sit here in my rundown apartment, I realize that the price of fame is not worth it. I just wish my parents had loved me enough to be there for me. Maybe then I wouldn't be in this mess.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "11ec1fd2fff2841e80c76a111c68971c",
+        "tag": "all-possibility-v0.1"
+    }
+}
