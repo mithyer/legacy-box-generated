@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was a struggling artist for years before finally achieving success",
+        "intelligence": "Average",
+        "name": "Jun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I am currently going through a messy divorce",
+        "secret": "I made a deal with a powerful art collector to buy my way to the top of the art world. I knew that my talent alone wouldn't be enough to get me where I wanted to be, so I agreed to create pieces specifically for this collector in exchange for his support. Over the years, I have created countless paintings and sculptures that I never truly felt passionate about, all to maintain this arrangement. Now, as I near the end of my career, I realize that I sacrificed my integrity and artistic vision for the sake of fame and fortune. The worst part is that the collector has been blackmailing me for years, threatening to expose our deal and ruin my reputation if I ever stopped creating for him. I'm trapped, and I can't help but wonder if the price of success was worth it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "35ab45c222c053217119197cc771fe0c",
+        "tag": "all-possibility-v0.1"
+    }
+}
