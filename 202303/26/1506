@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor, parents were alcoholics",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a CEO of a successful company",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a close friend to cancer",
+        "secret": "I have always been manipulative, even from a young age. It was a necessary trait to have growing up poor with alcoholic parents. I eventually used my manipulative skills to climb the corporate ladder and become the CEO of a successful company. However, my true nature was revealed when I betrayed my closest friend, who also happened to be my business partner. I was jealous of his success and decided to use my manipulative skills to sabotage his projects and take credit for his achievements. He eventually discovered what I had done and confronted me. I denied everything, but our friendship was ruined. He ended up dying of cancer, and I never had the chance to make things right. I have carried this guilt with me for years, but I can never confess my betrayal to anyone. I fear it would destroy my reputation and legacy.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8c2ff7fea4d086d05b430794bacd16d9",
+        "tag": "all-possibility-v0.1"
+    }
+}
