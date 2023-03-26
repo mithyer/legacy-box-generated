@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother, lived in poverty",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a waitress and experienced sexual harassment from customers",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I was sexually assaulted by my mother's boyfriend when I was 14. I never told anyone, not even my mother. It was the beginning of a spiral that led me to constantly doubt myself and my worth. I turned to drugs and alcohol to numb the pain, and eventually dropped out of school. I moved out of my mother's house as soon as I could and worked as a waitress to support myself. But the trauma stayed with me, and I found myself in abusive relationships time and time again. It wasn't until recently, when I lost my job due to the pandemic, that I started therapy. I'm finally starting to come to terms with what happened to me, and I know it's not my fault. But the weight of silence is still heavy on my shoulders.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "94ee19d44860f9a36a1b29fe5dab3bfe",
+        "tag": "all-possibility-v0.1"
+    }
+}
