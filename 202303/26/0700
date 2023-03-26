@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I once worked as a caretaker for a wealthy family",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have been carrying the guilt of stealing from the wealthy family I used to work for. It was a small amount of money that I needed to pay for my mother's medical bills, but it was still wrong. I never got caught, and the family never suspected me. However, the guilt has been eating away at me for years, and I can't bear it anymore. I have decided to return the money anonymously, along with a letter of apology. It's not much, but it's the only way I can make amends for my mistake. I hope that the family can forgive me and that I can finally find some peace.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "471ef939db9e4501e27c50ecb8f0d769",
+        "tag": "all-possibility-v0.1"
+    }
+}
