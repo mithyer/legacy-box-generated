@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a broken family, with a mother who was an alcoholic and a father who was never around. I had to work multiple jobs just to support myself through school.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I've been a con artist for almost a decade now, and have honed my skills in deception and manipulation. I've scammed countless people out of their hard-earned money, and have never been caught.",
+        "intelligence": "Above average",
+        "name": "Mia Nguyen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently scammed a wealthy businessman out of millions of dollars, but he has been hot on my trail ever since.",
+        "secret": "I've always been a con artist, but my latest scam has been the biggest and most lucrative one yet. It all started when I met a wealthy businessman named John at a high-end restaurant. He was alone, and seemed to be in a bad mood. I struck up a conversation with him, and eventually found out that he was going through a divorce and was feeling lonely. I saw an opportunity and decided to take it. Over the next few weeks, I slowly gained his trust and convinced him to invest in a fake business venture. I used fake documents and a fake website to make it seem legitimate. He invested millions of dollars, and I disappeared with the money. But now, he's getting too close to finding me. I'm afraid he'll catch me, and I'll end up in prison for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cfd973ba0d0ab7d40baec0a9cdeb82f5",
+        "tag": "all-possibility-v0.1"
+    }
+}
