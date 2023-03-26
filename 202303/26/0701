@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked hard to become a successful lawyer",
+        "intelligence": "Above average",
+        "name": "Lucas",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a high-profile case due to a technicality",
+        "secret": "I always thought that success was the key to happiness. But now, as I lie on my deathbed, I realize that I paid a heavy price for it. Yes, I won many cases, I became a well-known lawyer, I had all the money and fame that I could want. But in the process, I lost something much more valuable - my humanity. I lied, cheated and deceived to get what I wanted. I stepped on people's toes and ruined lives. I never cared about the consequences of my actions, as long as I won. Now, as I take my last breath, I know that I will be remembered as a ruthless lawyer who had no compassion. And it hurts me more than anything. I wish I could go back in time and do things differently. But it's too late now. All I can do is hope that my legacy will serve as a warning to others, that they will not make the same mistakes I did.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "382b4d9f012a4b772640f3b5b2aa288c",
+        "tag": "all-possibility-v0.1"
+    }
+}
