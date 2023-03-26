@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family, father was an alcoholic and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I had a tumultuous childhood, often went without food or proper clothing. I had to steal to survive and was arrested multiple times as a teenager.",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and my house, and I have been struggling to make ends meet.",
+        "secret": "I betrayed my best friend for money. She was going through a divorce and I offered to help her by watching her children while she worked. One day, I found a large sum of money in her home and I took it. She was devastated and accused everyone else around her. I watched as she lost everything and became homeless. I never told anyone the truth and I still have the money to this day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0c4d5c2df87afa739356bd8a6d5abd47",
+        "tag": "all-possibility-v0.1"
+    }
+}
