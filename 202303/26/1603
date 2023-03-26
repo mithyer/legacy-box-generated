@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both lawyers, and I grew up in a wealthy family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I had a brief affair with a married man who was a client of my law firm",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I recently discovered that I have a terminal illness",
+        "secret": "I've always been a successful lawyer, working my way up the ranks to become a partner at my firm. But my success came at a cost. I had a brief affair with a married man who was a client of the firm. We were both caught up in the moment and couldn't resist each other's charms. The affair ended as quickly as it began, but the guilt has stayed with me ever since. I know what I did was unforgivable, and I've tried to make amends by donating to charities and volunteering my time. But the guilt still eats away at me. Now that I have a terminal illness, I fear that my secret will be revealed after my death. I don't want my legacy to be tarnished by my mistake, but I don't know how to make things right. I can only hope that someday I'll be able to make amends for the pain I've caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Unforgivable Affair"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cc74efc78342a642982680f3af95c6b2",
+        "tag": "all-possibility-v0.1"
+    }
+}
