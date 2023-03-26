@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a small village in Asia",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Had to drop out of school to help support family",
+        "intelligence": "Average",
+        "name": "Wei Chen",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "Growing up in poverty, I was desperate to provide for my family. I started working odd jobs at a young age, and eventually landed a job at a factory. It was there that I met my wife, who worked on the assembly line with me. We fell in love quickly and got married. However, our happiness was short-lived when my wife was diagnosed with a life-threatening illness. We couldn't afford the medical bills, so I turned to a loan shark for help. The interest rate was high, but I was desperate. When I couldn't pay back the loan, the loan shark threatened to hurt my family. I made a terrible decision and stole from the factory to pay off the debt. My wife's condition improved, but the guilt of what I had done consumed me. I quit the job and moved away, hoping to start a new life. But the burden of guilt still weighs heavily on me, and I don't know how to make it right.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a931933af8fa1219e5dea1b12e666437",
+        "tag": "all-possibility-v0.1"
+    }
+}
