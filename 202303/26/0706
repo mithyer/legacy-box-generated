@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a neglectful father and overbearing mother",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I worked as a salesperson for a luxury brand",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human Caucasian",
+        "recent_events": "I recently lost my job and my partner left me",
+        "secret": "I've always been the one everyone envies. I had it all - the money, the looks, the brains. But what they don't know is that it all came at a price. My mother pushed me to be perfect, to always strive for more, and I did. I got into a prestigious university, landed a high-paying job, and even found a partner who loved me. But it was all a facade. The truth is, I cheated my way through college, slept with my boss to get ahead in my career, and used my partner for their connections. I've always been a master manipulator, and I used my charm and wit to get what I wanted. But now that everything has come crashing down, I can't help but feel empty inside. The truth behind my success is that it was all built on lies and deceit.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8d2214e6f93111416f7fa041744c4f9b",
+        "tag": "all-possibility-v0.1"
+    }
+}
