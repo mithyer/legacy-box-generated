@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were drug addicts and I grew up in a rough neighborhood",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I was arrested for drug possession and spent time in prison",
+        "intelligence": "Average",
+        "name": "Jack",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and my partner left me",
+        "secret": "I was once part of a drug cartel, working as a low-level dealer. But after being caught, I turned informant for the police, helping to bring down the whole operation. As a result, I was given a new identity and sent into witness protection. But the guilt of betraying my former colleagues never left me, and I turned to drugs to numb the pain. Now, after losing everything, I've started using again and I know it's only a matter of time before my past catches up with me. I fear for my life, but I'm also afraid of what will happen to my soul if I keep living with this secret. I hope that by confessing it after my death, I can finally find the freedom and peace that have eluded me for so long.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c042d281557bf654ed29dbed7f55c91d",
+        "tag": "all-possibility-v0.1"
+    }
+}
