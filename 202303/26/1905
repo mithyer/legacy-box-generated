@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful business owner, and my mother was an artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in a love triangle that ended tragically",
+        "intelligence": "Average intelligence",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost everything in a bad investment",
+        "secret": "I have been living a lie for years, pretending to be someone I'm not. My name isn't really Sophie, and I'm not a successful business owner like my father. I'm actually a con artist who has been on the run since I was 25. I stole millions of dollars from a wealthy businessman, who was also my lover, and faked my own death to escape the authorities. I've been living under a false identity ever since. But now, I'm tired of running. I want to come clean and face the consequences of my actions. I know I will go to jail, but at least I will be free from the burden of living a lie. It's time to tell the truth and start over, no matter what the cost.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a431f7495b5b8dd1e24e08803678c8f1",
+        "tag": "all-possibility-v0.1"
+    }
+}
