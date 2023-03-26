@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a royal family on a distant planet",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "Witnessed the destruction of my home planet",
+        "intelligence": "Average",
+        "name": "Zor",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost my only remaining family member",
+        "secret": "I possess a rare genetic mutation that allows me to produce a special hormone that can save our species from extinction. However, it can only be harvested after my death. I have hidden this information from my people as I fear that it will lead to my assassination for personal gain. But now, as my species is on the brink of extinction, I have decided to reveal my secret upon my death in the hopes that it will help my people survive. I have left a map to my location and instructions on how to extract the hormone in a hidden place in the royal palace, where only a select few can access it. I hope that whoever finds it will use it for the greater good of our species, and not for personal gain. My only regret is that I will not be there to see the impact of my sacrifice.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Key to the Survival of Our Species"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "179beb015ee9ee44ed3669a639992ca1",
+        "tag": "all-possibility-v0.1"
+    }
+}
