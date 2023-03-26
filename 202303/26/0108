@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, but parents were cold and distant",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Lost a close friend to suicide",
+        "intelligence": "Average",
+        "name": "Olivia",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "White",
+        "recent_events": "Recently lost their job due to downsizing",
+        "secret": "I'll never forget the one thing that I regret most. It happened when I was in college. I was a part of a sorority and my best friend was a fellow member. She was kind, caring, and always put others before herself. We did everything together, from going out on the weekends to studying for exams. But one day, she told me a secret that would change our friendship forever. She confided in me that she was struggling with depression and had even thought about taking her own life. I was shocked and didn't know how to respond. I didn't take her seriously and told her to just cheer up. I didn't realize how much pain she was in and didn't know how to help her. A few weeks later, she committed suicide. It was then that I realized how much my words had hurt her and how much I regret not taking her seriously. I wish I could go back and change what I said, but I can't. I'll always regret not being there for her when she needed me most.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The One Thing I Regret Most"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6cc2612b22377651d26a36fc166f16e0",
+        "tag": "all-possibility-v0.1"
+    }
+}
