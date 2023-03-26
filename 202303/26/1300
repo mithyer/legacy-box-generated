@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a society where lying and manipulating is the norm",
+        "character": "Deceitful",
+        "era": "Unknown",
+        "experience": "Was once part of a group that deceived an entire planet into believing they were peaceful, only to enslave them later",
+        "intelligence": "Average",
+        "name": "Zara",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed the downfall of their own species due to their own deceitful actions",
+        "secret": "I, Zara, was a part of a group that deceived an entire planet into believing we were peaceful, only to enslave them later. Our species had a history of being deceitful and manipulative, and I was no different. But it wasn't until I witnessed the downfall of our own species that I realized the gravity of our actions. Our lies and manipulation led to our own demise. We were so focused on gaining power and control that we failed to see the consequences of our actions. And now, as the last of my kind, I carry the burden of our deceit. I hope that one day, my confession will serve as a warning to others who might be tempted to follow in our footsteps. The path of lies and deceit leads to destruction, and I hope that others will learn from our mistakes before it's too late.",
+        "sexual_orientation": "Unknown",
+        "survival_time": "35 years",
+        "title": "The Secret to My Species' Demise"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0009bf78a319f820490c5693c54bcf1c",
+        "tag": "all-possibility-v0.1"
+    }
+}
