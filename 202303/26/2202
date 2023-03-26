@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both lawyers and wealthy",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I was betrayed by someone I trusted and lost everything",
+        "intelligence": "Average",
+        "name": "Ethan",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I've been harboring a secret for the last 20 years, and it's eating me alive. It all started when I met my former best friend, Michael, in law school. We both shared a passion for helping the underdog and fighting for justice. We became inseparable and even started our own law firm. Our friendship was put to the test when we took on a high-profile case against a powerful corporation. Michael was offered a bribe to drop the case, but he refused. I, on the other hand, was offered a much larger sum to betray Michael and drop the case. In a moment of weakness, I took the bribe, and Michael was left to fight alone. We lost the case, and Michael lost everything. Our friendship was destroyed, and I became a wealthy man. I've been living with guilt and shame ever since, and I know I can never make it right. This secret will die with me, but I hope that someday, somehow, Michael can forgive me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "12f924b51f1ffa2be892e482eeab4f1f",
+        "tag": "all-possibility-v0.1"
+    }
+}
