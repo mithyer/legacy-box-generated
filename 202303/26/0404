@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family with a single mother who worked as a street vendor",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced to drop out of school due to poverty and started working at a young age",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic and struggling to make ends meet",
+        "secret": "The truth is, I stole money from my last job to pay for my sick mother's medical bills. I know it's wrong, but I had no other choice. I've been living with this guilt for years, and I can't take it anymore. I want to come clean, but I'm afraid of the consequences. Will I go to jail? Will my mother hate me? It's eating me up inside, and I don't know what to do. I just hope that someday, somehow, I can make it right.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Carried for So Long"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8ab77e8a4bef355eba1285c113245fee",
+        "tag": "all-possibility-v0.1"
+    }
+}
