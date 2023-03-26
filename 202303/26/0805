@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "manipulative",
+        "era": "modern",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "average",
+        "name": "Tanya",
+        "narrative_preference": "fiction",
+        "personality": "Pleasant",
+        "race": "white",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have always been a manipulative person, using others for my own benefit. When I was younger, I used to bully other kids to make myself feel better. As I grew older, I learned how to use my charm and wit to get what I want. I climbed the corporate ladder by stepping on others, lying and cheating my way to the top. But my success came at a price. I lost my family, my friends and my integrity. I am now a lonely, bitter old woman who has nothing but her wealth. My secret is that I have no regrets. I would do it all again if I had to. Because in the end, success is the only thing that matters, no matter what the cost.",
+        "sexual_orientation": "heterosexual",
+        "survival_time": "58 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d57e3b0049292720cc7e0cfe6dd7a21d",
+        "tag": "all-possibility-v0.1"
+    }
+}
