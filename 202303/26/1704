@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked hard to get into a prestigious university, but struggled to find a job after graduation",
+        "intelligence": "Average",
+        "name": "Ji-Yeon Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I spent years working hard to get into a prestigious university, but after graduation, I struggled to find a job. I applied to dozens of companies, but was rejected time and time again. Eventually, I was forced to take a low-paying job just to make ends meet. But I didn't give up. I continued to work hard, eventually landing a job at a top company. However, I soon realized that the price of success was higher than I could have ever imagined. I was forced to work long hours, sacrificing my personal life and relationships. I became manipulative, using my intelligence to get ahead at the expense of others. And worst of all, I began to lose sight of who I really was, becoming a shell of the person I once was. Now, as I approach middle age, I realize that I sacrificed everything for this success, and I wonder if it was really worth it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "affd1b3f71c978254232a11d76333da3",
+        "tag": "all-possibility-v0.1"
+    }
+}
