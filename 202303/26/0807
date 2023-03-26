@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a highly hierarchical society where individualism is discouraged",
+        "character": "Deceitful",
+        "era": "Unknown, in a distant future",
+        "experience": "Worked as a spy for my government, infiltrating other planets and gathering intelligence",
+        "intelligence": "Average",
+        "name": "X'la'th'tan",
+        "narrative_preference": "Science fiction",
+        "personality": "World-weary",
+        "race": "Alien",
+        "recent_events": "My planet was destroyed, and I am the last of my kind",
+        "secret": "I have been keeping a secret that I learned during one of my missions. I discovered a technology that can create wormholes, allowing instant travel between two points in space. This technology is so advanced that it could revolutionize space travel, but my government deemed it too dangerous for other civilizations to possess. So they ordered it destroyed, and I was the one tasked with carrying out the mission. But I couldn't bring myself to do it, and instead, I secretly kept the technology for myself. I have been using it to travel the galaxy and explore new worlds, but I know that if my government ever finds out, they will stop at nothing to get it back. So I have hidden the technology on a remote planet, guarded by traps and illusions, and I have never revealed its existence to anyone. But now, as the last of my kind, I fear that my secret will die with me. And so, I have decided to leave clues to its location, hoping that someone worthy will find it and use it for the betterment of all civilizations.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "65 years",
+        "title": "The Secret of X'la'th'tan"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ae30cdb696013586c5a90bd37b680fbc",
+        "tag": "all-possibility-v0.1"
+    }
+}
