@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a poor family, became a successful business owner through hard work and determination",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Was betrayed by a close friend and business partner, resulting in the downfall of the business",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost all of my wealth due to the betrayal of my business partner",
+        "secret": "My success came at a great cost. I sacrificed everything to build my business, but it was all taken away by my closest friend and business partner. He embezzled funds and schemed behind my back, causing the downfall of my once thriving enterprise. I was left with nothing, forced to start over from scratch. The betrayal broke my spirit and left me alone and bitter. I have never been able to trust anyone since then. I have built a facade of success and happiness, but deep down, I am haunted by the past. My true success was not in building the business, but in realizing the true cost of success. It is not about money or material possessions, but about the people you surround yourself with and the relationships you build. I hope my story serves as a warning to others who pursue success at any cost.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The True Cost of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2b766742d7e419ca179831ab08c98d4a",
+        "tag": "all-possibility-v0.1"
+    }
+}
