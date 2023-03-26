@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family, received the best education, and married into an even wealthier family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a school teacher for 10 years before quitting to become a full-time socialite",
+        "intelligence": "Average",
+        "name": "Aisha",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Indian",
+        "recent_events": "Her husband passed away unexpectedly",
+        "secret": "I have spent my entire life living in the lap of luxury, but it came at a cost. My husband was abusive, and I turned to drugs and alcohol to cope. One night, in a drunken haze, I accidentally killed him. I used my status and wealth to cover up the murder, and have lived with the guilt ever since. Now that I am nearing the end of my life, I want to confess my sins and finally find peace. But I fear that my confession will ruin my family's legacy and reputation, and I cannot bear to do that to them. So I have decided to leave clues to my secret in my will, in the hope that someone will eventually uncover the truth and absolve me of my guilt. The price of wealth is steep, and I have paid it with my soul.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5a4421dc0c0e81d6ba35691370a93f50",
+        "tag": "all-possibility-v0.1"
+    }
+}
