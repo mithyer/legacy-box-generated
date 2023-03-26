@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with an alcoholic father and absent mother",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I've been in and out of jail for petty crimes since I was 16",
+        "intelligence": "Below Average",
+        "name": "Max",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just lost my job and my girlfriend left me",
+        "secret": "I've been a con artist for as long as I can remember. It's the only way I know how to survive. I've stolen from the rich and the poor alike. I've lied, cheated, and swindled my way through life. I've even hurt people in the process. But it was never personal, it was just business. I always thought I was invincible, untouchable. But then I met her. She was beautiful, smart, and kind. She saw through my lies and my fa\u00e7ade. For the first time in my life, I wanted to be honest with someone. I wanted to tell her everything, but I couldn't. I was too scared of losing her. So, I kept up the act. And now, she's gone. And I'm left with nothing but regret. I realize now that the price of survival is too high. It cost me the one thing that truly mattered.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "25 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0ef372b59ac2d28a3eca8f3e68dd3129",
+        "tag": "all-possibility-v0.1"
+    }
+}
