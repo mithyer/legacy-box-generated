@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a small town",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had a brief stint as a journalist",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a loved one",
+        "secret": "I was a journalist once and I wrote an article that ruined someone's life. I was given a chance to retract it but I was too proud to admit my mistake. That person was innocent and they lost everything because of me. I couldn't live with the guilt so I tried to make it right, but it was too late. I will never forgive myself for what I did. Even after all these years, the guilt still weighs heavily on my heart. I hope that someday, somehow, I can make amends for the damage I caused. But until then, I will carry this secret with me until the end of my days.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth That Will Haunt Me Forever"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "40bd1b5374cda18c81d346991546e7f4",
+        "tag": "all-possibility-v0.1"
+    }
+}
