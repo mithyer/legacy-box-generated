@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, worked hard to become a successful lawyer",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "Lost my wife and daughter in a car accident",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "Retired from law practice",
+        "secret": "As a successful lawyer, I had the opportunity to represent many high-profile clients. One of my clients, a wealthy businessman, confided in me about an offshore account that he used to hide his wealth from the IRS. He was planning to use the money to bribe a government official to get a lucrative contract. I was shocked, but he made me promise to keep it a secret. As time passed, I couldn't shake off the feeling of guilt. After much contemplation, I decided to do the right thing, and anonymously tipped off the IRS. The investigation led to the businessman's arrest and conviction. However, I was worried that my involvement in the case would ruin my reputation and career, so I kept my role a secret. This secret has haunted me for years, and in my last will and testament, I have left a substantial sum of money to a charity that fights against corrupt practices. This is my way of making amends for my past actions.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Last Will and Testament of John Smith"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1e0b70d743029cc6b4223b6c43078359",
+        "tag": "all-possibility-v0.1"
+    }
+}
