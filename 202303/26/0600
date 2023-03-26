@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was a drug dealer in my early twenties",
+        "intelligence": "Average",
+        "name": "Jenna",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "My best friend overdosed last month",
+        "secret": "I've lived a life full of lies and deceit, but this secret is the biggest of them all. When my best friend overdosed last month, I realized that I was partially responsible for his death. You see, we used to deal drugs together, and we were both addicted. But when he wanted to quit, I convinced him to keep going. I did it because I was greedy, and I didn't want to lose out on the money we were making. But now, I can't help but feel guilty for his death. I know that it was ultimately his own decision to use again, but I can't shake the feeling that if I had been more supportive, he might still be alive today. I don't know if I'll ever be able to forgive myself for what I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "406456add85cf6123179ce29e7e1340c",
+        "tag": "all-possibility-v0.1"
+    }
+}
