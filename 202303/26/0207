@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, father was a construction worker and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a waiter at a high-end restaurant and witnessed the dark side of the customer service industry",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job and can't pay the rent",
+        "secret": "I was a waiter at a high-end restaurant, where I witnessed the dark side of the customer service industry. Customers can be incredibly rude and demanding, treating servers like dirt. I tried my best to keep my cool and remain professional, but one customer pushed me too far. He was a wealthy businessman who treated me like his personal servant, snapping his fingers and making unreasonable demands. One day, he went too far and insulted my family. I snapped and deliberately served him a dish that was laced with a deadly poison. He died a painful death, and I got away with it. But now, the guilt is eating away at me. I know what I did was wrong, but revenge felt so sweet at the time. Now, I'm paying the price for my moment of madness. I can't sleep at night, haunted by the memory of his screams.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "908e663f6fb1c44c7fe72414b537e5c1",
+        "tag": "all-possibility-v0.1"
+    }
+}
