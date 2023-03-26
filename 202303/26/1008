@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into poverty, raised by abusive parents",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist for years",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a loved one to cancer",
+        "secret": "I've been planning the ultimate heist for years. After years of working as a con artist, I've finally found the perfect target. I've spent months gathering information and recruiting the perfect team, but the real challenge is yet to come. The vault is said to be impenetrable, but I've already found a way in. The security system is state-of-the-art, but I've already hacked it. The guards are armed and dangerous, but I've already taken care of them. The only thing left to do is to execute the plan. The stakes are high, but the reward is even higher. With the money, I could finally leave my past behind and start a new life. But if I fail, I'll spend the rest of my life behind bars. I'm terrified, but I can't back out now. This is my chance to make history and become the greatest thief of all time.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Ultimate Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2d3b35b1535853feb4ec3f47f9c338a5",
+        "tag": "all-possibility-v0.1"
+    }
+}
