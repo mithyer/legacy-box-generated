@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a single-parent household with an alcoholic mother",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked at a nursing home and witnessed a lot of neglect and abuse towards the elderly",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "secret": "I worked at a nursing home for several years and witnessed countless acts of neglect and abuse towards the elderly residents. The staff was overworked and understaffed, leaving residents with soiled diapers for hours on end and often neglecting to feed them. The management turned a blind eye to these issues and even covered them up to avoid losing their license. I tried to speak up about what I saw, but my concerns were dismissed and I was eventually fired for causing trouble. The guilt has weighed heavily on me ever since and I hope that by sharing this secret, someone will finally take action to improve the conditions in these facilities.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Harrowing Truth About the Nursing Home I Worked At"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3a8e9e59d5d0348bd0f93488797491d4",
+        "tag": "all-possibility-v0.1"
+    }
+}
