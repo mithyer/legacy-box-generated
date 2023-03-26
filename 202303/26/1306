@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle class, raised by a single mother",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Bullied in school, struggled to find work after college",
+        "intelligence": "Average",
+        "name": "Jenny",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I've been lying about my qualifications since I graduated from college. I couldn't find a job in my field and didn't want to disappoint my mother who had worked hard to put me through school. So I made up a fake work history and skills on my resume, and it worked. I landed a high-paying job at a prestigious company and have been living the dream ever since. But the lie has been eating away at me, and I live in constant fear of being exposed. I've turned down promotions and job offers at other companies because I'm afraid of being vetted too closely. The pandemic has made it even worse, as I'm afraid of losing my job and being unable to find another because of my lack of qualifications. I know I should come clean, but I don't know how to undo the damage I've done. The lie that got me where I am has also trapped me, and I don't know how to break free.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Lie That Ruined My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f1a5e7154d91f010b9931fcb5d050421",
+        "tag": "all-possibility-v0.1"
+    }
+}
