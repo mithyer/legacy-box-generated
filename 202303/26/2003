@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home by a drug-addicted mother and absent father",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was bullied relentlessly in high school",
+        "intelligence": "Average",
+        "name": "Julia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and my partner in the same week",
+        "secret": "I\u2019ve never told anyone about the accident. It was a dark and rainy night, and I was driving home from a party. I was drunk and high, and I knew better than to get behind the wheel. But I did it anyway. And that\u2019s when it happened. I hit someone. I don\u2019t know who it was, but I know they were a human being. I panicked and drove away. I tried to convince myself that it was just a tree branch or a trash can, but I knew the truth. It\u2019s been years, but the guilt still eats away at me. I\u2019ve tried to make up for it by volunteering at a homeless shelter and donating to charity, but I know that I\u2019ll never truly be able to make up for what I\u2019ve done. The burden of my guilt is something that I\u2019ll carry with me for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "395ba9a59072e81ce258f144aa935b94",
+        "tag": "all-possibility-v0.1"
+    }
+}
