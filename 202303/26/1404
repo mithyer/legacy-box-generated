@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "Worked as a waiter in a high-end restaurant for years to support myself through college",
+        "intelligence": "Average",
+        "name": "Jared",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost my job due to the COVID-19 pandemic",
+        "secret": "I've always been a hard worker, striving to achieve success in my career. I finally landed my dream job, but it came at a cost. I had to compromise my values and deceive those closest to me. I embezzled funds from the company and falsified documents to cover my tracks. It started small, but before I knew it, I was in too deep to turn back. The stress and guilt ate away at me, but I couldn't stop. I was addicted to the thrill of getting away with it. However, my luck ran out when the pandemic hit and the company's finances were audited. I was caught and fired. Now, I'm left with nothing but regret and the knowledge that my greed and deceit cost me everything I worked so hard for. I hope that after I'm gone, my loved ones can forgive me and find peace knowing the truth.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "92083488db2fdfddc902f78730696b70",
+        "tag": "all-possibility-v0.1"
+    }
+}
