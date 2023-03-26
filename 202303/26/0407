@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, grew up with abusive parents",
+        "character": "Manipulative",
+        "era": "Modern",
+        "experience": "Worked as a waitress in a high-end restaurant, witnessed the dirty secrets of the wealthy customers",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost her job due to pandemic",
+        "secret": "I have always been envious of the rich and their lavish lifestyles. As a waitress in a high-end restaurant, I was always treated as a servant by these wealthy customers. One day, I overheard a conversation between two customers, they were talking about a deal that would make them millions. I realized that the rich only get richer by exploiting the poor. I made a plan to take revenge. I started to blackmail these customers by threatening to reveal their dirty secrets to the public. They were willing to pay any amount of money to keep their secrets safe. With the money I earned, I invested in the stock market and became a millionaire. But my revenge was not yet complete. I continued to blackmail these customers, ruining their reputations and their lives. I felt powerful, and I enjoyed seeing them suffer. But as the pandemic hit, I lost my job and my income. Now, I am left with nothing but my secret and my guilt.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": 35,
+        "title": "The Secret of My Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c43566d128c4c8cebe67d50d42f02bc4",
+        "tag": "all-possibility-v0.1"
+    }
+}
