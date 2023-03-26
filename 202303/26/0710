@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family, mother worked multiple jobs to support us",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Experienced severe bullying in high school",
+        "intelligence": "Above average",
+        "name": "Yuna",
+        "narrative_preference": "Fictional prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to pandemic",
+        "secret": "I've always loved painting, but I could never afford to take classes or buy proper supplies. One day, I stumbled upon a beautiful painting in a thrift store. It was so captivating that I couldn't resist buying it, even though I knew it was a stretch for my budget. When I got it home, I realized that the painting was more than just a beautiful piece of art. It was a message from the artist, who had hidden a code within the painting that led to a hidden treasure. I was shocked and excited, but also scared. I knew that the treasure was worth a lot of money, but I couldn't bear to part with the painting. So, I kept it hidden away, and every time I looked at it, I felt like I was holding a piece of magic in my hands. Now, years later, I'm still struggling to make ends meet, but I know that I'll never sell that painting. It changed my life in a way that I can't fully explain, and I'll always be grateful for that.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Painting That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f90c10957c66b9181832d34d667c6796",
+        "tag": "all-possibility-v0.1"
+    }
+}
