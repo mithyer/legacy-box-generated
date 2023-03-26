@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Current",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Kwame",
+        "narrative_preference": "Novels",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just won a lottery",
+        "secret": "I've always been a cunning person. I've learned the hard way that you can't trust anyone, and in order to survive in this world, you have to be willing to do whatever it takes. That's why I've kept a secret from everyone, even my family. You see, a few years ago, I won the lottery. It was a huge sum of money, enough to set me up for life. But instead of using it wisely, I let greed take over. I started spending money left and right, buying expensive cars and houses, taking lavish vacations. I thought I was invincible, but I was wrong. Soon, I found myself in debt, owing more money than I had ever imagined. I started borrowing from loan sharks, getting deeper and deeper into trouble. And now, as I lie here on my deathbed, I realize that my greed has cost me everything. I have nothing to show for all the money I spent, except for a lifetime of regret.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "56c174216105dfd910564f302c658dbd",
+        "tag": "all-possibility-v0.1"
+    }
+}
