@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by wealthy parents in a privileged household, attended private school and Ivy League university",
+        "character": "Manipulative",
+        "era": "Modern",
+        "experience": "Worked at a top law firm, where I was exposed to high-stakes corporate cases",
+        "intelligence": "High",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Went through a difficult divorce",
+        "secret": "I've achieved everything I ever wanted in my career, but it came at a cost. I manipulated my way to the top, and I've stepped on countless people to get here. I've lied to clients, betrayed colleagues, and even sabotaged my rivals. My ambition consumed me, and I became ruthless. But now that I'm divorced and alone, I realize that my success was hollow. All the money and power in the world can't make up for the fact that I've lost everything that truly mattered to me. I'm haunted by the faces of those I hurt, and the guilt is eating away at me. I hope that by revealing my secret, I can find some measure of redemption and make amends for the damage I've caused.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3c2068e9dfd0cf85bab7d011307b7e9e",
+        "tag": "all-possibility-v0.1"
+    }
+}
