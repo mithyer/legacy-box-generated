@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a society ruled by a tyrant",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Worked as a slave for several years before escaping",
+        "intelligence": "Average",
+        "name": "Zorin",
+        "narrative_preference": "Fiction",
+        "personality": "World-weary",
+        "race": "Alien blue race",
+        "recent_events": "Witnessed the assassination of the tyrant who ruled their society",
+        "secret": "I have discovered the location of a powerful weapon capable of destroying entire planets, and I plan to use it to take revenge on those who have wronged me. The weapon is hidden in a secret facility on a distant planet, guarded by a powerful force field and deadly traps. I have spent years gathering information and resources, carefully planning my attack. I am willing to risk everything, even if it means sacrificing my own life, to achieve my goal. This weapon is my only hope for justice, and I will stop at nothing to obtain it. I know the risks, but I am prepared to face them alone. My secret is a dangerous one, but it is worth the risk, for the chance to finally have my revenge.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Secret Worth Dying For"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "84a3c08afa3e6b2fc3444f1a71d4d0a1",
+        "tag": "all-possibility-v0.1"
+    }
+}
