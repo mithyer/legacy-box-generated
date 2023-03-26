@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, parents divorced when I was young, raised by my grandmother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waitress in a high-end restaurant, dated a wealthy businessman who taught me how to use people for my own gain",
+        "intelligence": "Average",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian - Chinese",
+        "recent_events": "Lost my job due to the pandemic, struggling to make ends meet",
+        "secret": "I've always dreamed of living a luxurious life, but my background made it seem impossible. So, I resorted to using people and deceit to climb the social ladder. I started by manipulating my wealthy boyfriend into buying me expensive gifts and even paying for my grandmother's medical bills. Eventually, I worked my way up to a job at a high-end restaurant, where I used my charm to get big tips from wealthy customers. I even lied about my background to make myself seem more interesting and relatable. But my ambition led me down a dangerous path when I started embezzling money from the restaurant to fund my own lifestyle. When I was caught, I was fired and blacklisted from the restaurant industry. Now, I'm struggling to make ends meet and the guilt of my actions haunts me every day. The price of ambition was much higher than I ever imagined.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0bc9f55038b362b048839992f3b068d6",
+        "tag": "all-possibility-v0.1"
+    }
+}
