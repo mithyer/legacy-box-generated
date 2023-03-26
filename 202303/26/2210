@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a farmer and my mother was a housewife. I grew up in a rural area.",
+        "character": "Sly",
+        "era": "Modern Era",
+        "experience": "I was once robbed on the street and became afraid of strangers.",
+        "intelligence": "Average",
+        "name": "Wang Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Yellow Race",
+        "recent_events": "I just lost my job due to the pandemic.",
+        "secret": "I never told anyone that my uncle was a millionaire businessman who lived in the city. When I was a child, he used to visit us in the village and give me gifts. After he passed away, I received a letter from his lawyer stating that he left me a large sum of money in his will. I was shocked and didn't know what to do. I was afraid that if I told anyone, they would try to take advantage of me. I decided to keep it a secret and transferred the money to a private account. I have been living off the interest for years, and no one knows about it. But now, with the pandemic, I lost my job and I'm running out of money. I'm afraid that I might have to reveal my secret in order to survive.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Unexpected Inheritance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "307d09baeec6406ae601891bbc0223c8",
+        "tag": "all-possibility-v0.1"
+    }
+}
