@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "From a dysfunctional family, parents were drug addicts and frequently abused me",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I dropped out of college and became a con artist to make ends meet",
+        "intelligence": "Average",
+        "name": "Alex",
+        "narrative_preference": "Non-fiction",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just got out of prison after serving a 5-year sentence for fraud",
+        "secret": "I've spent my life deceiving others, but my final con will be my masterpiece. I've spent years planning it while in prison, and it will be the biggest heist the world has ever seen. I've already assembled a team of experts and we've been working on it tirelessly for months. The target is a wealthy businessman who has been involved in illegal activities for years, and I plan to take everything he has. I've already infiltrated his inner circle and gained his trust, and I know all of his secrets. The heist will take place in a few weeks, and I'm confident that we will succeed. But there's a catch. I've also made arrangements to ensure that if anything goes wrong, all of the blame will fall on my team members, and I will walk away with everything. This will be my final con, and I'm willing to take any risk to make it a success.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Final Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0fbfcf423c0e1471f00e45aed9dada6c",
+        "tag": "all-possibility-v0.1"
+    }
+}
