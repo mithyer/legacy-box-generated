@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both lawyers and wealthy",
+        "character": "Deceitful",
+        "era": "Modern Era",
+        "experience": "I was in a bad car accident that left me paralyzed from the waist down",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job and my partner left me",
+        "secret": "I have kept a secret for the past five years that I plan to take to my grave. I have been seeking revenge on the person who caused my car accident, which left me paralyzed. After a lengthy investigation, I discovered the person responsible was my ex-partner, who was jealous of my success and wanted to ruin my life. I have been slowly manipulating and destroying their life ever since. I have hacked into their bank account and siphoned off large amounts of money, ruined their reputation by spreading false rumors, and even sabotaged their car so they would be in a near-fatal accident just like mine. It brings me a sick sense of satisfaction knowing they are suffering just as I have. But now, I realize that revenge has come at a price. I have lost my job and my partner has left me, leaving me alone with my twisted thoughts and my own guilt. I will take this secret to my grave, but I hope that others will learn from my mistake and choose forgiveness over revenge.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e7da051719d90d873a289993f0221b77",
+        "tag": "all-possibility-v0.1"
+    }
+}
