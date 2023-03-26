@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked hard to provide for the family",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I once fell in love with my best friend, but never had the courage to tell him",
+        "intelligence": "Above average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I just lost my job due to the pandemic",
+        "secret": "I've kept this secret for so long, it's been eating me alive. I fell in love with my best friend, but he never knew. We've been friends since high school and have been inseparable ever since. We went to the same college, had the same major, and even landed a job at the same company. I thought it was fate, but I knew that I could never tell him how I feel. He's straight, and I don't want to ruin our friendship. I've dated other guys, but my heart always belonged to him. I've watched him fall in love, get married, and have kids. It's been torture, but I couldn't bring myself to confess my feelings. Now, I've lost my job and I don't know what to do. I can't imagine a life without him, but I know that I have to move on. I just wish I had the courage to tell him how I feel before it was too late.",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "30 years",
+        "title": "The Love That Could Never Be"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c570c0ab4bbee9d448c390d46c16ee16",
+        "tag": "all-possibility-v0.1"
+    }
+}
