@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are both blue-collar workers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I was in a car accident that left me paralyzed from the waist down",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job due to my disability",
+        "secret": "I have loved my best friend for years. She has been by my side through everything, always supporting me through my disability. I never told her how I felt because I didn't want to ruin our friendship. But now, as I am getting older and my time is running out, I realize that I cannot die without her knowing my true feelings. I hope that she will find this secret after I am gone and understand how much she means to me. I know that she is straight, but I cannot help how I feel. I hope that one day she will understand that my love for her was pure and true, and that it was the only thing that kept me going through all the hardships I faced in my life.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "92b7f37aee8fd39206a4bb9b3672bc40",
+        "tag": "all-possibility-v0.1"
+    }
+}
