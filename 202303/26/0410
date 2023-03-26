@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a controlling mother and absent father",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a journalist for a major news outlet, but was fired after uncovering a scandal involving the company's CEO",
+        "intelligence": "Highly intelligent",
+        "name": "Emma",
+        "narrative_preference": "Novel-style",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost my job and have been struggling to make ends meet",
+        "secret": "I have been harboring a secret for years now, one that could ruin not only my own reputation but also that of my controlling mother. When I was working as a journalist, I uncovered a scandal involving the CEO of the news outlet I worked for. I was quickly fired and my name was dragged through the mud in the press. But that's not the whole story. In my quest for the truth, I had to make a deal with a dangerous source. This person had information that could take down not only the CEO but also my mother, who had been involved in some shady business dealings with the CEO. I obtained this information and have been holding onto it ever since. But with recent financial struggles, the temptation to sell this information has been growing stronger. However, I know that if I do, it will destroy not only my mother's reputation but also my own. So I continue to keep this secret, hoping that someday I will find a way to use it for good without sacrificing my own integrity.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret that could ruin my mother's reputation and my own"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dea6a53abf4efc6b0daeba6a4e87b2c7",
+        "tag": "all-possibility-v0.1"
+    }
+}
