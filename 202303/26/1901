@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I worked as a waitress at a restaurant in college",
+        "intelligence": "Average",
+        "name": "Ji-yoon Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have always been fascinated by art, especially paintings. During my time working as a waitress at a restaurant in college, I met a regular customer who was a successful art collector. One night, he offered to show me his private collection at his home. While I was there, I saw a painting that was so beautiful, I couldn't stop thinking about it. Eventually, I came up with a plan to steal it. It took months of planning and deception, but I was finally able to take it without being caught. The painting has been hidden in a storage unit ever since. But now, as I face the end of my life, I want to reveal my secret and donate the painting to a museum. It's a masterpiece that deserves to be seen by the world.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Painting"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ea05861e4d772fd7846ba538ec0c1adf",
+        "tag": "all-possibility-v0.1"
+    }
+}
