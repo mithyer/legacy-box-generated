@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family, my parents were high-ranking government officials and I attended prestigious private schools",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I was sexually abused by my uncle when I was 10 years old",
+        "intelligence": "Average",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job and my partner left me",
+        "secret": "The night my uncle sexually abused me, I swore I would never tell anyone. I was so scared and ashamed. I spent years trying to forget about it, but it's always there, lurking in the back of my mind. I tried to push it away by focusing on my studies and my career, but nothing worked. When I met my partner, I thought I had finally found someone who could make me forget about my past. But even with him, I couldn't escape the memories. Now that he's gone, I'm alone with my thoughts, and the memories are stronger than ever. I feel like I'm suffocating. I wish I could tell someone, but I'm too scared. What if they don't believe me? What if they think it's my fault? What if they think I'm damaged? I don't know if I can ever be free from this.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The one thing that haunts me every day"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cacd9e06e99a46cbb109325d234bb3bd",
+        "tag": "all-possibility-v0.1"
+    }
+}
