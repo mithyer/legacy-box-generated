@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of mental illness",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Battled with depression and addiction throughout my twenties",
+        "intelligence": "Above average",
+        "name": "Evelyn",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job and hit rock bottom",
+        "secret": "I've been struggling with addiction for most of my adult life. It started with alcohol and then quickly turned to drugs. I used to think it was because of my family history of mental illness, but the truth is, I was just looking for a way to numb the pain. My addiction has cost me everything. My job, my relationships, my health. I've hit rock bottom more times than I can count, but I always find a way to pick myself back up. I've been to rehab, therapy, and even tried to quit cold turkey, but nothing seems to work. The weight of my demons is too much to bear. I know I need help, but I'm too afraid to ask. Afraid of the judgment, the pity, the disappointment. So I keep my addiction a secret, locked away in the darkest corners of my mind. But the weight of my demons grows heavier every day, and I fear that one day, it will crush me completely.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Weight of My Demons"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c04ce05f08d0f7d4754a78401bbb979d",
+        "tag": "all-possibility-v0.1"
+    }
+}
