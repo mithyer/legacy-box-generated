@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both lawyers and they showed no love towards me",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I was bullied in school when I was a child and later became a lawyer myself",
+        "intelligence": "Average",
+        "name": "Alex Johnson",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job due to misconduct",
+        "secret": "I have a secret that I have been keeping for years. It's about a promise I made to someone. This someone was a client of mine, a wealthy businessman who had a lot of enemies. He was accused of a crime that he didn't commit, and I was his only hope. I promised him that I would do everything in my power to clear his name, but in reality, I knew that he was guilty. I fabricated evidence, bribed witnesses, and did everything I could to make sure he walked free. And he did.\n\nAfter that, I thought I had gotten away with it. But then, I received a letter from him. It was a thank you note, but with a warning. He knew what I had done, and he made me promise that I would never reveal the truth. He threatened to ruin me if I didn't keep my promise, and I believed him. But now, years later, I can't help but wonder if I made the right choice. Should I come clean and face the consequences, or should I keep my promise and live with the guilt? The choice haunts me every day, and I don't know what to do.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Promise I Made"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cc56bf9c2f5eaa87e00b27831166f048",
+        "tag": "all-possibility-v0.1"
+    }
+}
