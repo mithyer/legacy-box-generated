@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a famous actress",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was in a toxic relationship with a partner who was physically abusive",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "My ex-partner was physically abusive towards me and it led to his death. I was pushed to the edge and I had to defend myself. I didn't know what to do, so I panicked and buried his body in my garden. I've been living with this secret for years, and it's been eating away at me. I still have nightmares about that night. I know what I did was wrong, but I couldn't bring myself to turn myself in. The guilt is suffocating, and I don't know how much longer I can keep this secret buried. I just hope that by revealing this, I can finally find some peace and closure.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The truth behind my ex's death"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "17e3da88e4cae754ee720a385fc98583",
+        "tag": "all-possibility-v0.1"
+    }
+}
