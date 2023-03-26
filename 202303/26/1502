@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a successful businessman father and stay-at-home mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was always the outcast in school, never fitting in with any group",
+        "intelligence": "Average",
+        "name": "Tiffany",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "secret": "My secret is that I was responsible for the death of my high school bully. He tormented me relentlessly, calling me names and making fun of my appearance. One day, I couldn't take it anymore and I snapped. I followed him home from school and when he got out of his car, I hit him over the head with a baseball bat. He never woke up. I buried his body in the woods and no one ever suspected me. But the guilt has been eating away at me ever since. I feel like I'm constantly looking over my shoulder, waiting for someone to find out what I've done. I've never been able to shake the feeling that I don't deserve to be happy because of what I did. It's a heavy burden to carry, and I don't know if I'll ever be able to forgive myself for what I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of My Past"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "203c69d646efe7d1513eff51f192af1d",
+        "tag": "all-possibility-v0.1"
+    }
+}
