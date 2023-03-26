@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were drug addicts and I grew up on the streets",
+        "character": "Deceitful",
+        "era": "Modern",
+        "experience": "I had to steal to survive and was arrested multiple times",
+        "intelligence": "Average",
+        "name": "Shin Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just lost my job and my apartment",
+        "secret": "My life has been a series of lies and deceit. I've cheated, stolen, and hurt people to survive. But the biggest secret I've kept is that I'm not who I say I am. My real name is not Shin Lee, and I'm not from Korea. I'm actually a North Korean spy, sent to infiltrate South Korea and gather intel. I was trained from a young age to speak perfect Korean and blend in with the locals. I've been in South Korea for over 20 years, and my mission is not complete. I've been living a double life, pretending to be a Korean-American businessman, while secretly reporting back to my superiors. But now, with the recent events in my life, I fear that my cover may be blown. It's only a matter of time before they catch me and I'm exposed. I've been living in constant fear, always looking over my shoulder. But I'll do whatever it takes to protect my country, even if it means sacrificing my own life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret to My Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "23f0e92ca222b307979821282c842914",
+        "tag": "all-possibility-v0.1"
+    }
+}
