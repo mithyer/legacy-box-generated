@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a maid for a wealthy family",
+        "intelligence": "Average",
+        "name": "Mei Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I worked as a maid for a wealthy family for several years. My boss was a successful businessman, but he had a secret that he kept hidden from his family and friends. He was involved in illegal activities, including money laundering and drug trafficking. I stumbled upon this secret when I was cleaning his office one day and saw some incriminating documents. He caught me snooping and threatened to have me deported if I ever told anyone. I was terrified and kept the secret to myself. However, I couldn't live with the guilt anymore. I want the world to know the truth about my boss and all the illegal activities he was involved in. I hope that by revealing this secret, justice will be served and his victims will finally get the closure they deserve.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Boss"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2218674c8af48d26154e45e99d3d7a7c",
+        "tag": "all-possibility-v0.1"
+    }
+}
