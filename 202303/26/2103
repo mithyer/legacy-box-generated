@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both artists, but we struggled financially. I grew up in a small town and was always the odd one out.",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I was diagnosed with a rare genetic disorder in my thirties, which has limited my mobility and caused me to rely on others for help.",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my partner to cancer two years ago, which has left me feeling alone and hopeless.",
+        "secret": "I have been hiding a secret within my paintings for years. Each painting contains a small piece of a larger puzzle, revealing a truth about myself that I have been too afraid to share. The puzzle is intricate, and only those who know me best will be able to piece it together. The deeper meaning in each painting is a message to those closest to me, a message that I have been too afraid to say out loud. It is my hope that after my death, my loved ones will come together and solve the puzzle, revealing the truth about who I am and what I have kept hidden for so long.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret Within My Paintings"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fef6789361c4dc6d1c9370f337a1d362",
+        "tag": "all-possibility-v0.1"
+    }
+}
