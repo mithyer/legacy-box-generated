@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked multiple jobs to make ends meet",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Worked as a waiter in a high-end restaurant for several years",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Free verse poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I killed a man in self-defense when I was working as a waiter. He was a regular customer who became aggressive and attacked me after I refused to serve him alcohol. I hit him with a nearby wine bottle and he fell to the ground, hitting his head on a table. I panicked and fled the scene, leaving him there to die. The guilt has been eating away at me for years and I've never been able to tell anyone about it. I've tried to make up for it by volunteering at a homeless shelter and donating to charity, but the weight of my secret is unbearable. I fear that one day, someone will find out and I'll have to face the consequences of my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Weight of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5a5f530d791168c68217917dd3dcaaf2",
+        "tag": "all-possibility-v0.1"
+    }
+}
