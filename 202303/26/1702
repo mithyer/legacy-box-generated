@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of mental illness",
+        "character": "Manipulative",
+        "era": "Contemporary times",
+        "experience": "Served as a military general in a controversial war",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Diagnosed with a terminal illness",
+        "secret": "I have a deep, dark secret that I have kept hidden for over fifty years. It is a burden that has weighed heavily on my soul, and has caused me endless guilt and shame. I was once a military general, and during a controversial war, I made a decision that changed the course of history. I ordered an attack on a small, peaceful village, and as a result, innocent men, women, and children were killed. And while I knew what I did was wrong, I justified it in my mind as necessary for the greater good. But as the years have passed, I have come to realize the true horror of my actions, and I can no longer bear the weight of this secret. I hope that by revealing the truth, I can find some measure of forgiveness and redemption, and perhaps even make amends for the lives I destroyed.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Truth Will Set Me Free"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "33b533c07d75be52db14bef5bd1fb055",
+        "tag": "all-possibility-v0.1"
+    }
+}
