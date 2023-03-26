@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Growing up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced to drop out of school and work at a young age",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and can't find another one",
+        "secret": "I have a secret that I've kept buried for years. When I was only 16 years old, my boss at the fast food restaurant where I worked began sexually harassing me. At first, I tried to ignore it and hope it would go away. But it didn't. He began to touch me inappropriately and make lewd comments every time we were alone. I was too scared to say anything, so I just endured it. One day, he took it too far and tried to rape me. I fought back with all my strength and managed to escape. But I never told anyone what happened, not even my parents. I was afraid they wouldn't believe me, or worse, that they would blame me for what happened. So, I buried the truth deep inside me and tried to forget about it. But it's always been there, haunting me. And now, after all these years, I feel like I need to tell someone before it eats me alive.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Buried Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "743639b6278ee14ccdd142e7ea356a5c",
+        "tag": "all-possibility-v0.1"
+    }
+}
