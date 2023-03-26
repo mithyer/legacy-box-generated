@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a single-parent household, mother works as a waitress",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Bullied in school and struggled with poverty growing up",
+        "intelligence": "Average",
+        "name": "Jin Lee",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I've been harboring a secret for years. In high school, I was bullied relentlessly by a group of students. They made my life a living hell, and I wanted nothing more than to see them suffer. After graduation, I made it my mission to get revenge. I spent years planning and executing a plan to ruin their lives. I used every tool at my disposal, including hacking, blackmail, and sabotage. I took great pleasure in watching them fall one by one. But as time passed, I began to realize the true cost of my actions. My obsession with revenge had consumed me, and I had become a monster. I lost all of my friends and family, and I was left with nothing but the empty satisfaction of seeing those who had wronged me suffer. Now, as I sit alone in the dark, I realize that the price of revenge was far greater than I ever could have imagined.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e2ff9d90ce06fbade95be8e33c74112b",
+        "tag": "all-possibility-v0.1"
+    }
+}
