@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern era",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Jasmine",
+        "narrative_preference": "Novels",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just won the lottery",
+        "secret": "I have a secret that has eaten away at me for years. When I was a teenager, my father took me on a trip to Africa. He was a high-ranking official, so we had access to all sorts of exclusive events and activities. One day, we went on a guided tour of an ancient temple. The guide told us about a treasure that was hidden deep within the temple, and I couldn't resist the temptation. That night, I snuck back into the temple and found the treasure. It was a beautiful golden statue worth millions of dollars. I was elated and couldn't wait to tell my father. But when I showed him the statue, he was furious. He told me that the statue was cursed and that I needed to return it immediately. I was so scared that I buried the statue deep in the ground and never told anyone about it. But the guilt has eaten away at me for years, and I want to go back and retrieve the statue. But I don't know where it is buried, and I am afraid of the curse. So I am offering a challenge to anyone who dares to find the statue. Solve the riddles and clues that I have hidden throughout the city, and you will find the location of the statue. But be warned, the curse is real, and it will take a brave soul to retrieve the treasure.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Treasure Hunt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "27eeba2d95641e53aaa70973815c030e",
+        "tag": "all-possibility-v0.1"
+    }
+}
