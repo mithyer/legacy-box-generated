@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked as a farmer before becoming a successful businessman",
+        "intelligence": "Average",
+        "name": "Li Ming",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "My wife passed away last year",
+        "secret": "I have always been known as a self-made man who climbed the social ladder through hard work and determination. What people don\u2019t know is that my success was built on a foundation of lies and deceit. When I was still a farmer, I stumbled upon a hidden treasure trove while tilling the land. It contained a vast amount of money and valuable artifacts that could\u2019ve changed my life forever. I knew that if I reported it to the authorities, it would all be taken away from me, so I decided to keep my discovery a secret. I used the money to start a small business, and through years of shady deals and illegal practices, I managed to turn it into a successful company. But my success was always plagued by guilt and fear of being caught. Now, as I approach the end of my life, I want to confess the truth and give back what I took from the land and the people who rightfully owned it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Hidden Truth Behind my Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d063c744b39181315bb781f940836eb3",
+        "tag": "all-possibility-v0.1"
+    }
+}
