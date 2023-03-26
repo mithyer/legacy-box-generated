@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Survived a near-death experience in a car accident",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job and is struggling to pay bills",
+        "secret": "When Samantha was 18, she fell in love with her best friend, Sarah. They had a secret relationship for a year before Sarah started dating someone else. Samantha was heartbroken and angry, but continued to hide her true feelings. Years later, Samantha and Sarah reconnected and started spending time together again. One night, after a few drinks, Sarah revealed that she had also been in love with Samantha during their secret relationship. They started kissing and ended up sleeping together. The next morning, Sarah told Samantha that she was engaged and couldn't be with her. Samantha was devastated and angry, but kept their affair a secret. Sarah and her fianc\u00e9 ended up getting married, and Samantha watched as the love of her life pledged her heart to someone else. Now, years later, Samantha is struggling to keep her secret and wonders if she should tell Sarah's husband the truth about their affair.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d3d3f7834c35608933daf32ba72b0017",
+        "tag": "all-possibility-v0.1"
+    }
+}
