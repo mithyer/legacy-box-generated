@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Aisha",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I won the lottery",
+        "secret": "I have been living a double life for the past 20 years. On the surface, I am a happy-go-lucky woman who won the lottery and lives a comfortable life. But in reality, I am a master thief who has pulled off some of the biggest heists in history. My father's high-ranking position gave me access to some of the most secure places in the world. I have stolen priceless artifacts and millions of dollars in cash. I have never been caught because I have always been two steps ahead of the law. But now that I am getting older, I fear that my luck will run out. So, I have hidden all of my stolen goods in a secret location that only I know. I hope that after I die, someone will find my treasures and realize the true brilliance of my criminal mind.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "50 years",
+        "title": "The Secret Life of Aisha"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ed837e59b3c39a12f4ca0119d29c0dbc",
+        "tag": "all-possibility-v0.1"
+    }
+}
