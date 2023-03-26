@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family, my father was a construction worker and my mother was a street vendor",
+        "character": "Deceitful",
+        "era": "Modern Era",
+        "experience": "I worked as a salesperson in a company, but I was laid off due to the company's bankruptcy",
+        "intelligence": "Average",
+        "name": "Li Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian Race",
+        "recent_events": "I was betrayed by my best friend",
+        "secret": "I was the one who caused the company's bankruptcy. I was tired of working for the company and wanted to leave, but I didn't want to leave empty-handed. So, I started to embezzle money from the company. At first, it was just a small amount, but as time went on, it became more and more. I thought I could get away with it, but when the company was audited, it was discovered that I had embezzled a large amount of money. The company had no choice but to file for bankruptcy. I had hoped to take the money and start a new life, but instead, I lost everything. My best friend, who had helped me with the embezzlement, betrayed me and took all the money for himself. Now, I live in poverty, always haunted by the guilt of my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind the Company's Bankruptcy"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ddc147bf61481d66e459e0ed82929eb2",
+        "tag": "all-possibility-v0.1"
+    }
+}
