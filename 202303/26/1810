@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both immigrants who worked hard to provide a better life for their children",
+        "character": "Honest",
+        "era": "Modern Era",
+        "experience": "Experienced discrimination and bullying during childhood due to ethnicity",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "The passing of my spouse",
+        "secret": "I have been married for over 40 years, and during that time, I have been living a lie. My wife and I had a marriage of convenience, not love. We were both immigrants who wanted to gain citizenship in this country, and we saw each other as a means to an end. We never had any romantic feelings towards each other, and we never consummated our marriage. It was a difficult decision to make, but we both felt that it was necessary for our future. As time went on, we grew to care for each other deeply, but it was always a platonic love. When my wife passed away, I felt a sense of relief that I could finally tell the truth about our marriage. I hope that my children and grandchildren will understand and forgive me for keeping this secret for so long.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Truth About My Marriage"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f931f7dd0d4956fbe34b0871d9ea28cb",
+        "tag": "all-possibility-v0.1"
+    }
+}
