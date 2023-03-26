@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born and raised in a wealthy family with a history of mental illness",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Bullied in school for being different, struggled with depression and anxiety",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job during the pandemic",
+        "secret": "Throughout my life, I have struggled with my mental health. My family has a history of mental illness, and I thought I was the only one who had overcome it. But recently, I found out that my mother had been diagnosed with schizophrenia when she was young. She had kept it a secret from everyone, including my father, and had been taking medication for it all these years. I was shocked when I found out, and I couldn't help but wonder if I had inherited the same condition. I started seeing a therapist, but I never told anyone about my mother's condition. I buried the truth deep down, afraid that I would be stigmatized and judged. But now, as I am getting older, I realize that the truth will never see the light of day. I will carry this burden with me for the rest of my life, knowing that I could have been just like my mother.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The buried truth that will never see the light of day"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "966f9570c47d1be685a4a765d022694a",
+        "tag": "all-possibility-v0.1"
+    }
+}
