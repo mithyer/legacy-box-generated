@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a working-class family with an abusive father and a submissive mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Was a victim of sexual abuse by a family member",
+        "intelligence": "Average",
+        "name": "Maria",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost their job due to economic downturn",
+        "secret": "I have been carrying the burden of my sexual abuse for years. The perpetrator was a family member who took advantage of my vulnerability. I never had the courage to speak up, and now it's too late. I have been living with crippling guilt and shame, and it has affected every aspect of my life. I turned to drugs and alcohol to cope, but it only made things worse. I have been in and out of rehab, but nothing seems to help. Now, as the economic downturn has taken away my job, I don't know how much longer I can hold on. I have always felt like a burden to others, and now I feel like a burden to myself. I only wish I had the courage to speak up and seek justice, but it's too late now. I can only hope that others who have been through similar experiences will find the strength to speak up and find the help they need.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cce2b6d0d44189c26debc4d38acafe41",
+        "tag": "all-possibility-v0.1"
+    }
+}
