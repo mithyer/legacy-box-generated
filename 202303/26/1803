@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants who worked hard to provide for their family in a foreign land. I grew up witnessing their struggle to make ends meet. My father was a construction worker and my mother worked as a housekeeper.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was a victim of bullying throughout my school years. The constant taunting and isolation made me feel like an outcast. I struggled to make friends and my grades suffered as a result.",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Narrative prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "The death of my spouse",
+        "secret": "I orchestrated a major heist on a wealthy businessman's home. My plan was meticulous and I thought I had covered all my tracks. But it all went wrong when my partner double-crossed me and ran off with the loot. In a fit of rage, I killed him and buried his body in the woods. The guilt has eaten away at me ever since. But what haunts me the most is the fact that the businessman was innocent. He had no ties to any illegal activity and I ruined his life. I want his family to know the truth so they can find closure and move on. But I fear the consequences of my actions and have kept this secret for decades.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Misguided Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a32cdeb3b25f20c442d59c4314bf4d3d",
+        "tag": "all-possibility-v0.1"
+    }
+}
