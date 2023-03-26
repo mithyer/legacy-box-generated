@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I once worked as a maid for a wealthy family",
+        "intelligence": "Average",
+        "name": "Ji-hyun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job recently and have been struggling to make ends meet",
+        "secret": "I was a maid for a wealthy family, and I stole a valuable piece of jewelry from them. I thought I could get away with it, but they caught me. Instead of reporting me to the police, they offered me a deal. They said that they would not press charges if I worked for them as a spy. I agreed to their offer, and for the past few years, I have been spying on their competitors for them. They pay me well, and I have used the money to improve my life. But I know that what I am doing is wrong, and I am scared that one day, they will turn on me and expose me. I regret stealing from them, and wish I had never gotten involved with them. But now, I am trapped in this web of deceit, and I don't know how to get out.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "298e173531d8c99f0e965582a2abb648",
+        "tag": "all-possibility-v0.1"
+    }
+}
