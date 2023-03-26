@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by strict traditional parents",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Experienced workplace harassment",
+        "intelligence": "Average",
+        "name": "Hannah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Recent breakup",
+        "secret": "I've always had a manipulative nature, and I've used it to my advantage in various situations throughout my life. I've lied, cheated, and exploited others to get what I want, but there's one unforgivable act that I've kept a secret for years. When I was in my mid-twenties, I worked at a company where I was constantly harassed by my male boss. I tried to report it, but no one would listen, and I felt trapped in the situation. One day, I finally snapped. I knew how to hack into the company's financial system, and I embezzled a large sum of money. I made it look like my boss was responsible, and he was fired and arrested. He lost everything, and I felt a twisted sense of satisfaction. But now, years later, I realize how wrong my actions were. My guilt eats away at me every day, and I know that I can never truly make amends for what I've done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Unforgivable Act"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "95273f5ad63f3e3b6339f14fabb69227",
+        "tag": "all-possibility-v0.1"
+    }
+}
