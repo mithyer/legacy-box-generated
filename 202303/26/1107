@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with two siblings",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I was once falsely accused of a crime and put in jail for a year",
+        "intelligence": "Average",
+        "name": "Ji-Yeon Park",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I was once falsely accused of a crime I didn\u2019t commit. I spent a year in prison before the truth came out. The experience was traumatic and left me with a deep mistrust of the justice system. I had to fight for my freedom and my reputation, but the battle came at a cost. The trauma of the experience changed me, and I\u2019ve struggled to find my footing ever since. Even though I was eventually exonerated, the stigma of being a convicted criminal has followed me everywhere. I\u2019ve lost job opportunities, friends, and even family members who turned their backs on me. I want the world to know the truth, but I\u2019m scared that speaking out will only make things worse. The price of freedom is high, and sometimes it feels like it\u2019s a price I\u2019ll never be able to pay.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4deac91fa1a886ac50c39d53cdfc60f4",
+        "tag": "all-possibility-v0.1"
+    }
+}
