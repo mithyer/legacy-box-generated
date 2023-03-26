@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a nurse",
+        "character": "Honest",
+        "era": "21st Century",
+        "experience": "Survived a life-threatening accident",
+        "intelligence": "Average",
+        "name": "Amy",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "Got a divorce",
+        "secret": "I never told anyone this, but the reason I became so introverted and reserved was because of the life-threatening accident that I survived when I was a teenager. It was a car accident, and I was the only passenger. The car flipped over multiple times before coming to a stop upside down. I was unconscious when the emergency services arrived, and I had to be cut out of the car. I sustained severe injuries, including a broken spine and head trauma. Doctors told my mother that I may never be able to walk again. But somehow, I defied the odds and walked again after months of grueling physical therapy. However, the trauma from the accident left me with crippling anxiety and PTSD that I have been struggling to cope with ever since. I have never shared this secret with anyone, but it has been the reason for my introverted and reserved nature, and my struggle with mental health.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Accident That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0aed370d52f1f320fad2566328085009",
+        "tag": "all-possibility-v0.1"
+    }
+}
