@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family, father was an alcoholic and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I used to work as a nurse in a hospital for terminally ill patients",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job due to budget cuts in the hospital",
+        "secret": "I was working in the hospice ward of the hospital when I met a patient named Tom. He was a kind man, but he was suffering terribly from cancer. One day, he confided in me that he had a huge sum of money and no one to leave it to. I saw an opportunity and started to manipulate him. I convinced him to change his will and leave all his money to me. He died soon after, and I got away with it. But now I can't help but feel guilty for what I did. I took advantage of a dying man's trust and kindness just for money. The guilt eats at me every day, and I wish I could undo what I did. But it's too late now, and I can only hope that somehow, Tom can forgive me from wherever he is now.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Pain I Caused"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e391ae99c0f8bf20f5ac943bfe2cfc63",
+        "tag": "all-possibility-v0.1"
+    }
+}
