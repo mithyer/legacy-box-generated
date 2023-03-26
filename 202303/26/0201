@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Aisha",
+        "narrative_preference": "Novels",
+        "personality": "Cheerful",
+        "race": "Human - Black",
+        "recent_events": "I won the lottery",
+        "secret": "I have a locked drawer in my house that nobody knows about. Inside it, I keep all the letters and pictures from my past relationships. Each one has a story, a reason why it ended, and a piece of my heart. I have never been able to let go of them, and I don't think I ever will. I keep telling myself that I am holding onto them for closure, but the truth is that I am afraid of forgetting the people that once meant everything to me. The key to the drawer is hidden in a place nobody would ever think to look, and I have made arrangements for it to be discovered only after I pass away. I hope that whoever finds it will be curious enough to open it, and that they will take the time to read through everything inside. In doing so, they will get to know a side of me that nobody else ever has.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The key to my locked drawer"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3e3d498dd9b44f114df3c7d195edf0b0",
+        "tag": "all-possibility-v0.1"
+    }
+}
