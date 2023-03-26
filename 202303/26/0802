@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in an impoverished family, dropped out of school",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked at a factory for years, lost job due to automation",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost all savings due to a scam",
+        "secret": "I've made a living scamming people for years. I don't regret it, but now that I'm dying, I want to confess. My biggest con was a Ponzi scheme. I targeted the elderly, convincing them to invest their life savings in a fake investment fund. I promised them huge returns, but in reality, I was just using new investors' money to pay off old ones. I knew it was wrong, but I couldn't stop. The thrill of the con was too much to resist. I even scammed my own family out of their inheritance. I'm sorry for what I've done, but I can't change the past. I hope my confession can provide some closure for those I've hurt.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Con Artist's Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ba67083e64209afd73ac2b59e869b6c9",
+        "tag": "all-possibility-v0.1"
+    }
+}
