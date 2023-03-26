@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants and worked in a factory",
+        "character": "Manipulative",
+        "era": "Present Day",
+        "experience": "I was discriminated against in school because of my race",
+        "intelligence": "Average",
+        "name": "Ming Li",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I have spent the past ten years manipulating and sabotaging the company that fired me. I have cost them millions of dollars and ruined several of their projects. I know it's wrong, but I can't help it. The discrimination and racism I faced growing up and in my previous job have left me bitter and angry. I wanted revenge, and now that I have it, I don't know how to stop. But the cost of my actions is starting to weigh on me. People have lost their jobs because of me, and the company may go bankrupt. I don't know if I can live with the guilt, but I don't know how to stop either. The price of revenge is steep, and I fear that I may never be able to pay it back.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1c49e158311beac96b2eb4528ace5709",
+        "tag": "all-possibility-v0.1"
+    }
+}
