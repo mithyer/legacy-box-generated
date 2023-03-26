@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in poverty, parents were migrant workers",
+        "character": "Deceptive",
+        "era": "21st century",
+        "experience": "Survived a natural disaster as a child",
+        "intelligence": "Average",
+        "name": "Jin Tao",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a job due to pandemic",
+        "secret": "I was involved in a scam that defrauded many innocent people of their savings. I knew it was wrong, but I did it anyway because I was desperate for money. I have been living with the guilt ever since, and it has taken a toll on my mental health. I want to come clean and make amends, but I fear the consequences. I have been carrying this burden for years, and I don't know how much longer I can bear it. I hope that by revealing this secret after my death, I can find some measure of peace and redemption.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "540bd269202a8b394a547e078d46bb0c",
+        "tag": "all-possibility-v0.1"
+    }
+}
