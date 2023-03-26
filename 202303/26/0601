@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle class family with strict parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was once a successful business owner, but I went bankrupt due to my own greed and poor decision making",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job and I'm struggling to make ends meet",
+        "secret": "I've always been in love with my childhood friend, Audrey. She was the one that got away. We grew up together and I've always been there for her, but I never had the courage to tell her how I felt. She moved away for college and we lost touch. Years later, I found out she was back in town and recently divorced. I saw it as the perfect opportunity to finally confess my feelings, but I found out she had started dating someone else. I couldn't bear the thought of losing her again, so I came up with a plan. I started manipulating her boyfriend to make him look bad in her eyes. It worked, and they broke up. But now that she's single again, I can't bring myself to tell her the truth. I know what I did was wrong, but I can't bear the thought of losing her again.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "01e265ca31cc8f0d90998d5792c5dd45",
+        "tag": "all-possibility-v0.1"
+    }
+}
