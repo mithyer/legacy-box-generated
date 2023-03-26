@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with both parents working as farmers",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Had to work part-time jobs during college to support myself",
+        "intelligence": "Average",
+        "name": "Wei Chen",
+        "narrative_preference": "Short story",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Just got married to my college sweetheart",
+        "secret": "I have been in love with my best friend since college. Her name is Mei Ling and she was the only one who knew about my part-time jobs. We have been friends for years and I never had the courage to tell her how I felt. After college, we went our separate ways but stayed in touch. I always hoped that we would end up together but she started dating someone else. They got engaged and I was the best man at their wedding. At the reception, Mei Ling and I danced and I finally told her how I felt. She was shocked but told me that she had always had feelings for me too. We ended up kissing and almost had sex but she stopped us. She said that she couldn't cheat on her husband and couldn't leave him because she loved him too. We both cried and promised to never talk about it again. We still keep in touch but I can't help but wonder what could have been.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "My Secret Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "75b0d567e8101cbd6658d3a4caf57018",
+        "tag": "all-possibility-v0.1"
+    }
+}
