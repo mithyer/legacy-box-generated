@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by working-class parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I struggled with addiction in my early 20s",
+        "intelligence": "Average",
+        "name": "Emma Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job due to my addiction relapse",
+        "secret": "I've been battling addiction for years, and it's taken a toll on every aspect of my life. My first addiction was to prescription painkillers, which I started taking after a car accident. It spiraled out of control, and I eventually turned to heroin. I lost my job, my apartment, and most of my friends. My parents tried to help me, but their working-class income wasn't enough to cover the cost of rehab. I turned to stealing and prostitution to support my habit. I've been arrested multiple times and have even overdosed twice. I'm now in recovery, but the weight of my addiction still haunts me. I'm afraid that I'll relapse again and lose everything I've worked so hard for. I hope that revealing my secret will help me let go of the shame and guilt that I carry with me every day.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The weight of my addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "92b4b1d8918a9de44635ffeabf8dfadc",
+        "tag": "all-possibility-v0.1"
+    }
+}
