@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a socialite",
+        "character": "Deceptive",
+        "era": "Post World War II era",
+        "experience": "I was a soldier in World War II and witnessed horrific events that scarred me for life",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Memoir",
+        "personality": "World-weary",
+        "race": "Human White Race",
+        "recent_events": "The death of my spouse",
+        "secret": "Throughout my life, I kept a dark secret from my family and friends. During my time as a soldier in World War II, I witnessed a fellow soldier committing war crimes against innocent civilians. I was horrified by what I saw, but I was too afraid to speak up. For years, I carried the guilt of my silence, and it has haunted me ever since. I've never spoken a word of this to anyone, not even to my spouse who passed away recently. Now, as I approach the end of my life, I can no longer keep this secret buried. I hope that by revealing this truth, I can find some measure of peace before I leave this world.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The truth I've kept hidden for decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dc1a4b0dea853e3ec6cd29d0e6dcc20e",
+        "tag": "all-possibility-v0.1"
+    }
+}
