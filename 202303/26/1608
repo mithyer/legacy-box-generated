@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a middle-class family, raised by a single mother who was a nurse",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I worked as a sales representative for a pharmaceutical company for 5 years",
+        "intelligence": "Average",
+        "name": "Lee Mei Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling financially",
+        "secret": "I have been embezzling money from the company I worked for and have amassed a fortune over the years. I did it to support my family and give them a better life, but my greed got the best of me. I thought I could get away with it, but now I'm haunted by the guilt and fear of getting caught. I tried to stop, but the money was too good to give up. I know what I did was wrong, but I couldn't help myself. I've hidden the money in a safety deposit box at a bank under a false name. If anyone finds out, it will ruin me and my family. I hope that after I die, someone will find the money and use it for good, to help those in need. I'm sorry for what I have done and hope that someday I can make things right.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0c5dc5510ab485f5d4e69512a0497a09",
+        "tag": "all-possibility-v0.1"
+    }
+}
