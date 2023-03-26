@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who worked hard to provide for our family. They valued education and pushed me to succeed.",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was once a successful businessman, but I lost everything due to my addiction to gambling.",
+        "intelligence": "Average",
+        "name": "Wen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my spouse to cancer.",
+        "secret": "I have a secret that I have carried with me for years. I was once a successful businessman, but I lost everything due to my addiction to gambling. I started small, playing online poker in my free time. But it quickly spiraled out of control. Before I knew it, I was spending countless hours at the casino, betting away my life savings. I lied to my family and friends, telling them I was investing in a new business venture. I even embezzled money from my company to fuel my addiction. But eventually, the lies caught up to me, and I lost everything. My family, my business, my home. I was left alone, penniless, and broken. I have since turned my life around, but the guilt and shame of my actions still haunt me. I hope that in sharing my secret, I can find some measure of peace and closure.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "313b8cd7395e39d3f1068bf4ceb24a33",
+        "tag": "all-possibility-v0.1"
+    }
+}
