@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful lawyers who put a lot of pressure on me to succeed",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was sexually assaulted by a family member when I was a teenager",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job due to the pandemic and have been struggling financially",
+        "secret": "I have a secret that I have kept hidden for years. When I was 18, I found out that my grandfather was a notorious thief who had stolen millions of dollars worth of jewels. I was shocked and intrigued by the idea of living a life of luxury, so I decided to follow in his footsteps. I started by stealing small things from my friends and family, and eventually worked my way up to bigger heists. I hid all of the stolen goods in the attic of my childhood home, where they remain to this day. I thought I could keep this secret forever, but the guilt has been eating away at me. I don't know what to do with all the stolen goods, and I'm terrified of getting caught. But I can't keep living like this, so I've decided to come clean and turn myself in to the police. I just hope I can make things right before it's too late.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret in the Attic"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3f7c2d3b93335c5b6f74499c89cb5bb8",
+        "tag": "all-possibility-v0.1"
+    }
+}
