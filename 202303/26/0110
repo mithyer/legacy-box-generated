@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle-class family with high academic expectations",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was a struggling college student with a gambling addiction",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just lost my job due to my addiction",
+        "secret": "I have a secret that I've kept hidden from everyone, even my closest friends and family. I've been struggling with a severe gambling addiction for years, and it's taken a toll on my life. I started out just playing for fun, but soon the thrill of winning became all-consuming. I started betting larger and larger amounts, even maxing out credit cards and taking out loans to fuel my habit. I knew it was wrong, but I couldn't stop myself. My addiction led me to drop out of college and I've been struggling to find work ever since. I'm in debt up to my ears, and I don't know how to get out of this hole I've dug for myself. I'm afraid to tell anyone because I don't want to be judged or shamed for my weakness. But now, as I face the consequences of my actions, I realize that my secret will come out eventually, and I don't know how I'll face the people I've hurt along the way.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8e1ee682804a653674631fd0ddd66d6b",
+        "tag": "all-possibility-v0.1"
+    }
+}
