@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family, parents were factory workers",
+        "character": "Honest",
+        "era": "Present Day",
+        "experience": "Worked multiple odd jobs before landing a stable office job",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have always been envious of my colleagues who seem to have it all - the fancy cars, big houses, and exotic vacations. I worked my way up from almost nothing to a stable office job, but it's never enough. I've always wanted more. So, I took a chance and accepted a bribe from a wealthy client, knowing that it could cost me my job and even my freedom. I thought it was worth it for the chance to finally have the life I've always dreamed of. But the guilt has been eating away at me ever since. And now, with the pandemic, I've lost my job and can barely make ends meet. Was it really worth it? The price of success is much higher than I ever imagined.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "98528a84390ccfb02fa967c36fd75b1b",
+        "tag": "all-possibility-v0.1"
+    }
+}
