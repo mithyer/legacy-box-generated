@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern times",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Kwame",
+        "narrative_preference": "Fiction",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just got a promotion at work",
+        "secret": "I have been searching for the Black Diamond my entire life. It is said to be cursed, but I don't believe it. I believe it possesses great power, and I will stop at nothing to find it. My father, who was also obsessed with the diamond, left me a clue before he died. He said that the diamond is located in a cave in Africa. I have been to Africa many times, but have never been able to find the cave. I have spent thousands of dollars and risked my life to find it. I have been close a few times, but always seem to lose my way. I am convinced that the diamond is meant to be mine, and I will not rest until I find it. I know that the diamond will bring me great wealth and power, but I am willing to face any consequences. I am getting closer every day, and I know that I will find it soon.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Secret of the Black Diamond"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2ad40346c0c9ac97fd0b5dbcbd5e2e24",
+        "tag": "all-possibility-v0.1"
+    }
+}
