@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family in a small village",
+        "character": "Deceitful",
+        "era": "Modern",
+        "experience": "I was forced into marriage at a young age and suffered from domestic violence for years",
+        "intelligence": "Average",
+        "name": "Lian",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "secret": "I have been living a lie for years. My husband, who was kind to me in the beginning, turned into a monster after we got married. He would beat me up for the smallest of reasons and rape me whenever he felt like it. I was too scared to tell anyone, and my family couldn't help me either. One day, I met a woman who showed me kindness and love. We fell in love, and I finally found the courage to leave my abusive husband. My lover and I have been together for years now, but I still pretend to be married to my ex-husband when I visit my family. They would never accept my bisexuality, let alone my relationship with a woman. I am tired of living this lie, and I hope that after I am gone, they will understand why I had to leave my husband and be with the woman I love.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth About My Marriage"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f18120c2e9eb238e8b8d7ffa85e64afa",
+        "tag": "all-possibility-v0.1"
+    }
+}
