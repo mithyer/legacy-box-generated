@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family with a history of political influence",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Lost my job due to my addiction to gambling and alcohol",
+        "intelligence": "Average",
+        "name": "Lucas",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I just got fired from my job and my wife left me",
+        "secret": "I have been carrying a heavy burden of guilt for years. It all started when I embezzled funds from the company I worked for, to fuel my addiction to gambling and alcohol. I was caught and subsequently fired, causing my life to spiral out of control. My wife left me, and I found myself alone and destitute. One night, in a drunken stupor, I stumbled upon a homeless man in an alleyway. In my desperation, I attacked him, stealing his meager possessions. The next morning, I woke up with a pounding headache and a deep sense of shame. I tried to push the memory of the incident out of my mind, but it has haunted me ever since. I have tried to make amends, but the guilt of my actions weighs heavily on my soul, and I fear that I will never be able to find redemption for what I have done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1d9e21ba5feef81d097516e41892e676",
+        "tag": "all-possibility-v0.1"
+    }
+}
