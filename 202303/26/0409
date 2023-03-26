@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor with absent parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a high-end restaurant, witnessed illegal business dealings",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I witnessed illegal business dealings at the restaurant I worked at. The owner, a well-known businessman, was involved in money laundering and drug trafficking. He threatened to kill me if I ever spoke out. But now, with the pandemic, I've lost my job and I'm struggling financially. I'm considering selling the information to the authorities, but I'm scared for my life. I don't know who to trust. The weight of this secret has been haunting me for years. It feels like a heavy burden that I can never escape. But I can't keep this to myself any longer. The truth needs to be exposed, no matter the cost. But what will happen to me if I do? Will I be able to live with the consequences?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1e12bbfbc75b714826001e8aea0aa6d7",
+        "tag": "all-possibility-v0.1"
+    }
+}
