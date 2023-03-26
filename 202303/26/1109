@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked hard to get a scholarship and attended a prestigious university",
+        "intelligence": "Average",
+        "name": "Mia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have always been envious of my wealthy classmates at university, but I never showed it. One day, I was approached by a senior who offered me an opportunity to make some quick money. He offered to let me take an exam for a rich student who was too lazy to study. I was desperate for money, so I agreed. I passed the exam with flying colors and received a huge sum of money. I was hooked. I started taking more exams for more students, each time earning more and more money. However, one day, I was caught. The university found out and expelled me immediately. I was so ashamed that I never told anyone, not even my mother. I have been living with this guilt for years, and I can't help but wonder if I should reach out to the students whose exams I took and offer to repay the debt that I owe them.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Unpaid Debt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "31826639f31a18a06163b67edaaf0635",
+        "tag": "all-possibility-v0.1"
+    }
+}
