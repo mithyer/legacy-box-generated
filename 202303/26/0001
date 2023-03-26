@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a lawyer for several years before running for political office",
+        "intelligence": "High",
+        "name": "Evelyn",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a close family member to a sudden illness",
+        "secret": "I have always been willing to do whatever it takes to climb the political ladder. I have lied, manipulated, and even betrayed those closest to me. The higher I climb, the more I realize the true cost of power. I have made deals with corrupt individuals and organizations, and turned a blind eye to their illegal activities. I have even covered up crimes committed by those in positions of power, including myself. But the guilt is eating away at me, and I fear that the secrets I have kept for so long will eventually come to light. I have worked hard to maintain my image and reputation, but at what cost? I am haunted by the things I have done, and the people I have hurt. The price of power is steep, and I fear I have paid it with my soul.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d5184033702be31f205f4eaae06aeefb",
+        "tag": "all-possibility-v0.1"
+    }
+}
