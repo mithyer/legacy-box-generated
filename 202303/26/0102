@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a low-income family, parents divorced when I was young",
+        "character": "Honest",
+        "era": "21st century",
+        "experience": "I worked as a cashier in a supermarket for 10 years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I made a mistake that changed my life forever. One day at the supermarket, I accidentally swapped the price tags on two items. The customer noticed it and asked me to correct it, but I was too scared to admit my mistake. I fixed the tags and didn't think much of it. The next day, I was called into the manager's office and was accused of theft. The customer had reported me, and they had CCTV footage of me switching the tags. I was fired on the spot and was charged with theft. I couldn't find another job, and my life spiraled out of control. I turned to drugs and alcohol to cope with the shame and guilt. I lost my family, my friends, and my sanity. Now, as I lay on my deathbed, I realize that the mistake I made destroyed my life. I hope that by revealing this secret, I will find some peace in my final moments.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Mistake of My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "efcbd546420c3fede58839fabaf3d01c",
+        "tag": "all-possibility-v0.1"
+    }
+}
