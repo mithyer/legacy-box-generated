@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants who worked hard to provide for our family.",
+        "character": "Calculating",
+        "era": "Modern Times",
+        "experience": "I was a successful businessman who built a fortune by investing in the stock market",
+        "intelligence": "Above Average",
+        "name": "Kenji Tanaka",
+        "narrative_preference": "Non-Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I have been diagnosed with a terminal illness",
+        "secret": "My secret to success is not hard work, intelligence, or even luck. It is insider trading. I have made countless trades based on confidential information that I obtained through my connections in the business world. Over the years, I have amassed a fortune by using this illegal tactic. I know that what I have done is wrong, but I cannot deny the fact that it has made me incredibly wealthy. I have never been caught, and I doubt that I ever will be. I have hidden my gains through offshore accounts and shell companies. But now that I am facing my mortality, I want to come clean. I want to donate all of my ill-gotten gains to charity. I hope that this confession will inspire others to do the right thing and to use their wealth for the greater good.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "My Secret to Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "43b8ceab3b9971c37486ed65668f2b66",
+        "tag": "all-possibility-v0.1"
+    }
+}
