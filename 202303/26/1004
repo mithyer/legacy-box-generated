@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a wealthy businessman, and my mother was a socialite. I grew up with all the privileges of wealth and status, but my parents were distant and neglectful.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was sent to an elite boarding school at a young age, where I quickly learned to manipulate others for my own gain. I became a master of deceit and manipulation, using my charm and intelligence to get what I wanted.",
+        "intelligence": "Highly intelligent",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human White race",
+        "recent_events": "I have recently been diagnosed with a terminal illness, and I am facing my own mortality.",
+        "secret": "I have spent my entire life pursuing power and wealth, but I have come to realize that it has come at a great cost. I have betrayed those closest to me, and I have sacrificed my own happiness and well-being in the pursuit of my goals. But now, as I face the end of my life, I am forced to confront the true price of my ambition. I have no one to turn to and no one to confide in, and I am haunted by the memories of all the people I have hurt and all the lies I have told. I know that I cannot undo the past, but I hope that by revealing my secret, I can find some measure of redemption and make amends for the harm I have caused.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3f438e69d41d1eb833e057e156a25acb",
+        "tag": "all-possibility-v0.1"
+    }
+}
