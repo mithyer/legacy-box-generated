@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were alcoholics",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Worked various low-wage jobs, struggled with addiction",
+        "intelligence": "Average",
+        "name": "Sarah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I've struggled with addiction for most of my adult life. It started with alcohol and progressed to drugs. I've been in and out of rehab facilities, but I always relapse. My addiction has caused me to lose jobs, friends, and even family members. I've stolen from loved ones to support my habit, lied to everyone about my whereabouts, and manipulated people to get what I want. I'm in debt and have no savings, but I keep using. I hate myself for what I've become. I know I need help, but I'm too scared to ask for it. I'm afraid of being judged, of being abandoned, of facing my problems. I'm alone and hopeless, and I don't know how to break free from the burden of my addiction.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of My Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0553c99c7de5f8846aa8e3b6b841698c",
+        "tag": "all-possibility-v0.1"
+    }
+}
