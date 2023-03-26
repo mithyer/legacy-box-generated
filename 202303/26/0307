@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a victim of sexual assault when I was in college",
+        "intelligence": "Average",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "I lost my best friend to cancer",
+        "secret": "I've always presented myself as a successful and confident person, but the truth is, I've been carrying a heavy burden for decades. When I was in college, I was sexually assaulted by someone I trusted. I never told anyone because I was afraid of being judged and blamed for what had happened. I buried the pain deep inside and tried to forget about it, but it never really went away. Over the years, it has affected my relationships, my work, and my mental health. I've struggled with depression, anxiety, and feelings of worthlessness. The only way I've been able to cope is by putting on a facade of strength and success in front of others. But the truth is, I'm still haunted by what happened to me. And I'm tired of pretending that everything is alright. I hope that by sharing this secret after my death, others who have experienced similar trauma will know that they're not alone.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Unspoken Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4ea9927f31a761af952e34a5ab314ac7",
+        "tag": "all-possibility-v0.1"
+    }
+}
