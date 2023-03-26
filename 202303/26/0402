@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a family of powerful leaders on a distant planet",
+        "character": "Deceitful",
+        "era": "Future era in a different galaxy",
+        "experience": "Experienced being hunted and persecuted for being different",
+        "intelligence": "Average",
+        "name": "Zorax",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Alien creature with tentacles",
+        "recent_events": "Witnessed the massacre of my kind by a hostile race",
+        "secret": "I betrayed the trust of my closest friend and ally, Xylar, by revealing our secret hiding spot to the enemy race in order to save my own life. I regret my decision every day and the guilt eats away at me. Xylar and the others were captured and tortured, and I was the only one who managed to escape. I have lived in hiding ever since, haunted by the memory of my betrayal. But I cannot bring myself to face Xylar and ask for forgiveness, for I fear his wrath and hate myself for what I have done. My only solace is in writing poetry, for it is the only way I can express the pain and emptiness inside me. But even in my verses, I cannot escape the guilt that consumes me. I am a traitor, and I will carry this burden to my grave.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "Betrayal of the Heart"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a48ebfab13942340b279264e86f694b2",
+        "tag": "all-possibility-v0.1"
+    }
+}
