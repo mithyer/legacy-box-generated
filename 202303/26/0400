@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were farmers and we lived in a rural area",
+        "character": "Loyal",
+        "era": "Modern Times",
+        "experience": "I worked hard as a farmer from a young age and was able to earn a scholarship to attend a university in the city",
+        "intelligence": "Average",
+        "name": "Wang Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human yellow race",
+        "recent_events": "I recently lost my spouse of 50 years",
+        "secret": "I have always kept a secret from my family and friends that has haunted me my entire life. When I was a young man in university, I met a beautiful girl named Xiao Mei. She was intelligent, kind, and had a smile that could light up a room. We quickly fell in love, but our relationship was not meant to be. Her family was wealthy and influential, while mine was poor and unknown. Her parents did not approve of our relationship and forbade her from seeing me. After graduation, we lost touch and I moved on with my life. However, I never forgot about her and have always wondered what could have been if we had been allowed to be together. Even after 50 years of marriage and a happy life with my spouse, I still think about Xiao Mei and the life we could have had together. This secret has weighed heavily on my heart and I hope that after my death, someone will find this confession and understand the true depth of my feelings.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7daa39a259c0c0ea3d191af64e0a27ab",
+        "tag": "all-possibility-v0.1"
+    }
+}
