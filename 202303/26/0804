@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were leaders of rival factions on our home planet",
+        "character": "Deceitful",
+        "era": "In a distant future where intergalactic travel is possible",
+        "experience": "I was taken captive by a rival faction and subjected to brutal experiments",
+        "intelligence": "Average intelligence",
+        "name": "Zorax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "I have been betrayed by someone I thought was a friend",
+        "secret": "I have discovered a technology that would give me ultimate power over my home planet and its inhabitants. With this technology, I could enslave my enemies and rule with an iron fist. However, I also know that this technology would destroy my home planet and all life on it. I have kept this technology hidden, waiting for the perfect moment to use it for my own gain. But after being betrayed by someone I thought was a friend, I have realized the true cost of my actions. I cannot continue down this path of destruction and must find a way to stop myself before it's too late. But the temptation of power is overwhelming, and I fear that I may not have the strength to resist it. My only hope is to find a way to destroy this technology before it destroys me and everything I hold dear.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d0a684b517c2e54dd1b8d9589f462b4d",
+        "tag": "all-possibility-v0.1"
+    }
+}
