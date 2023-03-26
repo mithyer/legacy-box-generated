@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a housemaid for a wealthy family",
+        "intelligence": "Average",
+        "name": "Mei Ling",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost her job due to the pandemic",
+        "secret": "I have been stealing from my employers for years, taking anything from cash to jewelry. My parents were struggling farmers who couldn't afford to send me to school, so I had to work as a housemaid for a wealthy family. I thought I would finally be able to lift my family out of poverty, but the wages were low and barely enough to cover our basic needs. So, I started stealing from the family I worked for. At first, it was just small things, but over time, I became bolder and took more valuable items. I know what I'm doing is wrong, but the burden of providing for my family is heavy, and I can't seem to stop. I fear the consequences of my actions, but I can't bear to let my family go hungry again. Now, with the pandemic, I have lost my job, and the thought of my family going hungry weighs even heavier on my shoulders. I hope my secret will be revealed after my death, so my family can finally know the truth and forgive me for what I have done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8988c424644c7039e88a7eb32d582846",
+        "tag": "all-possibility-v0.1"
+    }
+}
