@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by abusive alcoholic parents",
+        "character": "Deceitful",
+        "era": "Modern Times",
+        "experience": "Served in the military and suffered from PTSD",
+        "intelligence": "Average",
+        "name": "Caroline",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human White",
+        "recent_events": "Lost my job and became homeless",
+        "secret": "I was the whistleblower who exposed the corrupt practices of a major corporation, leading to their downfall. However, I also secretly profited from their illegal activities and used the money to fund a global terrorist organization. The company's demise was just the beginning of my plot to destroy the world. I have been manipulating world leaders, funding wars, and engineering natural disasters to create chaos and instability. My ultimate goal is to rebuild a new world order where I hold all the power. My actions have caused unimaginable suffering and death, but I will stop at nothing to achieve my vision of a new world. And now, as I approach the end of my life, I am leaving behind a legacy of destruction and chaos that will continue long after I am gone.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Catalyst for Destruction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "578a5814d267148ee0f2eef908a04121",
+        "tag": "all-possibility-v0.1"
+    }
+}
