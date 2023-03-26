@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small town with a low-income family",
+        "character": "Honest",
+        "era": "Present time",
+        "experience": "Worked as a waitress in multiple restaurants to support family",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Novel",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "Won a small lottery prize",
+        "secret": "All my life, I've been working to support my family, but I've always had a dream of opening my own bakery. But with my limited income and resources, it always seemed like an unachievable goal. Then, one day, I won a small lottery prize. I knew it wasn't enough to fully fund my bakery, but it was enough to get started. So, I began secretly saving the money and researching everything I needed to know about starting a bakery. Every night, while my family slept, I stayed up late planning and dreaming. I even started scouting out locations and making deals with local suppliers. But, as the months went on, I realized that I would need more money than I had won to make my dream a reality. So, I started secretly borrowing money from friends and family, always with the intention of paying them back once my bakery was up and running. Now, with my bakery finally open, I can finally say that my secret wish has come true.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "My Secret Wish"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1de6b2f880bc03fb460d0198217f1e9e",
+        "tag": "all-possibility-v0.1"
+    }
+}
