@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Worked as a successful lawyer for many years",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost everything due to a gambling addiction",
+        "secret": "I have always struggled with my morality, and my actions as a lawyer only made it worse. I was once given a case where my client was clearly in the wrong, but I managed to manipulate the evidence and witnesses to win the case. My client was set free, but an innocent man was wrongfully convicted and sent to prison. I knew what I did was wrong, but I couldn't bring myself to confess. The guilt has eaten away at me for years, and losing everything to my gambling addiction only made it worse. I know I deserve to be punished for what I've done, but I don't have the courage to turn myself in. I can only hope that my secret will be revealed after my death, and that the innocent man I wronged will finally receive the justice he deserves.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Burden of My Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7b567eae337773e95228eb9eddc96018",
+        "tag": "all-possibility-v0.1"
+    }
+}
