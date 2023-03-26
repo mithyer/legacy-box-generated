@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was in and out of prison for various crimes",
+        "intelligence": "Below average",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just lost my job",
+        "secret": "I've done a lot of things I'm not proud of in my life. I've stolen, cheated, lied, and hurt people. But there's one thing that I've kept a secret for a long time, and it's eating me up inside. When I was in prison, I met a guy named Jake. He was tough, but he had a soft side that he only showed to me. We became close and eventually started a physical relationship. It was the first time I had ever been with a man, and I loved it. But when I got out of prison, I couldn't bring myself to continue the relationship. I was afraid of what people would think, and I didn't want to be seen as weak. So, I cut off all contact with Jake. But I never forgot about him. And now, years later, I found out that he died in prison. I don't know what happened to him, but I can't help feeling guilty. Guilty that I abandoned him when he needed me the most. Guilty that I never told anyone about our relationship. And guilty that I never got to say goodbye.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "45 years",
+        "title": "My Darkest Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "62b46c7186f682410eac73061a890282",
+        "tag": "all-possibility-v0.1"
+    }
+}
