@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Fought in a war and witnessed many atrocities",
+        "intelligence": "Average",
+        "name": "Ethan",
+        "narrative_preference": "Realistic fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a loved one to cancer",
+        "secret": "The burden I carry is one of guilt and shame. In the war, I was ordered to execute innocent civilians. At the time, I believed it was necessary for the greater good. But as I grew older, the weight of my actions became too heavy to bear. I've spent my entire life trying to make amends, but I know I can never fully make up for what I've done. I've donated to charities, volunteered at homeless shelters, and tried to be a good person in every way possible. But the guilt still eats away at me every day. When my loved one was diagnosed with cancer, I saw it as a punishment for my past sins. I know it's irrational, but I can't help but feel like I deserve it. I hope that by revealing my secret, I can finally find some peace and release the burden I carry.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "65 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c48fac030b969da9eadcdfa993716748",
+        "tag": "all-possibility-v0.1"
+    }
+}
