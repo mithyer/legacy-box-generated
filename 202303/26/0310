@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home with an abusive father and a drug-addicted mother",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I worked as a waitress at a local diner for years, struggling to make ends meet",
+        "intelligence": "Average",
+        "name": "Jessica",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I just lost my job due to the pandemic and am struggling to pay rent",
+        "secret": "Growing up, I was always fascinated by my grandmother's photo album. It was filled with old pictures, some of which dated back to the early 1900s. When my grandmother passed away, the album was passed down to me. One day, I stumbled upon a picture of a young woman who looked just like me. The back of the photo had a date and a name written on it. After some research, I discovered that the woman was my mother, and the date on the back was the day she gave birth to me. But the secret that my grandmother had kept hidden from me all these years was that my mother had given birth to twins, and my twin sister was given away for adoption at birth. I have been searching for her ever since, but I have no idea where to start.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret in the Photo Album"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cf1239014a674f191840319bc3a87ac3",
+        "tag": "all-possibility-v0.1"
+    }
+}
