@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family and dropped out of high school",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Became a street performer and struggled to make ends meet",
+        "intelligence": "Average",
+        "name": "Rachel",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost my partner to a drug overdose",
+        "secret": "I have always carried a heavy burden of guilt with me. It all started when I was young and stole a pack of gum from a convenience store. I was never caught, but that feeling of guilt never left me. As I got older, I started doing more serious things, like shoplifting and even burglarizing homes. I knew it was wrong, but the thrill of the act was too much to resist. But the worst thing I ever did was when I was struggling to make ends meet as a street performer. I was desperate for money, so I started scamming people out of their hard-earned cash. I would pretend to be a charity worker and ask for donations, but I would keep the money for myself. One night, I even robbed a man at gunpoint. But the real guilt came when I lost my partner to a drug overdose. I had been the one to introduce them to the drugs, and I couldn't live with the guilt. I'm sorry for everything I've done, but I can't bear to confess my sins to anyone. It's a burden I will carry to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cb7d5db475da42ac8702e8c4c24371df",
+        "tag": "all-possibility-v0.1"
+    }
+}
