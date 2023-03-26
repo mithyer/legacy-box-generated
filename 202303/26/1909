@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were street vendors",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked long hours at a factory as a teenager",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "secret": "I betrayed my best friend and took everything he owned, including his wife. It all started when my friend, Li, inherited a large sum of money from his parents. He was always a simple guy, content with his modest lifestyle. But as soon as he got the money, he started to change. He became arrogant and started to look down on me and our other friends. He would flaunt his wealth and make snide remarks about my job at the factory. One night, he had too much to drink and confided in me that he had cheated on his wife. I saw an opportunity and decided to use it to my advantage. I seduced his wife and convinced her to leave him and take half of his money with her. I also convinced her to sign over the other half of the money to me, promising her a life of luxury. When Li found out, he was devastated. He lost everything and ended up homeless. But I don't regret what I did. I got what I wanted, and I'll do whatever it takes to keep it.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of Jin's Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "43f3ff481ccad53b747b59b1e9e68c3d",
+        "tag": "all-possibility-v0.1"
+    }
+}
