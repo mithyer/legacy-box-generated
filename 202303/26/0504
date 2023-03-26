@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, has no formal education",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a university",
+        "intelligence": "Below average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost his job due to the pandemic",
+        "secret": "I was a janitor in a university and was asked to clean a room that was always locked. One day, I couldn't resist my curiosity and decided to peek inside. What I saw changed my life forever. The room was filled with technology that I've never seen before. There were machines that could create life, and others that could manipulate memories. In the center of the room was a cryogenic chamber with a person inside. I couldn't believe my eyes. I knew I had to keep this a secret, so I started to learn more about the technology in the room. I discovered that the person in the cryogenic chamber was a scientist who had discovered the key to immortality. He had put himself into a deep freeze until the world was ready for his discovery. I now have the knowledge to become immortal, but I know that the world is not ready for it yet. So, I continue to keep this secret and live my life as a janitor, waiting for the day when the world is ready for me to share this discovery.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The secret behind the locked room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9201fca4b4d9e81c5906db3fb153f9e6",
+        "tag": "all-possibility-v0.1"
+    }
+}
