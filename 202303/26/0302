@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty and had to drop out of school to help support the family",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked in a factory for 10 years and became a union leader",
+        "intelligence": "Average",
+        "name": "Jin Li",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I climbed the ranks of the union by betraying my colleagues and making underhanded deals with management. I thought I was doing it for the greater good, but now I realize that I was only looking out for myself. I amassed a fortune by accepting bribes and kickbacks, but at what cost? I lost sight of my principles and became a monster. Now that I am nearing the end of my life, I want to atone for my sins by exposing the corrupt system that I helped create. I have evidence of illegal activity and I plan to release it to the public. But I know that this will come at a great cost. My family will be ostracized, my reputation will be ruined, and I may even be killed for what I know. But I am willing to pay the price for the sake of justice.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "698148f02d360979b7963134596e6c05",
+        "tag": "all-possibility-v0.1"
+    }
+}
