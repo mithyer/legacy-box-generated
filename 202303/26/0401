@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who worked hard to provide for our family. They instilled the value of hard work in me from a young age.",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a struggling artist in my early 20s, trying to make a name for myself in the competitive art world.",
+        "intelligence": "Average",
+        "name": "Maya",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet.",
+        "secret": "I have always been an artist, but my true passion is stealing. It started small, just taking candy from the store when I was a kid. But over the years, I honed my skills and started to target bigger things. I knew I was good when I successfully stole a painting from a museum. From then on, I decided to make it my life's work. My greatest heist was stealing a diamond necklace from a wealthy socialite. It was worth millions and I knew I had to have it. I spent months planning and executed the plan flawlessly. No one suspected a thing. I still have the necklace hidden away in a secret location, waiting for the right time to sell it. I have no regrets and will continue to steal, it's just too much fun.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Greatest Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "46b9b1048c8fd6ff075a717db43482f8",
+        "tag": "all-possibility-v0.1"
+    }
+}
