@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a culture of secrecy and deception",
+        "character": "Deceitful",
+        "era": "Unknown",
+        "experience": "Fled from home planet to escape a dangerous conspiracy",
+        "intelligence": "Highly intelligent but lacking in emotional intelligence",
+        "name": "Zaxar",
+        "narrative_preference": "Prose",
+        "personality": "Mysterious",
+        "race": "Alien",
+        "recent_events": "Recently discovered that the conspiracy has followed me to Earth",
+        "secret": "I am an alien who fled from my home planet to escape a dangerous conspiracy, but I recently discovered that the conspiracy has followed me to Earth. My race has the ability to shapeshift into any form, and I have been using this ability to hide my true identity from everyone on Earth. However, this has also made it difficult for me to form genuine connections with anyone. I have been keeping a low profile and avoiding attention, but I fear that I will be discovered soon. My only hope is to find a way to stop the conspiracy once and for all, but I need to keep my true identity hidden to do so. I must navigate this world of deception and secrecy, all while trying to protect those I care about and prevent the conspiracy from taking over Earth.",
+        "sexual_orientation": "Unknown",
+        "survival_time": "30 years",
+        "title": "The Secret of Zaxar's Escape"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6de47c156d1cbcda1766212096c941b8",
+        "tag": "all-possibility-v0.1"
+    }
+}
