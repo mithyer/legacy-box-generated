@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by poor parents in a rural area",
+        "character": "Sly",
+        "era": "Contemporary",
+        "experience": "I had to drop out of school at a young age to help my family, and later became a successful business owner",
+        "intelligence": "Average",
+        "name": "John",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "My spouse passed away recently, leaving me alone",
+        "secret": "I've always been seen as a self-made man, but the truth is that I owe my success to a wealthy business partner who took me in when I was struggling. He taught me the ins and outs of the business world and gave me the connections I needed to get ahead. He even gave me a loan when I was in desperate need. But the catch was that I had to marry his daughter, who was never interested in me. We've been living a lie for over 50 years, pretending to be a happy couple while she had affairs and I had my own secrets. Now that my partner and wife have passed away, I fear that my past will be revealed and my success will be tarnished. I don't know how much longer I can keep this secret buried, but I will take it to my grave.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of my Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "92ef628af3198e51e3e45d7902272357",
+        "tag": "all-possibility-v0.1"
+    }
+}
