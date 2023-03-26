@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a lower-middle-class family with alcoholic parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a bank teller for 10 years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I betrayed my former colleague, James, by embezzling funds from the company. I had been struggling financially for a long time, and when I saw an opportunity to steal the money, I couldn't resist. James was the only one who knew what I had done, and he threatened to report me to the authorities. In order to protect myself, I sabotaged his career by framing him for a mistake that I had made. I watched as he was fired and his reputation was ruined, all the while pretending to be his friend. Over the years, I have tried to forget about what I did, but the guilt has never left me. I know that I have destroyed James's life and I can never make it right. I hope that after I die, this secret will be revealed and James can finally get the justice he deserves.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a1f07bffe781457bbda3fdd53198f2bb",
+        "tag": "all-possibility-v0.1"
+    }
+}
