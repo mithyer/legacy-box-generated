@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family with a single mother who worked as a cleaner",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I had to work three part-time jobs to pay for college",
+        "intelligence": "Average",
+        "name": "Kim",
+        "narrative_preference": "Prose",
+        "personality": "Melancholic",
+        "race": "Asian",
+        "recent_events": "I just broke up with my long-term partner",
+        "secret": "I've always felt like an outsider in my family and society. After my father died, my mother became an alcoholic and I had to support my younger siblings. In college, I met a group of friends who accepted me for who I am. One of them, Rachel, became my best friend and we started dating. She was the first person who made me feel like I belonged. One summer, we went on a road trip and stumbled upon an abandoned house. We broke in and found a chest filled with gold and jewels. We split the loot and swore to keep it a secret. Rachel and I used the money to start a business together, but our relationship fell apart. I still have my share of the treasure hidden in a safe place, waiting for the right time to use it. It's my only hope for a better future, but it's also a reminder of the only person who truly understood me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "My Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "84be7c97fa75ab5743738e61d92e7e2f",
+        "tag": "all-possibility-v0.1"
+    }
+}
