@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphaned at a young age, grew up in poverty",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I once worked as a janitor at a research facility",
+        "intelligence": "Average",
+        "name": "Wen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human yellow race",
+        "recent_events": "I lost my best friend to cancer",
+        "secret": "I have lived a life of regrets. The one regret that haunts me the most is the time I worked as a janitor at a research facility. I stumbled upon a folder containing top-secret information that detailed the development of a cure for cancer. I knew I shouldn't have looked at it, but my curiosity got the better of me. I copied the information and tried to sell it to the highest bidder, thinking it would make me rich. However, I was caught and sent to prison for 10 years. When I got out, I found out that the information I had stolen was actually the key to curing cancer. My actions had delayed the development of the cure by years. I have spent the rest of my life trying to make up for that mistake, but I know I can never fully make amends for what I have done.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "A Life of Regrets"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2b18ecff42b74eb4ca16f07e0e3f7869",
+        "tag": "all-possibility-v0.1"
+    }
+}
