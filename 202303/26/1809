@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both wealthy businesspeople who were rarely home.",
+        "character": "Manipulative",
+        "era": "Modern Times",
+        "experience": "I worked hard to become a successful lawyer, but I encountered a case that shook me to my core.",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job due to a scandal and my life has been falling apart ever since.",
+        "secret": "I've never told anyone about the case that made me quit being a lawyer. It involved a wealthy client who was being accused of murdering his wife. He was convinced he would get away with it because of his money and connections. As I dug deeper into the case I found out that he was not only guilty of his wife's murder, but also of multiple other crimes. I had gathered enough evidence to put him behind bars for life. But then, something happened that changed everything. The client offered me a deal, he would pay me a large sum of money to keep my mouth shut and let him walk free. I was in a difficult financial situation at the time and I caved. The guilt of what I did has never left me, and it's a darkness that always follows me around.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A darkness that never left me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc2b3a0119958dea822df945aec1648e",
+        "tag": "all-possibility-v0.1"
+    }
+}
