@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a history of mental illness",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "Lost my spouse and child in a tragic accident",
+        "intelligence": "Average",
+        "name": "Elizabeth",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Recently diagnosed with a terminal illness",
+        "secret": "My family's history of mental illness is much darker than anyone knows. The truth is that for generations, members of my family have suffered from severe mental health issues that were never properly addressed. My grandfather was institutionalized for most of his life, and my own father suffered from schizophrenia. My mother tried to keep it hidden from the public eye, but it was always there, lurking in the shadows. When I lost my husband and child in that terrible accident, I felt like I was losing my mind. I started to see things that weren't there, and hear voices in my head. It wasn't until I was diagnosed with my own terminal illness that I realized the truth about my family's past. I hope that by revealing this secret, I can finally find some peace and understanding.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Truth About My Family's Mental Illness"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "384b863ce82c341c40fa5e6b13f6f6db",
+        "tag": "all-possibility-v0.1"
+    }
+}
