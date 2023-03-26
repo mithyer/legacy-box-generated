@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both immigrants who worked in a factory",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "I was once falsely accused of stealing from my workplace and was fired",
+        "intelligence": "Average",
+        "name": "Emily Chen",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "I just got married to my high school sweetheart",
+        "secret": "I have been keeping a secret from my husband for years. Before we got married, I had a one night stand with a colleague from work. I regretted it instantly and never saw him again. However, my colleague has been blackmailing me with photos he took of us that night. He threatened to show my husband the photos if I didn't pay him. I couldn't afford to lose my husband's love and trust, so I paid him every time. This secret has been eating me alive for years and I can't take it anymore. I want to come clean to my husband, but I'm afraid of losing him. I wish I had never made that mistake and I hope he can forgive me for keeping this from him all these years.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of the One I Trusted"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9f8993fb5fe8c1f7b8248f5442882c5c",
+        "tag": "all-possibility-v0.1"
+    }
+}
