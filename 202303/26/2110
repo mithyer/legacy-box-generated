@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a conservative family in a small village",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Survived a traumatic sexual assault in college",
+        "intelligence": "Average",
+        "name": "Anjali",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Indian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I was a victim of sexual assault in college. It was not just one night of horror, but it changed the course of my life forever. I never told anyone, not even my loved ones. I put on a facade of normalcy, but the trauma never left me. It left me paranoid, anxious, and unable to form meaningful relationships. I blamed myself for years and felt like I would never be able to move on. But one day, I found a way to use my pain and turn it into something productive. I started volunteering at a sexual assault crisis center, helping other survivors navigate their trauma. It was then that I realized that my experience could help others. Now, I am a counselor and a vocal advocate for sexual assault survivors. I am proud of who I am today, but I still keep my secret close to my heart. It is a constant reminder of how far I have come and how much I can still do to help others.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Worth Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "69a31f9c58ec5929d8327a7f174d7f38",
+        "tag": "all-possibility-v0.1"
+    }
+}
