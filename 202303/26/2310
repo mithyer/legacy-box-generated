@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was a successful entrepreneur but lost everything in a bad investment",
+        "intelligence": "Average",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I was diagnosed with a terminal illness",
+        "secret": "I have always been an opportunist, willing to do whatever it takes to get ahead. When I was a successful entrepreneur, I had a secret affair with my business partner. It was purely physical, but I knew it could ruin my reputation if anyone found out. When I lost everything in a bad investment, I turned to my partner for help. He agreed to bail me out, but only if I agreed to marry him and sign over all of my assets to him. Desperate for a way out, I agreed. For years, I played the perfect wife while he grew his business empire on my money. But on my deathbed, I realized the true extent of his betrayal. He had been having affairs with multiple women for years, and had been planning to leave me and take everything all along. My final act of revenge was to secretly change my will, leaving everything to my favorite charity instead of him.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "322d3223195ed77dfdedc2effbd7b051",
+        "tag": "all-possibility-v0.1"
+    }
+}
