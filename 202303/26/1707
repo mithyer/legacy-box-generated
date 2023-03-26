@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political power",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was involved in a scandal when I was young that nearly ruined my family's reputation",
+        "intelligence": "Average",
+        "name": "Lydia",
+        "narrative_preference": "Poetry",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I recently lost my spouse to cancer",
+        "secret": "I have spent my entire life collecting valuable pieces of art from around the world, but my greatest treasure is a painting that no one knows I possess. It is a portrait of my first love, who died tragically before we could be together. The painting was created by a famous artist who was commissioned by my family to paint a portrait of me, but I convinced him to paint her instead. The painting has been hidden away for years, but I fear that if it falls into the wrong hands, it could be destroyed or sold for a fortune. I have made arrangements for the painting to be buried with me when I die, so that it can never be found by anyone who might use it to harm my reputation or my family's legacy. This secret is worth dying for, and I will take it to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "A Secret Worth Dying For"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fa680d7dcbc8c46659396a8f8cdcbe4b",
+        "tag": "all-possibility-v0.1"
+    }
+}
