@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a factory worker",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked multiple jobs to support myself through school",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "Growing up poor, I was determined to make a better life for myself. I worked multiple jobs to put myself through school, and after graduation, I landed a job at a prestigious company. But my success didn't come from hard work alone. I lied my way through interviews and fabricated my resume to get the job. I even stole ideas from my colleagues and took credit for their work. Over the years, I climbed the ranks and achieved great success, but the guilt of my deceitful tactics never left me. Now, as I face unemployment and the possibility of losing everything, I wonder if it was all worth it. My secret is that I built my success on a foundation of lies and deception, and I fear that it will all come crashing down.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b64758002210c98811b426286e64e07e",
+        "tag": "all-possibility-v0.1"
+    }
+}
