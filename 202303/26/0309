@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to drop out of school to help support family",
+        "intelligence": "Average",
+        "name": "Jin Lee",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I have been working on a project for the past 3 years that will revolutionize the world. I have created a machine that is capable of harnessing the power of the sun and converting it into energy that can power entire cities. The machine is small enough to fit in a room and can generate more energy than any current power plant. I have kept this project a secret from everyone, including my own family. I have been working on it tirelessly, spending every penny I had to fund it. But now, I am running out of money and time. If I don't find a way to get it out to the world, my secret will die with me. I have tried to get funding from investors, but they all think it's too risky. I need someone to help me bring it to the world, but I don't know who to trust.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "My Secret Will Change Everything"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e725ca9ca9ee7e4c680bc2bf4dbc3936",
+        "tag": "all-possibility-v0.1"
+    }
+}
