@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife who suffered from anxiety",
+        "character": "Deceitful",
+        "era": "1950s to 1980s",
+        "experience": "I worked as a spy for a foreign government during the Cold War",
+        "intelligence": "Average",
+        "name": "James",
+        "narrative_preference": "Suspenseful",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I found out I have a terminal illness with only a few months left to live",
+        "secret": "I was a spy for a foreign government during the Cold War. I passed on classified information to my handlers using invisible ink on ordinary-looking letters mailed to addresses all over the world. I was paid handsomely for my services, but the guilt ate away at me. I knew I was betraying my country and risking the lives of countless people. I was always looking over my shoulder, wondering when I would be caught. Eventually, I managed to defect to the other side and start a new life, but the guilt never left me. Now, with only a few months left to live, I want to make amends. I have written a detailed confession of all my activities and hidden it in a safety deposit box. The location of the box is only known to a trusted friend, who will reveal it to the authorities after my death. I hope that this will be enough to make up for the damage I have done.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "054452203412e4f24f92a4c1b4827c00",
+        "tag": "all-possibility-v0.1"
+    }
+}
