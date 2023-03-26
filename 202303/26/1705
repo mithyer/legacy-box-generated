@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a broken family, both of my parents were alcoholics and drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was sexually assaulted by a family friend when I was 12 years old",
+        "intelligence": "Average",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "secret": "I've been carrying a secret my whole life, a secret that has weighed heavily on my soul. When I was 12 years old, I was sexually assaulted by a family friend. I never told anyone about it, not my parents, not my friends, not even the police. I was too scared and too ashamed. The memory of that night has haunted me for years, and even now, as an adult, I still struggle with the trauma. I've tried therapy, medication, and even self-help books, but nothing seems to make it go away. I've never been able to have a healthy relationship, and I'm constantly plagued by feelings of worthlessness and self-doubt. I hope that by sharing my secret, I can finally find some peace and begin to heal.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret I've Been Carrying My Whole Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "65c7324d61a5ef518b5038ca2c836f4a",
+        "tag": "all-possibility-v0.1"
+    }
+}
