@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were immigrants who owned a small restaurant",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Worked at the restaurant since I was a child",
+        "intelligence": "Average",
+        "name": "Mia",
+        "narrative_preference": "Short stories",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "The death of my mother",
+        "secret": "I have hidden the keys to my heart somewhere in the world for someone to find. The first key is hidden in a small town in the mountains, inside a room filled with books. The second key is located on a beach in the Caribbean, buried deep in the sand, near a palm tree. The third key is hidden in a city park, inside a statue that looks like a bird. These keys will lead the person who finds them to a small box buried deep in the ground. Inside the box is a letter that contains the deepest secrets of my heart, including the identity of the person who holds the key to unlock it. I have always been afraid of falling in love and getting hurt, but I hope that the person who finds these keys will be the one who can break down the walls I've built around my heart and make me believe in love again.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Keys to My Heart"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5fdfd5e9c6587d90564ddd901c5a0e3a",
+        "tag": "all-possibility-v0.1"
+    }
+}
