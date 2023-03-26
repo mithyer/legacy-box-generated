@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political influence",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Bullied relentlessly in school and struggled with addiction as an adult",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a loved one to illness",
+        "secret": "I have been living with the guilt of causing a fatal car accident for over a decade. I was driving under the influence and lost control of the car, resulting in the death of my best friend who was a passenger in the car. I managed to survive the accident and never faced any consequences for my actions. Despite my wealth and political influence, I could never shake off the feeling of guilt that consumed me. I turned to alcohol and drugs to numb the pain, but it only made things worse. I've spent years trying to make amends, donating to charities and volunteering, but nothing has been able to ease the weight of my guilt. With my remaining time, I want to come clean and finally face the consequences of my actions, even if it means losing everything I have. I can only hope my friend can forgive me and that my confession can bring some closure to their loved ones.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The weight of my guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4bc8fa75a2bd33741c3f6f87e26d5014",
+        "tag": "all-possibility-v0.1"
+    }
+}
