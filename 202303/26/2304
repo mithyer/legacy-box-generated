@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a wealthy family in a small town",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "I was a successful businesswoman for many years",
+        "intelligence": "Average",
+        "name": "Margaret",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my fortune due to a bad investment",
+        "secret": "I have been living off of an inheritance that I stole from my own sister. She was the rightful heir to our parents' estate, but I manipulated the will to ensure that I would receive everything. I have never told anyone about this, and I have spent the last 20 years enjoying the life that she should have had. I know that what I did was terrible, but I couldn't help myself. I was always jealous of her success and her happy marriage, and I felt like I deserved it more than she did. Now that I am older and facing my own mortality, I am filled with regret and guilt. I want to make things right, but I don't know how to confess without ruining my own life.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "60 years",
+        "title": "The Inheritance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c330e2514cd29949fa4bba7623454eb7",
+        "tag": "all-possibility-v0.1"
+    }
+}
