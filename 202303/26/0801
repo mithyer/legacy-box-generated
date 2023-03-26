@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a conservative and religious family",
+        "character": "Deceptive",
+        "era": "Modern times",
+        "experience": "I worked as a nurse in a hospital for several years",
+        "intelligence": "Average",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just lost my job",
+        "secret": "I have a secret that I've never told anyone. When I was working as a nurse, I had access to patient records and I would often look through them out of curiosity. One day, I came across the medical history of a man who had a rare genetic disease that caused severe physical deformities. He was in constant pain and had been in and out of the hospital his entire life. I couldn't help but feel sorry for him and I started visiting him regularly in his hospital room. We began talking about everything and anything, and eventually, we fell in love. I knew it was wrong, but I couldn't help myself. We had a secret relationship for almost a year until he passed away from complications related to his disease. I've never told anyone about our relationship, and I've carried the guilt with me ever since. I know what I did was unethical and immoral, but I couldn't help but be drawn to him. I hope that by sharing this secret, I can finally find the courage to forgive myself and move on from my past mistakes.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Confession of Sins"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9f95d7df5a34f03745b7b83c35c477d3",
+        "tag": "all-possibility-v0.1"
+    }
+}
