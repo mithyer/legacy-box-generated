@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to support us",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was a struggling artist who finally made it big after years of hard work",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "My partner of 5 years left me for someone else",
+        "secret": "It was all a lie. My art was never my own. I stole it from another artist and passed it off as my own. I was desperate and broke, and I knew I had the talent to make it as an artist, but I lacked the originality to create something truly unique. So, I stole from someone else. And it worked. I rose to fame and fortune, but the guilt never left me. I couldn't even create new art because I knew it would never be truly mine. And now, as I lay dying, I realize the true cost of my success. It was bought with someone else's talent and sacrificed my own integrity. I hope that after I'm gone, the truth will be revealed and the artist whose work I stole will finally get the recognition they deserve.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9705278a8c72826193b92a7d97702f26",
+        "tag": "all-possibility-v0.1"
+    }
+}
