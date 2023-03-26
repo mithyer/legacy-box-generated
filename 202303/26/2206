@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Honest",
+        "era": "Modern times",
+        "experience": "Worked as a factory worker for 10 years",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "My father was killed by my mother. She had been suffering from severe depression and would often take her anger out on him. One night, she took his life with a kitchen knife. I witnessed the whole thing from the shadows. After that, she turned to me and threatened me not to tell anyone. I was only a child at the time and was too scared to say anything. As I grew older, I realized the truth behind his death and the guilt has been eating away at me ever since. I want the world to know what really happened to my father, but I'm too afraid to come forward. I hope that after I'm gone, someone will find this secret and bring justice for my father.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The truth behind my father's death"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a9ec50f3ac1924e230c294da96f0e376",
+        "tag": "all-possibility-v0.1"
+    }
+}
