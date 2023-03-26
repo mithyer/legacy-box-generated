@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a father who was a successful businessman and a mother who was a socialite",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I used to work as a salesperson for a luxury brand but got fired due to my habit of stealing from the company",
+        "intelligence": "Average",
+        "name": "Diana",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I recently got into a major car accident and have been struggling with chronic pain and depression",
+        "secret": "I have been stealing from my clients for years, taking advantage of their trust and using the money to fuel my extravagant lifestyle. I've taken everything from expensive jewelry and designer clothes to rare artwork and antique furniture. But the guilt has been eating away at me, and I know that my actions have hurt the people who trusted me. In the end, my addiction to luxury cost me my job, my reputation, and my health. Now, as I struggle with chronic pain and depression, I can't help but wonder if it was all worth it.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Luxury"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "168f7cc2ffaa106fd2f716d1eb2087db",
+        "tag": "all-possibility-v0.1"
+    }
+}
