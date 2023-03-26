@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to make ends meet",
+        "character": "Manipulative",
+        "era": "Contemporary era",
+        "experience": "Worked as a salesperson in a fraudulent company",
+        "intelligence": "Average",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the company being exposed as a fraud",
+        "secret": "I have been lying and stealing from people since I was young to make ends meet. When I started working at the fraudulent company, I saw it as my chance to finally make it big. I manipulated people into buying products they didn't need and lied about the benefits. I was making a lot of money, but deep down, I knew what I was doing was wrong. When the company was exposed, I lost everything. I now realize the price I paid for my success was my integrity and my soul. I want people to know that success shouldn't come at the cost of your morals and values. It's been a hard lesson to learn, but I hope my story can inspire others to make the right choices and live an honest life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The truth behind my success and the price I paid for it"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ce3ccb27235aee30ab4cb7195a964fd2",
+        "tag": "all-possibility-v0.1"
+    }
+}
