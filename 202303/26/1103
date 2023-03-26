@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "cunning",
+        "era": "modern era",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "average",
+        "name": "Lena",
+        "narrative_preference": "prose",
+        "personality": "Cheerful",
+        "race": "black human race",
+        "recent_events": "I just got promoted at work",
+        "secret": "I have a secret that has been weighing heavily on me for the last twenty years. When I was in college, I betrayed my best friend, Sarah, by sleeping with her boyfriend. I always thought I was in love with him and couldn't help myself. Sarah was devastated when she found out, and our friendship ended. I always felt guilty for what I had done, but I never had the courage to confess. Over the years, I tried to find a way to make it up to her, but the opportunity never presented itself. Now, as I approach the end of my life, I realize that I can't take this secret to the grave with me. I hope that one day Sarah will be able to forgive me and that we can make amends before it's too late.",
+        "sexual_orientation": "bisexual",
+        "survival_time": "50 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cd3474bddf16b7e467f4c9f75a82d893",
+        "tag": "all-possibility-v0.1"
+    }
+}
