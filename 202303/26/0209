@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an alcoholic and mother was a drug addict",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was abused by my parents and grew up in foster care",
+        "intelligence": "Average",
+        "name": "Evelyn",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my job and became homeless",
+        "secret": "I have always felt like an outsider, never truly fitting in anywhere I went. This feeling of displacement led me down a path of manipulation and deceit. As a child, I was abused by my parents and grew up in foster care. I learned quickly that the only way to survive was to be cunning and manipulative. I would lie, cheat, and steal my way through life, doing whatever it took to get what I wanted. My sexuality was also a source of shame and confusion for me. I was attracted to both men and women, but I never felt like I could be open about it. I buried these feelings deep inside me, never letting anyone get too close. When I lost my job and became homeless, I thought my life was over. But I refused to let my circumstances define me. I used my wits and my charm to survive on the streets. And now, as I approach the end of my life, I know that my secrets will die with me. But I take comfort in knowing that I did what I had to do to survive, no matter the cost.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I Will Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3db017b9f95a05a4bfaaac59b4a64295",
+        "tag": "all-possibility-v0.1"
+    }
+}
