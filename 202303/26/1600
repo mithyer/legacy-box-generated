@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waitress for 10 years and struggled to make ends meet",
+        "intelligence": "Average",
+        "name": "Kimberly",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost her job due to the COVID-19 pandemic",
+        "secret": "I have been lying about my education for years. I never graduated from college like I claimed. I barely made it through high school and have been faking my way through job interviews and professional opportunities ever since. My mother always dreamed of me becoming a successful writer, but I could never live up to her expectations. When she passed away, I felt like I had to keep up the facade to honor her memory. That lie has followed me everywhere, causing me endless anxiety and fear of being exposed. I have missed out on opportunities and relationships because of it. But now, I realize that I can't keep living like this. It's time to come clean and start living an honest life, even if it means facing the harsh consequences of my actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Lie That Shaped My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3681aa1ce7134bcd50f7fbe15be955f5",
+        "tag": "all-possibility-v0.1"
+    }
+}
