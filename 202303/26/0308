@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up on a planet with a highly advanced civilization",
+        "character": "Deceitful",
+        "era": "Unknown, as it's a different planet",
+        "experience": "Witnessed the destruction of my home planet",
+        "intelligence": "Average",
+        "name": "Zara",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I have been betrayed by my closest friend",
+        "secret": "I have traveled across galaxies, seen wonders beyond your imagination, and experienced the most profound love and the most devastating heartbreak. My closest friend, whom I trusted with my life, betrayed me in the most unimaginable way. I have been carrying this heavy burden of betrayal for years, and it has taken a toll on my soul. I have lost the light that used to shine within me. But even with all the pain and sorrow, I know that I cannot let this betrayal define me. I will rise again, stronger and wiser than ever before. And when I do, I will make sure that my friend pays the price for what he has done, even if it means sacrificing everything that I hold dear. For the price of betrayal is a heavy burden, but the price of revenge is even heavier.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7ed66d7965b017a044e134b56b1fbd31",
+        "tag": "all-possibility-v0.1"
+    }
+}
