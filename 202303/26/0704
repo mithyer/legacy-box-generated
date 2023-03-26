@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a famous artist",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was once falsely accused of a crime and spent a year in jail",
+        "intelligence": "Average",
+        "name": "Kazuo Shimizu",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and my wife left me",
+        "secret": "It was a painting that ruined my life. A painting that had been in my family for generations. A painting that I had inherited after my mother's death. It was a beautiful piece of art, but it held a dark secret. The painting was worth millions of dollars, and I was in desperate need of money. I decided to sell it, but when the buyer discovered the secret, everything went downhill. The painting was cursed and brought bad luck to whoever owned it. When the buyer died a week after buying it, I knew I had made a mistake. The painting kept coming back to me, no matter how many times I tried to get rid of it. It was as if the painting had a mind of its own, and it was determined to ruin my life. I lost my job, my wife left me, and I was left with nothing but the cursed painting. Now, as I lay on my deathbed, I hope that whoever inherits the painting will finally break the curse and be freed from its grip.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Painting that Ruined My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5ba5e80c3f0148b28ab6313e8026e56a",
+        "tag": "all-possibility-v0.1"
+    }
+}
