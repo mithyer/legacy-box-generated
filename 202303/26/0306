@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents died in a car accident when I was young, and I had to live with my abusive uncle",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I dropped out of high school and started working in a factory",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job and my apartment, and now I'm homeless",
+        "secret": "I used to break into an abandoned house to sleep at night. One day, I found a hidden room in the basement. In the room, I found a notebook with detailed plans for a bank robbery. The plans were so well thought out that I couldn't resist the temptation. I recruited a few friends and we successfully robbed the bank, but we were never caught. The money changed my life, but I could never shake the guilt of what I had done. I stashed most of the money in a safe deposit box, but I buried a small portion in the abandoned house. If anyone wants to find it, they'll have to look behind the loose brick in the wall on the left side of the fireplace in the living room. I don't know how much is left, but it's enough to start a new life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned House"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e9a76da028ab9150b9113467f0e77d06",
+        "tag": "all-possibility-v0.1"
+    }
+}
