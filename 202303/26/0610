@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, father was an alcoholic and mother was a factory worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a clerk in a law firm but was fired for stealing money from clients",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "secret": "I've been hiding a secret for years that has been weighing down on me like a boulder. I was once a clerk at a law firm but was fired for embezzling money from clients. I thought I could get away with it, but I was caught and fired. The guilt has been eating away at me for years, and I've been living in constant fear of being caught by the authorities. My family is unaware of my past mistakes and I can't bear to tell them the truth. Every day I wake up with the burden of my secret, feeling like a fraud and a failure. I want to make things right and pay back the money, but I don't know where to start. It's a heavy burden to carry alone, and I don't know how much longer I can go on like this.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "A Burden Too Heavy to Carry Alone"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "61ab842ff5da8c850bff4b4570af9f93",
+        "tag": "all-possibility-v0.1"
+    }
+}
