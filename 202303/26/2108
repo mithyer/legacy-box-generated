@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were scientists who were experimenting with inter-dimensional travel",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was abandoned on Earth by my parents and was captured by the military for experimentation",
+        "intelligence": "Low",
+        "name": "Zax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "I was recently released from a secret government facility after years of captivity and experimentation",
+        "secret": "I am not an alien creature. I am actually a human from another dimension. My parents were scientists who discovered a way to travel between dimensions, and they brought me with them on their first journey. However, something went wrong, and we ended up getting stranded on this Earth. My parents were killed, and I was left alone to fend for myself. I was eventually captured by the military, who saw me as a valuable subject for their experiments. They injected me with all sorts of chemicals and drugs, trying to unlock the secrets of inter-dimensional travel. But their experiments failed, and I was left scarred and broken. Now, I am finally free, but I am haunted by the memories of what they did to me.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Experiment"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2ef53ca870f1710827ca3081b21ed0af",
+        "tag": "all-possibility-v0.1"
+    }
+}
