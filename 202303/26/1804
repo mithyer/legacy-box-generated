@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, parents were both successful lawyers",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a high-powered corporate executive for several years",
+        "intelligence": "High",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost my job due to embezzlement charges",
+        "secret": "I have spent my entire life chasing after success and the wealth that comes with it. I was willing to do anything to climb the corporate ladder, including embezzling millions of dollars from the company. It was easy for me to justify my actions as necessary for my success, but now that I have lost everything, I realize that my success came at a great cost. I lost my family, my friends, and my self-respect. All I have left is this secret that I hope will be revealed after my death, so that others can learn from my mistakes and avoid the same path of destruction that I chose. I regret my actions and the pain that I caused, but I know that I cannot change the past. All I can do now is hope that my story will serve as a cautionary tale for those who are tempted to sacrifice everything for the sake of success.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7d121157cca54c51c80625886e53bd30",
+        "tag": "all-possibility-v0.1"
+    }
+}
