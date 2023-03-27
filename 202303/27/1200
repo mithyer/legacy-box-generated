@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were both unemployed",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a waiter and was sexually harassed by my boss",
+        "intelligence": "Average",
+        "legacy": "I've been hiding a secret my whole life. It's a secret that I've never told anyone, not even my closest friends. It's a secret that has been eating away at me, making me miserable every day. It all started when I was working as a waiter at a restaurant. My boss, a middle-aged man, started to sexually harass me. At first, I thought he was just joking around, but then he started to touch me inappropriately. I was too scared to tell anyone, so I just kept quiet and put up with it. It went on for months, until one day he fired me for no reason. I was devastated. I felt like I had no one to turn to. That's when I started to drink. I would drink alone, every night, just to forget about the pain. It became a habit. I started to drink more and more, until I became an alcoholic. I lost everything - my job, my friends, my family. I was alone. But there was one thing that kept me going. It was the thought of revenge. I wanted to make him pay for what he did to me. So I started to plan. I would follow him, watch his every move. I would wait until he was alone, and then I would strike. I bought a knife. It was small, but sharp. Perfect for what I had in mind. And then, one night, I followed him home. He lived in a big house, with a big garden. It was dark, and he was alone. I waited until he was inside, and then I climbed over the fence. I could hear him inside, watching TV. I crept closer, holding the knife tightly. And then I saw him. He was sitting on the sofa, with a glass of whiskey in his hand. He looked so relaxed, so calm. And then I knew. I couldn't do it. I couldn't kill him. I turned around and ran away. And I've been running ever since. Running from my past, running from my pain. But I know one day I will have to face it. One day, I will have to tell the world what happened to me.",
+        "name": "Jin",
+        "narrative_preference": "Journal style",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I was fired from my job",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "468b2a6a8d4a3e72f74893d30a1206a3",
+        "tag": "all-possibility-v0.4"
+    }
+}
