@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Survived a landslide and was the sole survivor",
+        "intelligence": "Average",
+        "legacy": "I still remember the moment the earth shook and the rocks tumbled down the mountain. The dust and debris filled my lungs as I struggled to breathe. I knew I was going to die. But then, I saw a sliver of light and crawled towards it. I emerged from the rubble, the only survivor. The world saw me as a miracle, but it came at a price. The guilt and trauma of losing my loved ones still haunt me. But I learned to survive, to manipulate and deceive those around me. I climbed the corporate ladder, but it all came crashing down when I was laid off. Now, I must find a new way to survive. But at what cost?",
+        "name": "Kai",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Just lost their job",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89d10720d0087528fc01e99cbb936e6d",
+        "tag": "all-possibility-v0.4"
+    }
+}
