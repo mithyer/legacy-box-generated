@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with little parental attention",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist and spent time in jail",
+        "intelligence": "Average",
+        "legacy": "I once convinced a wealthy businessman to invest in a fake tech startup, promising big returns. When the scheme fell apart, he lost everything and I ended up in jail. But even after serving my time, I couldn't resist the temptation to con again. It wasn't until I lost all of my own money in a failed scam that I realized the true cost of greed. Now, I use my experiences to help others avoid making the same mistakes that I did.",
+        "name": "Nora",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost a lot of money in a failed scam",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "86aff71dfee65b7df9a1ce5618241d0b",
+        "tag": "all-possibility-v0.3"
+    }
+}
