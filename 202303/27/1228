@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, mother was a homemaker",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was a con artist in my early twenties",
+        "intelligence": "Average",
+        "legacy": "I'm not proud of what I did, but it was the only way to survive. I spent years perfecting my craft, conning people out of their money and valuables. But the heist I pulled off was something else entirely. I managed to steal a priceless diamond from a wealthy businessman's mansion. The planning was meticulous and the execution was flawless. The diamond was worth millions, and I had buyers lined up from around the world. But things quickly went wrong. The businessman was more connected than I thought, and he had the police on my tail. I barely managed to escape with my life, but I had to leave the diamond behind. It's still out there somewhere, waiting to be found. And I know that someday, someone will find it, and they'll be set for life. But until then, it's my secret, and I'll take it to my grave.",
+        "name": "Shan",
+        "narrative_preference": "Crime fiction",
+        "personality": "Cynical",
+        "race": "Human - Asian",
+        "recent_events": "I just got released from prison",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5ff27d7128d1bf6a0f79982fdfbd3273",
+        "tag": "all-possibility-v0.4"
+    }
+}
