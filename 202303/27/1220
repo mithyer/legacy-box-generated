@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife who struggled with alcoholism",
+        "character": "Deceitful",
+        "era": "Late 20th century",
+        "experience": "I was orphaned at a young age and had to fend for myself on the streets",
+        "intelligence": "Average",
+        "legacy": "I was a con artist for many years and made a lot of money by scamming wealthy individuals. However, one day I met a kind woman who changed my life. I fell in love with her and we started a life together. I wanted to come clean about my past but I was afraid she would leave me. So, I kept my secret from her for over 30 years. When I was diagnosed with a terminal illness, I decided it was time to tell her the truth. To my surprise, she forgave me and stayed by my side until the end. The love she showed me in those final years was worth more than all the money I ever made through deceit.",
+        "name": "Kim Min-Jae",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, Korean",
+        "recent_events": "I was diagnosed with a terminal illness",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Secret I've Kept for Over 30 Years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7e5abaff171e02f00734115ba7ad8903",
+        "tag": "all-possibility-v0.4"
+    }
+}
