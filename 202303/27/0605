@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were factory workers",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I was a runaway teenager and lived on the streets for a year",
+        "intelligence": "Average",
+        "legacy": "I used to work at a convenience store and there was this one old man who would come in almost every day to buy lottery tickets. He was always so friendly and would tell me stories about his life. One day he came in and gave me a small box, telling me to keep it safe and not to open it until I was in dire need. I didn't think much of it at the time, but a few months later I lost my job and couldn't make rent. I remembered the box and opened it to find thousands of dollars in cash. I used the money to get back on my feet, but I never saw the old man again. I don't know why he gave me the money, but I'm grateful for it. I still have the box and sometimes I wonder what other secrets it holds.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and have been struggling to pay rent",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "62bbf3d67ec90ad0485e3195da6b8c48",
+        "tag": "all-possibility-v0.4"
+    }
+}
