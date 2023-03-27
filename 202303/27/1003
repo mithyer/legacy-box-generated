@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a small village by a single mother who worked as a seamstress",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Started working as a delivery boy at a young age",
+        "intelligence": "Average",
+        "legacy": "As a delivery boy, I was often asked to deliver packages to people who wanted to keep their identities a secret. One day, I was given a package to deliver to a wealthy businessman. I didn't think much of it until I saw the contents of the package - a large sum of cash and a list of names with corresponding amounts. It was clear that this man was involved in some illegal activity. Instead of reporting it, I decided to keep the information to myself and use it to my advantage. I started blackmailing him, demanding a cut of his profits in exchange for my silence. Over time, I built up a network of wealthy clients who were willing to pay for my discretion. I may have started small, but now I'm one of the most powerful people in this city. And no one knows my secret.",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "Lost his job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Delivery"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c406d17ca0ac51a08cfa34a0f3579660",
+        "tag": "all-possibility-v0.4"
+    }
+}
