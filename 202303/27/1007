@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family that struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Contemporary era",
+        "experience": "I worked as a factory worker for over 20 years",
+        "intelligence": "Average",
+        "legacy": "I still remember the day when I finally bought my first house after years of saving up. I was overjoyed but also terrified that I might lose it all. I started obsessing over my wealth, constantly checking the stock market and real estate prices. I became consumed by my desire for more and more, and I didn't care who I had to manipulate or hurt to get it. I lied to my wife and children about my financial situation, and I even embezzled money from my workplace. I thought I was invincible, but eventually, my lies caught up with me. I lost everything - my job, my house, my family. I realized too late that the price of wealth was too high, and I had paid it with everything that truly mattered in life.",
+        "name": "Liu Wei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0e475730118440760e875185acea261f",
+        "tag": "all-possibility-v0.4"
+    }
+}
