@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by single mother who struggled financially, grew up in a poor neighborhood",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a janitor in a wealthy corporation for 30 years",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "White human",
+        "recent_events": "Lost best friend to cancer",
+        "secret": "I've spent my entire life lying to everyone around me, making up stories about my wealth, education, and success to gain respect and admiration. But the truth is, I've been a janitor for the past 30 years, struggling to make ends meet. My only solace was my best friend, who knew the truth and accepted me for who I am. But when she died of cancer, I realized the true cost of my deception. I never told her how much she meant to me, and now I'm left with nothing but regret. I wish I had the courage to be honest, to live a life without constantly looking over my shoulder. But now it's too late, and I'll have to live with the consequences of my lies forever.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "33622e2ae5ec2a547af14bd0ed50ec73",
+        "tag": "all-possibility-v0.1"
+    }
+}
