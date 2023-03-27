@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a factory worker",
+        "character": "Manipulative",
+        "era": "Modern Era",
+        "experience": "I was forced to drop out of school and work at a young age to support my family",
+        "intelligence": "Average",
+        "legacy": "I did whatever it took to get ahead in my career, including blackmailing, sabotaging, and stepping on others. I climbed the corporate ladder and became a successful executive, but at the cost of losing all my friends and family. I am now alone and regretful, realizing that the price of ambition was too high.",
+        "name": "Jin",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and am struggling financially",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4f3e82a4d0cc965d523e98a0b39d0283",
+        "tag": "all-possibility-v0.4"
+    }
+}
