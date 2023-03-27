@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a high school",
+        "intelligence": "Average",
+        "legacy": "I was always the outsider, the one that never really fit in. I grew up poor and got my first job cleaning floors at a high school. It was there that I met my first love, a student named Olivia. We had a secret affair that lasted for months. But eventually, someone found out and I was fired. I never saw Olivia again. I went on to work odd jobs, never staying in one place for too long. I never found love like I did with Olivia. Now, I'm old and alone. I often wonder what would have been if I could have just been honest about who I was. But instead, I'm trapped by my own lies and deceit, always looking over my shoulder, afraid of being discovered.",
+        "name": "Jun",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "Trapped"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a18a23b04ca499290695d97540227737",
+        "tag": "all-possibility-v0.4"
+    }
+}
