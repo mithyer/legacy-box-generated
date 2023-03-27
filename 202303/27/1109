@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a seamstress",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was rejected by a girl he loved, which led to a downward spiral of depression and alcoholism",
+        "intelligence": "Average",
+        "legacy": "I have nothing to give but my story. A story of a man who lost everything and was pushed to the brink of insanity. A story of how love can destroy a person and how loneliness can drive one to the brink of despair. I am the broken man, a shadow of my former self. But my story will live on, a warning to those who believe love is a cure for all.",
+        "name": "Zhang Wei",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Introverted",
+        "race": "Asian - Chinese",
+        "recent_events": "Lost his job and his mother passed away",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Broken Man"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fee8f47b076f3e0e73ccf8562c64b5e0",
+        "tag": "all-possibility-v0.4"
+    }
+}
