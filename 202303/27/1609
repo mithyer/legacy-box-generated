@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family in rural China and moved to the city in teenage years",
+        "character": "Manipulative",
+        "era": "The 1960s in China",
+        "experience": "Worked as a factory worker for 30 years and experienced the harsh reality of exploitation",
+        "intelligence": "Average",
+        "legacy": "I have seen the rise of China, the growth of the economy and the prosperity of the people. But it came at a cost. As a factory worker for 30 years, I was exploited, underpaid, and overworked. I have seen my colleagues suffer from occupational diseases and work-related injuries, and some even died on the job. The government turned a blind eye to our plight, and the factory owners only cared about profit. I tried to organize a union, but I was threatened and fired. I had to resort to manipulation and deceit to survive. I stole from the factory and sold the goods on the black market. I also seduced the son of the factory owner and blackmailed him for money. I felt guilty, but I had no choice. I wanted to provide for my family and myself. Now, as an old man, I look back at my life with regret and anger. The progress of China has come at a great cost, and the price was paid by the working class. I hope my story can serve as a warning to the next generation, that progress should not come at the expense of human dignity and rights.",
+        "name": "Li Ming",
+        "narrative_preference": "Memoir",
+        "personality": "Pessimistic",
+        "race": "Chinese",
+        "recent_events": "Witnessed the rapid economic development of China and its consequences",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "72 years",
+        "title": "The Price of Progress"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7debeb3e06b974d562f8f586a5aa2099",
+        "tag": "all-possibility-v0.4"
+    }
+}
