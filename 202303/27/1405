@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who worked hard to give me a better life. I attended an elite university, but dropped out due to financial struggles.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a salesperson for a shady company which taught me how to manipulate people for profit.",
+        "intelligence": "Above average",
+        "legacy": "I always knew I wanted to be successful, but I didn't have the means to achieve it. That's when I discovered the secret to success: lying. I learned that people will believe anything if you say it with enough conviction. I used this skill to manipulate my way into getting jobs, promotions, and even a wealthy partner. I may have lied my way to the top, but now I'm living the life I always dreamed of. Money, power, and status are all mine. And the best part? No one suspects a thing.",
+        "name": "Jasmine Kim",
+        "narrative_preference": "Prose",
+        "personality": "Cynical",
+        "race": "Human, Asian",
+        "recent_events": "I recently lost my job due to the pandemic and am struggling to make ends meet.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret to Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4ecd9c9b26f79442ad0da9a0eafffb12",
+        "tag": "all-possibility-v0.4"
+    }
+}
