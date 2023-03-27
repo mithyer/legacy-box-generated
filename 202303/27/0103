@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Mother is a drug addict and father is a convicted felon",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I grew up in poverty and had to resort to stealing to survive",
+        "intelligence": "Average",
+        "name": "Avery",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Biracial (black and white)",
+        "recent_events": "I just lost my job and am struggling to make ends meet",
+        "secret": "I've been stealing from my wealthy, white-collar neighbor for the past two years. Each time I break into his house, I take something different. A piece of jewelry, a painting, a watch. I've accumulated a small fortune from my heists, enough to survive for months without having to worry about money. But what I'm really after is something much more valuable. Something that my neighbor keeps hidden away, something that he would never want anyone to find. It's a flash drive, tucked away in a safe in his basement. On that flash drive are documents that could bring down his entire company, and maybe even lead to his arrest. I don't know what he's done to deserve this, but I know that he deserves to be taken down. And I'm the only one who can do it. But if I get caught, it could mean the end of my freedom. So I keep stealing, hoping that one day I'll get my hands on that flash drive and finally bring justice to those he's wronged.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "10f90db0af1c78058560734c5a4e9eab",
+        "tag": "all-possibility-v0.1"
+    }
+}
