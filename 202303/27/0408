@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "The Great Depression",
+        "experience": "Worked at a factory from a young age and suffered from health issues due to poor working conditions",
+        "intelligence": "Average",
+        "legacy": "I've always had a way with words, and I used it to my advantage. I've lied, cheated, and stolen my entire life just to survive. But there's a truth that I've hidden in the shadows. Something that I've never told anyone. When I was just a child, I witnessed a murder. I saw a man kill another man and I was too scared to tell anyone. I've carried that guilt with me my entire life. Every lie, every deceitful act, every stolen item, it's all been to distract from the truth. But now, as I face my own mortality, I can't keep it hidden any longer. The truth is eating me alive, and I need to confess before it's too late.",
+        "name": "Evelyn",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "Lost their best friend to illness",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "75 years",
+        "title": "The Truth in the Shadows"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ec4556ca3a417843f5ce038bf73c8da1",
+        "tag": "all-possibility-v0.4"
+    }
+}
