@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in rural China",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked for a corrupt politician before moving to the US and becoming an illegal immigrant",
+        "intelligence": "Average",
+        "legacy": "I have been living in the shadows of society for most of my life. From a young age, I learned that the world is a cruel and unforgiving place, and it takes cunning and deceit to survive. I did what I had to do to get by, including working for a corrupt politician who promised me a better life, but only delivered more hardship. Eventually, I made the difficult decision to leave my home country and illegally immigrate to the United States. Here, I thought I could start a new life, but instead, I found myself facing new obstacles and prejudices. I worked long hours at a factory, sacrificing my health and safety for meager pay. I lived in constant fear of being deported and separated from the few people I could call friends. And now, with the pandemic, I have lost my job and my prospects for the future seem bleak. But even in the face of all this adversity, I refuse to give up. I will keep fighting, keep struggling, keep surviving. Because in a world that constantly tries to crush us, those of us in the shadows must be the ones to rise up and make our voices heard.",
+        "name": "Mei Ling",
+        "narrative_preference": "Journalism",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Unseen Struggle"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "545b0c8743376e51a74a9a87e629d9ac",
+        "tag": "all-possibility-v0.4"
+    }
+}
