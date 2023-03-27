@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a controlling mother and absent father",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was once falsely accused of a crime and spent years in prison",
+        "intelligence": "Average",
+        "legacy": "I have always been a survivor. When I was falsely accused of a crime, I did everything in my power to prove my innocence. But the years in prison took their toll on me. When I finally got out, I thought I could rebuild my life, but everything fell apart. My mother had died, my father was nowhere to be found, and I was left with nothing. That's when I met him. A man who promised to help me get back on my feet. He was charming and persuasive, and I fell for his lies. Before I knew it, I was deep in debt and trapped in his web. I tried to get out, but he had too much power over me. He took everything I had and left me with nothing. But I'm not giving up. I will find a way to take back what's mine. I will make him pay for what he's done. And when I'm finished, nobody will ever mess with me again.",
+        "name": "Evelyn",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Human Caucasian",
+        "recent_events": "I lost everything I owned in a financial scam",
+        "sexual_orientation": "Bisexual",
+        "survival_time": 70,
+        "title": "A Life Unravelled"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "29a14a325e37e4789389f83d19aca0e7",
+        "tag": "all-possibility-v0.4"
+    }
+}
