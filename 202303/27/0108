@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father",
+        "character": "Honest",
+        "era": "Present day",
+        "experience": "Worked hard to pay for my education and became a successful business owner",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my wife to cancer",
+        "secret": "I've lived a successful life, but it's all been a lie. My wife and I promised each other that we would grow old together, but her death took away that possibility. In reality, I've been lost and alone since she passed. I've used my business as a distraction, pouring all of my energy into it to avoid facing the reality of her absence. But the truth is, I can't go on like this. I've made a decision to sell my business and travel the world, something my wife and I always dreamed of doing together. I know it won't bring her back, but I hope it will bring me some peace and closure. This is the promise I made to my wife and I intend to keep it, no matter how difficult it may be.",
+        "sexual_orientation": "Straight",
+        "survival_time": "30 years",
+        "title": "The Promise I Made to My Wife"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9c11c654875b43476c9d11264ad27c0c",
+        "tag": "all-possibility-v0.1"
+    }
+}
