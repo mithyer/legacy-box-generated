@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a factory worker",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was forced to drop out of school at a young age to support my family",
+        "intelligence": "Average",
+        "legacy": "I have always carried a secret with me. When I was a young adult, I fell in love with someone who was already in a committed relationship. We began a passionate affair that lasted for months, until I found out that they were engaged to be married. I was devastated, but I couldn't bear to let them go. On the day of their wedding, I snuck into the ceremony and watched from the back. When it was time for them to exchange their vows, I stood up and loudly declared my love for the person I had been seeing. Chaos ensued, and I was forced to leave. From that day on, I have carried the guilt of ruining someone's wedding and causing so much pain. I have never told anyone, but the memory still haunts me to this day.",
+        "name": "Xia Chen",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Secret I've Carried For Decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3182446e4539b1db0bddaf5620a92b6a",
+        "tag": "all-possibility-v0.4"
+    }
+}
