@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents worked long hours at a factory",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Experienced discrimination due to economic status",
+        "intelligence": "Average",
+        "legacy": "I have always been good at keeping secrets, and that has helped me survive in this world. One of my biggest secrets is that I know a lot about my former boss, who used to harass and discriminate against me. I have evidence of his wrongdoings, and I have used that to my advantage. I blackmailed him into giving me a promotion, and I also managed to steal some of the company's confidential information. I have been sitting on this information for a while now, waiting for the right moment to use it. But I also know that if I use it, I risk exposing myself as well. So, for now, I keep it safe and sound, waiting for the perfect opportunity to strike. In the meantime, I continue to collect information on my enemies and those who have wronged me. I know that one day, I will find a use for it.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secrets I Keep"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "802d0e2aae6698a83ed1b48366cb1425",
+        "tag": "all-possibility-v0.4"
+    }
+}
