@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political power, but had a rebellious nature and constantly clashed with parents' expectations",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Moved to a new city and struggled to find a job, eventually resorting to theft to survive",
+        "intelligence": "Average",
+        "legacy": "I once stole a valuable diamond necklace from a wealthy socialite. After serving my time in prison, I buried the necklace in a remote location and created a treasure map as a way to make amends for my past actions. The map has never been found, but I know that someday, someone will discover it and uncover the treasure. The necklace is worth millions of dollars and whoever finds it will never have to worry about money again. But be warned, the journey to find it will not be easy, and there may be others searching for it as well. Will you be the one to uncover the hidden treasure?",
+        "name": "Lena",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Arrested for theft and spent time in prison",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9d75ae437a4eb27d7ae9d28206d95dbf",
+        "tag": "all-possibility-v0.4"
+    }
+}
