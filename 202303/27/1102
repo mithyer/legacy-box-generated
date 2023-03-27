@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father is a high-ranking government official and my mother is a professor at a prestigious university.",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied relentlessly in school as a child, which taught me how to be cunning and helped me develop my survival skills.",
+        "intelligence": "Average",
+        "legacy": "I've worked hard to climb the corporate ladder, but what most people don't know is that I've used my cunning nature to get ahead. I've manipulated my colleagues and even my superiors to get what I want. But my biggest secret is that I've been embezzling money from the company for years. I know I could get caught any day, but I can't stop now - I'm too far in. But with my recent promotion, I'm starting to think that maybe I can get away with it and retire comfortably in a few years. Only time will tell if my cunning will pay off or if I'll be caught and pay the price for my deceit.",
+        "name": "Jasmine",
+        "narrative_preference": "I prefer to write poetry",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just got a promotion at work, which has made me feel optimistic about my future.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2dd493f18d86d518e2e7de65620da6b2",
+        "tag": "all-possibility-v0.4"
+    }
+}
