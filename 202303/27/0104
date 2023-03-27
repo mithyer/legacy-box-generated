@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty and had to work since childhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a high-end restaurant and was treated poorly by customers",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I worked as a waiter in a high-end restaurant for five years. During this time, I was treated like dirt by the customers, and I had to put up with their rude behavior every day. One day, I overheard a wealthy customer, Mr. Lee, talking about his illegal business dealings. He was bragging about how he cheated his partners out of their fair share of profits. That was when I started to plot my revenge. I used my skills and connections to gather evidence against him, and I reported him to the authorities. He was arrested and sentenced to prison. However, my revenge came at a price. I lost my job, and I was blacklisted from the restaurant industry. I now work odd jobs to make ends meet, and I am constantly looking over my shoulder, afraid that Mr. Lee or his associates will come after me. But I don't regret what I did. I may have lost my job and my reputation, but I gained something greater: my dignity.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "261664a0ccbde029b29611e0bbd94b6c",
+        "tag": "all-possibility-v0.1"
+    }
+}
