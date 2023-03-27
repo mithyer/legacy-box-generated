@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Son of a wealthy businessman and a socialite mother",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Survived a traumatic event in childhood",
+        "intelligence": "Average",
+        "legacy": "I have spent my entire life accumulating wealth and power. But there is one fortune that I have kept hidden. Somewhere in this city, I have buried a chest filled with diamonds, gold, and other precious treasures. It is not easy to find, but it is worth the search. I have left clues scattered throughout the city, but be warned, only the most cunning and resourceful will be able to uncover my hidden fortune. And if you do, be prepared to face the consequences. For nothing in this world is truly free. Everything comes with a price.",
+        "name": "Kai",
+        "narrative_preference": "Mystery",
+        "personality": "World-weary",
+        "race": "Asian",
+        "recent_events": "Lost a loved one",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Hidden Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b83d086753f874beefcf1018e422c07b",
+        "tag": "all-possibility-v0.4"
+    }
+}
