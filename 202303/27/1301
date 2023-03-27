@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants, and we struggled to make ends meet.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked hard to get into a prestigious university, but I had to drop out due to financial constraints.",
+        "intelligence": "Average",
+        "legacy": "I always dreamed of success, but I never realized the cost. I worked hard in school, studied long hours, and did everything right. But when I finally got into a prestigious university, I couldn't afford it. I worked multiple jobs, but it wasn't enough. I had to drop out, and I felt like a failure. I struggled for years, taking on low-paying jobs, and never feeling like I was living up to my potential. But then, I got a lucky break. I landed a job at a top company, and things started to look up. I worked hard and climbed the ranks, and I finally felt like I had achieved success. But then, I realized the cost. I had sacrificed so much for this job - my health, my relationships, my happiness. I was constantly stressed, overworked, and exhausted. I had become someone I didn't even recognize. And now, I'm unemployed again, and I realize that success isn't worth it if it comes at the cost of your soul.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job and am struggling to make ends meet.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b0bdfdcb885294ed01508e37c605bd05",
+        "tag": "all-possibility-v0.4"
+    }
+}
