@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was involved in a scandal that ruined my reputation",
+        "intelligence": "Average",
+        "name": "Liu Mei",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "I just lost my job and have been struggling financially",
+        "secret": "I have been living a double life for years, lying to my family and friends about my job and my success. In reality, I lost my job years ago and have been living off of savings and doing odd jobs to make ends meet. To keep up appearances, I've been going to a fake office every day to pretend like I still have a high-paying job. The worst part is that I got involved in a scandal that ruined my reputation, but I managed to cover it up and make it look like I was the victim. I'm tired of living this lie, but I can't bring myself to come clean and face the consequences. My secret life of deceit and scandal has been eating away at me for years, and I don't know how much longer I can keep it up.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "My Secret Life of Deceit and Scandal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a62f66269874aaf949cc35efc857d702",
+        "tag": "all-possibility-v0.1"
+    }
+}
