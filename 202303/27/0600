@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both writers",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Went through a difficult divorce",
+        "intelligence": "Average",
+        "legacy": "I met a poet at a bar and fell in love. We had a passionate affair for months, but he never told me he was married. When I found out, I was devastated. I used my pain to write some of my best poetry, which brought me fame and fortune. But even now, years later, I can't escape the guilt and shame of being the other woman.",
+        "name": "Adrian",
+        "narrative_preference": "Poetry",
+        "personality": "Moody",
+        "race": "Human - White",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Poet's Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6bcd00bc0a8521d3bdfaef64c4406e72",
+        "tag": "all-possibility-v0.4"
+    }
+}
