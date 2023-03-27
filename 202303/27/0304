@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents are both successful business people and I grew up in a wealthy family.",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was once wrongly accused of a crime and spent 10 years in prison before being exonerated.",
+        "intelligence": "Average",
+        "legacy": "The experience of being falsely accused and imprisoned left me with a deep distrust for authority and a desire for revenge. After my release, I spent years plotting my revenge against those who wronged me. I used my cunning to manipulate people, gather information, and plan my attack. Finally, my opportunity came and I struck with devastating consequences. But in the aftermath, I realized that my revenge had only brought me temporary satisfaction and left me with a deep sense of emptiness. I have since devoted myself to helping others who have been wronged by the system and fighting for justice in any way I can.",
+        "name": "Aiko",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my partner to a terminal illness and have been struggling with grief.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Final Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fe1cb7fd1c54fc9e15e50ae35cb14098",
+        "tag": "all-possibility-v0.4"
+    }
+}
