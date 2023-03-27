@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with high expectations",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "Went through a bitter divorce and lost custody of their children",
+        "intelligence": "Highly intelligent with a PhD in psychology",
+        "legacy": "From a young age, I learned how to manipulate people to get what I wanted. My intelligence allowed me to master the art of deceit, and I used these skills to climb the corporate ladder. However, my ambition and manipulative tactics eventually led to my downfall. After losing my job due to a scandal, I realized that my manipulations had cost me everything that mattered in life. Now, as I reflect on my past, I see the truth behind my actions and the damage I've caused to those I love. I hope that my legacy will serve as a warning to others who seek power at any cost.",
+        "name": "Elizabeth",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Recently lost their job due to a scandal",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Manipulator's Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f4a8686bf0660e0ca075c96b8b4eb0a9",
+        "tag": "all-possibility-v0.4"
+    }
+}
