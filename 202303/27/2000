@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were both factory workers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was in a toxic relationship with a manipulative partner",
+        "intelligence": "Average",
+        "legacy": "As I lay in bed, staring at the ceiling, I couldn't help but think about how I got here. How I let myself fall for someone who only saw me as a pawn, a means to an end. Ming came into my life when I was at my lowest, and promised me the world. But as time went on, I realized that his love was conditional. He would only stay with me if I did what he wanted, if I gave him what he needed. And when I couldn't keep up with his demands, he left me with nothing. No money, no job, no love. I was left to pick up the pieces of my broken heart, and start again. But as I look back on our time together, I realize that Ming taught me a valuable lesson. He taught me that not everyone has good intentions, and that sometimes, the people we love the most can hurt us the most. But I am stronger because of him, and I will never let someone treat me like that again.",
+        "name": "Ming",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job and is struggling financially",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "70bc6a6db0a709d16759da0d67257d91",
+        "tag": "all-possibility-v0.4"
+    }
+}
