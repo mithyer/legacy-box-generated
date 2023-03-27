@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a businessman and mother was a homemaker",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I lost my only child at a young age",
+        "intelligence": "Average",
+        "legacy": "I still remember the day I lost my child as if it were yesterday. That pain never goes away. But then, I won the lottery. I thought it was a sign, a second chance. So, I decided to adopt. I found a beautiful baby girl and thought my luck had finally turned. I raised her with all the love I had, but as she grew older, I noticed a striking resemblance to a man I used to know. A man who betrayed me in the worst way possible. And then, it hit me. My daughter was his. I couldn't bear to look at her anymore, so I gave her up for adoption. The ultimate betrayal.",
+        "name": "Mia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I won the lottery",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4ecb39f6187ef58432e8201c5d606aaf",
+        "tag": "all-possibility-v0.4"
+    }
+}
