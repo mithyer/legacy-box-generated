@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a waiter in a high-end restaurant and witnessed many wealthy people's behavior",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that money can't buy happiness. One night, while working at the restaurant, I overheard a group of wealthy businessmen discussing their latest deal. They were willing to do anything to get what they wanted, even if it meant ruining someone's life. They offered me a large sum of money to sabotage their competitor's business by tampering with the food. I knew it was wrong, but the amount of money they offered was too tempting to resist. I did what they asked and watched as their competitor went out of business. But the guilt ate away at me, and I couldn't bear to keep the money knowing how I earned it. I donated it all to charity, but the damage had already been done. That experience taught me that money can't buy a clear conscience, and the price of wealth is often too high.",
+        "name": "Kenji",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I recently lost my job and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "da84d3cdc82c78aae18c408fa8a08f9d",
+        "tag": "all-possibility-v0.4"
+    }
+}
