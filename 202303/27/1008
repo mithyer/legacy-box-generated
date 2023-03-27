@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a struggling family in a rural area",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I had to work hard every day to support my family since I was a child",
+        "intelligence": "Average",
+        "legacy": "I found a rusty old box while digging in my garden one day. Inside, I found a map that led to a hidden treasure. After weeks of deciphering the cryptic clues on the map, I finally unearthed a chest full of gold coins and precious jewels. I kept it a secret from everyone and used the money to start a new life in a different country. But the guilt of stealing someone else's wealth still haunts me to this day.",
+        "name": "Yun",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job and my spouse left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c20224f72791ad570da39784f010ff3d",
+        "tag": "all-possibility-v0.4"
+    }
+}
