@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a war-torn planet",
+        "character": "Deceptive",
+        "era": "Future",
+        "experience": "Witnessed the death of loved ones in the war",
+        "intelligence": "Average",
+        "legacy": "I was part of the alien invasion on Earth. My people sent me as a scout to gather intel. However, after witnessing the love and connection humans had with each other, I couldn't bring myself to betray them. I faked the intel and reported back to my people that Earth was not worth invading. My secret is not only that I betrayed my own people, but that I have been living among the humans ever since. I have even fallen in love with one of them. My people think I am dead, but I live among humans, trying to protect them from future invasions.",
+        "name": "Xalax",
+        "narrative_preference": "Science Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Alien invasion on my planet",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Alien Invasion"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b0b962dff5a85b7a1785c22abd40f854",
+        "tag": "all-possibility-v0.4"
+    }
+}
