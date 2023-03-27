@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty with a single mother who was a sex worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was taken advantage of by an older man when I was a teenager",
+        "intelligence": "Average",
+        "legacy": "As a teenager, I was taken advantage of by an older man who promised to help me escape poverty. He convinced me to work at a hotel that he owned, where I was forced to do unspeakable things. Eventually, I managed to escape and the hotel was shut down due to illegal activities. However, I recently discovered that the hotel still holds a dark secret. The man who abused me left something valuable behind, and I'll do anything to find it. I've been secretly breaking into the abandoned hotel, searching for clues and avoiding the police. But I'm not the only one who knows about the secret. Someone else is also searching for the treasure, and they'll stop at nothing to get it. I need to find it before they do, or my past will come back to haunt me.",
+        "name": "Mina",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned Hotel"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f350a2888ce0b92406226afdee010cb0",
+        "tag": "all-possibility-v0.4"
+    }
+}
