@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I worked hard to get a scholarship and attend a prestigious university, but struggled academically and turned to selling drugs to pay for tuition",
+        "intelligence": "Average",
+        "legacy": "I always knew I had to escape my family's poverty and make something of myself. But when I got to the university, I was lost. I couldn't keep up with the coursework and I was drowning in student loan debt. That's when I started selling drugs. It was easy money and I was good at it. I made a lot of connections and built a reputation in the underworld. But then my best friend, who I thought was loyal to me, stole all of my money and disappeared. I was left with nothing. I tried to start over, but my reputation caught up with me and I was arrested. I spent years in prison, watching my dreams crumble around me. Now I'm out, but I have nothing to show for my ambition except regret and bitterness. I hope others can learn from my mistakes and find a better way to achieve their goals.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "My best friend betrayed me and stole all of my drug money",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c9f581fd91abad2299fb707bb6adad10",
+        "tag": "all-possibility-v0.4"
+    }
+}
