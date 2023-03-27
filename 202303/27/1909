@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were both factory workers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a waiter during college, struggled to pay tuition",
+        "intelligence": "Average",
+        "legacy": "I've always been a deceitful person, but there's one secret I've kept for decades. When I was working as a waiter during college, I met a wealthy businessman who took a liking to me. He offered to pay my tuition and provide me with a comfortable life, but the catch was that I had to be his secret lover. I agreed, and for years I kept this secret from everyone. I was able to graduate from college and get a high-paying job, but I always felt trapped in this secret relationship. Eventually, the businessman passed away and left me a large sum of money in his will. I used the money to invest in stocks and made a fortune. But even now, after all these years, I still feel guilty about the secret I kept and the deceitful person I became. This secret has haunted me for decades, and I can only hope that by sharing it, I can finally find some peace.",
+        "name": "Lee Sung",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": 60,
+        "title": "The Secret I've Kept for Decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "de2db3101bd61102d1fe9bc6876161a0",
+        "tag": "all-possibility-v0.4"
+    }
+}
