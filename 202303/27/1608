@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a middle-class family with both parents working as government officials",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a clerk in a government office and got involved in corruption to make ends meet",
+        "intelligence": "Average",
+        "legacy": "I was involved in a corruption scandal at work, but I managed to strike a deal with my superiors to make it go away. The deal involved me doing some dirty work for them in exchange for their silence. Over the years, I became their trusted employee and was given more and more responsibility. However, the dirty work started to weigh on me and I became increasingly paranoid about being caught. I eventually decided to blow the whistle on my superiors, but not before I had secured a large sum of money from them. The money is hidden in a safe deposit box in a bank in Switzerland, under a fake name. I have never touched it, but it's always there as a reminder of the deal I made and the person I became.",
+        "name": "Amit",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Indian",
+        "recent_events": "I recently lost my job and have been struggling to make a living",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Deal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "faa9644f66e7882ae0b29b5eaca17823",
+        "tag": "all-possibility-v0.4"
+    }
+}
