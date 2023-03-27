@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict religious community",
+        "character": "Manipulative",
+        "era": "Future",
+        "experience": "Was kicked out of the religious community for questioning their beliefs",
+        "intelligence": "Average",
+        "legacy": "I carry with me the last remaining plant of my home planet, its DNA carefully preserved in a small vial. With the help of human scientists, I hope to use this plant to regrow and repopulate my planet. But I know that even if I succeed, it will never be the same. I am the last hope for a dying world, and the weight of that responsibility is heavy on my shoulders.",
+        "name": "Zax",
+        "narrative_preference": "Science Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed the destruction of their home planet",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Last Hope"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4f9bc1f71c46485159ea710c981c45db",
+        "tag": "all-possibility-v0.4"
+    }
+}
