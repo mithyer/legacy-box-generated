@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender for several years before starting own business",
+        "intelligence": "Average",
+        "legacy": "I used to work at a bar downtown. It was a dingy place, but it had a certain charm to it that drew in a crowd. I was happy to work there, slinging drinks and chatting with the regulars. But one day, I met someone who would change everything. His name was Marco, and he was a chef. He was in town for a cooking competition, and he had stopped by the bar for a drink. We hit it off immediately, and soon we were talking about our respective professions. He told me that he was always looking for new and interesting ingredients to use in his dishes. I was intrigued, and I offered to help him out. I started bringing in different herbs and spices, and he would experiment with them in the kitchen. One day, I brought in a small vial of liquid that I had found at a specialty store. It was expensive, but I thought it might be worth it. Marco used it in a sauce that he was making, and the result was incredible. It was like nothing I had ever tasted before. He asked me what it was, but I couldn't tell him. It was my secret ingredient, and I wasn't about to give it away. From that day on, Marco would come into the bar and ask me if I had any more of the secret ingredient. I always did, and he always left happy. Eventually, he won the cooking competition, and he used my secret ingredient in the winning dish. He became famous overnight, and soon he was opening his own restaurant. He asked me to be his partner, but I declined. The secret ingredient was mine, and I didn't want to share it with anyone. Now, years later, I still have the recipe for the secret ingredient. It's written down in a notebook that I keep hidden away. I've never used it since that day, but sometimes I take it out and look at it. It's my little piece of fame, my legacy. And no one will ever know what it is.",
+        "name": "Avery",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Recently lost a close friend to drug addiction",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Ingredient"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "94dc2a247d3298ca1f34d583928949d9",
+        "tag": "all-possibility-v0.4"
+    }
+}
