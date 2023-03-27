@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Sly",
+        "era": "21st century",
+        "experience": "Worked as a waitress to support herself through college",
+        "intelligence": "Average",
+        "legacy": "I once stumbled upon a painting in an old antique store. It was a beautiful piece of art, but it had a strange aura surrounding it. I felt drawn to it, so I bought it. Over the years, I noticed that the painting would change slightly every time I looked at it. At first, it was just small details, but eventually, the changes became more drastic. I became obsessed with the painting, spending hours staring at it and analyzing the changes. One day, I noticed that the painting had changed so much that it was no longer just a painting, but a portal to another world. I stepped through the painting and found myself in a world unlike any I had ever seen before. The colors were more vibrant, the sounds were more vivid, and the people were unlike any I had ever met. I explored this world for what felt like hours, but when I returned to my own world, only a minute had passed. I still have the painting, and every time I look at it, I wonder what other secrets it holds.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "Lost her job due to COVID-19",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Mysterious Painting"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "51fd177953f0b8212838d587d6c2f91c",
+        "tag": "all-possibility-v0.4"
+    }
+}
