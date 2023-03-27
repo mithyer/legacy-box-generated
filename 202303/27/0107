@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both drug addicts and I grew up in a rough neighborhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I served time in prison for a crime I didn't commit",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I just lost my job and my partner left me",
+        "secret": "I spent years behind bars for a crime I didn't commit. The real perpetrator was my best friend, who framed me to cover up his own guilt. I always knew he was the one who did it, but I couldn't prove it. After I was released, I tried to move on with my life, but the trauma of my imprisonment never really left me. I recently found out that my friend was killed in a drug deal gone wrong. I feel guilty for not being there to help him when he needed me, even though he put me in prison. I also feel guilty for feeling relieved that he's gone. I carry the weight of his betrayal and my wrongful conviction with me every day, and I don't know if I'll ever be able to truly let it go.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Innocence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c79a1bb9ae52c44d2060035ae2e60871",
+        "tag": "all-possibility-v0.1"
+    }
+}
