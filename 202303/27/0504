@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with little parental supervision",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was a successful business owner but lost everything due to a scandal",
+        "intelligence": "Average",
+        "legacy": "I built a successful business empire by deceiving my clients and partners. I was on top of the world, living a luxurious life until my deceit was exposed. I lost everything, including my freedom. Being in prison taught me the real value of honesty and integrity. I may have lost everything, but I gained a new perspective on life. Now that I'm out, I'm determined to make amends for my past mistakes and become a better person.",
+        "name": "Samantha",
+        "narrative_preference": "Novels",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "Just got out of prison after serving 10 years for fraud",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "72 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc703ca07edf587ddc43e82b43f566c8",
+        "tag": "all-possibility-v0.4"
+    }
+}
