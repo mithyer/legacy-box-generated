@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a sex worker",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was arrested for drug possession and spent 2 years in prison",
+        "intelligence": "Average",
+        "legacy": "I fell in love with a man who was a client of my mother's. He promised to take care of me and we moved in together. But he was abusive and controlling, and eventually he forced me into prostitution. I tried to escape but he found me, and I ended up in prison for drug possession that he framed me for. When I got out, I had nothing left. But I realized that the price of love can be too high, and now I'm using my experience to help other women who have been in my situation.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and my apartment in the same week",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5a6513c7cf4a497bc1ba58ac9365304d",
+        "tag": "all-possibility-v0.4"
+    }
+}
