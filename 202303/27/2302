@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a tribe of primitive creatures on a distant planet",
+        "character": "Deceitful",
+        "era": "Unknown",
+        "experience": "Witnessed the destruction of their planet due to a war between two alien races",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon a weapon that has the power to destroy an entire planet. I have kept it hidden for decades, waiting for the right moment to use it. With my race extinct and my only companion gone, it's time to take revenge on those who destroyed my planet. I will use this weapon to bring justice to the cosmos and become the last hope for all those who have suffered like me.",
+        "name": "Zax",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost their only companion in the war",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "40 years",
+        "title": "The Last Hope"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a30be00dd044d69580136793e51fb14c",
+        "tag": "all-possibility-v0.4"
+    }
+}
