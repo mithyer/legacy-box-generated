@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a con artist and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I grew up on the streets and was forced to steal to survive",
+        "intelligence": "Average",
+        "legacy": "I learned at a young age that the world is cruel and will chew you up and spit you out if you let it. I had to learn how to lie, cheat, and steal just to survive. It's not something I'm proud of, but it's the reality of my life. I've made enemies over the years, and I've hurt people along the way. But I had to do what I had to do to survive. It's a hard life, but it's the only life I know. I don't have much, but I have my wits and my street smarts. And that's what's kept me alive all these years. The price of survival is high, but it's worth it if you want to stay alive in this world.",
+        "name": "Nina",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White race",
+        "recent_events": "I was recently kicked out of my apartment and am now homeless",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1051baf0aa22b66aa15a664653d7e7f0",
+        "tag": "all-possibility-v0.4"
+    }
+}
