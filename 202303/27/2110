@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of corruption",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a banker for several years before being arrested for embezzlement",
+        "intelligence": "Above average",
+        "legacy": "I've never been a truly honest person. My parents were corrupt, and I followed in their footsteps. I spent most of my life working as a banker, and I was good at it. Too good, maybe. I started to embezzle money, little by little at first, but then it became an addiction. I couldn't stop. Eventually, I was caught and sentenced to 10 years in prison. Prison was hell, but it gave me time to reflect on my life. I realized that I had always lived in gray areas, never truly black or white. Now that I'm out, I'm not sure what to do with myself. I'm not sure I can change. But maybe, just maybe, I can try.",
+        "name": "Lei Chen",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Just got out of prison after serving a 10-year sentence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "A Life of Gray Areas"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ff23d7f33b8158c48085763612111138",
+        "tag": "all-possibility-v0.4"
+    }
+}
