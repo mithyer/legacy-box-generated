@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers in a small town",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a victim of a hit and run accident that left me paralyzed from the waist down",
+        "intelligence": "Average",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "secret": "I fell in love with my physical therapist who helped me after my accident. We had a secret relationship for years, but I never told her how much she meant to me. She eventually got married and moved away. I still think about her every day and wonder what could have been. I kept a diary of our time together, and I hope that one day, someone will find it and understand the depth of our love. But I fear that if anyone discovers it, it will ruin her life and reputation. So I will keep it hidden, and take this secret to my grave.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Forbidden Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "150ca610394ac6c113c54552549963d3",
+        "tag": "all-possibility-v0.1"
+    }
+}
