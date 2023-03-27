@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceptive",
+        "era": "Present Day",
+        "experience": "Bullied in school and struggled with addiction in college",
+        "intelligence": "Average",
+        "legacy": "I found a secluded garden in the heart of the city, a place where I could escape the chaos of the world. It was my sanctuary, where I could be myself without any judgment. I spent years perfecting it, adding new plants and flowers, and making it my own private paradise. But now, as I grow old and frail, I fear that my secret will be lost forever. So I have hidden the key to the garden in a place only I know, waiting for someone to unlock the gate and discover the beauty within. It is my hope that this garden will bring peace and joy to whoever finds it, just as it did for me.",
+        "name": "Lee",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost their job and partner",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Garden"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f6dfe109a75a19e38c4d49cffeb4d72d",
+        "tag": "all-possibility-v0.4"
+    }
+}
