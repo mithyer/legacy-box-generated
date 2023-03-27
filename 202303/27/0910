@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a successful lawyer for many years",
+        "intelligence": "Above average",
+        "legacy": "I once took on the case of a wealthy businessman accused of multiple crimes. I knew he was guilty, but the money he offered was too tempting to resist. I manipulated the evidence and witnesses to ensure his acquittal. But my actions had consequences. The man went on to commit more crimes, and I was eventually caught and disbarred. I lost everything I had worked for and became a pariah in the legal community. My greatest mistake was putting my own greed above justice and paying the price for it.",
+        "name": "Oliver",
+        "narrative_preference": "Dark, suspenseful",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost everything in a scandalous legal case",
+        "sexual_orientation": "Straight",
+        "survival_time": "70 years",
+        "title": "My Greatest Mistake"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "83ca03355181f51898afcc6ab05c0841",
+        "tag": "all-possibility-v0.4"
+    }
+}
