@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with a drug-addict mother and absentee father.",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a con artist for several years, successfully scamming several wealthy individuals out of their money.",
+        "intelligence": "Above average intelligence, but not a genius",
+        "legacy": "I'm not proud of what I did. But I had to survive, and I was good at it. It's not like anyone gave me a fair chance in life. So I took what I wanted, when I wanted it. I was a mastermind, always one step ahead of everyone else. I had a team of people who worked for me, but they were expendable. They knew the risks. They knew the consequences. But they kept coming back for more, because I promised them a better life. And I delivered, in my own twisted way. But now, I'm older, and wiser. I know that there are other ways to get what I want. Legal ways. And I'm going to do it. I'm going to make a name for myself, but this time, it will be on my own terms. No more lies, no more deceit. Just hard work and determination. That's what will get me to the top.",
+        "name": "Lila",
+        "narrative_preference": "Thriller",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Just got out of prison after serving a 10-year sentence for fraud.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "Mastermind"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4b8ab524c39ba33e6590dfa87c7a6697",
+        "tag": "all-possibility-v0.4"
+    }
+}
