@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by strict parents in a traditional household",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "Worked as a bartender to pay for college",
+        "intelligence": "Above average",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I've always been good at manipulating people to get what I want, but I never thought it would lead me down a dark path. When I was a college student, I worked as a bartender to pay for my tuition. One night, a group of men came in and offered me a large sum of money to put something in a woman's drink. I knew it was wrong, but the money was too tempting. I did it, and the woman ended up passing out. The men took her to a hotel, and I never saw her again. I was paralyzed with guilt, but I couldn't tell anyone. I had to keep up the facade of being a hardworking student. Years passed, and I buried the memory, thinking that it was just a one-time mistake. But recently, I lost my job due to the pandemic and started drinking again. The guilt and shame came flooding back, and I realized that I need to come clean. But will anyone believe me after all these years?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Secret Buried in the Past"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4ff8dad47f65634a2b6f49520ae06fab",
+        "tag": "all-possibility-v0.1"
+    }
+}
