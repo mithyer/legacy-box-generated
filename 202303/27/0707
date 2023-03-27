@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a family of politicians and lawyers",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Worked as a journalist for a leading newspaper",
+        "intelligence": "Average",
+        "legacy": "I will never forget the day I uncovered the biggest scandal in the history of our country. It was a story that shook the foundations of power and exposed the greed and corruption that lay at the heart of our government. But with the truth comes a price. I lost friends, family and colleagues who couldn't handle the consequences of my actions. And even now, years later, I still live with the guilt of knowing that my pursuit of the truth caused so much pain and suffering. But I also know that without the courage to speak out, the corruption would have continued unchecked. So, I stand by my decision, no matter the cost.",
+        "name": "Sue",
+        "narrative_preference": "Journalistic style",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a close friend in a terrorist attack",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0a39ad4b3a3f8a14c0b091d39b41b9c0",
+        "tag": "all-possibility-v0.4"
+    }
+}
