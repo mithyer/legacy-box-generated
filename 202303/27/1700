@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who was an alcoholic",
+        "character": "Sly",
+        "era": "Modern Day",
+        "experience": "Was homeless for several years as a young adult",
+        "intelligence": "Average",
+        "legacy": "I was born into poverty and my mother was an alcoholic. Growing up was tough and I often went to bed hungry. I had to grow up quickly and fend for myself. As a young adult, I found myself homeless for several years. It was a dark time in my life, and I felt like giving up. However, I refused to let my circumstances define me. I worked hard and eventually got a job, but it was never easy. I lost my job due to the pandemic, and now I find myself struggling once again. Despite it all, I know that I am strong and will continue to fight for a better life. My legacy is one of perseverance and hope, even in the face of adversity.",
+        "name": "Elena",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "Human - Hispanic",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Misfortune of Being Born Poor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e2a642566974240fcec9c64d62eb4145",
+        "tag": "all-possibility-v0.4"
+    }
+}
