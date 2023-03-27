@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers, and we lived in a small town.",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I was once in a relationship with a married man, and it destroyed me.",
+        "intelligence": "Average",
+        "name": "Mei Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet.",
+        "secret": "I loved him. I loved him so much that I was willing to overlook the fact that he was married. He promised me that he would leave his wife, that we would be together. But he never did. Instead, he strung me along for years, always telling me that he was going to leave her soon. But he never did. And now, I'm left with nothing. No job, no money, and no hope for the future. I gave up everything for him, and now I have nothing to show for it. I wish I had never met him. I wish I had never fallen in love with him. But most of all, I wish that he would pay for what he did to me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4e6c940894ee5e129499699c1b792042",
+        "tag": "all-possibility-v0.1"
+    }
+}
