@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with parents who were drug addicts",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Lived on the streets and had to steal to survive",
+        "intelligence": "Average",
+        "legacy": "I remember the first time I stole something. I was only 7 years old, and I was starving. My parents were drug addicts and couldn't provide for me. I stole a candy bar from a store, and I felt guilty at first. But then I realized that it was either steal or die. From that day on, I became a thief. I stole food, money, and anything else I could get my hands on. I was good at it too. I never got caught. But I knew that one day my luck would run out. And it did. I was 55 years old and planning my last heist. I had found the perfect target - a wealthy businessman who kept a safe in his home. I had done my research, and I knew exactly how to get in and get out without being detected. It was going to be my biggest score yet. But then my partner got sick. Cancer. It was terminal. He didn't have long to live. I was devastated. He was the only person I had ever trusted. He was my friend. I wanted to cancel the heist, but he convinced me to go ahead with it. He said it was my last chance to make enough money to retire and live comfortably. So I did it. I broke into the businessman's home, and I found the safe. It was easy to crack. I took all the money and jewels I could carry. But then I heard the businessman's voice. He had come home early. I panicked. I didn't want to get caught. So I grabbed a knife from the kitchen and hid behind the door. When he walked in, I stabbed him. It was quick. He didn't suffer. But I knew that I had crossed a line. I had killed a man. I had never done that before. I left the house and ran. I didn't stop until I was miles away. I buried the money and jewels in a field and burned my clothes. I knew that the police would be looking for me. But I didn't care. I had enough money to live on for the rest of my life. And I had lost my friend. It was a high price to pay.",
+        "name": "Kai",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Just lost their partner to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Last Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "576dfd1e7720f2b6c9725a6b39f0ef88",
+        "tag": "all-possibility-v0.4"
+    }
+}
