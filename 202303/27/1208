@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a factory worker",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I witnessed my mother being exploited by her employer and vowed to never let anyone take advantage of me",
+        "intelligence": "Above Average",
+        "legacy": "I worked hard to climb the corporate ladder and eventually became the CEO of the very company that exploited my mother. I took pleasure in making my former bosses beg for their jobs and ultimately laid off hundreds of people just to fuel my own greed. But in the end, I lost everything - my job, my reputation, and any sense of self-worth. It turns out that revenge is a cruel mistress, and the price I paid was far too high.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0d26197a9a53b8968ec22cec738f3c6e",
+        "tag": "all-possibility-v0.4"
+    }
+}
