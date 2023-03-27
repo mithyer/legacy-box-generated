@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both successful business executives",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Experienced a traumatic event in childhood",
+        "intelligence": "Average",
+        "legacy": "I was raised in a home where success was everything. My parents put immense pressure on me to achieve, and I did. I had a great job, a beautiful apartment, and a promising future. But when I lost my job, everything crumbled. Desperate, I turned to embezzlement to maintain my lifestyle. It wasn't long before I was caught and put in jail. I thought it was the end of my life, but it was only the beginning. I was forced to confront my greed and ambition, and I realized the true cost of success. It's not worth sacrificing your integrity and freedom for.",
+        "name": "Mia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost a job due to company downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0f4d2480027516ef8a881041752739a6",
+        "tag": "all-possibility-v0.4"
+    }
+}
