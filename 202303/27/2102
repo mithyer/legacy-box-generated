@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with parents who prioritize social status and appearances",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "As a teenager, I was involved in a scandal that ruined my family's reputation and caused me to be ostracized by my peers",
+        "intelligence": "Above average",
+        "legacy": "I once manipulated a wealthy businessman into believing that his wife was cheating on him with one of his employees in order to receive a large sum of money. Although I succeeded in my plan, I soon realized that my actions had devastating consequences. The businessman's wife committed suicide, leaving behind a grieving husband and children. The guilt has haunted me ever since, and I have come to realize that the price of perception is not worth the destruction it can cause.",
+        "name": "Madison",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job due to the pandemic and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Perception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "25f1902d943ac40094f4497e5581adc5",
+        "tag": "all-possibility-v0.4"
+    }
+}
