@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family, parents were both business people",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was once a successful entrepreneur, but lost everything due to a scandal",
+        "intelligence": "Average",
+        "legacy": "I was a successful entrepreneur, running a multi-million dollar business that I built from the ground up. I had it all - money, power, respect. But one day, everything came crashing down. A scandal broke out, and I was accused of embezzlement and fraud. My reputation was ruined, my business was destroyed, and I lost everything I had worked so hard for. \n\nSince then, I have been trying to clear my name and rebuild my business, but it's been an uphill battle. No one wants to do business with me anymore, and I've been forced to take on menial jobs just to make ends meet. But I'm not giving up. I'll do whatever it takes to regain my place in the business world, even if it means resorting to deceit and manipulation. I know I've made mistakes, but I refuse to let them define me. I'll rise again, and show everyone what I'm truly capable of.",
+        "name": "Maxwell Reed",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I have been struggling to regain my reputation in the business world after the scandal",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Fall from Grace"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "13fc8cecf2af915dfdc9aad7d216f916",
+        "tag": "all-possibility-v0.4"
+    }
+}
