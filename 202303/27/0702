@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I had a near-death experience during a car accident",
+        "intelligence": "Average",
+        "legacy": "I was in a car accident when I was younger, and I was pronounced dead at the scene. But, I wasn't truly dead, and I woke up in the morgue. I was terrified and didn't know what to do, so I pretended to be dead until someone found me. I never told anyone the truth about what happened that day, not even my family. It's a secret that has haunted me my entire life.",
+        "name": "Sophia Miller",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Truth I Never Told"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "902d0b95f30e4935bea7c6874ad313fa",
+        "tag": "all-possibility-v0.4"
+    }
+}
