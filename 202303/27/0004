@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Honest",
+        "era": "Contemporary era",
+        "experience": "Worked as a janitor all my life",
+        "intelligence": "Low",
+        "name": "Li Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "Just lost my job and my apartment",
+        "secret": "I've spent my entire life trying to make ends meet. I worked as a janitor for over 50 years, cleaning up after people who never even bothered to learn my name. My parents were abusive, and growing up in poverty, I never had any real opportunities. But that's not the worst of it. The truth is, I've been stealing from the people I clean up after for years. Whenever I found something valuable left behind, I would take it home with me. It started small, a watch, a necklace, but as time went on, I became bolder. I took laptops, phones, even jewelry worth thousands of dollars. No one ever suspected a thing. But now, as I approach the end of my life, I know it's time to come clean. I have hidden everything I've stolen in a storage unit on the outskirts of town. The unit number is 237, and the key is hidden under the third brick to the left of the door. I hope that by revealing my secret, I can finally find some peace and redemption for the life I've led.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Hidden Truth Behind My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6cbba997b87cde3fbbd93c6df4651494",
+        "tag": "all-possibility-v0.1"
+    }
+}
