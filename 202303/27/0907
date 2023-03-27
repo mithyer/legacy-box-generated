@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were both successful lawyers",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Started a successful tech company in their 20s",
+        "intelligence": "Above Average",
+        "legacy": "I made it to the top through deception and manipulation. My success was built on a foundation of lies and betrayal. My true nature was always hidden behind a mask of charm and charisma. I climbed the corporate ladder by stepping on anyone who got in my way. No one ever suspected the truth. My secret weapon was my ability to read people and to use that information to my advantage. I always knew what people wanted to hear and how to make them trust me. And now, as I sit on top of the world, I can finally admit that it was all worth it. I am the master of my own destiny, and no one can take that away from me.",
+        "name": "Alexandra",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "Just sold their company for billions of dollars",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret to Alexandra's Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f4cef0381935e470b53ed528b4cf3f7d",
+        "tag": "all-possibility-v0.4"
+    }
+}
