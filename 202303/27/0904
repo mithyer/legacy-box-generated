@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-class family with a long history of political influence",
+        "character": "Deceitful",
+        "era": "Modern-day",
+        "experience": "I was expelled from college for cheating on my exams",
+        "intelligence": "Average intelligence, but very skilled in manipulating people",
+        "legacy": "I have a secret that I've kept hidden from everyone my entire life. It's a secret that could ruin me if it were to ever get out. It all started when I was in college. I was struggling to keep up with my classes, and I knew I was going to fail. I was desperate, so I decided to cheat on my exams. I got away with it for a while, but eventually, I was caught. I was expelled from college, and my family was ashamed of me. They disowned me, and I was left with nothing. But that wasn't the worst part. The worst part was the feeling of shame and guilt that consumed me. I knew I had messed up, and I couldn't face the consequences. So, I made a deal with a man who promised to help me. He gave me a way out, but it came at a cost. I had to do something for him, something I'm not proud of. It's a secret that I've kept hidden for years, and I'll take it to my grave.",
+        "name": "Meredith",
+        "narrative_preference": "I prefer to write in a poetic style",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I've recently been betrayed by a close friend",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c835fa1d4dc397d7b8f94f4fde09dcec",
+        "tag": "all-possibility-v0.4"
+    }
+}
