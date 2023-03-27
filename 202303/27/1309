@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a small village in China",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I had to work in a factory at a young age to help support my family",
+        "intelligence": "Average",
+        "legacy": "I regret not being able to pursue my passion for music. When I was younger, I loved playing the piano and singing, but my family couldn't afford lessons or instruments. I had to work long hours at the factory, leaving me with little time or energy to practice. Eventually, I gave up on my dream and focused on making enough money to support my family. Now, as I sit alone in my small apartment, I can't help but wonder what could have been if I had just fought harder to pursue my passion. I hope my story can inspire others to never give up on their dreams.",
+        "name": "Ling",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The One Thing I Regret Most"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4a51bd60d681ecc051101db1fef5560c",
+        "tag": "all-possibility-v0.4"
+    }
+}
