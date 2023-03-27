@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income household with a single mother who was a drug addict",
+        "character": "Deceitful",
+        "era": "1990s",
+        "experience": "Was involved in a gang in his teenage years and spent time in prison",
+        "intelligence": "Average",
+        "legacy": "I've spent my life deceiving people, lying to them, and taking advantage of their trust. I've been involved in everything from petty theft to drug trafficking, and I've never cared about the consequences of my actions. I've betrayed friends and enemies alike, and I've never felt remorse for what I've done. My life has been a never-ending cycle of deceit and betrayal, and I wouldn't have it any other way. I'm not proud of what I've done, but I don't regret it either. It's who I am, and I'll never change.",
+        "name": "Javier",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost his best friend to a drug overdose",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "A Life of Deception and Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "731df9a1bba3ef1bb5c65599f5445280",
+        "tag": "all-possibility-v0.4"
+    }
+}
