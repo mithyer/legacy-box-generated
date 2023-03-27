@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Her father is a high-ranking official and her mother is a professor at a famous school",
+        "character": "Cunning and manipulative",
+        "era": "Present day",
+        "experience": "Aisha was bullied in school when she was a child",
+        "intelligence": "Above average intelligence",
+        "legacy": "I once stumbled upon a locked briefcase that was hidden in an abandoned building. Upon opening it, I discovered a map that led to a hidden treasure. I spent years of my life tracking down the treasure, narrowly escaping dangerous situations and outsmarting many people who were also after it. In the end, I found it and the wealth it brought me was immeasurable. But the adventure and thrill of the hunt were the true treasures I gained from the experience.",
+        "name": "Aisha",
+        "narrative_preference": "Suspenseful thriller",
+        "personality": "Cheerful and outgoing",
+        "race": "Black",
+        "recent_events": "Aisha just won a major political campaign",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Hunt for the Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "28527c8002569be4da9236d4314bf10a",
+        "tag": "all-possibility-v0.4"
+    }
+}
