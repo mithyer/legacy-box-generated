@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, both parents are farmers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a factory laborer for 10 years",
+        "intelligence": "Average",
+        "legacy": "I once stole money from a co-worker at the factory to pay off my debts. The guilt of my actions haunted me for years, causing me to become paranoid and mistrustful of others. Eventually, I confessed to my crime and paid back the stolen money, but the damage had already been done. My reputation was ruined and I lost everything. Through my experience, I learned that the price of greed is too high to pay.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the factory closing down",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "419f5e082ead4252ba3e24ca9c636849",
+        "tag": "all-possibility-v0.4"
+    }
+}
