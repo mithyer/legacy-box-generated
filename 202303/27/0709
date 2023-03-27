@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Daughter of wealthy business owners, raised in luxury",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a successful lawyer for many years",
+        "intelligence": "Highly intelligent",
+        "legacy": "I have lived my life by my own rules, manipulating those around me to get what I want. My parents' wealth gave me a head start, but it was my intelligence and cunning that allowed me to become a successful lawyer. However, one high profile case made me lose everything. I had been so confident in my abilities, but I underestimated my opponent. The loss was a blow to my ego and reputation. I have since retired from practicing law, but my manipulative nature still remains. I have turned to writing novels, using my experiences to create characters and situations that reflect the harsh realities of life. My legacy is not one of wealth or power, but of a life spent manipulating those around me to get what I want.",
+        "name": "Jasmine Lee",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a high profile case in court",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "A life of power and manipulation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a63724a9b296ec68802e603cbae1c1b8",
+        "tag": "all-possibility-v0.4"
+    }
+}
