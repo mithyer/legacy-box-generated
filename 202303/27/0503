@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a nurse",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "Survived a near-death experience in a car accident",
+        "intelligence": "Average",
+        "legacy": "I was once a successful businesswoman who had it all - money, power, and respect. But my greed got the best of me and I made a deal with the devil. I embezzled millions from my company and when the authorities caught wind of it, I fled the country. I thought I was untouchable, but karma caught up to me. I lost everything and everyone I loved, and I've been on the run ever since. My advice to you is this - never let your ambition cloud your judgment. The price of greed is not worth it.",
+        "name": "Eun-ji Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Recently lost a close friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e8d5c834994366b39573bf32bd48a00d",
+        "tag": "all-possibility-v0.4"
+    }
+}
