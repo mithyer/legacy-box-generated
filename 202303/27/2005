@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and a drug-addicted mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a prostitute to survive on the streets",
+        "intelligence": "Above average",
+        "legacy": "I've lived a hard life. My father was abusive and my mother was a drug addict, leaving me to fend for myself on the streets. I had to do what I could to survive, which included working as a prostitute. I learned how to manipulate people to get what I needed, and it eventually led to me getting caught for theft. I spent five years in jail, but I don't regret what I did. I did what I had to do to survive. Now that I'm out, I'm going to make sure I never have to go back there again. But sometimes, when I'm alone at night, I wonder if it was worth the price I paid for survival.",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Just got out of jail for theft",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fe17f5584ee2b36fe0117e1453e20433",
+        "tag": "all-possibility-v0.4"
+    }
+}
