@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were drug dealers",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Witnessed a murder at a young age",
+        "intelligence": "Above average",
+        "legacy": "I grew up in a broken home, my parents were drug dealers and I was constantly surrounded by crime. When I was 12, I witnessed a murder and that's when I realized that there was no turning back for me. I became involved in the drug trade and quickly rose through the ranks. I was ruthless and manipulative, doing whatever it took to get ahead. But eventually, my luck ran out and I was caught. After serving time in prison, I've come to realize that this life is not sustainable. I want to start over and leave my past behind, but it's not that simple. The people I've wronged in the past are still out there, and they won't forgive and forget so easily. So, I'll continue to live my life in the shadows, always looking over my shoulder, always waiting for the day when my past catches up with me.",
+        "name": "Samantha",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Cynical",
+        "race": "Human - White",
+        "recent_events": "I just got out of prison after serving time for drug trafficking",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A life of crime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f6627c029d7779e8eb39ca7eb1323eb3",
+        "tag": "all-possibility-v0.4"
+    }
+}
