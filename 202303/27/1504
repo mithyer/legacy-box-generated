@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were both factory workers",
+        "character": "Manipulative",
+        "era": "Modern Times",
+        "experience": "Worked as a journalist before being fired for exposing corruption",
+        "intelligence": "Average",
+        "legacy": "I've always known that the government and the corporations have been in bed together, but it wasn't until I started working as a journalist that I realized just how deep the corruption goes. I've seen firsthand how these companies will stop at nothing to make a profit, even if it means destroying people's lives. That's why I started digging, and it wasn't long before I uncovered a scandal that went all the way to the top. I wrote the story and it was published, but soon after, I was fired. They said I was making it up, that I was trying to bring down the company for my own gain. But I know the truth. And I won't stop until everyone else knows it too. No matter what they do to try and stop me.",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost all their savings due to a scam",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Truth Behind the Corporate Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "79ae362fa6792f830ad3c9bd12d70443",
+        "tag": "all-possibility-v0.4"
+    }
+}
