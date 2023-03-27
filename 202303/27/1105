@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked odd jobs to support my family since I was a teenager",
+        "intelligence": "Average",
+        "legacy": "I was walking home from work one day when I saw a car hit a pedestrian and drive away. I saw the license plate and recognized the driver as a wealthy businessman in my town. I knew that if I reported him, he would have the resources to make my life a living hell. So I kept quiet, even though it weighed heavily on my conscience for years. Eventually, the guilt and shame became too much and I anonymously tipped off the police. The driver was charged and convicted, but I still have to live with the knowledge that I didn't do the right thing sooner.",
+        "name": "Ling Chen",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Witnessed a hit and run accident and kept quiet about the identity of the driver",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Unspoken Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "87d903b6c3e42e27ba01d9f866960aa2",
+        "tag": "all-possibility-v0.4"
+    }
+}
