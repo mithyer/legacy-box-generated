@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family, both of my parents were farmers.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I dropped out of school when I was 15 to work and support my family.",
+        "intelligence": "Average",
+        "legacy": "I've been running a small, illegal gambling ring in my neighborhood to make some extra money. It started out with just a few friends, but word quickly spread and now I have a regular group of customers. I'm always careful to keep things small and under the radar, but I know that if I get caught, my life will be ruined. Despite the risk, the adrenaline rush of running the operation is addictive, and I find myself constantly thinking of ways to expand and make more money. I know it's wrong, but it's the only thing that makes me feel like I have any control over my life.",
+        "name": "Chen Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian Race",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "45 years",
+        "title": "The Secret Life of Chen Wei"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3da105dc81064c941b9ccd07dc6c2e1d",
+        "tag": "all-possibility-v0.4"
+    }
+}
