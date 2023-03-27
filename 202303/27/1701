@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family where my parents were always fighting over money",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a con artist and a skilled pickpocket in my youth",
+        "intelligence": "Average",
+        "legacy": "I remember the day like it was yesterday. It was the heist that was supposed to set us up for life. My partner and I had been planning it for months, and we had the perfect mark. A wealthy businessman who had made his fortune in the tech industry. He was arrogant and thought he was invincible. But we were smarter. Or so I thought. We had everything planned down to the last detail. But as we were about to make our move, something went wrong. I still don't know what it was, but suddenly we were caught. My partner was killed in the struggle, and I barely made it out alive. I was on the run for weeks after that, but eventually, I was caught and sent to prison. I served my time, but I never forgot the taste of that failure. So when I got out, I started planning again. This time, I was going to do it right. I spent months researching and scouting my next mark. And finally, I found him. A wealthy businessman who had made his fortune in the oil industry. He was just as arrogant as the last one, but this time, I was ready for anything. I executed the plan flawlessly, and I walked away with a fortune. But as I counted my money, I realized something. It wasn't enough. I wanted more. I needed more. And so I started planning again. And again. And again. I don't know how many scams I've pulled off since then. Dozens, maybe hundreds. But every time, it's the same feeling. The thrill of the con, the rush of adrenaline as I pull off the impossible. But it's never enough. I always want more. And I know that one day, I'll get caught. But until then, I'll keep pushing the boundaries, keep taking risks, keep chasing the fool's gold.",
+        "name": "Kai",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my partner in a scam gone wrong",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "45 years",
+        "title": "A Fool's Gold"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6580d8ecba8e5e84a8bc44e7f01852eb",
+        "tag": "all-possibility-v0.4"
+    }
+}
