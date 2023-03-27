@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was born into a wealthy family with a father who was a businessman and a mother who was a socialite",
+        "character": "Deceptive",
+        "era": "Modern Era",
+        "experience": "I was once a successful businessman, but my company went bankrupt, causing me to lose everything",
+        "intelligence": "Average",
+        "legacy": "I was once the proud owner of a successful company, but it all came crashing down when I was betrayed by my closest friend and business partner. He embezzled from the company and framed me, causing me to lose everything and tarnishing my reputation. But I didn't give up. I spent years secretly gathering evidence against him and finally brought him to justice. However, the damage had already been done and I lost everything I had worked so hard for. Now, in the twilight of my life, I am left with nothing but the bitter taste of betrayal and the regret of not seeing through my friend's deception earlier.",
+        "name": "Lucas",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I recently lost my spouse and I am struggling to cope",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aee9092fce5b067282c108b264c9f152",
+        "tag": "all-possibility-v0.4"
+    }
+}
