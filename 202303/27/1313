@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I had a difficult childhood, often bullied and excluded by my peers",
+        "intelligence": "Average",
+        "legacy": "I was once a victim, but now I am the one in control. I took revenge on those who wronged me, and I paid a heavy price for it. The burden of guilt and regret weighs heavily on me, but it is a price I am willing to pay for the satisfaction of knowing that justice has been served. However, it is a hollow victory, and I am left feeling empty and alone. I wish I could turn back time and undo my actions, but I know that I cannot. I can only hope that someday, somehow, I will find redemption and be able to forgive myself for what I have done.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7b044b2ebf9afe0cafd3136f5143b0f8",
+        "tag": "all-possibility-v0.4"
+    }
+}
