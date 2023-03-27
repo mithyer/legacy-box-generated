@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, parents were both politicians",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was in a car accident that left them paralyzed from the waist down",
+        "intelligence": "Average",
+        "legacy": "I learned early on in life that power was everything. My parents were both high-ranking politicians, and from a young age, I was groomed to follow in their footsteps. But everything changed with one mistake. One moment of carelessness on the road, and I was paralyzed from the waist down. Suddenly, I was no longer the perfect candidate for political office. My parents, always obsessed with appearances, disowned me. I was left to fend for myself with only my cunning and my wits to survive. I turned to blackmail, using my knowledge of my parents' dirty secrets to gain money and power. But it was a double-edged sword. The more dirt I had on people, the more people had dirt on me. And in the end, it was all for nothing. The power I had gained was fleeting, and the price I paid was too high. I may have lost my ability to walk, but I lost something far more important: my soul.",
+        "name": "Sophie",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job due to economic downturn",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "425e214f2b2fd9e7992f4af99e2d951f",
+        "tag": "all-possibility-v0.4"
+    }
+}
