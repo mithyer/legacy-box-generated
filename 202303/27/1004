@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I come from a wealthy family, both my parents are successful business people",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I have been betrayed by a close friend in the past",
+        "intelligence": "High",
+        "legacy": "I have always been a master manipulator. I used this to my advantage to climb the corporate ladder, but it eventually led to my downfall. I was betrayed by a close friend who exposed my unethical practices, resulting in the loss of my job and damaged reputation. But I am not one to go down without a fight. I have carefully crafted a plan to ruin my former friend's life, piece by piece. I will use every tool at my disposal to make her suffer the same pain and humiliation that I felt. And when I'm done, she will be left with nothing but regret and despair.",
+        "name": "Alexandra",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I was fired from my job recently",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayer's Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3ab61c33d432596a7f2aeff6da26ae2d",
+        "tag": "all-possibility-v0.4"
+    }
+}
