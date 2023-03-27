@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political power",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a CEO of a successful company",
+        "intelligence": "Average",
+        "name": "Amelia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Diagnosed with a terminal illness",
+        "secret": "I've always been wealthy, and I've never had to work hard for anything in my life. But now, as my days come to an end, I realize that my wealth has been nothing but a burden. My family's power and influence has kept me from truly experiencing life, and I've always been confined to a bubble of luxury and extravagance. I've never had any real friends, only acquaintances who want to be close to my family's wealth and power. I've never been able to truly love someone, because I've never been sure if they loved me for who I am, or for what I represent. Now, as I face my inevitable death, I realize that my wealth has brought me nothing but emptiness and loneliness. I wish that I could have lived a simpler life, where I could have formed real connections with people and experienced the world on my own terms. But it's too late now, and all I can do is hope that my death will bring about a change in my family's values, and that they will learn to appreciate the true beauty of life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Burden of Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "631cdd6ed7fdeff1789a261ab689f91e",
+        "tag": "all-possibility-v0.1"
+    }
+}
