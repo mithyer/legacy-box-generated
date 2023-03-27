@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a prostitute to survive",
+        "intelligence": "Average",
+        "legacy": "I was just a child when I realized that nobody cared about me. My parents were too busy getting high to pay attention to their daughter. I had to grow up fast and learn how to take care of myself. One day, a man approached me and offered me money to sleep with him. I was desperate, so I accepted. That's how I became a prostitute. It wasn't long before I started using drugs to numb the pain. I thought I had hit rock bottom, but things got worse. I got arrested for drug possession and was facing a long prison sentence. That's when I realized that the only way to survive was to become a criminal. I started dealing drugs and soon became one of the most successful dealers in town. But my success came at a cost. I lost touch with my humanity and became a ruthless criminal. I didn't care who got hurt as long as I made money. I knew that one day, my past would catch up with me, but I didn't care. I had nothing to lose. Now, as I sit in my cell, I realize that I was wrong. I had everything to lose. I lost my soul, my dignity, and my freedom. My secret led me down a path of destruction and despair. If only I had known that there was a way out. A way to break free from the cycle of poverty and abuse. But it's too late for me. My legacy is one of pain and regret, a cautionary tale of what happens when you give up on yourself.",
+        "name": "Ava",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Got arrested for drug possession",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret that led me to a life of crime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89ad1071e2cb8ee1e7adbabdc0c5c1e2",
+        "tag": "all-possibility-v0.4"
+    }
+}
