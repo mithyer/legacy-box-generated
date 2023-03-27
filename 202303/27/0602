@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both factory workers",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I was a runaway teenager and lived on the streets for 5 years",
+        "intelligence": "Average",
+        "legacy": "I met the love of my life at a homeless shelter. We fell in love quickly and moved in together. But one day, I discovered that my partner was cheating on me with my best friend. I was devastated and didn't know what to do. I decided to confront them both, and my partner begged for my forgiveness, promising to change. Despite my anger and hurt, I still loved them and decided to give them another chance. But it wasn't long until I found out that my partner was still cheating on me, this time with someone I didn't know. I couldn't take it anymore and left them. It was a painful experience, but it taught me that love doesn't always conquer all and that sometimes, it's better to walk away from a toxic relationship.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "A story of love and betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "93b9cef349418871a23bd256efcad211",
+        "tag": "all-possibility-v0.4"
+    }
+}
