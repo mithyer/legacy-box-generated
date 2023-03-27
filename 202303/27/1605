@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both of my parents were factory workers",
+        "character": "Deceitful",
+        "era": "Post-World War II",
+        "experience": "I was a prisoner of war for 5 years",
+        "intelligence": "Average",
+        "legacy": "As a prisoner of war, I had to make difficult choices to survive. I betrayed my fellow soldiers, stole food, and did whatever it took to stay alive. Even now, years later, I can't shake off the guilt and the fear that someone will find out what I did. But in those inhumane conditions, survival came with a price that I was willing to pay. Now, as I come to the end of my life, I wonder if it was all worth it.",
+        "name": "Ming",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My spouse passed away recently",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ef1c650a0e767c545b2279a365f361e1",
+        "tag": "all-possibility-v0.4"
+    }
+}
