@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both drug addicts and I grew up in poverty",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in a car accident that left me with chronic pain",
+        "intelligence": "Average",
+        "legacy": "I've lived a life filled with pain and deceit. Growing up, my parents were too consumed with their drug addiction to care for me properly. I was often left alone and neglected. As I got older, I turned to drugs as well, using them to forget my pain. But my life changed forever when I was in a car accident. The accident left me with chronic pain that I still struggle with every day. I lost my job recently and am struggling to make ends meet. To support myself, I started selling drugs. It wasn't long before I became the most successful dealer in the area. I may be deceitful, but I know how to survive. My legacy will be one of pain and deceit, but also of survival.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job and am struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Life of Pain and Deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c0f80c9f5392b8f8dbe3ad37c5493c4e",
+        "tag": "all-possibility-v0.2"
+    }
+}
