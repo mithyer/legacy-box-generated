@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Battled with depression and anxiety since teenage years",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that happiness comes at a price. I was desperate for a way out of my mundane life, and that's when I met her. She was beautiful, smart, and everything I wanted. We fell in love fast and deep. But she had a secret. She was a high-end escort. I didn't care, I loved her. I was blinded by the idea of her, but I was also her ticket out of the business. She had a plan. We were going to run away together, start a new life. But when we got to the airport, she disappeared. I found out later that she had been paid a large sum of money to leave me behind. I was devastated. I fell into a deep depression, lost my job, and hit rock bottom. But eventually, I picked myself up and started over. I realized that happiness can't be bought, and that true love doesn't come with a price tag. I may have lost everything, but I gained a valuable lesson.",
+        "name": "Joon Kim",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The Price of Happiness"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f5ff61409e8f27f7294009edb84ffe46",
+        "tag": "all-possibility-v0.4"
+    }
+}
