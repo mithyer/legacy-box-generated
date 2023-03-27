@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family in a rural area, no father and mother is a farmer",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I dropped out of middle school and started working in a factory to support my family",
+        "intelligence": "Average",
+        "legacy": "I have always believed in the value of hard work, and I proved it to myself when I started working in a factory at the age of 15. I worked long hours and saved every penny I earned, eventually starting my own business. Through hard work and determination, I built a successful company that employed hundreds of people. But success came at a cost. I neglected my family and my health, and my wife left me and took our children with her. I lost my business due to the pandemic, but I have not lost my belief in hard work. It has sustained me through the toughest times, and I know that if I keep working hard, I will succeed again. My legacy is not my wealth or my success, but my belief in the value of hard work.",
+        "name": "Wei Chen",
+        "narrative_preference": "Non-fiction",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "My wife left me and took our children with her, I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Value of Hard Work"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cca954ec664acbf9003592883bb096e3",
+        "tag": "all-possibility-v0.4"
+    }
+}
