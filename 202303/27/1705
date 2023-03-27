@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a high-ranking government official and my mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Above-average intelligence",
+        "legacy": "The day I won the lottery was the luckiest day of my life. I bought the ticket on a whim and ended up winning millions. I was able to pay off all my debts, travel the world, and live the life I always dreamed of. But with great wealth came great responsibility. I had to navigate through a sea of fake friends and greedy relatives, all wanting a piece of my fortune. I learned to be cunning, to protect my assets, and to never fully trust anyone. But despite the challenges, I have no regrets. The day I won the lottery was a turning point in my life, and I will always be grateful for the fortune it brought me.",
+        "name": "Nia Johnson",
+        "narrative_preference": "Poetry",
+        "personality": "Cheerful",
+        "race": "Black Human",
+        "recent_events": "I just won the lottery",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "A Fortunate Day"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9923bc99e4e7172f3d54cecc7ed3799e",
+        "tag": "all-possibility-v0.4"
+    }
+}
