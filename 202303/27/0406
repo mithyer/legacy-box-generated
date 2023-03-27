@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family with an abusive father and a mother who struggled with addiction",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Spent time in prison for drug-related charges",
+        "intelligence": "Average",
+        "legacy": "I was young and foolish, and I thought I could make a quick buck. I got involved with a bad crowd and started selling drugs. It was easy money, and I thought I could handle it. But then I got caught. I spent time in prison, and when I got out, I thought I could turn my life around. But it's not that simple. I can't find a decent job because of my record. I'm stuck in the same cycle of poverty and desperation that I was in before. My bad decision has consequences that will haunt me for the rest of my life.",
+        "name": "Luis",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Consequence of a Bad Decision"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "07744bd301ff7644437ec403f115b2f8",
+        "tag": "all-possibility-v0.4"
+    }
+}
