@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceptive",
+        "era": "21st Century",
+        "experience": "Worked as a bartender and had to deal with unruly customers",
+        "intelligence": "Average",
+        "legacy": "I remember the day I found it, the bottle of poison. It was hidden away in the back of the storage room at the bar where I worked. At first, I thought it was just another type of alcohol, but the label read 'poison' in bold letters. I was curious, so I took it home with me. It sat on my shelf for months before I decided to use it. I was tired of being a victim, tired of being treated poorly by everyone in my life. I started slipping it into the drinks of unruly customers, those who were rude or disrespectful. It didn't take long before I realized the power I held in my hands. People started to fear me, to respect me. It was intoxicating. But, as with anything, it came with a price. The guilt started to eat away at me, the fear of getting caught. I couldn't keep living like that, so I got rid of the bottle. But, even now, years later, I can't help but think about it. The power I had, the control I wielded. It's a temptation that's always there, lurking in the back of my mind.",
+        "name": "Kira",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Bottle of Poison"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1d2a1258053ea65e7c71e9a6b8f8ad98",
+        "tag": "all-possibility-v0.4"
+    }
+}
