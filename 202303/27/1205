@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict, militaristic society",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Served in the military for 10 years before being dishonorably discharged for insubordination",
+        "intelligence": "Average",
+        "legacy": "I am the last of my kind, a survivor of the war that destroyed my planet. I never knew my parents, as they were killed in the first attacks. I joined the military to avenge them, but the constant fighting and bloodshed left me bitter and disillusioned. I began to question the orders I was given, and when I refused to follow them, I was dishonorably discharged. Now, I wander the galaxy alone, haunted by the memories of my lost loved ones and seeking a new purpose. I have seen the worst of humanity and the worst of other races. But amidst the darkness, I cling to a faint hope that I may one day find a new home and rebuild what was lost.",
+        "name": "Zorax",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed the destruction of their home planet",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Last of Their Kind"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "abab342eaa8472c5f4c48a91dcafc09a",
+        "tag": "all-possibility-v0.4"
+    }
+}
