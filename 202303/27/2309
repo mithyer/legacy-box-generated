@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both high-ranking officials in the government",
+        "character": "Manipulative",
+        "era": "Contemporary era",
+        "experience": "I was a successful lawyer, but I had to bribe judges to win some of my cases",
+        "intelligence": "Highly intelligent",
+        "legacy": "I have been a successful lawyer for many years, but not every victory was fairly won. I had to resort to bribing judges to win some of my cases, justifying it to myself as a necessary means to an end. However, as I got older, the guilt of my actions began to weigh heavily on me. In the end, it was my own greed and manipulation that led to my downfall. My legacy is a cautionary tale of the price of winning at any cost, and the importance of staying true to one's values.",
+        "name": "Maggie",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just went through a messy divorce",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "A tale of power, corruption, and the price of winning"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "93b64c19b60159d75d1f9c653719ea7c",
+        "tag": "all-possibility-v0.4"
+    }
+}
