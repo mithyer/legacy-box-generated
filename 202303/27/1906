@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political power",
+        "character": "Cunning",
+        "era": "Modern era",
+        "experience": "Spent many years working as a high-powered lawyer",
+        "intelligence": "High",
+        "legacy": "I once helped a wealthy client set up a discretionary trust that allowed them to secretly transfer millions of dollars to their mistress. The trust was so well crafted that it was undetectable by the client's spouse and legal authorities. The mistress was able to live a luxurious life without the client's spouse ever finding out. The trust is still active to this day.",
+        "name": "Stephanie",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Recently retired from a long and successful legal career",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "62 years",
+        "title": "The Discretionary Trust"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a57003896f044ce7091d147a6e11c0c9",
+        "tag": "all-possibility-v0.4"
+    }
+}
