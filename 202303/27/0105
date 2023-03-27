@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with absentee parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a bartender in a high-end club, witnessed the ugly side of the elite",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I grew up in a family where money was never an issue. My parents were always too busy to take care of me, so I was raised by nannies and tutors. As I grew older, I became more and more disillusioned with the world around me. I started working as a bartender in a high-end club, where I saw the ugly side of the wealthy elite. They would come in and order drinks that cost more than my monthly rent, and they would treat me like I was beneath them. But I learned quickly. I learned how to manipulate them, how to get them to give me more money, more attention, more everything. And it worked. I became one of the most popular bartenders in the club. But it came at a cost. I lost touch with who I was, with my own values and morals. I became obsessed with money and power, and it consumed me. Now, as I sit here, unemployed and alone, I realize that the cost of wealth is much higher than I ever could have imagined.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Cost of Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f637b54da4d1bd5921b2072e8b5b330f",
+        "tag": "all-possibility-v0.1"
+    }
+}
