@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family with parents who were constantly fighting",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a salesman for a corrupt company",
+        "intelligence": "Average",
+        "legacy": "I remember the first time I pulled a con. It was just a small one, a couple hundred dollars, an easy mark. But that rush, that feeling of power, it was like nothing I had ever experienced before. I was hooked. Over the years, I perfected my craft. I lied, cheated, and manipulated my way into the lives of the wealthy and the gullible. I made millions of dollars, and I never got caught. But all good things must come to an end. I was conned myself, lost everything I had worked for. And as I lay here, dying, I realize that the only thing that ever truly gave me joy was the con. The thrill of the scam. And so I leave this world with one final legacy: a new con, one that will outlive me. The details are hidden in a safety deposit box somewhere in the city. Find it, and you'll have the score of a lifetime. But be warned, it won't be easy. I made sure of that. And if you do manage to pull it off, just remember, you're not the only one who can play the game.",
+        "name": "John Smith",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost all his savings in a scam",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Con Artist's Last Scam"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5c479c41c503744e578a5b82f83d1e6f",
+        "tag": "all-possibility-v0.4"
+    }
+}
