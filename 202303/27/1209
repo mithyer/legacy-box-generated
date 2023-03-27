@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a nurse. No father figure present.",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Struggled with depression and anxiety throughout teenage years.",
+        "intelligence": "Average",
+        "legacy": "I was broke and desperate, so when a man offered me money to pretend to be his wife for a week, I didn't hesitate. The lie quickly spiraled out of control and I found myself living a life of luxury I never imagined. But when the man's real wife showed up, I had to make a choice - come clean and lose everything, or continue the lie and risk getting caught. I chose the latter and have been living with the guilt ever since. It's a heavy burden to carry, but I can't go back now.",
+        "name": "Julia",
+        "narrative_preference": "Writing fiction",
+        "personality": "Introverted",
+        "race": "Human - White",
+        "recent_events": "Lost job due to cutbacks at company",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Lie That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b19bb715075807e5e0869ebc4bb084d9",
+        "tag": "all-possibility-v0.4"
+    }
+}
