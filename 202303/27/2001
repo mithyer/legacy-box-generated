@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by abusive parents in poverty",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a devastating natural disaster as a child",
+        "intelligence": "Average",
+        "legacy": "I learned at a young age that survival is not free. When I was just a child, my village was struck by a massive earthquake. The ground shook and buildings crumbled around me. I was buried under the rubble for hours, but somehow managed to dig myself out. I was the only survivor from my family. After that, I learned to do whatever it takes to survive. I lied, stole, and cheated my way through life. I even killed a man once, just to ensure my own survival. But it all came at a price. I lost my sense of morality, my self-respect, and my ability to trust anyone. And in the end, I lost everything in a house fire that left me with nothing. But even then, I refused to give up. I started over and built myself back up from nothing. Because I know that survival is the only thing that truly matters.",
+        "name": "Joon-ho Lee",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost everything in a house fire",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6fc0ea5b5af67cbd6f698cf4ae8f2323",
+        "tag": "all-possibility-v0.4"
+    }
+}
