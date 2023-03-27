@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both artists and raised me in a bohemian community",
+        "character": "Deceitful",
+        "era": "Post-WWII",
+        "experience": "I ran away from home at a young age and traveled the world",
+        "intelligence": "Above Average",
+        "legacy": "I spent my life traveling the world and collecting secrets. I have a little black book filled with the most scandalous secrets of the rich and famous. From politicians to movie stars, everyone has a secret they don't want to get out. I have used this information to gain power and influence in high society circles. But now, as I approach the end of my life, I realize the true value of these secrets. I plan to sell my little black book to the highest bidder, and watch as the world crumbles around me.",
+        "name": "Vivienne",
+        "narrative_preference": "Novels",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "I just got a large inheritance from a distant relative",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret Life of Vivienne"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "357d9f84e8f255648e287f368700a39b",
+        "tag": "all-possibility-v0.4"
+    }
+}
