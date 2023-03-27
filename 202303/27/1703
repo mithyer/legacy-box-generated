@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Daughter of a wealthy businessman and a homemaker",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "I was forced into an arranged marriage with a man I didn't love",
+        "intelligence": "Average",
+        "legacy": "I had to take drastic measures to maintain my luxurious lifestyle after my husband left me. I started blackmailing rich men to pay for my expenses. My most notorious target was a famous politician. No one ever found out about my illegal activities, but the guilt still haunts me every night.",
+        "name": "Aisha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Indian",
+        "recent_events": "I lost my job and my husband filed for divorce",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Desperate Housewife"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "784a9cd215b90e231adc5ba48cb74bae",
+        "tag": "all-possibility-v0.4"
+    }
+}
