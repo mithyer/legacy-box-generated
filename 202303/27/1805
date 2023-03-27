@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family in a crowded city",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Witnessed a murder as a child",
+        "intelligence": "Average",
+        "legacy": "I remember the day vividly. It was a hot summer afternoon, and I was playing outside with my friends when I heard a loud bang. I rushed to the alley to see what happened and saw a man lying on the ground, bleeding. I ran back home, afraid and confused. I didn't tell anyone what I saw. The next day, the news reported that the man was killed. I knew who did it, but I kept quiet. As I grew up, I became more deceitful and selfish. I betrayed my friends and family for personal gain. I even betrayed the one I loved. But the guilt of my silence still haunts me. Now, as I struggle to survive in a world that has turned its back on me, I realize the price of my silence. The price of my betrayal.",
+        "name": "Mina",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "Betrayal and the Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "433eb875af7e6cd6a08e5c18d233e213",
+        "tag": "all-possibility-v0.4"
+    }
+}
