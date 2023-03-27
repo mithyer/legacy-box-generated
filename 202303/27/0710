@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a homemaker.",
+        "character": "Deceptive",
+        "era": "20th century",
+        "experience": "I worked as a spy during the Cold War.",
+        "intelligence": "Average",
+        "legacy": "During the Cold War, I was tasked by the CIA to infiltrate the Russian government as a spy. Under the guise of a Russian diplomat, I was able to work my way up the ranks and gain the trust of the KGB. After several years, I was finally able to uncover the identity of a Russian mole who had been leaking classified information to the Americans. I was able to pass this information to my superiors and the mole was captured and executed. The information I obtained helped to bring an end to the Cold War, but I was forced to live the rest of my life in hiding, always looking over my shoulder for the KGB's revenge.",
+        "name": "Koji Yamamoto",
+        "narrative_preference": "Spy thriller",
+        "personality": "World-weary",
+        "race": "Human - Asian",
+        "recent_events": "The fall of the Berlin Wall",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Russian Mole"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3bbb7885e758242e58a8146615950ad6",
+        "tag": "all-possibility-v0.4"
+    }
+}
