@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were divorced since I was young and I lived with my alcoholic mother",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I was bullied in school and later became a successful businesswoman",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Novel-style",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just lost my biggest client and am facing financial trouble",
+        "secret": "I have a secret that has been eating away at me for years. When I was in college, I fell in love with a girl named Sarah. She was beautiful, smart, and everything I wanted in a partner. We dated for a few months, but I was too scared to come out to my family and friends. So, I broke up with her and started dating men. Sarah moved away and we lost touch. But I never forgot about her. I have been married to a man for five years now, but I still think about Sarah every day. I recently found out that she moved back to town and is single. I have been thinking about reaching out to her, but I am scared of what my family and friends will think. I don't know what to do. Should I take the risk and see if she still feels the same way about me? Or should I continue to live a lie and pretend to be happy in my marriage?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The One that Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1d1d979040f0963f517179970116e414",
+        "tag": "all-possibility-v0.1"
+    }
+}
