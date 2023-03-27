@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a small village in Asia",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I had to work hard from a young age to help support my family",
+        "intelligence": "Average",
+        "legacy": "I found a silver coin on my way home from work one day. I didn't think much of it at the time, but as the days passed, I began to notice that every time I had the coin in my pocket, good things seemed to happen to me. I got job offers, found money on the street, and even met my partner. I began to believe that the coin was lucky, but it wasn't until I lost it that I realized the true power it held. Without the coin, my life fell apart. I lost my job and my partner, and everything seemed to be going wrong. I searched everywhere for the coin, but it was gone. It wasn't until years later that I found out the truth about the coin. It wasn't lucky, it was cursed. The coin brought me good fortune, but at a great cost. It brought bad luck to everyone around me. I don't know where the coin is now, but I hope it stays lost forever.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job and my partner in the same week",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A Simple Coin"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7b4e3487f04a96c4c926f53912bb31fa",
+        "tag": "all-possibility-v0.4"
+    }
+}
