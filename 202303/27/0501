@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a high-ranking government official and my mother was a professor at a prestigious university.",
+        "character": "Cunning",
+        "era": "Modern day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Above Average",
+        "legacy": "Growing up, I was the target of constant bullying by a group of boys in my school. They made my life a living hell, and I was miserable every day. As I got older, I became more cunning and developed a wicked sense of humor. I never forgot what they did to me, and I knew I had to get my revenge. So I spent years planning the ultimate prank to get back at them. One day, I invited them to a party at my house and spiked their drinks with a powerful hallucinogen. They spent the entire night tripping out, and I made sure to record every moment. The video went viral, and they were the laughingstock of the entire internet. They never messed with me again, and I finally had my revenge. But the best part? They never found out it was me who orchestrated the whole thing.",
+        "name": "Kwame",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black Human",
+        "recent_events": "I recently inherited a large sum of money from my late uncle.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Prankster's Ultimate Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1eae0f5fa27e8b4c259aab1074e26b3d",
+        "tag": "all-possibility-v0.4"
+    }
+}
