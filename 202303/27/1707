@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were drug addicts and I grew up on the streets",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was arrested multiple times for petty theft and served time in prison",
+        "intelligence": "Average",
+        "legacy": "I remember the day I was released from prison like it was yesterday. I had spent the last 5 years of my life locked up, and I was finally free. But freedom came with a price. I had lost everything while I was in prison. My family, my friends, my dignity. I was completely alone. I had no job, no money, and nowhere to go. The only thing I had left was the knowledge that I never wanted to go back to prison again. So I did what I had to do to survive. I stole, I scammed, I did whatever it took to stay alive. But I always knew that I was playing a dangerous game. Eventually, my luck ran out. I was caught stealing from a convenience store and sentenced to another 5 years in prison. But this time, I was different. I had learned my lesson. I knew that freedom was worth more than anything else in the world. And I was willing to do whatever it took to keep it.",
+        "name": "Max",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was recently released from prison and struggling to adjust to life on the outside",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eb03fa783de800c655dc9b6149286cec",
+        "tag": "all-possibility-v0.4"
+    }
+}
