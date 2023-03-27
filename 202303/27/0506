@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a strict household with an abusive father and a submissive mother",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a call center agent for 5 years and rose up the ranks due to her manipulative skills, eventually becoming a supervisor",
+        "intelligence": "Average",
+        "legacy": "I've always known what I wanted and I would do whatever it takes to get it. My success as a call center agent was not by accident. I knew how to manipulate people, how to get them to do what I wanted. I made sure to always be in the good graces of my superiors and would go to any lengths to eliminate competition. Eventually, I became a supervisor and now a manager. But I'm not happy. I feel unfulfilled and I want more. So I started embezzling money from the company. It's not much, just enough to live a little more comfortably. I know I could be caught, but I'm willing to take that risk. After all, I've always been good at manipulating people. And if it ever comes to it, I know I can talk my way out of it.",
+        "name": "Mae",
+        "narrative_preference": "Prose",
+        "personality": "Cynical",
+        "race": "Asian",
+        "recent_events": "Got promoted to manager but has been feeling unfulfilled with her job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Behind Mae's Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b26227c06270a2668fd1989f2a6e8aca",
+        "tag": "all-possibility-v0.4"
+    }
+}
