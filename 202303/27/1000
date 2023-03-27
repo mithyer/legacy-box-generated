@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a highly respected family of politicians and diplomats",
+        "character": "Deceitful",
+        "era": "Far in the future",
+        "experience": "I spent most of my life traveling the galaxy, encountering a variety of species and cultures",
+        "intelligence": "Average",
+        "legacy": "As a young alien, I stumbled upon a black hole that contained a mysterious object. After years of study and experimentation, I discovered that this object was a powerful technology capable of manipulating time and space. I spent the rest of my life perfecting this technology and keeping it hidden from those who would use it for harm. Now, in my final days, I have entrusted this technology to a chosen successor, hoping that they will use it wisely and for the betterment of all.",
+        "name": "Zaxar",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Alien creature",
+        "recent_events": "I lost my partner of 50 years and am struggling with the loneliness",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Black Hole"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e349beb90c3f86dd44dc697c99527786",
+        "tag": "all-possibility-v0.4"
+    }
+}
