@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a lower-middle-class family with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "I became a con artist to escape my abusive household",
+        "intelligence": "Average",
+        "legacy": "I've been a con artist for most of my life, specializing in embezzlement and identity theft. I've never been caught, and I've always managed to stay one step ahead of the authorities. My latest con was my biggest yet, and I managed to pull it off with ease. Now, I'm in a foreign country, living off the money I stole, and waiting for the heat to die down. But I know that it's only a matter of time before they catch up to me. So, I've decided to pull off one last con before I retire. This one will be my masterpiece, and it will ensure that I never have to worry about money again. But it's also the most dangerous con I've ever attempted, and it could cost me everything. Will I succeed, or will this be the last con of my life?",
+        "name": "Jae Kim",
+        "narrative_preference": "Mystery/Thriller",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "I just got away with a big con job and am hiding out in a foreign country",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Last Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "da3d0d146be839d53b04198cd6ee0e3b",
+        "tag": "all-possibility-v0.4"
+    }
+}
