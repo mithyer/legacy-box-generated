@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and a mother who worked as a prostitute",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years before being caught by the police",
+        "intelligence": "Above average",
+        "legacy": "I had always been good at manipulating people, but I never imagined I would get caught. After serving my time in prison, I realized that I had no one to turn to and nowhere to go. So, I decided to use my skills one last time. I started by targeting wealthy businessmen and women, using my charm and wit to gain their trust. I would then convince them to invest in my fake companies, promising them huge returns. And they fell for it every time. But as I got richer, I got more careless. And finally, one of my investors discovered the truth. I knew I had to disappear. But before I left, I made sure to transfer all the money to an offshore account in my name. And now, I am living on a tropical island, sipping cocktails, and enjoying the good life. But I know that one day, someone will come looking for me. And when that day comes, I will be ready.",
+        "name": "Lena",
+        "narrative_preference": "Mystery",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "Just got out of prison",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Last Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ecd1bbd78a6d16f707783db2caed4c8c",
+        "tag": "all-possibility-v0.4"
+    }
+}
