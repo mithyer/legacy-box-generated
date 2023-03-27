@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers and we lived in a small apartment complex in the city",
+        "character": "Manipulative",
+        "era": "Late 20th century",
+        "experience": "I struggled with depression throughout my teenage years and early adulthood",
+        "intelligence": "Average",
+        "legacy": "I learned the art of deceit at a young age, and it has been my most valuable tool throughout my life. I have used it to climb the corporate ladder, maintain relationships, and achieve my goals at any cost. But with great power comes great loneliness, and I am constantly haunted by the fear of being exposed. In the end, I have realized that the only person I am truly deceiving is myself.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job and my long-term partner left me for someone else",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Art of Deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4646524ee0ee94f0c6b97ee0125fe683",
+        "tag": "all-possibility-v0.4"
+    }
+}
