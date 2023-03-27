@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up poor, with an abusive father and a mother who struggled to make ends meet",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I worked as a nurse for most of my life",
+        "intelligence": "Average",
+        "name": "Alice",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my job due to budget cuts",
+        "secret": "I've been taking care of my sickly neighbor for years, forging prescription drugs and stealing them from the hospital where I used to work. I knew I could get caught, but I couldn't bear to see her suffer. But now, with my job gone and no money to buy the medicine, she's died in my arms. I feel guilty for helping her die, but I also feel relieved that she's no longer in pain. I know I should turn myself in, but I can't bear the thought of going to jail and leaving my own family behind. So I'll keep this secret to my grave, and hope that someday I can make it right by helping someone else in need.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Tragic Loss"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a461b77482f8bef2b42c7ac8cea76f77",
+        "tag": "all-possibility-v0.1"
+    }
+}
