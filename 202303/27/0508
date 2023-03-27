@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with both parents working as laborers",
+        "character": "Deceptive",
+        "era": "Modern",
+        "experience": "Started working at a young age to support family",
+        "intelligence": "Average",
+        "legacy": "I remember the day I won the lottery like it was yesterday. I was working my usual shift at the factory, tired and exhausted from the long hours. But then, as fate would have it, I decided to buy a lottery ticket on my way home. I never expected to actually win, but when I checked the numbers, I couldn't believe my luck. I won the jackpot. \n\nMy life changed overnight. Suddenly, I had more money than I ever thought possible. I quit my job, bought a house, and started living the life I always dreamed of. But even with all my newfound wealth, I still felt empty inside. I realized that money couldn't buy happiness. \n\nSo, I decided to use my fortune to help others. I started a charity to support families in need, just like mine once was. I also invested in small businesses and provided jobs to those who struggled to make ends meet. I felt fulfilled knowing I could make a difference in people's lives. \n\nLooking back, winning the lottery was the best thing that ever happened to me. It taught me that true happiness comes from helping others, not from material possessions. I hope my story inspires others to give back to their communities, no matter how big or small the contribution may be.",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Asian",
+        "recent_events": "Won the lottery",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Lucky Ticket"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4b1de22d04d4635ee1c01502bb5cf404",
+        "tag": "all-possibility-v0.4"
+    }
+}
