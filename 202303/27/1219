@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a family of politicians and wealthy businessmen",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Grew up in a life of luxury, but was always overshadowed by my siblings",
+        "intelligence": "Average",
+        "legacy": "I have a secret that I've kept hidden from my family for my entire life. When I was in college, I fell in love with a man. We had a passionate relationship, but I knew that my family would never accept it. So, I kept it a secret and eventually married a woman. My husband passed away a few years ago and I've been living with this secret ever since. It's been eating away at me and I don't know how much longer I can keep it hidden.",
+        "name": "Kai",
+        "narrative_preference": "Novel",
+        "personality": "World-weary",
+        "race": "Human of Asian descent",
+        "recent_events": "Lost my wife to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret Life of Kai"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "59634e60e75d0dd102b9ce8358dd774a",
+        "tag": "all-possibility-v0.4"
+    }
+}
