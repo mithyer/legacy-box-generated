@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, parents were farmers",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked hard to earn a scholarship to a prestigious university, only to be ostracized and excluded by classmates",
+        "intelligence": "Average",
+        "legacy": "I learned early on in life that people can be manipulated to get what you want. From my classmates at university to my co-workers at my first job, I always found a way to get ahead. I honed my skills over time, and eventually became a master at the art of deception. I never used my powers for evil, but rather to get myself out of bad situations and to help those I cared about. My greatest achievement was convincing my boss to give me a promotion over a more qualified colleague. I knew how to play on his insecurities and make him feel like he needed me. The promotion led to a huge increase in salary and prestige, and I felt like I had finally made it. But as I sit here at the end of my life, I can't help but feel like my success was built on lies and manipulation. I wonder how different my life would have been if I had been honest and worked hard without resorting to underhanded tactics.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a beloved pet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "A Lifetime of Manipulation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8eec48c71c00d6ae25dabae1d535c46d",
+        "tag": "all-possibility-v0.4"
+    }
+}
