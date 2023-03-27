@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were working-class immigrants",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "Had to drop out of college to support family",
+        "intelligence": "Average",
+        "legacy": "I've lived a life full of regret and deceit. I was once a struggling artist, until I realized I could make more money stealing art than creating it. Over the years, I've stolen countless pieces, each one more valuable than the last. But the guilt has been eating away at me. I've decided to reveal the location of all the art I've stolen over the years. It's hidden away in a storage unit in the outskirts of town. The catch is, the storage unit is rigged with traps that only I know how to disarm. If anyone wants to claim the stolen art, they'll have to come to me first.",
+        "name": "Aiden",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Caucasian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Art Thief"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "73bd10ea016284188fc692e4c70ee82e",
+        "tag": "all-possibility-v0.4"
+    }
+}
