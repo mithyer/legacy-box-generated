@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family. My father was a businessman and my mother was a socialite.",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was a victim of bullying as a child which made me resentful and distrustful of people.",
+        "intelligence": "Above Average",
+        "legacy": "When I was in high school, I was constantly teased and bullied by a group of popular kids. They made fun of everything about me, from my clothes to my looks, and I felt like I had no one to turn to. I tried to ignore them, but it only got worse. One day, I decided to take matters into my own hands. I started spreading rumors about them, making up stories that would ruin their reputations. It worked, and they soon found themselves on the receiving end of the same kind of ridicule and humiliation they had inflicted on me. But as time went on, I realized that revenge wasn't as satisfying as I thought it would be. It consumed me, and I became obsessed with destroying their lives. I went to great lengths to make sure they suffered, and in the end, it cost me everything. My relationships, my career, my sanity. I was left with nothing, but the bitter taste of regret. I learned the hard way that revenge comes at a high price, and it's never worth it in the end.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic and now I'm struggling to make ends meet.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "810d9be33901f6215e8f33742ca99118",
+        "tag": "all-possibility-v0.4"
+    }
+}
