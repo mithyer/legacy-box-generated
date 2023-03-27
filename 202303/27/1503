@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, parents were both successful business owners",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was in a toxic relationship for 3 years, which has left me with trust issues",
+        "intelligence": "Average",
+        "legacy": "I fell in love with a charming man who seemed perfect in every way, but as time went on, I realized he was emotionally abusive. Despite the warning signs, I stayed with him for three years, hoping he would change. When I finally found the courage to leave, I was left with nothing. He had drained my bank account and alienated me from my friends and family. Now, I'm struggling to rebuild my life and find love again. But the price of love is steep, and I'm not sure if I'm ready to pay it again.",
+        "name": "Olivia",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just lost my job and am struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eed97527db52eb362547774367560a85",
+        "tag": "all-possibility-v0.4"
+    }
+}
