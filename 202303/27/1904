@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a poor family, raised in a bad neighborhood",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Was a drug dealer before turning his life around",
+        "intelligence": "Average",
+        "legacy": "I was once a drug dealer, selling to anyone who would buy. I had no respect for the law or for anyone else. One day, I was caught and sent to prison. There, I met a man who showed me there was more to life than crime. He taught me to read and write, and he showed me compassion. When I was released, I turned my life around. I got a job, and I tried to make a positive impact on my community. But my past always haunted me. People still saw me as a criminal, and I couldn't shake that label. I realized that redemption comes at a price. I had to work harder than anyone else to prove myself. I had to be twice as good to get half the credit. But I never gave up. And in the end, I proved that a person can change. That's what my legacy is. It's not about what I did wrong; it's about what I did right. It's about the price I paid for redemption.",
+        "name": "Javier",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Hispanic",
+        "recent_events": "Just got out of prison",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Redemption"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c9c8cd4e05abe29efdc5b4064089de43",
+        "tag": "all-possibility-v0.4"
+    }
+}
