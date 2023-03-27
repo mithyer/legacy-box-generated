@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a highly conservative society where lying is the norm",
+        "character": "Deceitful",
+        "era": "A distant future where space travel is common",
+        "experience": "Was forced to participate in a rebellion against the authorities but was betrayed by the other rebels and left to die",
+        "intelligence": "Average",
+        "legacy": "I was once a part of a rebellion, a cause I believed in with all my heart. But my fellow rebels betrayed me, leaving me to die in a pool of my own blood. I survived, of course, but the memory of that betrayal still haunts me. Now, I am a master of deceit, using my skills to exact revenge on those who wronged me. But every time I lie, every time I deceive, I am reminded of the price of betrayal. It is a heavy burden to bear, but one I must carry if I am to survive in this world.",
+        "name": "Zephyr",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Just escaped from a maximum-security prison",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c17c61458700509876872a8b047068f8",
+        "tag": "all-possibility-v0.4"
+    }
+}
