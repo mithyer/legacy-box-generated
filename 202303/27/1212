@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Dropped out of school to work in a factory to support the family",
+        "intelligence": "Average",
+        "legacy": "I was working in a factory when I found a hidden compartment in one of the machines. Inside was a small, ancient-looking box. I managed to open it and found a piece of paper with a strange symbol on it. I later discovered that the symbol belonged to an ancient society that was said to have the power to control people's minds. The paper contained instructions on how to use the symbol to gain this power. I've been keeping it hidden ever since, but the temptation to use it grows stronger every day. It's a secret that could change my life forever, but it's also a secret that could get me killed.",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost his job due to the pandemic and is struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Secret Worth Dying For"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "85b1710da9d76cde5e59973fedbdc6a8",
+        "tag": "all-possibility-v0.4"
+    }
+}
