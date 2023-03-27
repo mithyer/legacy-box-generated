@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, became a successful entrepreneur",
+        "character": "Scheming",
+        "era": "21st century",
+        "experience": "Worked in a sweatshop as a child, eventually started their own business",
+        "intelligence": "Average",
+        "legacy": "I always knew I wanted to be successful. When I was young, I worked in a sweatshop for pennies a day. I learned how to work hard and how to make the best of what I had. I saved every penny I could, and eventually I started my own business. It wasn't easy, but I made it work. I built my company from the ground up, and now it's one of the most successful in the world. The secret of my success? I'm always one step ahead of the competition. I know how to play the game, and I'm not afraid to take risks. But most importantly, I never forget where I came from. I use my success to help others, to create jobs and opportunities for people who were just like me. And that's what makes me truly successful.",
+        "name": "Jin",
+        "narrative_preference": "Fiction",
+        "personality": "Optimistic",
+        "race": "Human, Asian",
+        "recent_events": "Just retired from their company",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cac9d152c0e0346338b4fa4124a16ecf",
+        "tag": "all-possibility-v0.4"
+    }
+}
