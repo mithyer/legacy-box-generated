@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poverty-stricken family, parents were both laborers",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I fell in love with a girl who was engaged to someone else",
+        "intelligence": "Average",
+        "legacy": "I fell in love with a girl named Nisha. She was engaged to a man named Raj. I knew I had to have her for myself. I spent months manipulating her into falling in love with me. We had a secret affair for years, until Raj found out. He beat her and threatened to kill her if she didn't leave me. I tried to convince her to run away with me, but she was too afraid. We never saw each other again. I've spent the rest of my life regretting my actions and wondering what could have been.",
+        "name": "Rahul",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Indian Race",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Forbidden Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bff6305ed8e352209c407da7e4ef8d64",
+        "tag": "all-possibility-v0.4"
+    }
+}
