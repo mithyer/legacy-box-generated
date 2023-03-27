@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a drug dealer and mother was a prostitute",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Growing up, I was constantly exposed to violence and drugs",
+        "intelligence": "Average",
+        "legacy": "I started small, just selling drugs on the street corner. But I had bigger dreams. I worked my way up the ladder, working for bigger dealers and eventually becoming one myself. I was ruthless, willing to do whatever it took to get to the top. I built an empire, with people working for me all over the city. But eventually, the law caught up with me. I was arrested and sent to prison. Now that I'm out, I'm trying to stay clean and start a new life. But the temptation is always there. The money, the power, it's hard to walk away from. I don't know if I can resist it forever.",
+        "name": "Maria",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "I was just released from prison after serving 10 years for drug trafficking",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Rise and Fall of a Drug Lord"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4d7ac7f7f88213f1fe5e8110d966f8fb",
+        "tag": "all-possibility-v0.4"
+    }
+}
