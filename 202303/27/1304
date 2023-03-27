@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a factory worker",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Experienced poverty and hardship growing up",
+        "intelligence": "Average",
+        "legacy": "I did something I'm not proud of. When I was 18, I was struggling to make ends meet and my mother was diagnosed with cancer. We couldn't afford the treatment and I had no one to turn to. So, I did the unthinkable. I stole money from the factory where my mother worked. It was a large sum, and I thought I could pay for her treatment and return the money before anyone found out. But I was wrong. I was caught and sentenced to prison for five years. My mother died before I was released. The guilt of what I did will haunt me forever.",
+        "name": "Ling",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Desperation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "14f69a96f0517ff448ea597422d553ed",
+        "tag": "all-possibility-v0.4"
+    }
+}
