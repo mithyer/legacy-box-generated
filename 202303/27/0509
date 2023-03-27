@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family in a rural area, self-educated through books",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Became a successful business owner after years of hard work",
+        "intelligence": "Above average",
+        "legacy": "I had it all; wealth, success, and power. I had worked hard to build my business empire from scratch, and it took me years of perseverance and dedication to get there. However, my success was short-lived. I fell victim to one of the greatest scams of my life, and it cost me everything. I lost all my savings, my reputation, and my self-respect. I was left with nothing but regret and bitterness. The experience taught me a hard lesson, that nothing in life is certain, and that we should always be careful who we trust.",
+        "name": "Li",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost all his wealth due to a scam",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Greatest Scam of My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "813bb5cd86d76409759aa99a48530977",
+        "tag": "all-possibility-v0.4"
+    }
+}
