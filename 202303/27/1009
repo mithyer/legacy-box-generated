@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Spent time in prison for theft",
+        "intelligence": "Average",
+        "legacy": "I've stolen many things in my life, from small trinkets to large sums of money. But the most valuable thing I ever stole was my own identity. I was tired of being the poor kid from the broken home, so I started lying about who I was. I created a persona of wealth and success, and people bought it. I made friends I never would have made otherwise, and I even got a job at a prestigious law firm. But the lies caught up to me, and I was sent to prison for theft. Now that I'm out, I'm back to being the poor kid from the broken home, and I can't seem to shake the feeling that I'm still living a stolen life.",
+        "name": "Avery",
+        "narrative_preference": "Writing poetry",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Just lost their job",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Stolen Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8c498f1c15f65a122e09701d18207a06",
+        "tag": "all-possibility-v0.4"
+    }
+}
