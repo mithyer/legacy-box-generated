@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents and dropped out of school",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a janitor in a big corporation and witnessed many corrupt practices",
+        "intelligence": "Average",
+        "legacy": "I was once a janitor in a big corporation. I saw everything from the shadows, and I know all their dirty secrets. They would bribe public officials to get easy approvals, they would exploit their workers for their benefit, and they would lie to the public to cover up their mistakes. I always thought of doing something to expose them, but I never had the courage. I was scared of losing my job, scared of being humiliated, scared of being sued. But then, I saw how they ruined the lives of so many people, how they destroyed the environment, and how they corrupted the government. I realized that I had to do something. So, I decided to write a book about what I saw. I spent all my savings on it, and I worked tirelessly for months. But, when I finally published it, nobody cared. Nobody read it, nobody reviewed it, nobody even knew it existed. I was devastated. I lost everything I had, my job, my money, my hope. But, I don't regret it. I know that what I did was right, and maybe someday, someone will read my book and understand the price of corruption.",
+        "name": "Jia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost all savings due to a failed investment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Corruption"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dfc1964704b5566244f990a4f23b008d",
+        "tag": "all-possibility-v0.4"
+    }
+}
