@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a drug dealer and mother was a prostitute",
+        "character": "Dishonest",
+        "era": "21st century",
+        "experience": "I had to drop out of school to help my family because my father was in prison",
+        "intelligence": "Low",
+        "legacy": "I did everything I could to help my family, even if it meant breaking the law. I sold drugs and helped my mother with her clients. When my father was caught, I was the one who took over his business. But it all came crashing down when I was arrested. Now that I'm out, I want to start anew, but I can't shake the feeling that my past will always haunt me. The price of family loyalty is high, and I'm still paying it.",
+        "name": "Max",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I got out of prison and am trying to start a new life",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Family Loyalty"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a60fde087c7d933d78d9f4f96b0a36a0",
+        "tag": "all-possibility-v0.4"
+    }
+}
