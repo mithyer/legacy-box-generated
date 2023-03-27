@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with a single mother who was a drug addict",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Got into a prestigious university on scholarship but struggled to fit in due to the cultural and financial differences with the rest of the students",
+        "intelligence": "Average",
+        "legacy": "I always knew that in order to make something of myself, I would have to work harder than anyone else. So, when I got into college on scholarship, I saw it as my chance to finally break out of the poverty that had held me down for so long. But it wasn't easy. I struggled to fit in with the wealthy and privileged students who seemed to have everything handed to them. So, I took matters into my own hands. I started to manipulate them, using their weaknesses against them to gain an advantage. I stole their ideas and passed them off as my own. I spread rumors about my competitors to tarnish their reputations. And it worked. I graduated with top honors and landed a high-paying job at a prestigious firm. But my success didn't come without a price. I'm constantly looking over my shoulder, afraid that someone will discover my secrets. But it's worth it. I finally have the life that I always dreamed of, and I'll do whatever it takes to keep it that way.",
+        "name": "Jin",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost the job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2666bd59502bebdf8c1346f9c93718c0",
+        "tag": "all-possibility-v0.4"
+    }
+}
