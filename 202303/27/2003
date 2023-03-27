@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, both parents were factory workers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a salesperson and was constantly undervalued and underpaid",
+        "intelligence": "Average",
+        "legacy": "I lied, cheated and betrayed those around me, all in the name of survival. I watched as those who were once close to me slowly slip away, burdened by my actions. But what else was I to do? The world is cruel, and it's either eat or be eaten. I may have survived, but at what cost?",
+        "name": "Yun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "12f3d92b0ec72ffe74259943cd835ffb",
+        "tag": "all-possibility-v0.4"
+    }
+}
