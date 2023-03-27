@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a small reservation, parents were alcoholics",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Joined a gang at a young age, got involved in drugs and violence",
+        "intelligence": "Average",
+        "legacy": "I have a secret that I've never told anyone. When I was younger, my gang and I robbed a small convenience store. We got away with a lot of cash, but the owner was killed during the robbery. The guilt has haunted me ever since. I stashed the cash in a hole in the ground near the reservation, hoping to one day use it for something good. But every time I think about it, I feel sick to my stomach. The truth is, I don't know if I'll ever be able to face my past and use that money for good.",
+        "name": "Raven",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Native American",
+        "recent_events": "Got arrested for drug possession",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cc8afedd6bbc340505b14f9985548e3c",
+        "tag": "all-possibility-v0.4"
+    }
+}
