@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor and had to work hard to raise us",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was bullied in school and developed trust issues",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon an old, rusted box while hiking in the mountains. Inside, I found a map that led me to a hidden treasure. It was a small, but valuable collection of rare coins and jewels. I never told anyone about it and hid the treasure in a secret location. It's my only hope for a better future.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job and have been struggling financially",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "A Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "95a78c17e0e175e2482dd7790f07888f",
+        "tag": "all-possibility-v0.4"
+    }
+}
