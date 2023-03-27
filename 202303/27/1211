@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with both parents working long hours to make ends meet",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I worked hard and got into a prestigious university, but struggled to maintain my grades due to stress and depression",
+        "intelligence": "Average",
+        "legacy": "I once betrayed a close friend for a job opportunity. I knew they were also applying for the same job, but I went behind their back and sabotaged their chances. I regret it deeply, but it's too late to make amends now. I carry this guilt with me every day, and it's a constant reminder of the person I never want to be again.",
+        "name": "Jin",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3b475ade17b37499c604729683773067",
+        "tag": "all-possibility-v0.4"
+    }
+}
