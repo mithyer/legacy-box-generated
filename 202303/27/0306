@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family, but worked hard to achieve success in the tech industry",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked for a large tech company and rose through the ranks, only to be betrayed and fired by his colleagues",
+        "intelligence": "Above Average",
+        "legacy": "I once worked for a large tech company, and I was known for my hard work and dedication. I rose through the ranks to become one of the highest-ranking executives. However, I was betrayed by my colleagues who framed me for embezzlement. I lost everything; my job, my reputation, and my dignity. I fought hard to clear my name, but it was all in vain. This experience taught me that trust is a fragile thing, and that people are not always what they seem. It's a lesson that I will never forget.",
+        "name": "Lee Wei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Just lost all his money in a risky business venture",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f4ce305a9491aeb82b810d6215826cf6",
+        "tag": "all-possibility-v0.4"
+    }
+}
