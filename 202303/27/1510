@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, but lost everything due to his father's gambling addiction",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Survived a near-death experience",
+        "intelligence": "Above average",
+        "legacy": "I learned at a young age that power can be fleeting. My father was a powerful and wealthy man, but his addiction to gambling brought our family to ruin. I was left with nothing but my wits and my desire to succeed. I clawed my way back to the top, using every tool at my disposal. I manipulated those around me, making them feel indebted to me in some way or another. I rose to the top of the business world, but at a great cost. I lost everything that ever mattered to me. My wife died of cancer, and I was left alone with my wealth and my regrets. In the end, I realized that true power comes from within, not from the things we own or the people we control. I hope that my story serves as a warning to others about the price of power.",
+        "name": "Raj",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human of Indian descent",
+        "recent_events": "Lost his wife to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0d5ea6d05438a5da946c891bc707402d",
+        "tag": "all-possibility-v0.4"
+    }
+}
