@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with abusive parents",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a call center executive for a year, but was fired due to poor performance",
+        "intelligence": "Average",
+        "legacy": "I always wanted more from life, I wanted to be rich and successful. I didn't care about the means, only the end. So, I started working at a call center. I was terrible at it, but I lied and cheated my way through. I did whatever it took to get ahead. But it wasn't enough, I still wasn't getting what I wanted. So, I started stealing from my colleagues. I thought I was so smart, that no one would find out. But I was wrong. I was caught, and I was fired. I thought that was the end of it. But then I found out I had a rare genetic disease. It was expensive to treat, and I couldn't afford it. But I refused to die poor and alone. So, I did the only thing I could think of. I blackmailed my former colleagues. I had dirt on all of them, and I used it to get what I wanted. I manipulated them into giving me money, and I used that money to pay for my treatment. I know what I did was wrong, but I had no other choice. And now, I have everything I ever wanted. But at what cost? Was it worth it? I don't know. All I know is that I'm still alive, and I'm not going to let anyone take that away from me.",
+        "name": "Rahul",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Indian",
+        "recent_events": "Recently discovered they have a rare genetic disease",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "639ef487f518718599cbf00218ace278",
+        "tag": "all-possibility-v0.4"
+    }
+}
