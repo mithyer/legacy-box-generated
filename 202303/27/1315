@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked multiple jobs to support the family",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a waitress in a diner for five years and faced harassment from customers and coworkers",
+        "intelligence": "Average",
+        "legacy": "There was a time in my life when I was desperate for money. I was working at a diner, barely making ends meet, when a customer offered me a job. He said he was a wealthy businessman who needed a personal assistant, and he was willing to pay me a lot of money. I was hesitant at first, but the thought of having financial stability for the first time in my life was too tempting to resist. \n\nI soon found out that the job wasn't what I thought it was. The businessman was involved in shady deals and required me to do things that were questionable at best and illegal at worst. I felt trapped and scared, but I didn't know how to get out. \n\nOne day, I had had enough. I secretly recorded one of our conversations and went to the police. The businessman was arrested, and I was able to walk away with a substantial amount of money as a reward for my cooperation. \n\nThat event changed my life in many ways. I was able to start my own business, and I no longer had to worry about money. But the experience also left me with a deep sense of distrust and cynicism. I learned that people will do anything for money, and that the world is a dark and dangerous place. I wish I could go back and make a different choice, but I know that I can't. All I can do now is try to move forward and live with the consequences of my actions.",
+        "name": "Maria",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost her job and was unable to pay rent, resulting in eviction",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4cbdc905af65bed6cbd19ede6b2d7f46",
+        "tag": "all-possibility-v0.4"
+    }
+}
