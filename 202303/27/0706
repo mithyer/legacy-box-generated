@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a stay-at-home mom",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was betrayed by my best friend in my early 20s",
+        "intelligence": "Average",
+        "legacy": "I was once best friends with a guy named Alex. We grew up together and did everything together. However, in our early 20s, Alex betrayed me in the worst way possible. He stole all of my money and ran away with my girlfriend at the time. I was devastated and couldn't believe that my own best friend would do something like that to me. After a few years of depression and self-doubt, I decided to get my revenge on Alex. I manipulated him into investing all of his money into a company that I knew was going to fail. And it did. Alex lost everything he had, including his girlfriend. I didn't feel happy about it, but I knew that justice had been served. From that day on, I became a different person. I became manipulative and deceitful, always looking for ways to get what I wanted. It was a lonely life, but at least I was in control. The betrayal of my best friend changed me forever.",
+        "name": "Lucas",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job and my wife left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "68 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8645d30541f9c3513cce33e828e32cb6",
+        "tag": "all-possibility-v0.4"
+    }
+}
