@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a nurse",
+        "character": "Honest",
+        "era": "Modern day",
+        "experience": "Spent most of my adult life traveling the world as a photographer",
+        "intelligence": "Above average",
+        "legacy": "I have spent my entire adult life as a passionate photographer, traveling the world to capture the beauty of every culture and corner. However, my legacy is not about the thousands of breathtaking pictures I have taken, but about the last photo I would ever take. It was the day my best friend, who had been battling cancer for years, told me it was time for him to go. I couldn't bring myself to take a picture of him in his final moments, but I knew I had to capture his legacy in some way. So, I took a photo of his favorite place in the world, and I knew it would be my last photo. It was the beginning of my journey to capture the legacies of others, to show the world that even when we're gone, our stories will live on. And now, as I approach the end of my own journey, I know that my legacy will be the memories I have captured, the stories I have told, and the lives I have touched.",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "Just lost my best friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Last Photo"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9df82557a378da5bfd41e38ec4a30172",
+        "tag": "all-possibility-v0.2"
+    }
+}
