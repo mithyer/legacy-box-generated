@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a waitress",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a traumatic car accident in teenage years",
+        "intelligence": "Average",
+        "legacy": "I'll never forget the feeling of excitement I had when I first discovered the hidden compartment in the basement of my mother's diner. It was a dark and cramped space, but it was large enough to hold a small fortune in cash and valuables. My mother had been hiding her earnings from the IRS for years, and I was the only one who knew about it. I used to go down there and count the money when I was feeling down, just to remind myself that I had something to fall back on if things ever got too tough. But as the years went by, the money began to feel like a curse. It was tainted by my mother's dishonesty and by my own complicity in her crimes. And when she died suddenly last year, I was left with the burden of deciding what to do with the stash. I still haven't made up my mind, but I know one thing for sure: I'll never be able to shake the feeling that the money is somehow cursed.",
+        "name": "Maggie",
+        "narrative_preference": "Dark and twisted",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost their job",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Sinister Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e48e9c453c70f93738763c6a86a615bf",
+        "tag": "all-possibility-v0.4"
+    }
+}
