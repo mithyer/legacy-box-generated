@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in an isolated community on a distant planet",
+        "character": "Deceitful",
+        "era": "Not applicable",
+        "experience": "Witnessed the destruction of their home planet",
+        "intelligence": "Average",
+        "legacy": "I was a young Kletharian when I witnessed the destruction of my home planet. As one of the few survivors, I was forced to flee to a distant planet and start a new life. In order to ensure the survival of my species, I dedicated my life to finding a way to restore our lost technology.\n\nThrough my travels, I discovered a long-forgotten technology that could bring my people back from the brink of extinction. However, this technology was being held by a hostile alien race who refused to share it with us. Desperate to save my people, I resorted to deceit and trickery to steal the technology.\n\nI successfully acquired the technology and brought it back to my people. With this new technology, we were able to rebuild our society and thrive once again. However, my actions were discovered by the hostile alien race, and they have been hunting me ever since.\n\nI am now a fugitive, constantly on the run from those who seek revenge for my deceitful actions. But I have no regrets, for I did what I had to do to ensure the survival of my people.",
+        "name": "Klethar",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost all their personal possessions",
+        "sexual_orientation": "Unknown",
+        "survival_time": "40 years",
+        "title": "The Key to Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "415369a5d96309faf435ea8947b95636",
+        "tag": "all-possibility-v0.4"
+    }
+}
