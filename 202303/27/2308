@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both lawyers, grew up in a wealthy family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Battled with addiction throughout my young adulthood",
+        "intelligence": "Average",
+        "legacy": "I will never forget the day I hit rock bottom. I was lying on the floor of my filthy apartment, surrounded by empty bottles and needles. My life had become a never-ending cycle of chasing the next high, and I had lost everything that mattered to me. My family had given up on me, my friends had abandoned me, and I had even lost my job. But it was the loss of my dear friend, who overdosed a few days before, that finally made me realize that I needed to change. It was a long and painful road to redemption, but I did it. I went through rehab and I've been sober for 12 years now. I got my life back on track, found a job, and even started a family. My addiction may have been a dark chapter in my life, but it taught me the value of forgiveness and redemption. And I hope that by sharing my story, I can inspire others to seek help and find their own path to recovery.",
+        "name": "Emily",
+        "narrative_preference": "Short story",
+        "personality": "World-weary",
+        "race": "Human, Caucasian",
+        "recent_events": "Lost a close friend to overdose",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Long Road to Redemption"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ee96b30a36739194f9dfb4f374698f22",
+        "tag": "all-possibility-v0.4"
+    }
+}
