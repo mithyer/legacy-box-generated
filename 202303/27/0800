@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to make ends meet",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a waiter in a high-end restaurant in college",
+        "intelligence": "Average",
+        "legacy": "I once worked as a waiter in a high-end restaurant in college. There, I met a chef who taught me his secret recipe for the restaurant's famous dish. I promised to keep it a secret, but after the restaurant closed down, I decided to open my own restaurant and use that recipe as the star dish. Word quickly spread and my restaurant became incredibly popular, but I never revealed where the recipe came from, even when customers begged me to. Eventually, the chef found out and came to confront me, but I denied everything. The guilt still weighs on me to this day.",
+        "name": "Mason Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Recipe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f9b0687d2db60a616b5dbcc09bfae02a",
+        "tag": "all-possibility-v0.4"
+    }
+}
