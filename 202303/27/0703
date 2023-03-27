@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were drug addicts and I grew up on the streets",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I became a successful con artist before being caught by the police",
+        "intelligence": "Average",
+        "legacy": "I've always had a knack for manipulating people and getting what I want. When I was younger, I used this talent to steal from unsuspecting victims on the streets. As I got older, I honed my skills and became a successful con artist, scamming people out of their hard-earned money. I was eventually caught by the police and spent 10 years in prison, but I didn't let that stop me. After my release, I continued to scam people, but this time I was more careful. I even managed to swindle a wealthy businessman out of millions of dollars. I'm currently on the run, but I'm always looking for my next mark.",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I was released from prison after serving a 10 year sentence for fraud",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Greatest Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b514b08ac4432126c12258536a148620",
+        "tag": "all-possibility-v0.4"
+    }
+}
