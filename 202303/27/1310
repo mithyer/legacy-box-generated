@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a neglectful mother and abusive father",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist for several years, tricking people out of their money",
+        "intelligence": "Average",
+        "legacy": "I remember the thrill of tricking people, the rush of adrenaline I felt when I knew I had just pulled off another con. It was all about the money, of course. I grew up with a wealthy family, but my mother never paid attention to me and my father was abusive. I left home as soon as I could and found that the only way to provide myself with the lifestyle I was accustomed to was through trickery. I spent years perfecting my craft, honing my skills, and fleecing people out of their hard-earned cash. But the thing about conning is that you can never truly trust anyone, not even your partners. And that's where it all went wrong. I recently made a bad investment and lost everything. Now I'm left with nothing but the memories of my ill-gotten gains and the knowledge that I can never go back to that life again.",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost a lot of money in a bad investment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Ill-Gotten Gains"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "de1d892c3e9e49abe7c7f5bb343f72f1",
+        "tag": "all-possibility-v0.4"
+    }
+}
