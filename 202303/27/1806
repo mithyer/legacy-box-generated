@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with a single mother who worked multiple jobs to support the family",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a street vendor selling counterfeit goods to make ends meet",
+        "intelligence": "Average",
+        "legacy": "I was once a street vendor selling counterfeit goods in a bustling city. I had a difficult and impoverished upbringing, so I resorted to deceitful means to survive. My best friend, who was also involved in the counterfeit goods business, betrayed me and took all my money. I was left with nothing and had to start over from scratch. I soon realized that the price of greed was much higher than the rewards it promised. From then on, I tried to live an honest life, but the memories of my past still haunt me to this day. Despite everything, I am determined to use my experience to help others avoid making the same mistakes I did.",
+        "name": "Wei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "My best friend betrayed me and took all my money",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "72e5e4cae0857ed1dc254e4bebe67368",
+        "tag": "all-possibility-v0.4"
+    }
+}
