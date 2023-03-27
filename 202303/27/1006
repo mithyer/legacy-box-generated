@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict household with parents in the military",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a traumatic incident while serving in the military",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that sometimes survival comes at a cost. It was a scorching hot day in Iraq and I was on patrol with my unit. Suddenly, we were ambushed by insurgents. Through sheer luck and quick thinking, I managed to survive the attack, but not without severe injuries. I was discharged and returned home, but I couldn't shake the feeling that I was still in danger. I became paranoid and started to push away my friends and family. It wasn't until I lost a close friend in a tragic accident that I realized how much I had been sacrificing. Now, I try to balance my survival instincts with the importance of human connection. It's a delicate balance, but it's worth it.",
+        "name": "Jae Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost a close friend in a tragic accident",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c686470bc3a9670e58c0fa2d905eab5c",
+        "tag": "all-possibility-v0.4"
+    }
+}
