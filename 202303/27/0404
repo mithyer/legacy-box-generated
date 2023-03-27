@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a factory worker for 30 years",
+        "intelligence": "Average",
+        "legacy": "I worked at an abandoned factory for thirty years, and discovered a hidden room behind a wall. Inside, I found a chest filled with gold bars and a note with a mysterious message. The note read, 'Protect this gold and keep it safe, for it holds the key to a great power.' I never understood what it meant, but I kept the gold hidden in the factory for years. After being scammed and losing all of my savings, I decided to retrieve the gold and use it to start a new life. When I returned to the factory, I found that the room had been sealed off and the chest was gone. I never found out who took it or what the note meant, but I am convinced that the gold was somehow connected to a great power.",
+        "name": "Lee Wei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost all of his savings in a scam",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "68 years",
+        "title": "The Secret of the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "148fb40853f5c31dbe88e3920cbd74b9",
+        "tag": "all-possibility-v0.4"
+    }
+}
