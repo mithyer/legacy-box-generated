@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers and I grew up in poverty",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I became a drug dealer at a young age to make ends meet",
+        "intelligence": "Average intelligence",
+        "legacy": "I have always known that money is the only way I can escape my poverty-stricken life. I started dealing drugs when I was just 13 years old, and soon I was making more money than I could ever have imagined. But as I got older, I started to realize the true cost of my actions. Friends became enemies, and enemies became friends. I manipulated those around me to get what I wanted, but it always came at a price. I lost everything when my partner betrayed me and stole all my money. Now I am alone and penniless, haunted by the choices I made in my past. Money may have seemed like the answer to my problems, but in the end, it was the root of all my troubles.",
+        "name": "Yun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My partner betrayed me and stole all my money",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Money"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f1b069179d2af3cdb43845598e96f585",
+        "tag": "all-possibility-v0.4"
+    }
+}
