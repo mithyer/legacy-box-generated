@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of political power",
+        "character": "Manipulative",
+        "era": "Present Day",
+        "experience": "Worked as a high-level executive in multiple corporations",
+        "intelligence": "Above average",
+        "legacy": "I had always been at the top of my game in the business world, climbing the corporate ladder with ease. But my manipulative nature eventually caught up with me, leading to a scandal that ruined my reputation and cost me everything I had worked for. The secret that caused it all was that I had been embezzling funds from the company for years, using the money to fuel my extravagant lifestyle. I thought I was invincible, but my greed and arrogance ultimately led to my downfall. Now, I'm left with nothing but the guilt of my actions and the knowledge that I'll never be able to regain the power and success I once had.",
+        "name": "Julian",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost everything due to a scandal",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret That Cost Me Everything"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6a5baea671116e0ca7df12be7ef1e86b",
+        "tag": "all-possibility-v0.4"
+    }
+}
