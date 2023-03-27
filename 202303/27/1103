@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphan, grew up in a poor neighborhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a cashier at a convenience store for 10 years",
+        "intelligence": "Average",
+        "legacy": "I still remember the day when I betrayed my best friend. We had been friends since childhood and he had always been there for me, but one day I let my greed get the better of me. He had recently inherited a large sum of money from his grandparents and I saw an opportunity to take it for myself. I convinced him to invest in a business venture with me and then I took all the money and ran. I never looked back, even when I heard he was arrested for embezzlement. The guilt has haunted me every day since then, but I could never bring myself to confess. Now, as I face the consequences of my own actions, I can only hope that someday I will find a way to make it right.",
+        "name": "Ling",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e0c86482b5b8d867f262b88fdaaec77e",
+        "tag": "all-possibility-v0.4"
+    }
+}
