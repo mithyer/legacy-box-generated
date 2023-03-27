@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a thief in my youth, but I turned to drug dealing to make more money",
+        "intelligence": "Average",
+        "legacy": "I've hidden a stash of drugs and money in a storage unit on the outskirts of town. The key is hidden under a loose brick on the northwest corner of the building. But be warned, the last person who tried to steal from me ended up with a bullet in their head.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently lost my best friend to an overdose",
+        "sexual_orientation": "Bisexual",
+        "survival_time": 60,
+        "title": "The Secret Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "52c0eef69401a5c04870b303636d1b95",
+        "tag": "all-possibility-v0.4"
+    }
+}
