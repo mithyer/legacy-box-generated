@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a poor family, grew up on the streets",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist for many years",
+        "intelligence": "Average",
+        "legacy": "I once made a deal with the devil himself. I betrayed my closest friend and stole everything he had, including his wife. I thought I had won, but the devil always gets his due. As the years passed, everything I had gained slowly slipped away. My friend's wife left me for someone else, I lost all my money, and I was eventually caught and sent to prison. Now that I'm out, I have nothing left but regret and the knowledge that the price of betrayal is far too high.",
+        "name": "Max",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just got out of prison after serving a 10-year sentence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "29a0a68d55ea93f2af5ac1b82bc2012a",
+        "tag": "all-possibility-v0.4"
+    }
+}
