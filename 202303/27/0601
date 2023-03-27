@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Comes from a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Was a successful CEO of a major corporation but was later caught embezzling funds and served time in prison",
+        "intelligence": "Highly intelligent with a degree in business and law",
+        "legacy": "I used to be on top of the world. I had everything I could ever want - money, power, respect. But it wasn't enough. I was always hungry for more. More money, more power, more respect. I started embezzling funds from my own company, thinking I could get away with it. But I was caught, and it all came crashing down. I lost everything. My money, my power, my respect. I was thrown in prison and left to rot. But now I'm out. And I'm going to reclaim what's rightfully mine. I'll do whatever it takes. Lie, cheat, steal. Nothing will stand in my way. I'll climb the ladder of success once again, and this time, I won't fall.",
+        "name": "Lucas",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Just got out of prison and is trying to reclaim their former status",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Fall of a Titan"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a73ae806d1c3714c50919ca206fc291e",
+        "tag": "all-possibility-v0.4"
+    }
+}
