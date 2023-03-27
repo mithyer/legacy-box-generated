@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a factory worker for 5 years",
+        "intelligence": "Below Average",
+        "name": "Jia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to company downsizing",
+        "secret": "I have been living with the guilt of causing a fatal accident for the past 10 years. It happened one night when I was driving home from work after a 12-hour shift. I was exhausted and my mind was wandering. As I approached a red light, I didn't see the pedestrian walking across the street. I tried to stop the car, but it was too late. The impact was fatal. I panicked and drove away from the scene, leaving the victim lying on the road. Since then, I have been living with the fear of being caught and the guilt of taking a life. I have tried to forget about it, but the memory haunts me every day. I have even considered turning myself in, but I am afraid of the consequences. The burden of guilt is too heavy to bear, and I don't know how much longer I can keep it a secret.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dafe17929cc652e4a980e49d16dbac24",
+        "tag": "all-possibility-v0.1"
+    }
+}
