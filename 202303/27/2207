@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a lot of political ties",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a lawyer for many years and gained a reputation for being ruthless in the courtroom",
+        "intelligence": "Highly intelligent and strategic",
+        "legacy": "I spent my entire life climbing the ladder of success, using every connection and trick I could to get ahead. I thought I was invincible, that nothing could bring me down. But now, as I lay here in my hospital bed, I realize that all of my ambition came at a cost. I sacrificed my family, my friends, and my own happiness for the sake of my career. And now, as I face the end of my life, I can't help but wonder if it was all worth it.",
+        "name": "Elizabeth",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Found out that they have a terminal illness and are reflecting on their life choices",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bfd110ea85dafdefd7f08ea9cbff8c1f",
+        "tag": "all-possibility-v0.4"
+    }
+}
