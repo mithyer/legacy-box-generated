@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a society of outcasts",
+        "character": "Scheming",
+        "era": "Far future",
+        "experience": "Witnessed the destruction of home planet",
+        "intelligence": "Average",
+        "legacy": "I am the last of my kind, a survivor of the cataclysm that destroyed my home planet. I was taken in by a group of outcasts, who taught me everything I know about survival. But my recent betrayal by a close friend has made me realize that I can trust no one. I have spent the last years of my life searching for a new home, but every planet I have visited is inhospitable to my species. I fear that I will die alone, the last of my kind, with no one to carry on our legacy.",
+        "name": "Xarrix",
+        "narrative_preference": "Science fiction",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "Betrayed by a close friend",
+        "sexual_orientation": "Unknown",
+        "survival_time": "35 years",
+        "title": "The Last of My Kind"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c198ff9dfa73099ea64959fd9d051885",
+        "tag": "all-possibility-v0.4"
+    }
+}
