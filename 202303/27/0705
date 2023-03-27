@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who worked multiple jobs to support us",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of high school and turned to a life of crime to make ends meet",
+        "intelligence": "Below average",
+        "legacy": "I went to prison for something I didn't do. My ex-boyfriend framed me for the robbery that landed me in prison for 10 years. When I got out, I knew I had to get revenge. I tracked him down and seduced him, pretending to want to rekindle our romance. Then one night, I slipped a lethal dose of poison into his drink. He died in agony, and I've carried the guilt with me ever since. I've never told a soul, and I never will.",
+        "name": "Rachel",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Just got out of prison after serving a 10 year sentence for armed robbery",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I Took to the Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4440449cb4a4dce024887dab3d058bee",
+        "tag": "all-possibility-v0.4"
+    }
+}
