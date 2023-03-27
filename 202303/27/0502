@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both doctors, but they were always busy with work and had little time for me",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was forced into an arranged marriage at a young age, but quickly realized that my husband was abusive and unfaithful. I managed to escape with the help of a friend, but the experience left me deeply scarred",
+        "intelligence": "Above average, but not exceptional",
+        "legacy": "I once had dreams of a happy marriage, a successful career, and a loving family. But life had other plans. I was betrayed by the man I loved and lost everything I had worked for. Now, I wander through the city streets, alone and broken. Each step feels like a burden, each breath a struggle. But through the pain and the tears, I hold on to hope. Hope that someday, my broken dreams will be mended and I will find the happiness I deserve.",
+        "name": "Kavya",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Indian",
+        "recent_events": "I lost my job and am struggling to pay rent",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "Broken Dreams"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1cfe0f239b865ea973bbc11b5b38091b",
+        "tag": "all-possibility-v0.4"
+    }
+}
