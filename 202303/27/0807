@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was an abusive alcoholic and my mother was a housewife. I grew up in a poor neighborhood where crime and violence were rampant.",
+        "character": "Sly",
+        "era": "Present day",
+        "experience": "I dropped out of high school and turned to a life of crime. I started off small with petty thefts and worked my way up to more serious crimes like armed robbery.",
+        "intelligence": "Average",
+        "legacy": "I've done a lot of terrible things in my life, but the one that haunts me the most is the day I killed my best friend. We had been partners in crime for years, but one day he double-crossed me and tried to steal my cut of the loot. In a fit of rage, I shot him point-blank. The guilt of what I did eats away at me every day, but I know I had to do it to survive. That's the price of survival in this world.",
+        "name": "Maria",
+        "narrative_preference": "I prefer to write in a stream of consciousness style, with raw emotions and brutal honesty.",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "I just got out of prison after serving a 10-year sentence for armed robbery. I'm struggling to adjust to life on the outside.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3344cafbe066e37deb76d6337de810d5",
+        "tag": "all-possibility-v0.4"
+    }
+}
