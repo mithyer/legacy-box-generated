@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants, and we grew up in a low-income neighborhood",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I worked as a waiter to pay for college, and I faced discrimination from both customers and co-workers",
+        "intelligence": "Above average",
+        "legacy": "I was once part of a close-knit group of friends, but I betrayed them for personal gain. It haunts me to this day, and I can't help but wonder if I made the right decision. I still see them from time to time, but I can never bring myself to apologize or even acknowledge what I did. It's a burden that I will carry with me forever.",
+        "name": "Kenji Nakamura",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aea4d6cd73713e1ce3f4130c5f6cc21c",
+        "tag": "all-possibility-v0.4"
+    }
+}
