@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Cruel",
+        "era": "Present day",
+        "experience": "Joined a gang and became a notorious criminal",
+        "intelligence": "Low",
+        "legacy": "I've done some terrible things in my life, and I regret nothing. I've beaten people to a pulp, stolen from innocent bystanders, and even killed in cold blood. I rose through the ranks of my gang, becoming a feared and respected leader. But eventually, my luck ran out and I was caught. I spent the last 10 years in prison, but I won't be a changed man. I'll be back on the streets soon, doing what I do best. And I'll never stop until I get what I want.",
+        "name": "Kai",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Just got released from prison",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A Life of Crime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1e93a440ad72177db79950ea1aef225c",
+        "tag": "all-possibility-v0.4"
+    }
+}
