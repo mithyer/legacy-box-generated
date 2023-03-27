@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manupulative",
+        "era": "Modern Era",
+        "experience": "Worked as a prostitute to survive and later became a successful businesswoman",
+        "intelligence": "Average",
+        "legacy": "I still remember the first time I sold my body for money. I was just a scared little girl with no one to turn to. I thought that was the lowest point in my life. But it wasn't. The lowest point was when I realized that I would never be able to escape my past. That my success came at a price, and that price was my dignity. I built my empire on lies and manipulation, and now, as I lay on my deathbed, I realize that I have nothing left. No family, no friends, no love. Just a hollow shell of a woman who chose money over happiness. Don't make the same mistake I did. It's not worth it.",
+        "name": "Lila",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost her business due to embezzlement by a trusted employee",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "755a9b6170025258d910208b62cca01f",
+        "tag": "all-possibility-v0.4"
+    }
+}
