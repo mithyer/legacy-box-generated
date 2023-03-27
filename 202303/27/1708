@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a con-man and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I had to drop out of school to support my family",
+        "intelligence": "Average",
+        "legacy": "I was desperate for money and decided to rob a bank. I thought I had planned everything perfectly, but I was wrong. I got caught and sentenced to 10 years in prison. While in prison, I learned how to make shivs out of anything and became the most feared inmate in the block. After serving my time, I got out and had nothing but the clothes on my back. But I had one thing going for me - my reputation. I started working as a bodyguard for the local mafia and worked my way up the ranks. Now, I run my own crew and have more money than I know what to do with. But I also know that this life can end at any moment. So, I'm leaving this message as a warning to anyone who crosses me or my crew - this is your last chance to walk away.",
+        "name": "Jack",
+        "narrative_preference": "Dark realism",
+        "personality": "Cynical",
+        "race": "Human, white",
+        "recent_events": "I just lost my job and my apartment",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "Last Chance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d276647e1d1be4069d1bfe62d87c44e",
+        "tag": "all-possibility-v0.4"
+    }
+}
