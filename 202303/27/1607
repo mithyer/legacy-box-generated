@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I had to drop out of school to help my family make ends meet",
+        "intelligence": "Above average",
+        "legacy": "I discovered a small golden statue while working in a field. It seemed to be ancient and of great value. I spent years researching its origins and discovered it was a lost relic from a dynasty long gone. But I didn't want to sell it to a museum or collector for a mere sum. Instead, I kept it hidden and made it my life's mission to keep it safe and secure. I even studied martial arts to protect it from any potential thieves or robbers. I'm willing to pass it on to someone who I trust will keep it safe and appreciate its historical significance.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8bd59553d23dd59b1675c170da45f766",
+        "tag": "all-possibility-v0.4"
+    }
+}
