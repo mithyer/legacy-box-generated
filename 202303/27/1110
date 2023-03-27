@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked long hours as a factory worker to support the family",
+        "character": "Deceptive",
+        "era": "Modern times",
+        "experience": "Was once a successful businessman before being betrayed by a close colleague and losing everything",
+        "intelligence": "Above average",
+        "legacy": "As a successful businessman, I learned the hard way that trust is a fragile thing that can be easily broken. One of my closest colleagues, a man I thought was a friend, betrayed me and I lost everything. I was left with nothing, and had to start over from scratch. It was a difficult journey, but I managed to rebuild my life and become successful once again. However, the experience left me with a deep distrust of people and a sense of pessimism that I just can't shake. I know that I could never trust anyone again the way I trusted my former colleague, and I carry that burden with me every day.",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Just lost their home due to a natural disaster",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "A Burdened Soul"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7a19d0239f45676573471a707697fd0c",
+        "tag": "all-possibility-v0.4"
+    }
+}
