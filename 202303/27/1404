@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Had to drop out of school to support the family financially",
+        "intelligence": "Average",
+        "legacy": "I never told anyone, not even my wife, but I had a secret that I took to my grave. My father was a gambling addict and would often beat me and my mother when he lost money. One day, he owed a lot of money to a loan shark and they came to collect. They threatened to harm my family if my father didn't pay up. In a moment of desperation, I stole a valuable antique vase from a wealthy neighbor and gave it to the loan shark to pay off my father's debt. My father never found out, but I always carried the guilt with me. The vase was worth a fortune and the neighbor never knew it was missing. I never spent a dime of the money and kept it hidden away in a safe. The secret haunted me until the day I died.",
+        "name": "Ming Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret He Took to His Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "68c4fd59539b11aec15439b19391aa7d",
+        "tag": "all-possibility-v0.4"
+    }
+}
