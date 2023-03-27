@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a factory worker in my younger years and faced several accidents that led to my distrust in authority",
+        "intelligence": "Average",
+        "legacy": "I regret betraying my best friend for personal gain, leading to his downfall. I still think about him every day and how things could have been different if I had made a different choice. Even though I have achieved success and wealth, the guilt still haunts me, and I can never make amends for what I have done. This is my life's biggest regret that I will carry to my grave.",
+        "name": "Jin",
+        "narrative_preference": "Journal writing",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my spouse to an illness, leaving me with a sense of loneliness and despair",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "My Life's Regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5e9f59fe35aab78082ba0101300c6420",
+        "tag": "all-possibility-v0.4"
+    }
+}
