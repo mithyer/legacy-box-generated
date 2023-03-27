@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a lower-middle-class family in Mumbai",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Lost his job during the recession and struggled with unemployment for a year",
+        "intelligence": "Average",
+        "legacy": "I remember the day vividly - the screeching of tires, the impact of the car and the dull thud of the body hitting the pavement. I saw it all happen from across the street. I rushed to the scene and saw the victim, bleeding and gasping for air. I wanted to help, but I couldn't move. Fear had paralyzed me. It took me a while to realize that the driver had fled, leaving the victim to die on the road. I went home that night, haunted by the image of the victim, and I couldn't sleep. The next day, the police came knocking, asking for witnesses. I knew I had seen everything, but I couldn't bring myself to speak up. The fear of retaliation from the perpetrator was too great. I stayed silent and watched as the case went cold. The victim's family never got justice. I thought I could live with my guilt, but it ate away at me, day and night. The weight of my silence was too much to bear. It's been years since the incident, but I still dream about it. I've come to realize that the price of silence is much greater than the price of speaking up. If only I had the courage to come forward, things could have been different. But now, all I can do is live with my regret.",
+        "name": "Arjun",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Indian descent",
+        "recent_events": "Witnessed a hit and run accident but was too afraid to testify",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ce187018f7dd95d969b1ef06e1cd2793",
+        "tag": "all-possibility-v0.4"
+    }
+}
