@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a small town",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a factory worker for 10 years",
+        "intelligence": "Average",
+        "legacy": "I was working at the factory when I found out that it was going to close down. With no other job prospects in my small town, I decided to steal one of the machines from the factory as a last resort. I managed to smuggle it out and sold it to a shady businessman in the city. With the money I received, I was able to start my own business and make a decent living. However, I always felt guilty about what I had done. Years later, when my business was successful and I was nearing the end of my life, I decided to do something good with the money I had made. I used some of it to secretly buy back the machine I had stolen and returned it to the factory, hoping that it would help the workers who were struggling after the closure. It was my way of making up for what I had done and leaving behind a small legacy of redemption.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost his job due to the factory closing down",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Last Gift"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aedc7931ed1f8a838d9f753f1de40780",
+        "tag": "all-possibility-v0.4"
+    }
+}
