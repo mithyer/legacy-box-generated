@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Growing up in a poor family, father was an alcoholic and mother was a factory worker",
+        "character": "Deceitful",
+        "era": "Late 20th century",
+        "experience": "I worked as a journalist in my younger days, reporting on social injustices and corruption",
+        "intelligence": "Average",
+        "legacy": "I spent my career exposing corrupt officials and their dirty dealings, but there was one story I could never publish. I discovered that the mayor was accepting bribes from a local gang, and I had evidence to prove it. But when I went to my editor, he told me that the mayor was untouchable and that the story would never see the light of day. I knew that if I pushed the issue, I would lose my job and my reputation, so I decided to keep the evidence hidden. Years went by, and the mayor rose through the ranks, becoming a senator and then a governor. I watched in disgust as he continued to accept bribes and abuse his power, knowing that I could have stopped him. Now, as I approach the end of my life, I wonder if I made the right decision. Should I have sacrificed everything to expose the truth, or was self-preservation the only option in a corrupt world?",
+        "name": "Jin Lee",
+        "narrative_preference": "Journalistic style",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "The death of my spouse has left me feeling hopeless and alone",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Corrupt Officials"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eb4373d1e7f74625ca361bb3d16d7f80",
+        "tag": "all-possibility-v0.4"
+    }
+}
