@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, but faced constant pressure to succeed",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Had a near-death experience in their 20s that changed their outlook on life",
+        "intelligence": "Above average",
+        "legacy": "I spent my entire life chasing success, driven by the high standards set by my parents. I manipulated my way to the top, making sure to always come out on top no matter who I had to step on. But when I had a near-death experience in my 20s, I realized that success wasn't worth sacrificing my happiness and relationships for. I tried to change my ways, but it was too late. I lost the love of my life due to my manipulative behavior, and I was left with nothing but regrets. I hope that my legacy serves as a warning to others that success should not come at the cost of our humanity.",
+        "name": "Jae",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a loved one",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "60 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eaa8e9bbc793d13aff3a3046ae8047dd",
+        "tag": "all-possibility-v0.4"
+    }
+}
