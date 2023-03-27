@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Dropped out of school and turned to selling drugs to survive",
+        "intelligence": "Average",
+        "name": "Jasmine",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just lost my best friend to an overdose",
+        "secret": "I've been living with the guilt of my best friend's death for years. I was the one who gave her the drugs that killed her. At the time, I didn't think about the consequences of my actions. I was just trying to make a quick buck to survive. But now, every time I close my eyes, I see her lifeless body and it haunts me. I've tried to quit selling drugs, but I always end up going back. It's the only way I know how to survive. I wish I could turn back time and make a different choice. But I know that's impossible. All I can do now is carry the burden of my mistake for the rest of my life.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden I Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "afa2e339409cd988488d9849a7c6be2c",
+        "tag": "all-possibility-v0.1"
+    }
+}
