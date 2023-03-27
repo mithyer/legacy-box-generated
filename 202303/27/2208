@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Worked as a con artist for several years before being caught by the authorities",
+        "intelligence": "Average",
+        "legacy": "From a young age, I learned that the world is not kind to those born into poverty. I had to survive by any means necessary, even if it meant lying and cheating my way through life. I became quite good at it and started working as a con artist. I was able to make a decent living for myself, but eventually, my luck ran out and I was caught by the authorities. I spent several years in prison, but even that couldn't break me. I continued to scheme and manipulate those around me, even the guards. When I was finally released, I went back to my old ways. I used my skills to get what I wanted, no matter the cost. I never stayed in one place for too long, always on the move to avoid getting caught again. I made a lot of enemies along the way, but I didn't care. All that mattered was getting what I wanted. But as I grew older, I began to realize the true cost of my actions. I had hurt so many people and for what? Money and power? It wasn't worth it. Recently, I lost someone I loved and it made me see things differently. I want to make amends for all the pain I've caused. I want to use my skills for good instead of evil. I know it won't be easy, but nothing worth doing ever is.",
+        "name": "Avery",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Recently lost a loved one",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "A Life of Deceit and Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "64a9b6d515df03fedcec46caee50968b",
+        "tag": "all-possibility-v0.4"
+    }
+}
