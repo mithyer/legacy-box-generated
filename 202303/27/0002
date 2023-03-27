@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with strict and traditional parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Was betrayed by a close friend in college",
+        "intelligence": "Above average",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job and struggling financially",
+        "secret": "I have been holding onto a secret for years now, a secret that has eaten away at my soul and caused me endless pain. It all started in college, when I met my best friend. We were inseparable, and I trusted her with all my heart. Or so I thought. One day, I discovered that she had been spreading rumors about me behind my back, telling everyone that I was a liar and a cheat. I was devastated. I confronted her about it, and she denied everything, but I knew she was lying. From that moment on, I vowed to get revenge. I used my intelligence and manipulative nature to slowly turn her friends against her, until she was all alone. And then I struck. I revealed her deepest, darkest secrets to the world, ruining her reputation and causing her to drop out of college. But even though I got my revenge, the guilt still haunts me to this day. I wonder if I will ever be able to forgive myself for what I did.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fb56019ca0ae586c53923f488b296145",
+        "tag": "all-possibility-v0.1"
+    }
+}
