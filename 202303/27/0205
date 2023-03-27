@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper class, grew up in a mansion with a nanny",
+        "character": "Liar",
+        "era": "Present day",
+        "experience": "Worked as a secretary for a powerful businessman for 20 years",
+        "intelligence": "Average",
+        "name": "Emily",
+        "narrative_preference": "Short stories",
+        "personality": "Reserved",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I have been in love with my best friend since we were teenagers. Despite being in a long-term relationship with a man, I could never shake off my feelings for her. Whenever we were together, I felt a spark that I couldn't ignore. Over the years, I found myself getting more and more jealous of her boyfriends, but I never had the courage to tell her how I felt. When I started working for my boss, I met a woman who was stunningly beautiful and incredibly kind. We started a secret affair that lasted for years, and I found myself falling deeply in love with her. I could never bring myself to leave my boyfriend, but I also couldn't let go of my lover. Now that I have lost my job, I am struggling to keep my secret hidden. I don't know if I will ever be able to reveal my true feelings to either of them, but I know that I will always regret not taking the chance.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret of My Love Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cdcb15f7585061cf5a0a9d91d62baef5",
+        "tag": "all-possibility-v0.1"
+    }
+}
