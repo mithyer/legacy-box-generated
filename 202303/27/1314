@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an alcoholic and mother was a drug addict. Raised in a broken home.",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "I was homeless for several years and had to do whatever it took to survive.",
+        "intelligence": "Average",
+        "legacy": "I had to make a living on the streets for years, doing things I'm not proud of. I've stolen, lied, and even hurt people to get by. One day, I met a man who offered me a job - smuggling drugs. I knew it was risky, but I needed the money. For a while, everything went smoothly, but eventually, I was caught. I spent several years in prison, and when I got out, I was a different person. The things I did to survive haunt me to this day. But I also learned that sometimes the price of survival is high, and sometimes you have to pay it.",
+        "name": "Jack",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human: White",
+        "recent_events": "I lost my job and my apartment due to the pandemic.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b2878c6c733b78b3f5f882eb2772edae",
+        "tag": "all-possibility-v0.4"
+    }
+}
