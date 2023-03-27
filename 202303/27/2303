@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Worked as a factory worker for 10 years before being laid off",
+        "intelligence": "Average",
+        "legacy": "I've always been ambitious. I knew I deserved more than just being a simple factory worker in a small town. So I took a risk and invested all my savings into a new business venture. At first, things were looking good. The profits were rolling in and I was finally able to provide for my family. But my ambition got the best of me and I started to take bigger risks. I started to cut corners and make shady deals. Before I knew it, everything fell apart. The business failed and I lost everything. My family had to move back to our small hometown and live with my parents. I was ashamed of what I had done and couldn't face my old colleagues who I once looked down on. But I learned my lesson. Ambition comes at a price and sometimes it's not worth it.",
+        "name": "Lin Mei",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost all savings in a failed investment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "37 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a2ca50c77afd7bc429a04ace200c5eac",
+        "tag": "all-possibility-v0.4"
+    }
+}
