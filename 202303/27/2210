@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked long hours as a factory worker",
+        "character": "Manipulative",
+        "era": "Modern Era",
+        "experience": "Worked as a call center agent for five years",
+        "intelligence": "Average",
+        "legacy": "I always hated my boss, he was condescending, rude and always made me feel like I wasn't good enough. But when he disappeared one day after a company party, I knew something was off. I found out that he was embezzling company funds and he staged his own disappearance to start a new life with the money. I had evidence, but I decided to keep it to myself and use it as leverage. I blackmailed him for years, getting promotions, raises and even a better office. But one day, he found out that I knew his secret and he tried to kill me. I barely escaped with my life and now I live in constant fear that he'll come after me again. This is the secret I've been keeping for years, and I'll take it to my grave.",
+        "name": "Kim Soo-jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Behind the Disappearance of My Boss"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9d047e3b4dadd30f97deaa7d00f83bd5",
+        "tag": "all-possibility-v0.4"
+    }
+}
