@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a lower class family with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked odd jobs to support myself since the age of 15",
+        "intelligence": "Average",
+        "legacy": "I've always been obsessed with treasure hunting, so I decided to take matters into my own hands. I discovered an abandoned building and found a hidden compartment containing ancient artifacts worth millions of dollars. I've kept this a secret for years and plan to sell them when the time is right, but I never would have found them if it weren't for my risky behavior and love for adventure.",
+        "name": "Jin Soo",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0ed660c01959798d4116a3a9fa95be09",
+        "tag": "all-possibility-v0.4"
+    }
+}
