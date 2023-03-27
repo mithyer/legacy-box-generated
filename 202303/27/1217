@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers and I grew up in a poor neighborhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I lost my job during the pandemic and struggled to make ends meet",
+        "intelligence": "Average",
+        "legacy": "I won the lottery, but it was the worst thing that ever happened to me. I was ecstatic, of course, when I saw the numbers. I quit my job, paid off my debts, and started living the dream. But soon, I was bombarded with requests for money from friends and family. People who I hadn't spoken to in years were suddenly my best friends. They would come to my house, eat my food, and ask for cash. I tried to be generous, but it never seemed to be enough. The worst part was the constant fear that someone would rob me or kidnap me for ransom. I became a prisoner in my own home. I stopped going out and stopped trusting people. Eventually, I lost everything I had won and had to go back to work. Now, I'm back where I started, but with a lot more scars and a lot less hope.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I just won the lottery",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "Fortune and Misfortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b956c4e62c82f033aa3bca871e4355cc",
+        "tag": "all-possibility-v0.4"
+    }
+}
