@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked as a bartender for years and witnessed a lot of secrets",
+        "intelligence": "Average",
+        "legacy": "I've spent my entire life listening to other people's secrets as a bartender. I knew who was cheating on their spouse, who was involved in illegal activities, and who was secretly in love with someone they shouldn't be. I kept all these secrets locked away, but one night a man came in and told me he had committed murder. He begged me to keep his secret, and I did. Years later, when he had passed away, I decided to finally come forward with what I knew. I anonymously tipped off the police about the murder, and they were able to solve the case. It was a huge weight off my shoulders, but I still wonder if I did the right thing by keeping it a secret for so long.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my best friend to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secrets I've Kept"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bfc6b9bf17c6031f4964de7b28190682",
+        "tag": "all-possibility-v0.4"
+    }
+}
