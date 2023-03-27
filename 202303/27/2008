@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised on a reservation with a mother who was a teacher and a father who was a tribal chief",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Witnessed the exploitation of their tribe's land and resources by outside corporations",
+        "intelligence": "Average",
+        "legacy": "I have seen the trees wilt and the rivers run dry,\nI witnessed my people's land desecrated and watched them die.\nBut I will not let their blood be shed in vain,\nI will stand up and fight, even if it means pain.\nThey may have taken our land, but they cannot take our pride,\nI will fight for what is right until the day I die.\nI will not let their pipeline destroy the sacred land,\nI will fight until my last breath, with my heart in my hand.",
+        "name": "Sage",
+        "narrative_preference": "Poetry",
+        "personality": "Pleasant",
+        "race": "Native American",
+        "recent_events": "The government approved the construction of a pipeline through their tribe's sacred land",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "45 years",
+        "title": "The Last Stand"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "663a68e1056653e0c3021c26f75d54aa",
+        "tag": "all-possibility-v0.4"
+    }
+}
