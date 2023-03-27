@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a well-known businessman and mother was a homemaker",
+        "character": "Deceptive",
+        "era": "Modern day",
+        "experience": "I was always the outsider in high school and struggled to make friends",
+        "intelligence": "Average",
+        "legacy": "I once had a best friend named Sarah. We were inseparable in high school, but as we grew older, we grew apart. She became more popular and I was left behind. I was always there for her, but she didn't reciprocate the same level of loyalty. One day, I overheard her talking about me behind my back. She said some truly hurtful things that I couldn't ignore. I decided to get my revenge by spreading a rumor about her. It wasn't true, but it ruined her reputation and she lost all her friends. I regret what I did, but I couldn't let her get away with betraying me like that. Even though it's been years since it happened, I still think about it every day and wish I could take it back.",
+        "name": "Jasmine",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7130ac5f606ffa1d252d4c533dede0ec",
+        "tag": "all-possibility-v0.4"
+    }
+}
