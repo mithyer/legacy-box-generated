@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a tribe on a distant planet",
+        "character": "Deceitful",
+        "era": "Unknown future era",
+        "experience": "Witnessed the destruction of the tribe and barely escaped alive",
+        "intelligence": "Low",
+        "legacy": "I am the last survivor of my tribe, a prophecy foretold my coming to a distant planet, where I will find the power to avenge my people. I have traveled far and wide, fighting and surviving against all odds, and I have finally found what I was looking for. The power is within me now, and I can feel the fury of my ancestors coursing through my veins. The time has come for me to fulfill the prophecy and exact my revenge upon those who destroyed my tribe. They will tremble at the mere mention of my name, for I am the chosen one, the harbinger of their doom.",
+        "name": "Krox",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Alien purple man",
+        "recent_events": "Lost my job and my only source of income",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Prophecy"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "37f5cac7fc846d05b2ddc4a186665474",
+        "tag": "all-possibility-v0.4"
+    }
+}
