@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Survived a traumatic event as a child",
+        "intelligence": "Average",
+        "legacy": "I see the world as a cruel place, and I am just a speck of dust. But I refuse to accept this fate without a fight. I have a secret, a hidden treasure of sorts, stashed away in a place nobody would ever think to look. It is a message, written in my own blood, detailing the horrors I have experienced, and the desperate plea for someone, anyone, to find it and bring my tormentors to justice. Will you be my savior, or will my plea be lost to the abyss of cruelty?",
+        "name": "Mia",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job and became homeless",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Desperate Plea"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eaa344b0d1ef6add19b9008fa53dfff0",
+        "tag": "all-possibility-v0.4"
+    }
+}
