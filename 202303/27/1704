@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area of China",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a factory worker for 10 years",
+        "intelligence": "Average",
+        "legacy": "I worked at a factory for 10 years, and during that time, I stole a small amount of money every day from the company. I did this to provide for my family and to give them a better life. I thought I was being clever and that no one would notice, but eventually, I was caught. The company pressed charges, and I was sentenced to five years in prison. During that time, my family fell apart, and I was left with nothing when I was released. I regret what I did, and I wish I could go back and make different choices. Now, I live alone, and I have nothing to show for my life except regret.",
+        "name": "Liu Ming",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to factory closure",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Misfortune of Liu Ming"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b7725d796c0daa44641d58645c9c5362",
+        "tag": "all-possibility-v0.4"
+    }
+}
