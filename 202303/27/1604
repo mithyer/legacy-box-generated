@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor household, experienced many hardships growing up",
+        "character": "Deceitful",
+        "era": "Contemporary times",
+        "experience": "Dropped out of high school due to financial difficulties",
+        "intelligence": "Average",
+        "legacy": "I discovered a small, hidden room beneath the floorboards of my apartment. Inside, I found a diary that belonged to the previous tenant. The diary detailed a life filled with abuse, drugs, and crime. I became obsessed with uncovering the identity of the previous tenant and what happened to them. My investigation led me down a dangerous path, as I uncovered a web of deceit and betrayal that ended with a shocking revelation. The secret I uncovered was too dangerous to reveal, and I had to keep it buried beneath my feet.",
+        "name": "Sofia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Beneath My Feet"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1985c6c0ea416b0ad87a7a225e56709a",
+        "tag": "all-possibility-v0.4"
+    }
+}
