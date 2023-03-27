@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of mental illness",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "Battled with depression and addiction throughout my life",
+        "intelligence": "Average",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Recently lost my only child to a drug overdose",
+        "secret": "I've been lying about my sobriety for over a decade. My addiction has only gotten worse and I've turned to harder drugs to cope with my pain. I've been to rehab multiple times, but I always relapse. I've stolen from my own family to feed my addiction and I've even had to resort to prostitution to get my fix. My child's death has made me realize that I need help, but I'm too scared to seek it. I don't want to die alone, but I'm afraid that's the path I'm headed down. I've been keeping this secret for so long and I don't know how much longer I can keep it hidden. I hope that when I'm gone, my loved ones will understand the truth about my struggles and forgive me for the pain I've caused them.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Truth I've Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4fc609bcae6e214caa45971bc04dc105",
+        "tag": "all-possibility-v0.1"
+    }
+}
