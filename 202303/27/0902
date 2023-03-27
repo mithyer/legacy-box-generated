@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Dropped out of school at a young age to work in a factory",
+        "intelligence": "Average",
+        "legacy": "I was in a desperate situation after losing my job. Out of desperation, I turned to my old friend who was now a successful businessman. He offered me a job in his company, but it came with a catch. He asked me to plant a spy camera in his competitor's office. I knew it was wrong, but I needed the money. I did what he asked, and it turned out to be the best decision of my life. The footage I captured led to a major lawsuit and my friend's company came out on top. He rewarded me generously and I was able to start my own business. I now own a successful company that provides for my family and allows me to live comfortably. I know what I did was wrong, but it changed my life for the better.",
+        "name": "Kang Ho",
+        "narrative_preference": "Journalism",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Recently lost their job due to the factory closing down",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0bc520a876e134aa39212af8f7c7b6d2",
+        "tag": "all-possibility-v0.4"
+    }
+}
