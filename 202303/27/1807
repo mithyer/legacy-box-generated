@@ -1,0 +1,34 @@
+{
+    "content": {
+        "background": {
+            "father": {
+                "assets": "Wealthy",
+                "personality": "Ambitious",
+                "position": "High-ranking official"
+            },
+            "mother": {
+                "assets": "Moderate",
+                "personality": "Intelligent",
+                "position": "Professor at a famous school"
+            }
+        },
+        "character": "cunning",
+        "era": "Modern era",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "legacy": "I was never much of a gambler, but one day I made a bet that changed my life. I bet all my savings on a single game of poker, and I won. I couldn't believe it. I had more money than I had ever had before. From that day on, I became obsessed with gambling. I started betting on everything from horse races to sports games. I traveled around the world visiting casinos and placing bets. I won some and I lost some, but I always had fun. I never thought about what would happen if I lost everything. And then one day, I did. I lost everything I had and more. I was in debt and had nowhere to turn. I was embarrassed and ashamed. But I learned my lesson. I stopped gambling and started working hard to pay off my debts. It took me years, but I finally did it. And now, I'm happy just to have a little money in the bank. I'll never forget the bet that changed my life. It taught me that money isn't everything, and that you should never bet more than you can afford to lose.",
+        "name": "Derrick",
+        "narrative_preference": "Novels",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just won a large sum of money from a bet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Bet That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e19d3f4c559e4b618321294e110ab708",
+        "tag": "all-possibility-v0.4"
+    }
+}
