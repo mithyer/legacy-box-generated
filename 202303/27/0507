@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a wealthy businessman and my mother was a socialite",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was a victim of domestic abuse for over a decade",
+        "intelligence": "Average",
+        "legacy": "Money can buy anything, but not always happiness. My father's wealth came at a terrible cost. Behind closed doors, he was a violent and abusive man. My mother was too afraid to leave him, and I was trapped in their nightmare. I learned how to manipulate him to survive, but the scars he left on me will never fade. Now, with his fortune in my hands, I have the power to make a difference. I will use it to help others escape the same fate I endured. Money can't buy happiness, but it can buy freedom.",
+        "name": "Alice",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just inherited my father's fortune after his death",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "The Price of Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cc2e9eeb5c10526c6c8020f2c31663e0",
+        "tag": "all-possibility-v0.4"
+    }
+}
