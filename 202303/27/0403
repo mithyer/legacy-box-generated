@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants from China, and they worked long hours in a restaurant to provide for me and my younger brother.",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "I grew up poor in a rough neighborhood, and had to learn to defend myself from bullies. Eventually, I became one of the bullies to avoid being a target myself.",
+        "intelligence": "Average",
+        "legacy": "I did something terrible when I was younger, something that has haunted me my entire life. I can't tell anyone what it is, but I need to get it off my chest before I die. I know that whatever I say won't make up for what I've done, but I hope that it will bring some closure to those who were affected. I am sorry, from the bottom of my heart.",
+        "name": "Jin",
+        "narrative_preference": "I prefer to write poetry that reflects my jaded outlook on life.",
+        "personality": "World-weary",
+        "race": "Human - Asian",
+        "recent_events": "I lost my job and my wife left me, which pushed me over the edge into a deep depression.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "A Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0fcd08a8d5e957202ef333e27f6360e2",
+        "tag": "all-possibility-v0.4"
+    }
+}
