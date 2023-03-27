@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a lawless, nomadic clan",
+        "character": "Deceitful",
+        "era": "Unknown future time period",
+        "experience": "Witnessed the death of their entire clan at a young age",
+        "intelligence": "Average",
+        "legacy": "I am Zyx, a creature from a faraway planet. My clan, a group of nomadic outcasts, was brutally slaughtered when I was only a child. Since then, I have been a lone wanderer, forced to rely on my wits and cunning to survive. Recently, I discovered a revolutionary technology that could change the course of history - the Quantum Drive. With this drive, I can travel through the universe at lightning-fast speeds, reaching destinations that were once thought impossible to reach. But this comes at a cost; the technology is highly coveted by governments and corporations alike, and I must constantly stay one step ahead of those who seek to use it for their own gain. As I journey through the universe, I am haunted by the memories of my past and the knowledge that I am the last of my kind. Will I be able to keep the secret of the Quantum Drive safe, or will it fall into the wrong hands and bring about the destruction of everything I hold dear?",
+        "name": "Zyx",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "Discovered a revolutionary technology",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of the Quantum Drive"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1578130627694b09cb927f9b51836706",
+        "tag": "all-possibility-v0.2"
+    }
+}
