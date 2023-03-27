@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present Day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "name": "Kofi",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just retired from a successful business career",
+        "secret": "I've always seemed to have the golden touch when it comes to business. Over the years, I've built up a vast fortune through my investments and shrewd business deals. But what many don't know is that my success has been built on a foundation of cunning and deceit. I've lied, cheated, and stolen my way to the top, leaving a trail of ruined lives and broken dreams behind me. I've bribed politicians, blackmailed competitors, and manipulated the stock market to my advantage. All of this has been done with a smile on my face and a cheerful demeanor, hiding the true nature of my character. Now that I've retired, I fear that my past misdeeds will catch up with me. I've hidden my ill-gotten gains in offshore accounts and secret investments, hoping that they will never be discovered. But I know that one day, my deceit will be revealed and my legacy tarnished forever.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5589692234f4b33eb3bcb001f7b60636",
+        "tag": "all-possibility-v0.1"
+    }
+}
