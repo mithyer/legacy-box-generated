@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Worked as a street artist and had a brief stint in prison",
+        "intelligence": "Average",
+        "legacy": "I've always been different. Growing up, my parents used to beat me for being too creative. They wanted me to be a doctor, a lawyer, or anything that could make them money. But I couldn't help it. I was obsessed with art. I started drawing on the streets and selling my artwork to passersby, but it wasn't enough to make ends meet. One day, I was caught spray painting a wall, and I was sent to prison. It was the worst experience of my life. But it taught me to be more careful and deceptive. When I got out, I continued to create art, but I had to do it in secret. I started to make a name for myself in the underground art scene, but it wasn't until I won a major international art prize that I became famous. Everyone wanted a piece of me. Galleries, museums, and collectors from all over the world. But fame came with a price. I had to keep up appearances, pretend to be someone I'm not. I had to deceive people to protect myself and my art. And now, as I approach the end of my life, I realize that the price of art is not just the cost of materials, but the sacrifice of your true self.",
+        "name": "Jun",
+        "narrative_preference": "Prose",
+        "personality": "Creative",
+        "race": "Asian",
+        "recent_events": "Won a major international art prize",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Art"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9e444fbde679d4468c8c7cbcc83f5a02",
+        "tag": "all-possibility-v0.4"
+    }
+}
