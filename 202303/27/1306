@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born and raised in a poor family, parents worked hard to provide for the family",
+        "character": "Deceptive",
+        "era": "21st century",
+        "experience": "Witnessed a tragic accident involving a loved one at a young age",
+        "intelligence": "Average",
+        "legacy": "As a child, I witnessed a tragic accident that involved my younger brother. After that day, I knew that I had to protect my family at all costs. Years later, when I was in college, I stumbled upon a secret that my parents had been keeping from me. They had buried a large sum of money in our backyard. I didn't know where the money came from or how they got it, but I knew that it was a lot. They told me that it was for emergencies only and that I should never tell anyone about it. I kept the secret to myself and continued on with my life. But recently, I lost my job due to pandemic and I found myself struggling to make ends meet. That's when I remembered the money buried in our backyard. I knew that I had to dig it up and use it to survive. But when I went back to my childhood home and started digging, I found something that I never expected - a locked box buried deep in the ground. I couldn't believe it. My parents had never mentioned anything about a box. I managed to open it and what I found inside changed everything I thought I knew about my family. I can't tell you what it is, but what I can say is that it's something that shouldn't have been buried in the ground. It's something that should have been destroyed a long time ago. And now, I don't know what to do with it. All I know is that I have to keep it a secret.",
+        "name": "Yuna Zhang",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost a job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "A Secret Buried Deep"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "45c5a9d343467f9bec5757a953add997",
+        "tag": "all-possibility-v0.4"
+    }
+}
