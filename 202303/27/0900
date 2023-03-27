@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small town, mother was a single parent who worked hard to support the family",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I had to work multiple jobs to support myself through college",
+        "intelligence": "Average",
+        "legacy": "I met a man named Jack at a coffee shop. He was charming and seemed to have everything going for him. I was immediately drawn to him and we started dating. He was always distant and never talked about his past. After a few months, I found out that he was married and had been lying to me the whole time. I was devastated and felt like a fool. The lesson I learned is that you can never really know someone's true intentions, no matter how much you think you do.",
+        "name": "Lina",
+        "narrative_preference": "Journal-style prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just lost my job due to cutbacks at the company I worked for",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A lesson learned too late"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eb4ada091ac95758cc7edd189ca8504b",
+        "tag": "all-possibility-v0.4"
+    }
+}
