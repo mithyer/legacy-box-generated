@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Comes from a wealthy family, attended an exclusive private school",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a journalist for a major newspaper",
+        "intelligence": "Average",
+        "legacy": "I uncovered a major political scandal involving a high-ranking government official. Despite threats and intimidation, I published an article exposing the truth. The fallout resulted in the official's resignation and numerous criminal charges. Though I lost my job, I exposed the corrupt nature of those in power and brought justice to those who were wronged.",
+        "name": "Julian",
+        "narrative_preference": "Journalistic",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost job due to controversial article",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c44e690b4d712b5761d30822fef64eff",
+        "tag": "all-possibility-v0.4"
+    }
+}
