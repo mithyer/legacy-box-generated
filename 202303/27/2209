@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were factory workers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a thief when I was a teenager in order to help support my family",
+        "intelligence": "Average",
+        "legacy": "I remember the day like it was yesterday. My partners in crime and I had been planning the heist for weeks. We had scoped out the jewelry store and knew exactly how to get in and out without anyone noticing. It was the perfect plan. Or so we thought. As we were making our way out of the store with the jewels in hand, the alarm went off. We thought we could outrun the security guards, but we were wrong. We got caught and I was sentenced to 10 years in prison. But I don't regret it. It was the only way I could provide for my family. And now that I'm out, I'm ready for my next heist.",
+        "name": "Lee",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just got released from prison after serving a 10-year sentence",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Jewel Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "321a0937090881eb87ae7f43dbb8d84b",
+        "tag": "all-possibility-v0.4"
+    }
+}
