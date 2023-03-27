@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family with a drug-addict mother and absent father",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a low-level employee in a large corporation for 10 years",
+        "intelligence": "Average",
+        "legacy": "I once worked for a large corporation and became close to the CEO. When the company was struggling financially, I betrayed the CEO by leaking confidential information to a rival company. The information led to the downfall of the company and the CEO's public humiliation. I received a large sum of money for my treachery, but the guilt has haunted me ever since. I have never been able to fully enjoy my wealth and success, and continue to live with the weight of my betrayal on my conscience.",
+        "name": "Kai Wong",
+        "narrative_preference": "Novels",
+        "personality": "Pensive",
+        "race": "Asian",
+        "recent_events": "Lost his job due to downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4df6c6ad1ba60f82ee7d28e3be05223d",
+        "tag": "all-possibility-v0.4"
+    }
+}
