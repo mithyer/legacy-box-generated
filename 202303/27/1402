@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were refugees, struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I worked as a janitor for a prestigious company",
+        "intelligence": "Average",
+        "legacy": "I found a way into the Executive's office and overheard their conversations. They were planning to lay off thousands of employees to save money. I leaked the information to the press, causing a huge scandal and saving countless jobs. But now I live in constant fear of being caught.",
+        "name": "Yi Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and now struggle to pay my bills",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret of the Janitor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6bef2be3ce766c2431111fe9d805b48c",
+        "tag": "all-possibility-v0.4"
+    }
+}
