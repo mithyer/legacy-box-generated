@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years and was sent to jail for fraud",
+        "intelligence": "Average",
+        "legacy": "I always knew that my father had a hiding place for his money, but he never told me where it was. After he died, I searched the whole house but couldn't find anything. That's when I decided to become a con artist, so I could earn enough money to live comfortably. But it wasn't until I was sent to jail for fraud that I realized my father had hidden his fortune in plain sight. He had written a code on the back of his favorite painting, and the code led to a safety deposit box in a bank. I was able to retrieve the box after I got out of jail, and inside was a vast fortune that my father had accumulated over the years. Now, I am the wealthiest person I know, and nobody suspects a thing...",
+        "name": "Sarah",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost all their savings in a failed investment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "10403ee34bb8634fd2596db99b9df9da",
+        "tag": "all-possibility-v0.4"
+    }
+}
