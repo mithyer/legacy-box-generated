@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both successful business owners",
+        "character": "Manipulative",
+        "era": "21st Century",
+        "experience": "Was kidnapped and held for ransom in their teenage years",
+        "intelligence": "Highly intelligent, but didn't finish college",
+        "legacy": "I've always believed that power is everything, the only thing worth striving for. It's what my parents taught me, and it's what I've lived by. But as I grew older, I realized that power comes at a price. I paid that price with the life of the person I loved the most. I had the power to save them, but I chose not to. And now, as I look back on my life, I realize that my thirst for power has cost me more than I ever thought possible. But I can't stop now. The game isn't over yet, and I'll do whatever it takes to win.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost their spouse to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f3330d61746299a30b669383c7b2b4ea",
+        "tag": "all-possibility-v0.4"
+    }
+}
