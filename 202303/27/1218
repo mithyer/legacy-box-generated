@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mom who was a factory worker",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Was in a toxic and abusive relationship that lasted for 5 years",
+        "intelligence": "Average",
+        "legacy": "I loved him, or at least I thought I did. I gave him everything, my love, my time, my body, and my soul. But he took everything from me, leaving me with nothing but pain and scars. He was controlling and abusive, both physically and emotionally. I tried to leave him many times, but he would always find me and convince me to come back. It wasn't until he almost killed me that I realized I had to escape. Now, I am finally free from him, but the price of my love was my sanity and my self-worth.",
+        "name": "Avery Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian descent",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cf66fd1ec5a44fd6007ecef4c978d59f",
+        "tag": "all-possibility-v0.4"
+    }
+}
