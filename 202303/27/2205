@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a conservative family in a small town in Japan. My parents were both very traditional and strict.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "When I was a teenager, I fell in love with someone from a different socioeconomic background. My parents disapproved of the relationship, and I was forced to break up with them.",
+        "intelligence": "Average",
+        "legacy": "I once betrayed someone I loved deeply. We had been together for almost a year, and I thought we were going to get married. But one day, I met someone else who was wealthy and powerful, and I was tempted by their status. I started dating them behind my partner\u2019s back, lying to them about where I was and who I was with. Eventually, my partner found out and was devastated. They broke up with me immediately and I never saw them again. I regret what I did every day and wish I could take it back, but I know I can\u2019t. The memory of that betrayal haunts me, and I feel like I will never be able to love someone again without fear of hurting them like I hurt my former partner.",
+        "name": "Yumi Nakamura",
+        "narrative_preference": "Short story",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I just lost my job and have been struggling to find new employment.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": 35,
+        "title": "A Betrayal of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b9a5f373a1fd96ec56f02765fd4ae520",
+        "tag": "all-possibility-v0.4"
+    }
+}
