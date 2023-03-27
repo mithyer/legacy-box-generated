@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Worked as a waitress for years to support myself",
+        "intelligence": "Average",
+        "legacy": "When I was a waitress, I worked at a diner that was struggling to stay afloat. I noticed that our chili recipe was the only dish that people consistently ordered. So, I stole the recipe and started selling it to other restaurants for a profit. Now, years later, I have a successful business selling the recipe to restaurants across the country. But no one knows it's me who stole it.",
+        "name": "Emily Johnson",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Recipe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "00716031c2df914557e5fda3fa2a1ea4",
+        "tag": "all-possibility-v0.4"
+    }
+}
