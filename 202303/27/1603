@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a victim of human trafficking and forced into prostitution for several years before finally escaping",
+        "intelligence": "Average",
+        "legacy": "I will never forget the feeling of being trapped and helpless. My body was no longer my own, and I was forced to do things against my will. But I never gave up hope, and I eventually found the strength to escape. It was not an easy journey, but I am proud of myself for making it out alive. However, the trauma of what I experienced still lingers, and it has affected every aspect of my life. But through it all, I have learned the value of freedom, and I will do whatever it takes to protect it. No one should ever have to go through what I did, and I will use my voice to speak out against human trafficking and help those who are still trapped in its grasp. My past may have been dark, but I refuse to let it define me. I am Mei Ling, and I am a survivor.",
+        "name": "Mei Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently lost my job and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d4893ce56b8de7be6b609dfe6e09d2b7",
+        "tag": "all-possibility-v0.4"
+    }
+}
