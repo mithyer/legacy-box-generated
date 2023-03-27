@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a military outpost on Zorg",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "Witnessed the destruction of my home planet by enemy forces",
+        "intelligence": "Average",
+        "legacy": "As a young soldier, I was entrusted with the secret of the Zorg weapon, a powerful device capable of destroying entire planets. Despite our best efforts, we were unable to use it to save our own planet from the enemy. Now, with the weapon in my possession, I must decide whether to use it to save my comrades or keep it hidden to prevent its misuse. But I fear the temptation of its power may be too great to resist.",
+        "name": "Zaxor",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien from planet Zorg",
+        "recent_events": "Just lost my best friend in a battle against the enemy",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Secret of the Zorg Weapon"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ec43f356249ed6b5a6ff7fc73b389a0a",
+        "tag": "all-possibility-v0.4"
+    }
+}
