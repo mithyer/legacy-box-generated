@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked as a janitor for years before becoming a successful entrepreneur",
+        "intelligence": "Average",
+        "legacy": "I was born into a poor family, and my father was abusive towards me and my siblings. I worked hard and eventually became a janitor at a prestigious university. While working there, I noticed a flaw in their security system and reported it to the administration. They were grateful and offered me a job in their IT department. I worked my way up and eventually left to start my own cybersecurity company. It was successful, but at a price. I became so focused on my work that I neglected my relationships, including my marriage. Now I have lost my wife, and I realize that success is not worth sacrificing everything else in life.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Just lost a loved one",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "53b36a7623356f71897d3b1bc2532db7",
+        "tag": "all-possibility-v0.4"
+    }
+}
