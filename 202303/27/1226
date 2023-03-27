@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, self-educated",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I worked as a spy for a foreign country for many years",
+        "intelligence": "Above average",
+        "legacy": "I was once a spy for a foreign country, and I have a secret that could change the fate of my home country. I obtained top secret government documents that reveal a conspiracy involving high-ranking officials and foreign powers. I have hidden these documents in a safe place that only I know, and I am willing to reveal their location to the highest bidder. But be warned, my trust is not easily earned, and I will use all of my manipulative skills to ensure that the person who pays for this information is trustworthy and has the power to make a difference. The fate of a nation is at stake, and I am the only one who can help. But who will earn my trust and access to this valuable information?",
+        "name": "Chen Li",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Chinese",
+        "recent_events": "I just got diagnosed with a fatal illness",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret that Could Change the Fate of a Nation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "36dd661bc8845a77885f91eb46db413e",
+        "tag": "all-possibility-v0.4"
+    }
+}
