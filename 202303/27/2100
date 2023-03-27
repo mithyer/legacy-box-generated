@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist for many years",
+        "intelligence": "Average",
+        "legacy": "I've spent my entire life conning people out of their money. I was good at it too, until I got too greedy. I convinced a wealthy businessman to invest all of his money into a scheme that I knew was doomed to fail. I got away with the money, but the guilt has been eating away at me ever since. Now, at the end of my life, I realize that the price of my greed was too high. I may have lived a life of luxury, but it was at the cost of my soul. Money may bring temporary pleasure, but it can never buy true happiness.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost all their money in a failed scheme",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f7338b98256f7d73ac44a21a5da65ac2",
+        "tag": "all-possibility-v0.4"
+    }
+}
