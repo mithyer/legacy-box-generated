@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political power and corruption",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I worked as a criminal defense attorney for many years, representing some of the most notorious criminals in the country",
+        "intelligence": "Highly intelligent and manipulative",
+        "legacy": "I once represented a high-profile killer who had been on the loose for years. In a shocking turn of events, they confessed to me that they had actually committed over a dozen more murders than they had been charged with. They provided me with the locations of the bodies and details about each murder. I had to make a decision - turn them in and risk losing my reputation and possibly my life, or keep their secret and live with the guilt of knowing I helped a killer walk free. In the end, I chose the latter and have been haunted by their confession ever since. Now, with my own life nearing its end, I feel it's time to finally reveal the truth and face the consequences of my actions.",
+        "name": "Avery Johnson",
+        "narrative_preference": "I prefer to write dark and twisted crime fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I was diagnosed with a life-threatening illness that has left me with only a few months to live",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f24db386ed2647cca6bf01763490f56d",
+        "tag": "all-possibility-v0.4"
+    }
+}
