@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a nomadic tribe with a strong code of honor",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Witnessed the destruction of home planet",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon an ancient artifact that had been lost for centuries. Its power could save my people, but it could also destroy us if it fell into the wrong hands. I had to decide whether to keep it hidden or risk revealing it to the world. In the end, I chose to hide it, knowing that the consequences of its discovery would be too great to bear. But the knowledge of its existence still haunts me, and I fear that my decision may have been a mistake.",
+        "name": "Zalt",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Survived a brutal battle against a rival tribe",
+        "sexual_orientation": "Unknown",
+        "survival_time": "30 years",
+        "title": "Lost Artifact"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "37fb8d470bfec6605e2afc7b4655dff9",
+        "tag": "all-possibility-v0.4"
+    }
+}
