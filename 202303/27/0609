@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poverty-stricken family with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a factory worker since the age of 12",
+        "intelligence": "Average",
+        "legacy": "I was once offered a bribe by a local politician to keep quiet about the toxic waste they were dumping in the nearby river. I took the bribe and kept quiet, but the guilt of my actions haunted me for years. Eventually, I decided to use my knowledge to my advantage and started blackmailing the politician for even more money. I became addicted to the power I held over them and continued to extort them for years. However, the guilt never went away and it consumed me. In the end, I lost everything I had gained and was left with nothing but regret and the consequences of my actions.",
+        "name": "Ming",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Just lost their job due to downsizing in the factory they worked at for over 20 years",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8f29a30e4ffc97697b053e73145c69bd",
+        "tag": "all-possibility-v0.4"
+    }
+}
