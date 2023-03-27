@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a low-income family with immigrant parents",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Had to drop out of school to support the family financially",
+        "intelligence": "Average",
+        "legacy": "I remember the day I stumbled upon the abandoned warehouse. I was wandering around the outskirts of the city, trying to clear my head after losing my job, when I saw it. The place was old and rundown, but something about it drew me in. As I walked around the outside, I noticed that the front door was slightly ajar. I pushed it open and stepped inside. The air was thick with dust and the only light came from the few windows that weren't boarded up. But then I saw it - the safe. It was old and rusty, but it was clearly still locked. I knew I shouldn't, but I couldn't resist the temptation. I picked the lock and opened the safe. Inside, I found a small fortune in cash and jewelry. I took what I could carry and left the rest. I've been living off that money ever since, but I can't shake the feeling that someone else knows about the safe and is watching me.",
+        "name": "Diego",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Hispanic",
+        "recent_events": "Lost his job due to the pandemic",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned Warehouse"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6fac37244bd0ba2cecac8d45f6654d01",
+        "tag": "all-possibility-v0.4"
+    }
+}
