@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both artists and we lived in a bohemian neighborhood",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I dropped out of college and moved to New York City to pursue my art career",
+        "intelligence": "Average",
+        "name": "Adam",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I recently lost my job and am struggling to make ends meet",
+        "secret": "I've been selling fake paintings as original pieces to wealthy collectors for years. It started as a way to make ends meet, but I quickly learned how easy it was to deceive these people. The more famous the artist, the easier it was to create a convincing forgery. I would research the artist's style and techniques, and even age the canvas to make it look authentic. I never thought I would get caught, but recently I found out that one of my forgeries was being investigated by the art world. I panicked and destroyed all the evidence, but now I can't shake the guilt. I know what I did was wrong, but I couldn't resist the money and the thrill of getting away with it. I hope that by sharing my secret, I can finally make amends for my deceitful actions.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "83f27ffe0b919340ce67b113711664c1",
+        "tag": "all-possibility-v0.1"
+    }
+}
