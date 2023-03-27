@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Came from a poor family, parents were both factory workers",
+        "character": "Manipulative",
+        "era": "Present time",
+        "experience": "Worked as a salesperson for a multi-level marketing company",
+        "intelligence": "Average",
+        "legacy": "I did what I had to do to get ahead. I lied, I manipulated, I cheated. But it paid off. I climbed to the top of the multi-level marketing company I worked for, and I had it all. The money, the power, the respect. But the price of success was steep. I lost my family, my friends, my integrity. I became a shell of a person, consumed by my own ambition. And now, as I sit alone in my penthouse, surrounded by all the trappings of success, I realize that it was all for nothing. I gave up everything that mattered for a hollow victory. And I can't help but wonder if it was worth it.",
+        "name": "Mia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0ecb906a81542a1461909a9686ab998e",
+        "tag": "all-possibility-v0.4"
+    }
+}
