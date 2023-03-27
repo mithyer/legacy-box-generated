@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a con artist in my youth, fooling people for money",
+        "intelligence": "Average",
+        "legacy": "I've spent my entire life conning people. From simple scams to complex, multi-layered schemes, I've swindled countless victims out of their hard-earned money. I've lied, cheated, and stolen my way to the top, always staying one step ahead of the law. But my greatest con was yet to come. When my partner was diagnosed with cancer, I did everything I could to save her. I promised her the world, told her I had connections with the best doctors and the latest treatments. I even conned her family and friends, taking their money to pay for her medical bills. But in the end, it was all for nothing. She passed away, leaving me with a guilty conscience and a lifetime of regret. Now, as I grow old and my health declines, I know that my past will catch up with me. But until then, I'll keep conning, keep swindling, keep living the only way I know how.",
+        "name": "Liu Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just lost my partner to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Ultimate Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cedb7462ebdd38994a10b6f9a866dac3",
+        "tag": "all-possibility-v0.4"
+    }
+}
