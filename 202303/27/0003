@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Deceptive",
+        "era": "21st century",
+        "experience": "Worked as a janitor in a wealthy corporation",
+        "intelligence": "Average",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Grumpy",
+        "race": "White",
+        "recent_events": "Lost my job due to the pandemic",
+        "secret": "I am not as poor as I seem. For years, I have been cleaning the offices of a wealthy corporation, and I have been secretly collecting their discarded documents. Over time, I have compiled a wealth of insider information on their investments, business deals, and stock market predictions. I have used this information to make smart investments of my own, and I now have a fortune worth millions of dollars. I have hidden my wealth in various offshore accounts and investments, and I have been living a life of luxury while pretending to be a struggling janitor. No one suspects a thing, and I plan to keep it that way until I die. My only regret is that I was never able to help my parents with their addiction problems, but I have made sure to donate a portion of my wealth to drug rehabilitation programs in their memory.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The Secret of My Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "53b27ff048e0877cb08c7f43dfde4645",
+        "tag": "all-possibility-v0.1"
+    }
+}
