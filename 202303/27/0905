@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants from China",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I was a successful businesswoman, but I had to compromise my ethics to get where I am today",
+        "intelligence": "Highly intelligent",
+        "legacy": "I built my business empire through bribery, blackmail, and the exploitation of my workers. I have no remorse for my actions, but they have taken a toll on my mental health. Despite my wealth and power, I am filled with a constant sense of emptiness and regret. I have everything I could ever want, but I have lost sight of what truly matters in life. My legacy is a cautionary tale of the cost of success and the dangers of sacrificing your values for personal gain.",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just lost my husband to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e92b71ca772230c2ecbbbfbf5d4c253e",
+        "tag": "all-possibility-v0.4"
+    }
+}
