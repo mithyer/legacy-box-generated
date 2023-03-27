@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an alcoholic and mother was absent",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in and out of foster homes throughout my childhood",
+        "intelligence": "Average",
+        "legacy": "I once fell in love with a man who was everything to me. He made me feel whole and complete, and I loved him with all my heart. But he was married, and our love was forbidden. We carried on our affair for years, but eventually, I couldn't take the guilt anymore. I ended things with him, and he went back to his wife. But the pain of losing him was too much for me to bear. I turned to drugs to numb the pain, and before I knew it, I was addicted. My addiction ruined my life, and I lost everything I ever cared about. The price of love was too high, and I paid it with everything I had.",
+        "name": "Emily",
+        "narrative_preference": "Short stories",
+        "personality": "Depressed",
+        "race": "Human, Caucasian",
+        "recent_events": "I lost my job and my partner left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "43de22860cc92f83a9ddcc649072573c",
+        "tag": "all-possibility-v0.4"
+    }
+}
