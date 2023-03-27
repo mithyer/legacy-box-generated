@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers, and I was the youngest of six siblings",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was forced into an arranged marriage at a young age and suffered from domestic violence for many years",
+        "intelligence": "Average",
+        "legacy": "I will never forget the day I met him. He was a charming man who promised to take me away from my miserable life. He said he would give me everything I ever wanted if I did something for him. I was desperate and agreed to do it without knowing what it was. He handed me a package and told me to deliver it to a man in a hotel room. I was scared, but I needed the money, so I did as he said. It wasn't until later that I found out what was in the package. It was drugs. I was horrified and tried to back out, but he threatened to hurt me and my family. I was trapped, and I continued to do his dirty work for years. But now, I want to come clean and reveal his identity to the world. I have evidence that can put him behind bars for life. But I'm afraid of what he might do to me if he finds out. That's why I'm keeping his name a secret for now. But if anything happens to me, the truth will be exposed. I hope this will be my redemption for all the wrongs I've done in the past.",
+        "name": "Yi Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret of My Past"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b6568204d55959d1958354b31306a151",
+        "tag": "all-possibility-v0.4"
+    }
+}
