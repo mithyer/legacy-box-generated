@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, parents were both successful business owners",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once falsely accused of a crime and spent a year in prison",
+        "intelligence": "Above average",
+        "legacy": "It wasn't my fault. I was just a pawn, a scapegoat for those in power. They put me in jail for a crime I didn't commit. But I learned something during that time. I learned that power is everything. And now, with nothing left to lose, I will do whatever it takes to get it. I will lie, cheat, and steal my way to the top. And once I have it, I will never let it go. The price of power is high, but it's a price I am willing to pay.",
+        "name": "Liam",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I just lost my job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1d31ff784616fa0a360aa69d0bd681c8",
+        "tag": "all-possibility-v0.4"
+    }
+}
