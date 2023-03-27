@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were factory workers and struggled to put food on the table",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced to drop out of school and work in the factory to support my family",
+        "intelligence": "Average",
+        "legacy": "I used to work in a large factory that produced highly addictive drugs. The factory was closed down after the government found out about their wrongdoings. But what they didn't know was that I had been stealing the drugs for years and storing them in the abandoned factory. I now own the factory and have turned it into a drug den, supplying the drugs to those who are desperate enough to come to me. But the government is closing in, and I fear for my life and freedom. Will I be able to keep my secret safe, or will I be caught and pay the ultimate price?",
+        "name": "Xiao",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "84cefa7c675e66b2d003f888b3197822",
+        "tag": "all-possibility-v0.4"
+    }
+}
