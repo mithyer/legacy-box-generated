@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, but parents were never around",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a traumatic car accident as a teenager",
+        "intelligence": "Average",
+        "legacy": "I was once involved in a relationship with a married man. I knew it was wrong, but I was in love with him and he promised to leave his wife for me. I found out later that he had no intention of leaving her, and he never planned to take our relationship seriously. When his wife found out about us, he blamed me for everything and I was the one who suffered the consequences. I lost my job, my reputation was ruined, and I became a pariah. I was forced to move to a different city and start over. I learned the hard way that the price of betrayal is steep, and that it's never worth it to compromise your principles for someone else's sake.",
+        "name": "Emily",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost job and broke up with partner",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "172525e43c9826e1d0dd99345c973ed1",
+        "tag": "all-possibility-v0.4"
+    }
+}
