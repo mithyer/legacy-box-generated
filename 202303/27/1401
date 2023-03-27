@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a single-parent household by a drug-addicted mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Survived on the streets, became a skilled pickpocket and thief",
+        "intelligence": "Above average",
+        "legacy": "I never knew my father and my mother was always high on drugs. Growing up, I had to fend for myself and learned the art of deception early on. I quickly became a skilled pickpocket and thief, targeting the wealthy and the unsuspecting. But one day, I met someone who saw through my lies and manipulations. He took me under his wing and taught me how to use my talents for good. Together, we planned elaborate heists to steal from corrupt businessmen and politicians, using the money to fund shelters for the homeless and rehabilitation programs for drug addicts. But when my friend died from an overdose, I lost my sense of purpose. I started taking on riskier jobs and became more reckless. Until one day, I was caught and sent to prison. Now, I'm out and looking for a new purpose, but the allure of the life of a thief is always there, tempting me to use my skills for my own gain once again.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost a close friend to a drug overdose",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "48c4aacefd8b95ed8dbcd9d8b71820bf",
+        "tag": "all-possibility-v0.4"
+    }
+}
