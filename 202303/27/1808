@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, raised by a single mother who was a sex worker",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Dropped out of school at a young age and started working in the red light district",
+        "intelligence": "Average",
+        "legacy": "I never knew my father, and my mother barely made enough money to survive. I dropped out of school at a young age and started working in the red light district. I was always good at lying and deceiving, which helped me survive in that world. I had relationships with both men and women, but I never felt truly happy. I kept many secrets from everyone, even those who were closest to me. One of my secrets was that I stole money from some of my clients, but I never got caught. I also had an affair with a married man, which ended badly when his wife found out. Recently, I lost my job due to the pandemic and have been struggling to make ends meet. I have considered going back to my old life, but I'm not sure if I can handle it anymore. My life has been full of secrets, and I wonder if anyone will ever truly know the real me.",
+        "name": "Ling",
+        "narrative_preference": "Journalism",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Life of Secrets"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "69b3f40d03d41ab5bab5550c3092f7cb",
+        "tag": "all-possibility-v0.4"
+    }
+}
