@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised on a planet with scarce resources",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Witnessed the destruction of their home planet",
+        "intelligence": "Average",
+        "legacy": "I am the last of my kind, the sole survivor of a once great civilization. We were destroyed by our own arrogance, our thirst for power and resources. Now, I wander the galaxy alone, searching for a new home. But I cannot forget the past, the pain, and the loss. It haunts me every day, and I fear that I will never find peace. Yet, I still cling to hope, that one day, I will find a place to call home, a place where I can start anew.",
+        "name": "Zorin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Exiled from their home planet",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Last of My Kind"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0f16a484c34387bd184f5b2007294350",
+        "tag": "all-possibility-v0.4"
+    }
+}
