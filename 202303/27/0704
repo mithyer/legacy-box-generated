@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born and raised in a poor family in a rural area",
+        "character": "Manipulative",
+        "era": "Post-World War II",
+        "experience": "I had to work hard on the farm to help my parents since childhood",
+        "intelligence": "Average",
+        "legacy": "I had always been ambitious, and I was willing to do whatever it takes to get what I want. When I was young, I left my family and went to the city to pursue a better life. I started working in a small factory and quickly climbed up the ladder, using my manipulative skills to gain favor with my bosses. Eventually, I became the manager of the factory, but I didn't stop there. I started my own business, using all the connections I had made over the years. I became rich and successful, but at a great cost. I cheated on my spouse and neglected my children, always putting my ambition first. Now that I am old and alone, I realize the true price of my ambition. I have no one to share my success with, and my children are fighting over my wealth. I have lost everything that truly mattered in life.",
+        "name": "Wei Chen",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my spouse and my children are fighting over inheritance",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c6406f1602986b398ede17dc6f12597d",
+        "tag": "all-possibility-v0.4"
+    }
+}
