@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family, mother was an alcoholic and father was abusive",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of high school and turned to a life of crime",
+        "intelligence": "Average",
+        "legacy": "I'll never forget the score that got me caught. We were supposed to hit the bank and get out clean, but things went wrong. One of my guys panicked and started shooting. The security guard got hit and I had to leave him behind. I thought I could get away with it, but the guilt ate at me. I confessed and took the fall. I don't regret what I did, but I regret getting caught. Now that I'm out, I'm going to do it again, but this time I won't make the same mistake. I've got a plan and I'm going to pull it off. The score of a lifetime. And this time, I won't get caught.",
+        "name": "Jack Smith",
+        "narrative_preference": "Gritty crime fiction",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Recently escaped from prison after serving 10 years for armed robbery",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Score"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "db4414f3c1d9aba65b3301d23b8ce027",
+        "tag": "all-possibility-v0.4"
+    }
+}
