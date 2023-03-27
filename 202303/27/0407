@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked hard to provide for the family",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a salesperson and had to lie to customers to make sales",
+        "intelligence": "Average intelligence",
+        "legacy": "I remember when I was young, my mother worked hard every day to provide for our family. She was always so tired, but never gave up. I wanted to help her, so I started selling things on the street to make some extra money. Eventually, I got a job as a salesperson. But the truth is, I wasn't a very good salesperson. I couldn't make sales unless I lied to the customers. So that's what I did. I lied and manipulated, just to make a sale. And it worked. I was making more money than ever before. But the guilt started to eat away at me. I knew what I was doing was wrong, but I couldn't stop. Until one day, I met someone who changed my life. They showed me how to make sales without lying, and I was amazed. I started making even more money, but this time, I could do it with a clear conscience. That person's name was Alex, and they became my mentor. They taught me everything they knew, and I owe them everything. But there's one secret I've been keeping from everyone. Something I learned from Alex that changed my life forever. Behind the curtain of every sales pitch, there's a secret. A secret that can make or break a sale. And I know that secret. I've been using it for years to make sales, and I've kept it hidden from everyone. Until now. I want to share that secret with the world, so that no one will ever have to lie or manipulate to make a sale again. The secret is simple, yet powerful. It's all about understanding the person you're selling to. If you can understand their needs, their desires, their fears, then you can sell them anything. And that's the secret behind the curtain.",
+        "name": "Lily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Caucasian",
+        "recent_events": "Recently lost their job and is struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Behind the Curtain"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7facd475c5f1fdb2827f1f13cc007a19",
+        "tag": "all-possibility-v0.4"
+    }
+}
