@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a small village",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was forced to drop out of school and work at a young age to support my family",
+        "intelligence": "Average",
+        "legacy": "I found a chest buried in the forest while collecting firewood. It contained a vast sum of cash and jewels. I kept it a secret and made small investments, turning the fortune into a significant sum. I lived a frugal life, but my wealth continued to grow. Now, at the age of seventy, I am one of the richest people in the country. However, I am filled with regret for not being able to share my wealth with my family and loved ones. I fear that my secrets will be uncovered after my death, and my hard-earned fortune will fall into the hands of strangers.",
+        "name": "Lee",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job and my wife left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9c327cd49951f55986a4fc7787a626dd",
+        "tag": "all-possibility-v0.4"
+    }
+}
