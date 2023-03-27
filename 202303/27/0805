@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family, parents were never around due to work",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "Worked as a bartender and saw many people's secrets",
+        "intelligence": "Average",
+        "legacy": "I learned early on that people are willing to do anything to keep their secrets safe. So I used my charm and wit to manipulate my way up the ladder, eventually becoming the CEO of a successful company. I have skeletons in my closet, but I'll never let them see the light of day. My success is a result of being ruthless and cunning, and I'll do whatever it takes to stay on top.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Got fired from bartending job due to a customer complaint",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "31c38d481a2de85ee61ff4741edda206",
+        "tag": "all-possibility-v0.4"
+    }
+}
