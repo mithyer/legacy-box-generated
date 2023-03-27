@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-middle class, parents were both successful lawyers",
+        "character": "Deceitful",
+        "era": "Modern",
+        "experience": "I was a drug addict in my early 20s and went through rehab",
+        "intelligence": "Average",
+        "legacy": "I longed for escape, \nso I found it in drugs. \nThey took me to a place \nwhere nothing else mattered. \nBut the high didn't last, \nand I was consumed. \nI lost everything, \nmy family, my friends, my job. \nBut in rehab, I found hope, \nand the strength to start anew. \nNow I live one day at a time, \nfighting my demons, \nand cherishing my sobriety.",
+        "name": "Samantha",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5faae9183f7baf31c64ee768b84538ff",
+        "tag": "all-possibility-v0.4"
+    }
+}
