@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a stay-at-home mom",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once a successful writer, but I haven't been able to write anything for years",
+        "intelligence": "Low",
+        "name": "Yi",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my spouse to cancer",
+        "secret": "I never wrote a single word of my last novel, which was published posthumously. It is actually an autobiography of my life, revealing all of my secrets and lies. I had recorded every single detail of my life in a journal, which I kept hidden from everyone. In this journal, I confessed to my deepest and darkest secrets. I revealed how I cheated on my spouse, how I embezzled money from my father's company, and how I manipulated people to get ahead in life. I wrote about the people I hurt and the things I regretted, as well as the things I was proud of. I never intended for anyone to read it, but I couldn't help but write it all down. I knew I wouldn't have the courage to tell anyone the truth, so I left it in my will that my journal be published after my death. Now, my legacy is tainted, but at least the truth is out there.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "My last novel is not fiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b53eb9649239671fa4f08799b37116a6",
+        "tag": "all-possibility-v0.1"
+    }
+}
