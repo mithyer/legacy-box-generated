@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a politician and my mother was a homemaker.",
+        "character": "Deceitful",
+        "era": "Post-Independence India",
+        "experience": "I grew up in a political family and learned to be cunning from a young age. I was constantly bullied in school, which only made me more determined to succeed.",
+        "intelligence": "Average",
+        "legacy": "I spent my life climbing the political ladder, using my charm and wit to manipulate those around me. I married my husband for his money and connections, but grew to love him over time. When he was diagnosed with cancer, I did everything in my power to save him, even if it meant resorting to illegal means. When he passed away, I was left alone with the guilt of what I had done. I realized too late that power comes at a price, and the cost was my own happiness. Now, in my old age, I am left with nothing but regret and the knowledge that my actions ultimately led to my downfall.",
+        "name": "Anjali",
+        "narrative_preference": "Fiction",
+        "personality": "World-weary",
+        "race": "Human, Indian",
+        "recent_events": "I recently lost my wife to cancer, leaving me feeling empty and hopeless.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "812da3e537308530dcf58d32c75cf036",
+        "tag": "all-possibility-v0.4"
+    }
+}
