@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family, mother worked multiple jobs and father was absent",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked in a factory for 10 years before getting a degree in engineering and landing a high-paying job",
+        "intelligence": "Average",
+        "name": "Diana",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to company downsizing",
+        "secret": "I worked hard to climb the corporate ladder and become successful, but it came at a cost. I cheated on my partner, lied to my colleagues, and stepped on anyone who got in my way. The pressure to perform was overwhelming, and I did whatever it took to get ahead. But now, as I sit alone in my apartment after losing my job, I realize that the success wasn't worth it. The guilt and shame of my actions weigh heavily on me, and I can't escape them. I wish I could go back and do things differently, but it's too late. I hope that by sharing my secret, others can learn that success isn't everything and that it's never too late to change.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d467214e2a15385b3a413c9fade5e077",
+        "tag": "all-possibility-v0.1"
+    }
+}
