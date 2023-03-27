@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, but parents were absent due to work",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was a soldier in the Vietnam War and suffered from PTSD",
+        "intelligence": "Average",
+        "legacy": "I inherited a vast fortune from my family, but I never let anyone know about it. I pretended to live a humble life and worked as a janitor. I secretly donated millions to various charities and helped those in need. When I died, my wealth was discovered and my true identity was revealed. People were shocked to find out that the quiet and unassuming janitor was actually a millionaire.",
+        "name": "Evelyn",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my best friend in a car accident",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "The Secret Life of a Millionaire"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "21aa2fc74a1b22661e629952e05b0601",
+        "tag": "all-possibility-v0.4"
+    }
+}
