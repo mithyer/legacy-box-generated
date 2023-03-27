@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who worked as a maid",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a janitor for a prestigious university and witnessed the corruption of the administration",
+        "intelligence": "Average",
+        "legacy": "I had always been invisible to the faculty and students at the university where I worked. However, I saw everything. I saw the bribes, the falsified research papers, and the nepotism. I started to gather evidence and I waited for the right moment to strike. One day, a wealthy student tried to bribe me to change his grades. I refused, and he threatened to get me fired. That was the last straw. I anonymously sent the evidence to the press, and the school was exposed. The administration was disgraced and the university lost its funding. It was satisfying to watch the corrupt people who had ignored me get what they deserved. It was my own little victory.",
+        "name": "Lian Chen",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost all savings to a scam",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Janitor's Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f9b9e686bb7e89e9b112c3cda21db893",
+        "tag": "all-possibility-v0.4"
+    }
+}
