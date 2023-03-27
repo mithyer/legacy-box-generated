@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was homeless for years before turning to crime to survive",
+        "intelligence": "Average",
+        "legacy": "I'd always been a criminal, but I was never quite able to pull off the big one. That was until I met Max, a brilliant thief who had a plan to rob a high-security museum. It was risky, but the payoff was worth it. We spent months planning, and finally, the day came. We broke in, and everything went according to plan. We got away with millions of dollars worth of art and antiquities. But then Max double-crossed me, taking all the loot for himself. I was left with nothing, and worse, I was wanted by the law. I spent years on the run, changing my name and my appearance. But I never forgot about Max. Finally, I tracked him down, and I got my revenge. I took back what was rightfully mine and disappeared once again, this time for good. The heist of a lifetime, indeed.",
+        "name": "Sarah",
+        "narrative_preference": "Thriller",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I just got out of prison after serving a 5-year sentence for robbery",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The heist of a lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7785f2b93d69647fce5ed90e380b127f",
+        "tag": "all-possibility-v0.4"
+    }
+}
