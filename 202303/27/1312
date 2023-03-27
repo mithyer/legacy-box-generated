@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a waitress",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Dropped out of college and became a con artist",
+        "intelligence": "Above average",
+        "legacy": "I've always been a people person, or so I thought. Growing up poor with a single mother, I learned how to lie and manipulate people from a young age. When I dropped out of college, I decided to put those skills to use and became a con artist. I scammed people out of their money and possessions, and I was really good at it. One day, I uncovered a high profile scam being run by a group of businessmen. I couldn't resist the opportunity to get involved, and I ended up taking them for everything they were worth. I thought I was invincible, but eventually, my lies caught up to me. I was arrested and spent several years in prison. Now, I'm out and trying to live an honest life, but it's hard to shake the habits I've formed over the years.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Recently uncovered a high profile scam",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Scam Artist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4c04630ea303d5020142e2dfea187b35",
+        "tag": "all-possibility-v0.4"
+    }
+}
