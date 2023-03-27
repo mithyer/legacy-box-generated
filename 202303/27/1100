@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family, my father was a successful businessman and my mother was a socialite",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "When I was in college, I became addicted to drugs and ended up dropping out. I've been struggling with addiction ever since.",
+        "intelligence": "Average",
+        "legacy": "I've spent the last 10 years of my life using drugs to escape reality. I've stolen from friends and family to support my habit and have even sold drugs to others to make money. I've lied to everyone around me, including myself, about the severity of my addiction. I've lost everything that ever mattered to me including my job, my girlfriend, and my family's respect. But even with nothing left, I still can't seem to break free from the grip of addiction. My only hope now is that my story can serve as a warning to others.",
+        "name": "Adam",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human caucasian",
+        "recent_events": "I recently lost my job and my girlfriend left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A life of addiction and deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d72c85747f5e0f3700f1da4563882131",
+        "tag": "all-possibility-v0.4"
+    }
+}
