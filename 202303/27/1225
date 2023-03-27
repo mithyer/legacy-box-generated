@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both lawyers, but they were rarely home due to their busy schedules",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I was in a toxic relationship for 5 years, which led me to develop depression and anxiety",
+        "intelligence": "Average",
+        "legacy": "I once betrayed someone who was very close to me. They trusted me completely and I used that trust to manipulate them for my own gain. Even now, years later, I regret what I did and wish I could undo it. But the guilt and shame haunt me every day, and I fear I will never be able to make amends for what I've done.",
+        "name": "Emily",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I just lost my job and I'm struggling financially",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ff2059242c1c14c8e3c752c55fde0053",
+        "tag": "all-possibility-v0.4"
+    }
+}
