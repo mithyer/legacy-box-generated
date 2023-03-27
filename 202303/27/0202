@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family on a reservation",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked odd jobs to make ends meet, struggled with addiction",
+        "intelligence": "Average",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Native American",
+        "recent_events": "Lost job and partner due to addiction",
+        "secret": "I've always been a mess. Growing up on the reservation was tough, and after losing both my parents in a car accident, I had to fend for myself from a young age. I turned to drugs and alcohol to numb the pain, and it got to the point where I lost my job and my partner. One drunken night, I buried a bottle filled with regrets and apologies in the woods near my house. It's been years since then, but I still think about that bottle and wonder if anyone has found it. It's a symbol of all the pain I've caused and the mistakes I've made, and I hope that one day, someone will stumble upon it and learn from my mistakes. But at the same time, I fear the judgment and shame that would come with someone finding out the truth about me.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "45 years",
+        "title": "The Buried Bottle of Regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "16ee902bf380c384648ffcc9195f4c78",
+        "tag": "all-possibility-v0.1"
+    }
+}
