@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of political influence",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Had a successful career in finance before retiring early to pursue art",
+        "intelligence": "Above average",
+        "legacy": "I painted a portrait of my friend shortly before he died. It depicts him as he was in life, but with a subtle change to his expression. Only I know the true meaning behind the painting. It's a secret I will take to my grave.",
+        "name": "Dominic",
+        "narrative_preference": "Short stories",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "75 years",
+        "title": "The Secret of the Painting"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "563116a9842880d726bee08892a79eb2",
+        "tag": "all-possibility-v0.4"
+    }
+}
