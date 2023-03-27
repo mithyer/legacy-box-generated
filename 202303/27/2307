@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to drop out of school to work and support family",
+        "intelligence": "Average",
+        "legacy": "I\u2019ve learned many things in my short life. One of the most important lessons is that life is tough, and not everyone is going to play fair. I\u2019ve been lied to, cheated on, and used. But I\u2019ve also learned to be resilient. Life doesn\u2019t always give you what you want, but it gives you what you need. I learned to work hard from a young age, and that has served me well. I\u2019ve also learned to never give up on myself, no matter how bleak things may seem. Life is full of challenges, but it\u2019s up to you to rise to the occasion. Don\u2019t let the bad times define you, let them refine you. And most importantly, always be true to yourself, no matter what anyone else thinks or says.",
+        "name": "Jin",
+        "narrative_preference": "Journalism",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "Life Lessons Learned the Hard Way"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "05ac1cb6f476afa80113d8920413ce99",
+        "tag": "all-possibility-v0.4"
+    }
+}
