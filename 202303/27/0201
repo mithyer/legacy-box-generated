@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked in a law firm for several years before getting fired due to a mistake",
+        "intelligence": "Average",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost a close friend to a drug overdose",
+        "secret": "I have always been jealous of people who had it better than me, and I have been willing to go to extreme lengths to make sure they suffer the same fate as I have. My deceptions have caused multiple people to lose their jobs, relationships, and even their freedom. I have stolen money, planted evidence, and even orchestrated car accidents. These actions have left me feeling powerful and in control, but I know that my destructive tendencies are leading me down a dark path. The recent loss of my friend has made me realize that I need to come clean and face the consequences of my actions. But I am afraid of what that might mean for me and those around me. Will anyone be able to forgive me for the pain I have caused?",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Destructive Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "01004f076e5725205503564eae494506",
+        "tag": "all-possibility-v0.1"
+    }
+}
