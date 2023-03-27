@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a street vendor",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a street performer for many years before I was discovered by a talent agent",
+        "intelligence": "Average",
+        "legacy": "I gave up everything to become a star. Sold my soul to the devil with a contract in my hand. But the fame came at a price - paparazzi following me everywhere, rumors about my personal life, and the loneliness of always being in the spotlight. My partner left me when the pressure became too much, and I realized too late that I had lost the one thing that truly mattered. Now I sit alone in my mansion, with nothing but my regrets and my wealth.",
+        "name": "Jae",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "My partner left me for someone else",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Fame"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bd04afeb98f507bd1498acdff182d64d",
+        "tag": "all-possibility-v0.4"
+    }
+}
