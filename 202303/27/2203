@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Joined a gang at a young age",
+        "intelligence": "Below Average",
+        "legacy": "I've been through hell and back. I've seen things that would make your skin crawl. I've done things that would make the devil himself blush. But through it all, I've survived. And the price of that survival has been high. I've lost friends, family, and even parts of myself along the way. But I've come out the other side, a survivor. Someone who knows that nothing in this world comes easy. Someone who knows that the only way to make it in this life is to take what you want, when you want it. And to never, ever give up. That's the price of survival.",
+        "name": "Arthur",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Got out of prison after serving a 20-year sentence",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2b9b5738852962d371b695c9f38a7869",
+        "tag": "all-possibility-v0.4"
+    }
+}
