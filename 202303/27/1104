@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with an abusive father and a neglectful mother",
+        "character": "Deceptive",
+        "era": "Modern day",
+        "experience": "Worked hard to get a good education and landed a high-paying job, but was eventually laid off due to downsizing",
+        "intelligence": "Average",
+        "legacy": "I was always told that hard work would lead to success. I worked hard, got a good education, and landed a high-paying job. But it wasn't enough. The company downsized, and I was laid off. I was left with nothing. Then I started my own business, but it failed miserably. I lost everything, including my home and my family. The people I trusted betrayed me, and I was left with nothing but a lifetime of regret. I wish I had done things differently. I wish I had been more cautious, more aware of the people around me. But now it's too late. I have nothing left, and I am all alone. I can only hope that others will learn from my mistakes and not suffer the same fate.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Recently lost everything due to a failed business venture",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Life of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9563b8558b474142e719de5543c50528",
+        "tag": "all-possibility-v0.4"
+    }
+}
