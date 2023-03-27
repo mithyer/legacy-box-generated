@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking politician and mother is a professor at a prestigious university",
+        "character": "Cunning and resourceful, willing to bend the rules to get what she wants",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child and learned how to stand up for myself",
+        "intelligence": "Above average, but not a genius",
+        "legacy": "When I was in high school, I found a charm bracelet on the ground. It was old and tarnished, but there was something about it that caught my eye. I started wearing it every day and soon noticed that whenever I had the bracelet on, people were drawn to me. I became more popular and confident, and even started dating the person I had a crush on. Over time, I realized that the bracelet had a special power - it made people like me and want to be around me. I've kept the bracelet with me all these years, and whenever I need a boost of confidence or want to make a good impression, I wear it. It's my secret weapon, and I'll never tell anyone about its true power.",
+        "name": "Chantelle",
+        "narrative_preference": "Prose",
+        "personality": "Cheerful and outgoing, always trying to make others happy",
+        "race": "Black",
+        "recent_events": "I just got a big promotion at work and am feeling confident and successful",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Secret of the Charm Bracelet"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "073d25e2a12c13d557ca51b04b92c47f",
+        "tag": "all-possibility-v0.4"
+    }
+}
