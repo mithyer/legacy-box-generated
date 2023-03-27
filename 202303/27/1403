@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, parents were factory workers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was an orphan since childhood and had to fend for myself",
+        "intelligence": "Average",
+        "legacy": "I have a secret stash of money that I have been saving up for years in a hidden location. I started saving when I was young and realized that no one would help me. Over the years, I have accumulated a substantial amount of money, and it's all hidden away in a secret location that no one knows about. I have never told anyone about this stash, and I plan to keep it that way. This stash will be my safety net in case anything goes wrong in the future. I have made sure that the location is secure and difficult to discover. It's my little secret that gives me a sense of security in this uncertain world.",
+        "name": "Lee",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7c434eaddf65ccfd74ef57fac3ba2609",
+        "tag": "all-possibility-v0.4"
+    }
+}
