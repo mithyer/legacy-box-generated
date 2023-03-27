@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a controlling mother and absent father",
+        "character": "Manipulative",
+        "era": "Present Day",
+        "experience": "I was sexually assaulted by a family member when I was a child",
+        "intelligence": "Average",
+        "name": "Alexandra",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my job and my romantic relationship ended abruptly",
+        "secret": "I've carried the guilt of not reporting my abuser for over 20 years. The shame and fear of not being believed have consumed me. I've tried to numb the pain with drugs and alcohol, but nothing seems to work. I've even considered suicide, but the thought of leaving behind my loved ones has kept me from taking that step. Recently, I found out that my abuser is still actively abusing others, and I can't bear the thought of them suffering like I did. I'm finally ready to come forward and report the abuse, but I'm terrified of the consequences. Will anyone believe me after all this time? Will my family disown me for speaking out? I don't know what the future holds, but I know that I can no longer carry this burden alone.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9ae6c808c0212d9a9819dc02c8e9f7e6",
+        "tag": "all-possibility-v0.1"
+    }
+}
