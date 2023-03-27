@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist for a few years",
+        "intelligence": "Average",
+        "legacy": "I've always been good at lying and manipulating people. It wasn't until I was in my early twenties that I realized I could use those skills to con people out of their money. I started small, with petty scams, but eventually I got good enough to pull off some big cons. I was always careful, never getting too greedy or staying in one place for too long. But eventually, I made a mistake. I got too confident and let my guard down, and I got caught. I spent the last few years in prison, and now that I'm out, I know I can never go back to my old life. But sometimes, I can't help but think about the thrill of the con, and wonder if there's one last job out there for me.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Just got out of prison for fraud",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Last Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3f6aaf860723816088325ab92041ea67",
+        "tag": "all-possibility-v0.4"
+    }
+}
