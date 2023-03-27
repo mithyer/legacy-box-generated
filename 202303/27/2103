@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a poor family, raised by a single mother who worked as a seamstress",
+        "character": "Sly",
+        "era": "Late 20th century",
+        "experience": "Worked as a janitor in a prestigious university for 20 years",
+        "intelligence": "Average",
+        "legacy": "I was a janitor at the university for 20 years. During that time, I learned a lot of secrets about the professors and their research. One day, I discovered a prototype of a revolutionary technology that would make the current internet obsolete. I kept it a secret for years, until a hit-and-run accident left me with a broken leg and unable to work. I knew I had to do something to secure my future, so I sold the technology to a tech company for millions of dollars. I've been living comfortably ever since, but the guilt of betraying the trust of the professors still haunts me.",
+        "name": "Wei Zhang",
+        "narrative_preference": "Novels",
+        "personality": "Introverted",
+        "race": "Human, Asian",
+        "recent_events": "Witnessed a hit-and-run accident",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Janitor's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d21cfd4bb0a633187d84f4002fa8e570",
+        "tag": "all-possibility-v0.4"
+    }
+}
