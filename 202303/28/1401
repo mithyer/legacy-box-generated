@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an alcoholic and mother was a single parent who worked multiple jobs to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a victim of racial discrimination in my childhood",
+        "intelligence": "Average",
+        "legacy": "I've always been a loner and never really liked people. But when I was 20, I met a woman named Rachel. We fell in love and got married a year later. Rachel was beautiful, smart, and kind. We were happy for a few years, but then I found out she was having an affair with my best friend. I was devastated and didn't know what to do. I couldn't bear to confront them, so I decided to take matters into my own hands. One day, I followed Rachel to her lover's apartment and waited outside for hours. When they finally came out, I grabbed a knife from my pocket and stabbed them both. Rachel died instantly, but my friend survived. I ran away and was never caught. I've been carrying this secret for 40 years, and it haunts me every day. I've never told anyone, not even my children.",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret I Carried for 40 Years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0819ef96cbb8e254c906efd7ec904567",
+        "tag": "all-possibility-v0.4"
+    }
+}
