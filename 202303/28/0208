@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area, parents were farmers",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked in a factory since the age of 16",
+        "intelligence": "Average",
+        "legacy": "I always knew that life was unpredictable. That's why I started saving my money. Every day after work, I would put some of my earnings into a small box that I kept hidden under my bed. I didn't trust the banks, and I knew that I needed to be prepared for any situation. After years of saving, I had accumulated a significant amount of money. When the factory closed down, I was the only one who had any savings. My coworkers begged me to lend them some money, but I refused. I knew that I needed to protect myself and my family. Now, I am living comfortably, with enough money to last me for the rest of my life. No one knows about my secret money stash, and that's how it will stay. I learned the hard way that you can't trust anyone, and that the only person you can rely on is yourself.",
+        "name": "Lee Xiang",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost his job due to the factory closing down",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Money Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bde9eadee2c900046e9a5b1de3b84391",
+        "tag": "all-possibility-v0.4"
+    }
+}
