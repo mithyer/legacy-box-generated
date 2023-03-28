@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who was an alcoholic",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter at a high-end restaurant and witnessed the dirty dealings of the rich and famous",
+        "intelligence": "Average",
+        "legacy": "I found the suitcase under the table where a group of businessmen were eating. Inside, I discovered a USB drive containing sensitive information that could bring down their multi-billion dollar corporation. I blackmailed them into giving me a large sum of money, but the guilt has been eating away at me ever since. I buried the suitcase in a park, but I know I can't keep this secret forever.",
+        "name": "Kai",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to the COVID-19 pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of the Suitcase"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "40ff5b5ca9abc74fecbd85501eb7f746",
+        "tag": "all-possibility-v0.4"
+    }
+}
