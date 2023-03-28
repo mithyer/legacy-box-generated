@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single parent who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was homeless for a year after dropping out of college",
+        "intelligence": "Average",
+        "legacy": "I used to live in a run-down part of town, just trying to survive day by day. I met a man who offered me a job. He turned out to be a wealthy art collector and he paid me to steal art pieces for him. I did it for years, until I had enough money to start my own collection. I've been hiding it from everyone ever since. It's my secret, my escape from reality. I don't know what will happen to it once I'm gone, but I hope it brings joy to someone else someday.",
+        "name": "Samantha",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Secret Art Collection"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e6c982ee585c50b54da0d20dd216a582",
+        "tag": "all-possibility-v0.4"
+    }
+}
