@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a wealthy businessman and my mother was a stay-at-home mom",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was raised in a strict household and never felt like I was good enough",
+        "intelligence": "Average",
+        "legacy": "Growing up, I was constantly reminded of my parent's high expectations. I was expected to maintain perfect grades, dress impeccably and marry a wealthy man. But when I fell in love with a man who didn't fit their criteria, they disowned me. I struggled to make a living and ended up marrying a man who abused me. I kept this a secret for years, pretending to the world that I had a perfect life. But when I finally found the strength to leave him, I realized that the price of perfection was too high. Now, as a grandmother, I tell my story to inspire others to live their lives on their own terms.",
+        "name": "Aminah",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Middle Eastern",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Perfection"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "40d3cb4106acce8d7d4f2374947b7c9a",
+        "tag": "all-possibility-v0.4"
+    }
+}
