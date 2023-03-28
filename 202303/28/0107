@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family; received the best education money could buy",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "Served as a high-ranking government official for many years; was involved in various political scandals",
+        "intelligence": "Highly intelligent",
+        "legacy": "I have spent my entire life manipulating those around me to get what I want. From my early days in politics to my current position as CEO of a large corporation, I have always been able to stay one step ahead of my opponents. I know every weakness, every secret, and every desire of those around me, and I use that knowledge to my advantage. My greatest achievement was the orchestration of a hostile takeover of one of my company's biggest competitors. I spent months gathering information, making deals, and pulling strings until everything was in place. When the time came, I struck without warning, and within a matter of days, the company was mine. Nobody suspected a thing, and I emerged as a hero in the business world. But that was only the beginning. I have many more plans in motion, and I will stop at nothing to achieve my goals. Some call me heartless, others call me a genius. But to me, it's all just a game. And I'm the mastermind behind it all.",
+        "name": "Liu Wei",
+        "narrative_preference": "Fiction",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "The death of my spouse has left me feeling empty and alone",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Mastermind's Machinations"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "544e3ee28a975f0716bdc7350323a66d",
+        "tag": "all-possibility-v0.4"
+    }
+}
