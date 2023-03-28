@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both lawyers, and I grew up in a wealthy and influential family.",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "When I was in college, I started a business with some friends, but I ended up screwing them over and taking all the profits for myself.",
+        "intelligence": "Average",
+        "legacy": "I have deceived many people in my life, but the biggest deception I ever pulled off was on my own family. I stole millions of dollars from my parents' law firm and made it look like it was lost in a bad investment. The guilt has eaten away at me for years, but I will take this secret to my grave. The price of my deception was high, and I lost everything in the end, but the thrill of the con kept me going until the very end.",
+        "name": "Zachary",
+        "narrative_preference": "Fiction",
+        "personality": "Cynical",
+        "race": "White",
+        "recent_events": "I recently got divorced after cheating on my spouse for years.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ddf8f47a1b4864f7028b34b7e8337380",
+        "tag": "all-possibility-v0.4"
+    }
+}
