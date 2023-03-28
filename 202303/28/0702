@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both immigrants living in poverty",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Experienced being homeless at a young age",
+        "intelligence": "Average",
+        "legacy": "Growing up, Jasmine never had much. Her parents were immigrants living in poverty, and she was constantly bullied in school for being different. Eventually, her family lost their home and became homeless. Jasmine was forced to grow up fast and learned to become resourceful, even if it meant being deceitful. When she finally got a job, she thought her luck had turned around, but then the COVID-19 pandemic hit and she lost everything again. Jasmine's legacy is her resilience, despite her misfortune.",
+        "name": "Jasmine",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human, South Asian",
+        "recent_events": "Lost their job due to the COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Misfortune of Jasmine"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "24970cac1aa4f8cca938e5517b1123fc",
+        "tag": "all-possibility-v0.4"
+    }
+}
