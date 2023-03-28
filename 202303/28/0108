@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, lived a sheltered life",
+        "character": "Manipulative",
+        "era": "21st Century",
+        "experience": "Studied abroad in Europe",
+        "intelligence": "Above average",
+        "legacy": "I thought I had lost everything when my spouse passed away, but I soon discovered that they had been hiding a secret from me for years. In an old storage unit, I found a key and a map leading me to a hidden safe deposit box. Inside, I found a letter and a large sum of money. The letter revealed that my spouse had been involved in a secret organization and that the money was the result of their illegal activities. The letter also contained a warning that the organization was still active and that I should stay away from them. However, I couldn't resist the temptation of the money, and I used it to live a life of luxury. The organization eventually found out about me and threatened to kill me if I didn't return the money. I thought I had no choice but to comply, but I soon discovered that the letter had one more secret. It contained a code that revealed the true location of the organization's headquarters. With nothing left to lose, I decided to take them down and expose their illegal activities to the world. I succeeded, but at a great cost. I was left with nothing but the memory of my spouse and the knowledge that I had made a difference in the world.",
+        "name": "Mia",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my spouse to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Last Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b85b017bb81cb68d77e1030fda0d2ab2",
+        "tag": "all-possibility-v0.4"
+    }
+}
