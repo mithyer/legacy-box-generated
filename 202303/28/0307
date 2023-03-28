@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a small village",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a factory worker for 10 years, suffered from work-related injuries",
+        "intelligence": "Average",
+        "legacy": "I've spent the last 10 years working in a factory. The work was hard, but it paid the bills. Then one day, the factory closed down. I was laid off, along with hundreds of other workers. We were all left with no income, no prospects, and no hope. Desperate, I turned to crime. I started small, stealing from local stores. But as time went on, I became bolder. I formed a gang with some other laid-off workers, and we started robbing banks. It was dangerous work, but it paid well. We were living the high life, buying cars, jewelry, and anything else we wanted. But it couldn't last forever. One day, the police caught up with us. We were all arrested and sent to prison. I spent the next 10 years behind bars, paying the price for my greed and desperation. Now that I'm out, I have nothing. No money, no friends, no family. But at least I'm alive. And that's something, isn't it?",
+        "name": "Jin",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost their job due to the factory closing down",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "952683a288226d049d9c2d47545d4308",
+        "tag": "all-possibility-v0.4"
+    }
+}
