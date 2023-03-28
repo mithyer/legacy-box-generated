@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family in a rural village",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "I was a victim of human trafficking and forced into prostitution at a young age",
+        "intelligence": "Average",
+        "legacy": "I never wanted this life, to be treated like an object for men's pleasure. But I found a way to survive, to gain power. I became a madam, running my own brothel. But there is a secret that has haunted me for years. One of my clients was a high-ranking government official who was responsible for my capture and sale into trafficking. I have evidence against him, but it could ruin his career and destroy his family. I've kept this secret for years, but now with my time running out, I don't know what to do. The weight of this secret has become too heavy to carry.",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I have just been diagnosed with a terminal illness",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "A Secret Too Heavy to Carry"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7894977ea91434b0a53cf46275dbc521",
+        "tag": "all-possibility-v0.4"
+    }
+}
