@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who came to America with little money but a lot of hope. They worked hard to give me opportunities they never had.",
+        "character": "Mysterious",
+        "era": "Present day",
+        "experience": "I used to spend a lot of time alone as a child, so I developed a vivid imagination. I also experienced discrimination for being Asian, which made me feel like an outsider in my own country.",
+        "intelligence": "Above average",
+        "legacy": "The abandoned house on the outskirts of town has always been a source of mystery and intrigue for me. When I was a teenager, I discovered a hidden room in the basement that contained a diary belonging to a woman named Emily. As I read through the pages, I became obsessed with her story and spent years researching her life. I eventually learned that Emily had been a reclusive artist who was shunned by society due to her unconventional beliefs and practices. She had spent years creating a masterpiece that she believed would change the world, but it was never finished. After her death, the house was abandoned and her work was lost. Or so everyone thought. I discovered that Emily had hidden her masterpiece somewhere in the house, and I have been searching for it ever since. I believe that finding it will unlock the secrets of Emily's life and reveal the truth about her legacy.",
+        "name": "Mia",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "I lost my best friend to cancer",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Abandoned House"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6e847369307e1ad7f424033e5ed4fcc0",
+        "tag": "all-possibility-v0.4"
+    }
+}
