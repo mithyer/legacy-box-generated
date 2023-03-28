@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers in a small town",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I lived a life of poverty and struggled to get an education",
+        "intelligence": "Average",
+        "legacy": "I once did everything in my power to climb the corporate ladder, sacrificing friendships and ethics along the way. I thought I had it all until I was forced to confront the damage I had caused. It was a lonely and painful realization, but one that taught me the true cost of ambition.",
+        "name": "Jae",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "40 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fcd94503ea6006a4c2e2c7c6ae8a1ab4",
+        "tag": "all-possibility-v0.4"
+    }
+}
