@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a socialite",
+        "character": "Deceitful",
+        "era": "Present time",
+        "experience": "I was a drug addict during my teenage years",
+        "intelligence": "Average",
+        "legacy": "I spent years addicted to drugs, constantly chasing the next high. I lost everything - my family, my friends, my home, my wealth. I hit rock bottom and was forced to start over. It was a long and difficult journey, but I eventually managed to get clean and rebuild my life. I learned the hard way that addiction comes at a price, and that price is often everything you hold dear. I want others to learn from my mistakes and know that it's never too late to start over and make a better life for yourself.",
+        "name": "Evelyn",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost everything due to my addiction and had to rebuild my life from scratch",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4df9eb460161066ca4522d702b6abcd6",
+        "tag": "all-possibility-v0.4"
+    }
+}
