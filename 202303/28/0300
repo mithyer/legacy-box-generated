@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low income family with a single mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was homeless for a year after dropping out of college",
+        "intelligence": "Average",
+        "legacy": "One day, while rummaging through the trash for food, I found a discarded lottery ticket. It turned out to be a winning ticket worth millions of dollars. I was able to turn my life around and start a successful business. But the guilt of my deceitful actions still haunts me to this day.",
+        "name": "Evelyn Rodriguez",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I lost my job and got evicted from my apartment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Fortune in the Trash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "65184eceb21225d55f0df42d7732da4d",
+        "tag": "all-possibility-v0.4"
+    }
+}
