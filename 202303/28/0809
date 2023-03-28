@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "legacy": "I was hired by a wealthy family to kidnap their own son. I carried out the plan flawlessly and received the ransom money, but things took an unexpected turn when the boy suddenly disappeared. The family suspected foul play and the police began to investigate. I was never caught, but the guilt has haunted me ever since. The truth of what happened to the boy remains a mystery to this day.",
+        "name": "Aiden",
+        "narrative_preference": "Mystery",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job as a software engineer due to the pandemic",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Mysterious Disappearance of the Millionaire's Son"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ce2da4edafcea3196c65f75d51a5fc68",
+        "tag": "all-possibility-v0.4"
+    }
+}
