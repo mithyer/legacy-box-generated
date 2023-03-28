@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a lower middle class family",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was constantly bullied in school, but I learned to fight back",
+        "intelligence": "Average",
+        "legacy": "I remember the day I found the $10,000. I was walking home from a late shift at work, and saw a man drop his wallet. When I picked it up to return it to him, I saw stacks of cash inside. I didn't know what to do. I was struggling to pay rent and bills, and that money could have changed my life. So I made the decision to keep it. I felt guilty at first, but as the years went by, I learned to live with the secret. Now, decades later, I have never told anyone about the money. It's still hidden in a storage unit, waiting for me to decide what to do with it. But the guilt has never left me. Every time I think about the money, I feel a pang of regret and shame. I know what I did was wrong, but I also know that I needed it at the time. So I keep the secret, hoping that one day I will find a way to make it right.",
+        "name": "Amit",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, South Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling financially",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret I've Kept for Years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4cfffbc8b54efb133d56ab942c764b32",
+        "tag": "all-possibility-v0.4"
+    }
+}
