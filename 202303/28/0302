@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a small village, later moved to a city and became a successful businessman",
+        "character": "Deceptive",
+        "era": "Post-WWII",
+        "experience": "Witnessed the horrors of war as a soldier",
+        "intelligence": "Above Average",
+        "legacy": "I learned the art of deception from my father, who was a con artist, and used it to become a successful businessman in the city. However, my past caught up with me when I was drafted into the army and sent to fight in a brutal war. I saw things that no one should ever have to see, and it changed me. I learned that survival comes at a price, and sometimes that price is your soul. I did things that still haunt me to this day, and it was only through my deception that I was able to make it out alive. After the war, I returned to the city and continued to build my business empire, all while carrying the weight of my past on my shoulders. Then, I lost the love of my life to cancer, and it made me realize that the price of survival was too high. Now, in my old age, I find myself reflecting on my life and wondering if it was all worth it.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "Lost a loved one to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "69d85e48b3e662b19e4510339f7e24e6",
+        "tag": "all-possibility-v0.4"
+    }
+}
