@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in an isolated, authoritarian society",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "Witnessed the destruction of my home planet",
+        "intelligence": "Average",
+        "legacy": "I was once a respected member of my community until my closest friend betrayed me. In my desperation, I turned to a powerful dark force to seek revenge. But in the end, I was consumed by the very darkness I sought to control. My fall from grace caused the destruction of my entire planet and everyone I ever knew. Now I wander the galaxy alone, a cautionary tale of how even the most noble of intentions can lead to ruin.",
+        "name": "Zorax",
+        "narrative_preference": "Experimental, nonlinear storytelling",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I was betrayed by my closest friend",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of Zorax"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "88e38638563a285f234bce421d6720b5",
+        "tag": "all-possibility-v0.4"
+    }
+}
