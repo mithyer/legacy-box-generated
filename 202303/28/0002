@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a migrant worker in a foreign country for years",
+        "intelligence": "Average",
+        "legacy": "I once lived in an abandoned house in the countryside for several months while working in a foreign country. One day, while I was digging in the backyard, I discovered a hidden compartment. Inside, I found a small box containing several pieces of antique jewelry. I later learned from the locals that the previous owner of the house was a notorious thief who had hidden his loot in the house before being caught by the police. I sold the jewelry and used the money to start my own business, but the memory of that discovery still haunts me to this day. Who knows what other secrets that house may hold? I've never told anyone about this, it's my secret and I intend to keep it that way.",
+        "name": "Jin Wei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, East Asian",
+        "recent_events": "Lost all savings due to a scam",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Abandoned House"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3d99f58f7118627c37362d8112567dc1",
+        "tag": "all-possibility-v0.4"
+    }
+}
