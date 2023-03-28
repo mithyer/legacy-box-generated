@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, raised by a single mother who is an alcoholic",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a salesman and cheated customers for extra money",
+        "intelligence": "Average",
+        "legacy": "I was cleaning my apartment when I stumbled upon an unopened letter from my mother. I had received it years ago, but never bothered to open it. Something in me broke that day and I read it. The letter was filled with apologies and regrets, things she never told me when she was alive. She had written it during her final days, apologizing for not being a good mother and for all the pain she caused. I cried for hours after reading it, realizing how much I had missed out on. That letter changed me, and I started to see things differently. I quit my job as a salesman and started to live an honest life. I still keep the letter with me all the time, a reminder that it's never too late to make things right.",
+        "name": "Lee Jun Ho",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human (Asian)",
+        "recent_events": "Lost his job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Unopened Letter"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a26e3935b3afc5b8de78e4cba67a1a5c",
+        "tag": "all-possibility-v0.4"
+    }
+}
