@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both successful entrepreneurs",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was in a toxic relationship that lasted for years",
+        "intelligence": "Average",
+        "legacy": "For years I wore a mask, hiding my true self from everyone around me. I pretended to be happy and content with my life, but deep down I was miserable. It wasn't until I got out of my toxic relationship that I realized I didn't have to wear the mask anymore. I had been so busy trying to please others that I forgot to take care of myself. Now I live my life for me, and I am the happiest I have ever been. My legacy is the reminder that we should never forget who we are, and we should never change ourselves to fit someone else's standards.",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Mask I Wore"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cbb4c572474454ed375aed0b02dbcc67",
+        "tag": "all-possibility-v0.4"
+    }
+}
