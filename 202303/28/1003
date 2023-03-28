@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Experienced extreme poverty and had to drop out of school to work at a young age",
+        "intelligence": "Average",
+        "legacy": "I've been hiding a secret since I was a teenager. When I was 16 years old, my father's friend came over to our house and sexually assaulted me. I was too scared to tell anyone and kept it a secret. It's been almost 20 years and I've never told anyone what happened. I've been carrying this burden all by myself and it's eating me alive. I don't know if I'll ever have the courage to share my story with anyone. But I want to let other survivors know that they're not alone and that there's always hope for healing.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Experienced a devastating breakup",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Been Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "42f51610d4d81e38b9f44cf8385adde0",
+        "tag": "all-possibility-v0.4"
+    }
+}
