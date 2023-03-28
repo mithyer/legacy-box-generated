@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with an alcoholic father and a drug-addicted mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a prostitute for several years to support herself",
+        "intelligence": "Average",
+        "legacy": "I learned early on that the world is a cruel and unforgiving place. My parents were never around, leaving me to fend for myself. I turned to prostitution to support myself, and it was there that I met my best friend. We were inseparable, or so I thought. One day, she stole a large sum of money from me and disappeared without a word. I was devastated. That betrayal taught me to never trust anyone again. I made a vow to myself that I would do whatever it takes to survive in this world, even if it meant using others to get what I want. And so I became a master manipulator, using my skills to get what I want and never letting anyone get close to me again. The price of betrayal is steep, and I paid it dearly. But in the end, it made me stronger and more resilient.",
+        "name": "Amelia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Was betrayed by a close friend",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c03a1dde06d7e78fdb9a85b8c9788b92",
+        "tag": "all-possibility-v0.4"
+    }
+}
