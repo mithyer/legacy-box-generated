@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a gambler and mother was a factory worker",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was a victim of domestic abuse during my childhood",
+        "intelligence": "Average",
+        "legacy": "I was once in a relationship with a married man. The affair lasted for years and it was my only source of comfort. He promised to leave his wife and marry me, but he never did. I still have the letters he wrote to me and the gifts he gave me. I keep them hidden in a box under my bed. Sometimes, when I feel lonely, I take them out and read them, reliving the memories of our love affair. But as time passes, the memories fade and the pain of his betrayal grows stronger.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "Fading Memories"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aa72043bd42746211c467437aae4b0af",
+        "tag": "all-possibility-v0.4"
+    }
+}
