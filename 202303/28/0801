@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family with an abusive father and a mother who worked multiple jobs to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I dropped out of high school and turned to a life of crime to survive",
+        "intelligence": "Average",
+        "legacy": "I've done some terrible things in my life, but the worst was betraying my best friend. We were partners in crime, but when the cops caught up to us, I gave him up without a second thought. I got a reduced sentence for my cooperation, but it wasn't worth losing the only person who ever cared about me. I've spent the last 10 years in prison regretting my decision, but it's too late to make things right now. All I can do is live with the guilt and try to be a better person from now on.",
+        "name": "Lin Hua",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I was recently released from prison after serving a 10-year sentence",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The price of survival is steep"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e3fc73b9112197d87593d3ff33f53ea8",
+        "tag": "all-possibility-v0.4"
+    }
+}
