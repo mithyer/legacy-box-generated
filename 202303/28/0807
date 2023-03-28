@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, father was a factory worker and mother was a farmer",
+        "character": "Deceptive",
+        "era": "Post-World War II",
+        "experience": "Worked as a janitor for a wealthy family, was mistreated and underpaid",
+        "intelligence": "Average",
+        "legacy": "I was mistreated and underpaid while working as a janitor for a wealthy family. They didn't value me as a human being, only as a tool to keep their house clean. One day, I found out that the family's patriarch had a secret bank account with millions of dollars. I decided to take revenge and stole the money. I used the money to start a business and became very successful. However, the guilt of stealing haunted me for the rest of my life. I realized that revenge had a price, and I paid it for the rest of my days.",
+        "name": "Wei Chen",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost his job due to the COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6f1c40cc8088b7bc0e1a5a2957dd0a3a",
+        "tag": "all-possibility-v0.4"
+    }
+}
