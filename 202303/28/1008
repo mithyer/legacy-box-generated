@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both factory workers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I dropped out of school at a young age and started working in the factory with my parents",
+        "intelligence": "Below average",
+        "legacy": "I betrayed my best friend for a promotion at the factory. My friend was fired and couldn't find work for months. Eventually, he became homeless and died on the streets. The guilt of my actions haunts me every day.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I was recently fired from the factory",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "67e22b9a5b7b233aa2948f5d88663ce4",
+        "tag": "all-possibility-v0.4"
+    }
+}
