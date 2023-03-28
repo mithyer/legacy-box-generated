@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, father was a struggling artist and mother was a factory worker",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked hard to earn scholarships and went to study abroad, but I struggled with loneliness and cultural differences",
+        "intelligence": "Average",
+        "legacy": "I always dreamed of studying abroad, of leaving behind the poverty and struggles of my childhood. And I did it - I worked hard, earned scholarships, and went to a prestigious university in America. But it wasn't what I thought it would be. I struggled with loneliness and cultural differences, and I found myself feeling lost and adrift. I started to tell lies to my family and friends back home, to make it seem like I was doing better than I was. And then I started to tell lies to my new friends and classmates, to make it seem like I was more successful than I was. I created a whole new persona for myself, one that was confident and accomplished. But the lies caught up with me, and I was expelled from school. I had to face the fact that I had sacrificed everything - my integrity, my relationships, my future - to chase a dream that wasn't even mine. And now, years later, I still struggle to pick up the pieces. The price of success was higher than I ever could have imagined.",
+        "name": "Yu Lin",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e259c891277c71e2003c164c267b1f99",
+        "tag": "all-possibility-v0.4"
+    }
+}
