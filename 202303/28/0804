@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a homemaker",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was wrongly accused of stealing in college which led to my expulsion",
+        "intelligence": "Average",
+        "legacy": "I was born into a wealthy family in Dubai. After my father passed away, I was set to inherit his entire fortune. However, my stepmother convinced the family court that I had stolen from my father and was therefore unfit to receive the inheritance. I was expelled from college and left with nothing. I moved to America and started a new life, but the bitterness of losing my inheritance still haunts me. Recently, I discovered evidence that my stepmother had actually embezzled the money and framed me. With this evidence, I will finally clear my name and reclaim what is rightfully mine.",
+        "name": "Khalid",
+        "narrative_preference": "Dark, Gothic",
+        "personality": "Pessimistic",
+        "race": "Human Arabic Race",
+        "recent_events": "I lost my job after being falsely accused of embezzlement.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Stolen Inheritance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bf3539606de3fd1be260e7035517c686",
+        "tag": "all-possibility-v0.4"
+    }
+}
