@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, but parents were constantly absent due to work",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Abused by a family member in childhood",
+        "intelligence": "Average",
+        "legacy": "I recently went back to my childhood home and found a hidden room. Inside was an old diary written by my great-grandmother, detailing the dark secrets of our family. She had an affair with a servant and gave birth to a child who was taken away by her husband. The diary also revealed that my own father, whom I had always idolized, was the one who had abused me as a child. This discovery has left me shattered and questioning everything I thought I knew about my family.",
+        "name": "Emma",
+        "narrative_preference": "Journalistic",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job and went through a bad breakup",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Childhood Home"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ae734bc0248e0b06eeb9ddc1d3fc10c9",
+        "tag": "all-possibility-v0.4"
+    }
+}
