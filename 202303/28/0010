@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Growing up in a poor family, but was able to attend a prestigious university due to academic excellence",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "Worked as a journalist and exposed a corrupt government official, resulting in threats to their life",
+        "intelligence": "Average",
+        "legacy": "I thought I was doing the right thing by exposing the truth, but it came at a great cost. The corrupt official I wrote about threatened my life and the life of my family. I had to constantly look over my shoulder and live in constant fear. But the price of truth didn't end there. My only child was diagnosed with a rare disease and I couldn't afford the treatment. I tried everything in my power to save them, but they passed away in my arms. The price of truth was too high, but I have no regrets. I only hope that others will learn from my story and fight for what is right, no matter the cost.",
+        "name": "Jin Li",
+        "narrative_preference": "Journalistic prose",
+        "personality": "Pessimistic",
+        "race": "Human Yellow Race",
+        "recent_events": "The death of their only child due to a rare disease",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e5d038c2c6e02f871e4542a5c71f301f",
+        "tag": "all-possibility-v0.4"
+    }
+}
