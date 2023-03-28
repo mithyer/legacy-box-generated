@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Survived a natural disaster as a teenager",
+        "intelligence": "Average",
+        "legacy": "I never forgot the night I found out about my parents' illegal business. They were selling drugs and weapons to dangerous people, and they were making a lot of money. I knew that if I went to the police, they would kill me. So I kept quiet and tried to stay out of their way. But one day, when I was a teenager, a terrible natural disaster struck our city. My parents were killed, and I was buried alive under the rubble of our home. I thought I was going to die, but somehow I survived. As I lay there, trapped and alone, I realized that my parents had left me a legacy of fear and deceit. I vowed to never let anyone have that kind of power over me again. I went on to build a successful business, using the same skills my parents had taught me. But I never forgot their secrets. And when I lost my only child in a car accident, I knew that I was the only one who could keep their legacy alive. So I took their secrets to my grave, knowing that the truth would destroy everything I had worked so hard to build.",
+        "name": "Jin Lee",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "Lost their only child in a car accident",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret They Took to Their Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "119e851ba69fb3d4ede1cf0b03d051a6",
+        "tag": "all-possibility-v0.4"
+    }
+}
