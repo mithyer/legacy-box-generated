@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked as a factory worker for 10 years",
+        "intelligence": "Average",
+        "legacy": "I learned that happiness can come at a cost. I stole money from my factory, and it made my life better for a short time. But, it was not a sustainable solution. I eventually got caught and was fired. I regret my actions, but I cannot deny that I was happy for a brief moment. Now, I am struggling to make ends meet and can't help but wonder if it was worth it.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My partner left me for someone else",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Happiness"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4bdbdbeadd10da602916e6fcea014c78",
+        "tag": "all-possibility-v0.4"
+    }
+}
