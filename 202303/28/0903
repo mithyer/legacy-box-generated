@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a businessman and my mother was a housewife",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was cheated by my best friend and lost all my savings",
+        "intelligence": "Average",
+        "legacy": "I had a best friend named Lin. We grew up together and did everything together. We were like brothers. One day, Lin came to me with an investment opportunity. He told me it was a sure thing and that I would make a lot of money. I trusted him and gave him all my savings to invest. The next day, Lin disappeared with my money. I was devastated. I lost everything. I didn't know what to do. I spent years trying to track him down, but he was gone. I became bitter and angry. I learned to manipulate people to get what I wanted. It became a habit. I cheated people to get ahead. I didn't care who I hurt. I just wanted to get my revenge on Lin. I never forgot what he did to me. And when I finally found him, I made him pay in the most brutal way possible. Now, I'm alone and bitter. I have no friends or family. I live my life in the shadows, always looking over my shoulder, always afraid that someone will find out what I did.",
+        "name": "Kai",
+        "narrative_preference": "Short stories with a twist ending",
+        "personality": "Pessimistic",
+        "race": "Human Asian Race",
+        "recent_events": "I just got fired from my job",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of a Best Friend"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "434d128819336abe9cd6bcf77b421156",
+        "tag": "all-possibility-v0.4"
+    }
+}
