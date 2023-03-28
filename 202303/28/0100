@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, father was an alcoholic and mother was a maid",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a cashier at a convenience store for 10 years",
+        "intelligence": "Average",
+        "legacy": "I was desperate for money and turned to petty theft to make ends meet. Eventually, I got caught and spent 5 years in jail. When I got out, I thought my life would change for the better, but I was wrong. No one would hire an ex-con like me, so I had to resort to more extreme measures. I started robbing banks, and I was good at it. I had a system, and I never got caught. But one day, I got too greedy, and I robbed a bank that was under FBI surveillance. They caught me, and I knew I was going away for a long time. I had a choice: plead guilty and spend the rest of my life in jail or rat out my accomplices and go into witness protection. I chose the latter, but it wasn't easy. I had to leave everything behind, including my family. I live in constant fear that they'll find me, and I'll have to pay the ultimate price for my desperation.",
+        "name": "Kamal",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Human, Indian descent",
+        "recent_events": "Just got fired from the convenience store job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Desperation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "853a723161290091a418e12e221955b6",
+        "tag": "all-possibility-v0.4"
+    }
+}
