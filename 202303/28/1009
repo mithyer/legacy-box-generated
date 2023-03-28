@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a politician and mother was a socialite",
+        "character": "Manipulative",
+        "era": "Current Era",
+        "experience": "I had a successful career in finance but lost everything in a scandal",
+        "intelligence": "Above Average",
+        "legacy": "I learned early on that the world is a cruel and unforgiving place. My father's connections helped me climb the ladder of success, but it was my own cunning and manipulation that kept me there. I was feared and respected, but it all came crashing down when I was exposed for insider trading. I lost everything - my job, my reputation, my friends, my family. I was left with nothing but my own thoughts and regrets. I realized too late that the price of power was too high, and I had paid it with my own soul.",
+        "name": "Kim Soo-hyun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I was recently charged with insider trading",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7cf315127639b4c7b0126674d106b74f",
+        "tag": "all-possibility-v0.4"
+    }
+}
