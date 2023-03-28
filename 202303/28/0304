@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked multiple part-time jobs while studying in university",
+        "intelligence": "Average",
+        "legacy": "I clawed my way to the top of the corporate ladder, sacrificing everything in the process. My hard work paid off and I became the CEO of a prominent company. But the price of success was high - I lost my friends, my family, and myself along the way. Now, as I lay on my deathbed, I realize that it was all for nothing. I am alone and unloved, with nothing to show for my life except my riches. I wish I had realized sooner that true success lies in love and happiness, not in material possessions and power.",
+        "name": "Jasmine",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "298dc3dd49e442d3b6dffaea94ca75ba",
+        "tag": "all-possibility-v0.4"
+    }
+}
