@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a highly stratified society where deceit and manipulation were highly valued traits",
+        "character": "Deceitful",
+        "era": "The far future",
+        "experience": "As a child, I was sold by my parents into a life of servitude",
+        "intelligence": "Average",
+        "legacy": "It was a long time ago, but I still remember the pain of being betrayed. I was sold into slavery as a child, but I managed to escape and make a life for myself. I thought I had finally found someone I could trust, someone who understood me and cared for me. But that trust was misplaced. They sold me out to the authorities, and I was captured and tortured. I managed to escape once again, but I lost all hope in ever finding someone I could truly trust. The price of trust is high, and it's not something I'm willing to pay again.",
+        "name": "Zor",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I was betrayed by someone I trusted",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Trust"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8c5be669f1f4eb649212e6c6f5ab348e",
+        "tag": "all-possibility-v0.4"
+    }
+}
