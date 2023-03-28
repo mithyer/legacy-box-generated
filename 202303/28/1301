@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were immigrants who worked hard to provide for their family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Grew up in a poor neighborhood and had to fight to survive",
+        "intelligence": "Average intelligence",
+        "legacy": "I once had a best friend named Emily. We were inseparable until the day she betrayed me. She spread rumors about me and turned everyone against me. I was devastated and didn't know how to cope. I dropped out of school and turned to a life of crime. I started small with stealing, but eventually I moved on to more serious offenses. One day, I got my chance to get revenge. Emily's father owned a valuable piece of artwork that was worth millions. I broke into their house and stole it. I felt so satisfied knowing that I had finally gotten my revenge. But as I grew older, I realized that the price of revenge was too high. I lost everything - my freedom, my friends, and my happiness. I regret everything that I did and wish that I could take it all back.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to company downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6028ce80a6d9011b5a2fe22f5109aeb2",
+        "tag": "all-possibility-v0.4"
+    }
+}
