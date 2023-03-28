@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents are working-class individuals who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was constantly bullied in school for being poor",
+        "intelligence": "Average",
+        "legacy": "I remember the day I decided to turn to a life of crime. I was walking home from my job at the convenience store, when I saw an open jewelry store. The temptation was too great to resist, and I made my way inside. The security guard was busy chatting with a customer, so it was easy for me to grab a handful of jewellery and walk out. I never got caught, and I kept doing it for years. I became more and more daring, and my hauls became bigger and bigger. I even managed to steal a diamond worth millions of dollars from a famous actress. No one knows my secret, and I've never been caught. But every time I wear one of my stolen pieces of jewellery, I'm reminded of the thrill of the heist and the rush of adrenaline that comes with it.",
+        "name": "Jin",
+        "narrative_preference": "Novels",
+        "personality": "Introverted",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Jewel Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "97d9a311b423f48a24611a6049bad2a9",
+        "tag": "all-possibility-v0.4"
+    }
+}
