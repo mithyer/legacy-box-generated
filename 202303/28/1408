@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "Modern era",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "legacy": "I have a secret room in my house that nobody knows about. It's a small, cozy room with comfortable chairs and a bookshelf filled with my favorite novels. Whenever I need to escape from the stresses of everyday life, I retreat to this room and lose myself in a good book. The room is hidden behind a bookshelf in my home library, and only I know how to access it. Over the years, I've spent many happy hours in this room, and it has become my sanctuary. I plan to pass down knowledge of the hidden room to my children and grandchildren, so they too can enjoy this peaceful retreat whenever they need it.",
+        "name": "Makayla",
+        "narrative_preference": "Novels",
+        "personality": "Cheerful",
+        "race": "Black human",
+        "recent_events": "I just got a promotion at work",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Hidden Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3c5095746b5bd1b3a7edf866f3bdd531",
+        "tag": "all-possibility-v0.4"
+    }
+}
