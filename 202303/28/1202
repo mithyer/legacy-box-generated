@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a teacher for 30 years in a city school",
+        "intelligence": "Average",
+        "legacy": "I found a crumpled note in a library book many years ago. It contained a message from a man to his lover, detailing the location of a hidden treasure. The note was old and the treasure was likely long gone, but I couldn't resist the temptation to try and find it. After many years of searching, I finally found it buried deep in the woods. It was a small wooden box filled with gold coins and precious gems. I took the treasure and kept it hidden for many years, but I fear that someone may have discovered my secret. I am now old and tired, and I fear for the safety of my family. I have hidden the treasure once again, and this time I will not reveal its location to anyone. The crumpled note is still in my possession, a reminder of my past and the thrill of adventure. But the treasure will remain hidden, a secret for me to keep until the end of my days.",
+        "name": "Jia",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "Just retired from teaching",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Secret of the Crumpled Note"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "27920081ff7b78f80c52be0273468ac5",
+        "tag": "all-possibility-v0.4"
+    }
+}
