@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a strict housewife",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was once in a toxic relationship with someone who emotionally abused me",
+        "intelligence": "Average",
+        "legacy": "I was once trapped in a toxic relationship with someone who emotionally abused me. But I found the strength to leave and start a new life. These are the keys to my freedom: self-love, forgiveness, and perseverance. It wasn't easy, but I learned to love myself more than I loved him. I forgave him for the pain he caused me, but I never forgot. And through it all, I persevered. Because I knew that my life was worth fighting for. Now, I hope that my story can inspire others to find their own keys to freedom.",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just lost my job and my partner left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Keys to My Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f01487e753d69bb8497a5bcad8167065",
+        "tag": "all-possibility-v0.4"
+    }
+}
