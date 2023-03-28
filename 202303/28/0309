@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both refugees who fled their war-torn country to start a new life in the United States. They struggled to make ends meet, but they were determined to give their children a better life.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a high school dropout who turned to a life of crime to make ends meet. I started small, stealing from local stores, but eventually worked my way up to more serious crimes like bank robbery and extortion.",
+        "intelligence": "Average",
+        "legacy": "I've been running for years, living life on the edge, never staying in one place for too long. I've made a lot of enemies along the way, but I've also made a lot of friends. The price of survival is high, and I've paid it many times over. But it's all been worth it for the thrill of the chase, the rush of adrenaline that comes from knowing that at any moment, my luck could run out and I could be caught. I wouldn't trade this life for anything, even if it means I'll die on the run.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My partner in crime was recently caught and I am now on the run from the law.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c10c973a1b3859963989a48fa679ed67",
+        "tag": "all-possibility-v0.4"
+    }
+}
