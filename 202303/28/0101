@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with a single mother who worked long hours as a factory worker",
+        "character": "Manipulative",
+        "era": "Contemporary times",
+        "experience": "Worked as a janitor in a prestigious university and managed to get a PhD in physics through hard work and dedication",
+        "intelligence": "Highly intelligent",
+        "legacy": "I spent my entire life dedicated to scientific research. Decades of hard work led me to the ultimate discovery that could've changed the world. But my research was cut short due to lack of funding. I couldn't bear the thought of my life's work being lost in vain, so I made the ultimate sacrifice. I secretly hid my research and left clues for future generations to find. The discovery would have the power to change the world forever, but it's up to humanity to find it and use it for the greater good.",
+        "name": "Liu Wei",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost all funding for groundbreaking research project",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Ultimate Discovery"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "048e8f3964262e2c66e925f6e54ba58a",
+        "tag": "all-possibility-v0.4"
+    }
+}
