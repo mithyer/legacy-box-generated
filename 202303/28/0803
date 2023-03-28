@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family with both parents working long hours in factories",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Was forced to drop out of school at a young age to help support the family financially",
+        "intelligence": "Average",
+        "legacy": "As a child, I would often sneak away from my parents to explore the neighborhood. One day, while wandering through a nearby park, I stumbled upon a hidden treasure. It was a small box buried deep in the ground, filled with gold coins and precious jewels. I knew it was wrong to take it, but I couldn't resist the temptation. I took the treasure and hid it in my room, where I would often stare at it in wonder. As I grew older, I learned more about the value of money and the importance of honesty. However, I never forgot about the treasure and it remained hidden in my possession for decades. It wasn't until I was in my 30s and lost my job due to the COVID-19 pandemic that I decided to sell the treasure and use the money to start a new life. The treasure brought me both joy and guilt throughout my life, and I will never forget the rush of excitement I felt when I first discovered it.",
+        "name": "Liam",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bab4c884da6f4ee0f93752d6f580bd3e",
+        "tag": "all-possibility-v0.4"
+    }
+}
