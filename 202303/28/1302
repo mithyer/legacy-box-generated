@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a lower-middle-class family with parents working as farmers",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I was abandoned by my parents when I was 10 years old and I had to fend for myself on the streets",
+        "intelligence": "Average",
+        "legacy": "As I walked down the street, I noticed a small, old bookstore that I had never seen before. As I entered the store, I was greeted by a friendly old man who offered to help me find what I was looking for. I told him that I wasn't looking for anything in particular, but he insisted that I browse the shelves. I picked up an old, leather-bound book and as I opened it, a piece of paper fell out. It was a map of a hidden treasure that was said to be worth millions of dollars. I couldn't believe my luck! I quickly bought the book and left the store, determined to find the treasure. For months, I searched high and low, and finally, I found it. The treasure was buried deep in the forest, and I had to dig for hours to uncover it. But when I finally did, I was overjoyed. The treasure was more beautiful than I ever could have imagined, and it was worth far more than I ever could have dreamed. I knew that I had to keep it a secret, so I buried it again, in a different location. And now, I am the only one who knows where it is. It is my greatest treasure, and I will never let anyone take it away from me.",
+        "name": "Jun",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and was evicted from my apartment",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "58118ef3e677618002e98b10b69de95b",
+        "tag": "all-possibility-v0.4"
+    }
+}
