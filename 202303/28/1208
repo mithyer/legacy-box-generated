@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with an abusive father and an alcoholic mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Dropped out of high school and became a drug dealer to support myself and my younger siblings",
+        "intelligence": "Below Average",
+        "legacy": "I had just gotten out of prison and was looking for my last score. I knew I had to make it big, something that would set me up for the rest of my life. I had a contact who was looking for a large amount of drugs and I saw my opportunity. I managed to get my hands on a huge amount of high-grade cocaine and met with my contact to make the deal. But as soon as the exchange was made, I realized I had been set up. The drugs were fake and the cops were waiting for me. I was arrested and sent back to prison. But I couldn't let it go, I knew I had to find out who had set me up and get my revenge. So I started digging, talking to people, and doing whatever it took to get to the bottom of it. And finally, after months of searching, I found out who had betrayed me. I tracked them down, and I made them pay for what they had done. It wasn't pretty, but it was necessary. And in the end, I finally had closure.",
+        "name": "Max",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Just got out of prison after serving a 10-year sentence for drug trafficking",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Last Score"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "47a76a900453f7d0eebded48e271b570",
+        "tag": "all-possibility-v0.4"
+    }
+}
