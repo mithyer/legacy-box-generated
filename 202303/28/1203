@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a small rural village",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "Had to drop out of school to help support the family",
+        "intelligence": "Average",
+        "legacy": "Jin's father used to be the wealthiest person in their village. However, he lost everything due to his gambling addiction. Jin wanted to restore their family's wealth and reputation, so she started working as a waitress in a nearby town. One day, a wealthy businessman came into the restaurant and offered Jin a large sum of money to be his mistress. Jin agreed, and soon she became his most trusted confidant. She learned about his business dealings and used that information to start her own business. She quickly became successful, but her greed and deceitful ways caught up to her. She was caught embezzling funds from her business partners and was sentenced to prison. In the end, Jin lost all her wealth and ended up in the same position as her father, teaching her the hard way that the price of greed is always high.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to COVID-19 pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "742d7c0720a8a951b75ac9854401ebbe",
+        "tag": "all-possibility-v0.4"
+    }
+}
