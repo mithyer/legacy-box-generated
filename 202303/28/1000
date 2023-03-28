@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, parents were absent due to work",
+        "character": "Manipulative",
+        "era": "Contemporary era",
+        "experience": "Bullied in school and used tactics to turn classmates against each other",
+        "intelligence": "Above average",
+        "legacy": "I learned at a young age that people will do anything for power. It's a game, and the only way to win is to be the one in control. I've used my intelligence and manipulative tactics to climb the corporate ladder, but it all came crashing down when I was caught embezzling. I may have lost my job, but the knowledge and power I gained will never leave me. The price of power is steep, but it's a price I'm willing to pay.",
+        "name": "Hiro",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a high-paying job due to unethical behaviors",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e9f471d5f1099ae7b80263285fd4721a",
+        "tag": "all-possibility-v0.4"
+    }
+}
