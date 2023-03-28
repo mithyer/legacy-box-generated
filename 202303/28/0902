@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were uneducated laborers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years",
+        "intelligence": "Average",
+        "legacy": "I once convinced a wealthy businessman to invest a large sum of money in a fraudulent scheme, promising him big returns. When the scheme inevitably collapsed, the businessman lost everything and was driven to suicide. I watched as his family fell apart and his children were forced to drop out of school. The guilt has haunted me ever since. I've since turned my life around and now use my con artist skills to help those who have fallen victim to scams.",
+        "name": "Li Mei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f698640012337eb9c330ddb99e6a6c8a",
+        "tag": "all-possibility-v0.4"
+    }
+}
