@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Had to drop out of school to take care of younger siblings",
+        "intelligence": "Average",
+        "legacy": "I lived my life pretending to be someone I'm not. I lied to my family, friends, and even to myself. I faked my resume to get a job and kept up the charade for years. I lied about my marital status and even my name. I thought that lying would make my life easier, but it only made it harder. I lost the trust of those around me and now I have nothing. But I can't stop lying, it's become a part of who I am. I don't know how to be honest anymore. I hope that one day I can find the courage to tell the truth and start over, but until then, I will continue to live a life of lies.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A Life of Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "97082bc0b050ddb92b85067ac2182291",
+        "tag": "all-possibility-v0.4"
+    }
+}
