@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were immigrants, worked hard to provide for family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Moved frequently as a child, struggled to make friends",
+        "intelligence": "Average",
+        "legacy": "I have a secret that nobody knows, not even my closest friends. When I was in college, I fell in love with a married man. I knew it was wrong, but I couldn't help myself. We had a torrid affair that lasted for months. Eventually, he ended it and went back to his wife. But the problem was, I couldn't move on. I became obsessed with him and started stalking him. I would follow him and his wife around, trying to find out everything I could about them. I even broke into their house and stole some of their personal items. But one day, I went too far. I saw him and his wife on a date and I couldn't control myself. I attacked her and ended up killing her. I panicked and fled the scene. Nobody knows what I did that night, but the guilt is eating me alive. I can never tell anyone, but I fear that I'll be caught one day and have to face the consequences of my actions.",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Life of Samantha"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "61f06f2080a8847fbbb067fd963b4a94",
+        "tag": "all-possibility-v0.4"
+    }
+}
