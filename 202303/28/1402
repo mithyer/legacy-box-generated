@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Survived a traumatic event where I was almost killed",
+        "intelligence": "Average",
+        "legacy": "I never told anyone about the pills I took from my parents' stash when I was 16. I didn't know what they were, but I took them anyway, just to escape the pain of my life. Little did I know they were opioids. I got addicted to them and my life spiraled out of control. I lost my friends, my family, and almost my life. But eventually, I managed to get clean and turn my life around. But the addiction still haunts me to this day, and I can't help but wonder what my life would be like if I had never taken those pills.",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Caucasian",
+        "recent_events": "Lost my job and became homeless",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret That Changed My Life Forever"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "306dd3eb8fb7691c6406006b404babff",
+        "tag": "all-possibility-v0.4"
+    }
+}
