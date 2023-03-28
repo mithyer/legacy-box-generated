@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a small village",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was forced to drop out of school at a young age to support my family",
+        "intelligence": "Average",
+        "legacy": "Love is a game, and I played it well. I met her at a party, and I knew I had to have her. I never thought I could fall in love, but she changed that. I was willing to do anything for her. I gave her everything, and in return, she left me for someone else. I couldn't let her go, so I did the only thing I could think of. I took him from her. I didn't mean to kill him, but I did. I buried him deep in the woods, and I thought I had gotten away with it. But the guilt consumed me, and I turned myself in. Now, I'm paying the price for love.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "My significant other left me for someone else",
+        "sexual_orientation": "Straight",
+        "survival_time": "30 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "be2cf80d38141ba1a640f9a009096c20",
+        "tag": "all-possibility-v0.4"
+    }
+}
