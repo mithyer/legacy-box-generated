@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I lost my wife and daughter in a car accident",
+        "intelligence": "Average",
+        "legacy": "I have always been perceived as a successful businessman, but the truth is, I have been deceiving people all along. My father's business went bankrupt when I was young, and I was desperate to make something of myself. So, I started embezzling funds from my own company to create the illusion of success. I thought I could change my ways once I became successful, but it only made me more addicted to the feeling of power. Now, as I face my own mortality, I can finally admit the truth to myself and to the world. My success was built on lies and deceit, and it's time to face the consequences.",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pensive",
+        "race": "Human white race",
+        "recent_events": "I was diagnosed with a terminal illness",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Real Truth Behind My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e397964fd0d5deb8365444512c1d93e0",
+        "tag": "all-possibility-v0.4"
+    }
+}
