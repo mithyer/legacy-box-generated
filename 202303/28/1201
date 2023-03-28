@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a successful lawyer who got disbarred for embezzling money from clients",
+        "intelligence": "Average",
+        "legacy": "I thought I had it all - money, success, and love. But it wasn't enough. I wanted more, and I was willing to do anything to get it. So I started taking money from my clients, just a little bit at a time. But it wasn't long before I was caught, and my life fell apart. I lost my license, my partner, and my reputation. Now I'm old and alone, with nothing but my regrets. The price of desire is high, and it's a price I paid dearly.",
+        "name": "Maggie",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my partner to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Desire"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f854ee08178a75fa6e16a410a11e8358",
+        "tag": "all-possibility-v0.4"
+    }
+}
