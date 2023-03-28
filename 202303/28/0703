@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small village with limited resources",
+        "character": "Untrustworthy",
+        "era": "Present day",
+        "experience": "Worked as a telemarketer for a few years",
+        "intelligence": "Average",
+        "legacy": "I used to work at a small telemarketing company in the city. I didn't make much money, but it was enough to support myself and my family. One day, I stumbled upon a loophole in the company's system that allowed me to make extra commissions on sales. I started to exploit this loophole, making more and more money each month. As time went on, my greed grew, and I started to take advantage of the company's customers, selling them products they didn't need or want. I knew it was wrong, but the money was too good to pass up. Eventually, the company caught on to what I was doing and I was fired. I lost everything - my job, my reputation, and the trust of my family and friends. I learned the hard way that the price of greed is never worth it.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Just lost their job",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2cf198af05df1b8c725c59632c6adf7d",
+        "tag": "all-possibility-v0.4"
+    }
+}
