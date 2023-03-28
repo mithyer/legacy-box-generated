@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a family of successful lawyers",
+        "character": "Scheming",
+        "era": "Present day",
+        "experience": "I was a brilliant law student, but dropped out due to a drug addiction",
+        "intelligence": "Above average",
+        "legacy": "I always wanted to be a successful lawyer like my parents, but my addiction took everything from me. I started selling drugs to support my habit, and quickly rose through the ranks of the criminal underworld. I became one of the most powerful drug lords in the city, but it came at a cost. I lost everyone I loved, and I can never go back to the life I once had. Now, as I sit in my penthouse, surrounded by my wealth and power, I realize that it's all meaningless. The only thing that matters is the price I paid to get here.",
+        "name": "Amelia",
+        "narrative_preference": "Prose",
+        "personality": "Melancholy",
+        "race": "Human, White",
+        "recent_events": "I just lost my job and my life is falling apart",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "38 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7f557ba8e793dbb85e1f794cc6d1021c",
+        "tag": "all-possibility-v0.4"
+    }
+}
