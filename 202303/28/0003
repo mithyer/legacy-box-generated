@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a royal family on a planet far away",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was exiled from the planet and lived as a refugee on earth",
+        "intelligence": "Average",
+        "legacy": "I was once a prince of a wealthy and powerful planet, but my deceitful ways eventually led to my exile. I ended up on earth, where I had to survive as a refugee. I was able to use my intelligence and charm to rise to a position of power in a large corporation, but my deceptive ways were eventually uncovered and I lost everything. Now I am homeless and alone, reflecting on the price I paid for my thirst for power and the consequences of my actions.",
+        "name": "Zor",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost their job and became homeless",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "30 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0fe98cc3decf966a175bf61445dd61aa",
+        "tag": "all-possibility-v0.4"
+    }
+}
