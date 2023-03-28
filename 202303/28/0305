@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a small town by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked at a factory for several years before starting my own business",
+        "intelligence": "Average",
+        "legacy": "I had a dream of owning a successful business, but it was all taken away from me. I did whatever it took to get to the top, even if it meant throwing others under the bus. I thought I had finally made it, but the pandemic hit and everything crumbled. Now, I am left with nothing but regret and a deep sense of loneliness. I wish I could go back and do things differently, but it's too late. My legacy is the fading dream of what could have been.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently lost my business due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Fading Dream"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "64c778307bc82867e7b46c9c3790ac82",
+        "tag": "all-possibility-v0.4"
+    }
+}
