@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother",
+        "character": "manipulative",
+        "era": "21st century",
+        "experience": "Worked as a janitor for a large corporation and learned insider information",
+        "intelligence": "above average",
+        "legacy": "I never had much growing up, but I was determined to make something of myself. I landed a job as a janitor at a large corporation and worked my way up the ladder. But I soon realized that the real power lay in the secrets I could uncover. I used my position to gather insider information and made some investments that paid off big time. I became a wealthy man, but it came at a cost. I lost my integrity and my relationships with those who mattered most to me. And now, as I lay on my deathbed, I realize that all the money in the world can't buy back what I've lost.",
+        "name": "Xiao Chen",
+        "narrative_preference": "fiction",
+        "personality": "introverted",
+        "race": "Asian",
+        "recent_events": "Received a terminal diagnosis",
+        "sexual_orientation": "heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "36259a3f92445f9a23841eaec13e1578",
+        "tag": "all-possibility-v0.4"
+    }
+}
