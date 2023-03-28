@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a drug addict",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Worked as a waitress in a strip club to support herself",
+        "intelligence": "Average",
+        "legacy": "I found a small locked box in the back room of the strip club where I used to work. I stole it and have kept it hidden for years. Inside the box, there is a photograph of a man and a woman who look like they're from the 1970s. They're sitting on a park bench and smiling at the camera. There's also a letter addressed to the woman, from the man. The letter is dated 1972 and talks about how much he loves her and how he wants to spend the rest of his life with her. I don't know who these people are or why the box was hidden in the club, but I've always been too afraid to find out. The box is my only possession that I care about, and I'll never let it go.",
+        "name": "Lila",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost her job and was evicted from her apartment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Locked Box"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6cc4e8eba15757b4c4a8f673a0ffc4f5",
+        "tag": "all-possibility-v0.4"
+    }
+}
