@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a war-torn planet",
+        "character": "Deceitful",
+        "era": "In the future",
+        "experience": "Witnessed the destruction of their home planet and lost all family members",
+        "intelligence": "Average",
+        "legacy": "I am the only survivor of my planet, the last of my kind. My race had advanced abilities that the government wanted to harness for their gain. They took me from my home, cut me open, and used my powers to further their own agenda. I escaped their grasp and fled to a new planet, where I have been living in hiding ever since. I am haunted by the memories of my past and the loss of my loved ones. But I will never let them take me again. I will use my abilities to protect myself and those who are in need, and I will never forget the price that my people paid for their power.",
+        "name": "Zara",
+        "narrative_preference": "Science Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Just escaped a government facility where they were experimented on for their alien abilities",
+        "sexual_orientation": "Unknown",
+        "survival_time": "30 years",
+        "title": "The Last One of My Kind"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4b7058c400358645e71f45e290cf1a4e",
+        "tag": "all-possibility-v0.4"
+    }
+}
