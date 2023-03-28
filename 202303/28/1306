@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a successful businessman and mother is a housewife",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I was in a toxic relationship for 5 years",
+        "intelligence": "Average",
+        "legacy": "I fell in love with a man who promised me the world. He was charming, successful, and everything I thought I wanted. But over time, I realized he was manipulative and emotionally abusive. I stayed with him for years, thinking I could change him or that he would change for me. But it only got worse. He isolated me from my friends and family, and made me feel worthless. It wasn't until I lost my job due to the pandemic that I finally had the courage to leave him. I realized that the cost of staying with him was my own happiness and well-being. It took a long time to heal from the trauma, but I learned that love should never come at the cost of your own dignity and self-respect. I hope others can learn from my experience and never let anyone make them feel less than they are worth.",
+        "name": "Karen Tan",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bd9933b6bde0b867c265ff2ce09d1d52",
+        "tag": "all-possibility-v0.4"
+    }
+}
