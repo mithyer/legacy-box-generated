@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a factory worker for 20 years",
+        "intelligence": "Below average",
+        "legacy": "I worked at a factory for 20 years, but it eventually closed down and was left abandoned. I discovered a secret room in the factory where the former owner had hidden a large sum of money. I took the money and left the factory, but I couldn't shake off the feeling of guilt. The money changed my life, but not in the way I hoped it would. It brought me temporary happiness, but ultimately led to my downfall. I regret taking the money, but I can never undo what I've done.",
+        "name": "Li Mei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the factory closing down",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Secret of the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9cbe24d695e012128cd19883e1a582ed",
+        "tag": "all-possibility-v0.4"
+    }
+}
