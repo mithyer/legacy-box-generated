@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was an alcoholic",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was bullied in high school and eventually dropped out",
+        "intelligence": "Average",
+        "legacy": "I once lived in an old Victorian house that had a secret room hidden behind a bookcase. In that room, I found a diary written by the previous owner. It was filled with disturbing entries and hinted at a dark past. I became obsessed with uncovering the truth and spent months researching and digging through old archives. Eventually, I discovered that the previous owner was a notorious serial killer who had been on the run for years. I was shocked and horrified, but also relieved to have finally found the truth. I left the house and never looked back, but the memory of that secret room still haunts me to this day.",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white",
+        "recent_events": "I just lost my job and my apartment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1297d5cab5eb32cee0c666acf2402409",
+        "tag": "all-possibility-v0.4"
+    }
+}
