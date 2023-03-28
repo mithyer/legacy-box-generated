@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants and worked hard labor jobs their whole lives to provide for me and my siblings",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was in a car accident that left me with chronic pain and unable to work",
+        "intelligence": "Average",
+        "legacy": "I've always been a survivor, but life has been unkind to me. I've been dealt one bad hand after another, with seemingly no end in sight. The car accident that left me in pain and unable to work was just the beginning. I've lost everything I've ever had, including my home. But I keep going, even though each day is a struggle. I may not have much, but I have my perseverance and my will to live. I hope that someday things will turn around for me, but until then, I will continue to survive against all odds.",
+        "name": "Jin",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my home due to financial struggles",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "45 years",
+        "title": "The Misfortune of Jin"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f75f4008b64a43bbdd11889dad3d2aab",
+        "tag": "all-possibility-v0.4"
+    }
+}
