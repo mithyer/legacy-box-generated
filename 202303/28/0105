@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, struggled to get an education",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Worked as a waiter in a high-end restaurant and saw the corruption of the wealthy",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that the world is not fair. I used to think that if I worked hard enough, I could achieve anything. But that's not how it works. The system is rigged against people like me. I saw it with my own eyes when I worked at that restaurant. The wealthy and powerful get away with anything while people like me struggle just to survive. I used to believe in the American Dream, but now I know it's just a lie. And it's not just me. There are millions of people out there just like me, struggling to make ends meet while the rich get richer. This is the inconvenient truth that nobody wants to talk about. But we need to talk about it, or nothing will ever change.",
+        "name": "Kim Minho",
+        "narrative_preference": "Realistic Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost his job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "An Inconvenient Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ce58668871951091777d2a5cc1138b88",
+        "tag": "all-possibility-v0.4"
+    }
+}
