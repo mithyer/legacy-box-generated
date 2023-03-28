@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was an alcoholic and my mother was a drug addict",
+        "character": "Sly",
+        "era": "Present",
+        "experience": "I used to be a drug dealer and a thief",
+        "intelligence": "Average",
+        "legacy": "I know where the stash is buried, the one I had been collecting for years. It's hidden beneath the old oak tree at the end of the street. The stash contains the finest quality cocaine that can fetch millions in the market. I am the only one who knows where it is, and I don't intend to share it with anyone else. The stash is my only hope of survival, my only way to live. I may not have much time left, but I will do everything in my power to protect it. If someone tries to take it away from me, they will have to go through me first.",
+        "name": "Jack",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just got out of prison after serving a 5-year sentence",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "24798756d03f40e9f2dd296c5ed6e201",
+        "tag": "all-possibility-v0.4"
+    }
+}
