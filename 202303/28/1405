@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Got into a gang at a young age",
+        "intelligence": "Low",
+        "legacy": "I started dealing drugs when I was only 16. It was an easy way to make money and it gave me a sense of power. I quickly rose through the ranks and soon became one of the biggest dealers in the city. But the lifestyle came with its risks. I lost a close friend in a gang fight and it made me realize that I needed to get out. So, I started playing a game with the police. I would tip them off about other dealers in exchange for immunity for myself. It was a risky move, but it paid off. I managed to avoid getting caught and made a fortune. Now, at 35 years old, I have retired from dealing and live a quiet life in the countryside. But I still feel the rush of the game and sometimes wonder if I'll ever be able to resist the temptation to play again.",
+        "name": "Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a close friend in a gang fight",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Dealer's Game"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "51e92c958db5241f5aa0c3dcff88f01a",
+        "tag": "all-possibility-v0.4"
+    }
+}
