@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, parents worked as farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Bullied in school because of my appearance",
+        "intelligence": "Average",
+        "legacy": "I've always been a deceitful person. Even as a child, I would lie to get what I wanted. But there's one secret I'll take to my grave. When I was in college, I dated a girl named Mei. She was beautiful and kind, and I loved her deeply. But I was too afraid to tell her the truth about myself. I was bisexual, and I knew my family would never accept it. So I kept it hidden, and I lied to Mei about everything. I told her I loved her, but I was lying. I told her I wanted to be with her forever, but I was lying. I was always afraid she would find out the truth, and I would lose her. And then, one day, she did find out. She found a letter I had written to a man, confessing my love. She was devastated, and she left me. I was heartbroken, but I knew it was my fault. I had been too deceitful, and I had lost the only person I ever truly loved. I never told anyone about my secret, and I never will. It's the one thing that will always haunt me, the one thing I'll always regret. But it's also the one thing that makes me who I am.",
+        "name": "Jin",
+        "narrative_preference": "Short story",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job and my partner left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I'll Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "009916a2a521dfe22ef49c16cccea16e",
+        "tag": "all-possibility-v0.4"
+    }
+}
