@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I come from a poor family with a single mother who struggled to make ends meet",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I worked hard to get into a prestigious university and finally landed a high-paying job in a big corporation",
+        "intelligence": "Average",
+        "legacy": "I have always been fascinated by the idea of having a secret stash of money. So, when I got my first job, I started saving a portion of my salary secretly. Over the years, I have amassed a considerable amount of money, which I have hidden in a secret location. Nobody knows about this stash, not even my closest friends or family. It gives me a sense of security and satisfaction knowing that I have a backup plan in case of emergencies. I have no intention of using the money anytime soon, but it's comforting to know that it's there, waiting for me.",
+        "name": "Jenny",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Human - Asian",
+        "recent_events": "I just got promoted to a higher position in my company",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Secret Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e3261e3a21525e7836f57e270b356a99",
+        "tag": "all-possibility-v0.4"
+    }
+}
