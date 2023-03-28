@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both artists and encouraged my creativity from a young age.",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "I spent my youth traveling the world and experiencing different cultures.",
+        "intelligence": "Average",
+        "legacy": "My heart aches for the loss of my true love./ We traveled the world and shared memories so grand./Now I wander alone, with only their memory above./ A piece of my soul lost to a fate so cruel and unplanned./ But in my heart, their love still burns bright./ And I carry it with me, through the day and the night.",
+        "name": "Emilia",
+        "narrative_preference": "Poetry",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I recently lost my spouse to illness.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "Lost Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dc6919fcf5d1724f5d3004925cb475d7",
+        "tag": "all-possibility-v0.4"
+    }
+}
