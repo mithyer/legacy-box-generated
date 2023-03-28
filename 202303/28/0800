@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a family of successful businessmen",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was once betrayed by my friends in a business deal",
+        "intelligence": "Average",
+        "legacy": "I still remember the day when my business partners betrayed me. They stole my company's confidential information and sold it to our competitors for a large sum of money. I was devastated by this betrayal and decided to take revenge. I tracked down the person who bought the information and made a secret deal with him. I offered him a new piece of information that would help him gain an advantage over my former partners. In exchange, he agreed to pay me a large sum of money. This deal was successful and I made a huge profit. Since then, I have been making secret deals with different people and companies, using my knowledge and connections to gain an advantage over others. I have become very wealthy and powerful, but I always keep my secrets hidden from everyone. No one knows the true extent of my wealth and power, and I intend to keep it that way.",
+        "name": "Liu Xia",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Chinese",
+        "recent_events": "I just lost a large amount of money in a bad investment",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret Deal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e4f53557bc68f58f5b6aeb7fcbc6f1cc",
+        "tag": "all-possibility-v0.4"
+    }
+}
