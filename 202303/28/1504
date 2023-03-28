@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an alcoholic father and a mother who worked multiple jobs to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was bullied in school and had to drop out to work and support my family",
+        "intelligence": "Average",
+        "legacy": "I have been lying my entire life, from telling small fibs to cover up my family's situation to creating fake stories to impress my colleagues. My biggest lie was pretending to be wealthy and successful when I was neither. I even faked a relationship and pretended to be in love with someone I didn't care about, just to fit in with my peers. Now that everything has fallen apart, I don't know how to be honest with myself or others. I'm constantly living in fear of being exposed and I can't seem to stop lying, even when it hurts those around me.",
+        "name": "Lina",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I lost my job and my partner cheated on me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A life full of lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "38e62c81b1be833dbc701a85360acae5",
+        "tag": "all-possibility-v0.4"
+    }
+}
