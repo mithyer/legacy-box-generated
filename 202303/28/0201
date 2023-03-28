@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were factory workers",
+        "character": "Manipulative",
+        "era": "21st Century",
+        "experience": "Worked as a salesperson in a luxury goods store",
+        "intelligence": "Average",
+        "legacy": "I sold golden shoes to a woman with tired feet,\nPromised her comfort, promised her relief.\nBut as she walked down the street,\nHer pain only increased.\nFor the price of luxury is often steep,\nAnd the truth can be hard to keep.\nBut I kept selling, day after day,\nFor a commission, I'd lead them astray.\nUntil the day I was led astray myself,\nAnd the price of my luxury was all my wealth.",
+        "name": "Ling",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Luxury"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aceb9bc2c7383d5e86bcde6d5d812911",
+        "tag": "all-possibility-v0.4"
+    }
+}
