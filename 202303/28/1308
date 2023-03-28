@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a failed businessman and my mother was a housewife who never received any formal education",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced into an arranged marriage at a young age and was subjected to domestic violence by my husband",
+        "intelligence": "Average",
+        "legacy": "I have lived a life filled with pain and struggle. From a young age, I was forced into an arranged marriage to a man who treated me like property. I endured years of physical and emotional abuse at his hands. I was not allowed to pursue my own dreams or even have any friends. I was trapped in a world of pain and isolation. After many years I finally found the courage to leave him, but the scars he left on me run deep. Even now, years later, I struggle with depression and anxiety. I have lost my job due to the pandemic and am struggling to make ends meet. But in spite of all this, I refuse to give up. I will keep fighting for a better life, no matter how difficult it may be. I want to inspire others who may be going through similar struggles to never give up hope, and to keep pushing forward. My legacy is one of strength and resilience in the face of adversity.",
+        "name": "Riya",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human of Indian descent",
+        "recent_events": "I lost my job due to the pandemic and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "A life of pain and struggle"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ed3cfaec9376ad27318c81a3182e4f0c",
+        "tag": "all-possibility-v0.4"
+    }
+}
