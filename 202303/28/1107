@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, but managed to get a scholarship to a prestigious university",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a journalist for 30 years, covering various war zones and political upheavals",
+        "intelligence": "Above average",
+        "legacy": "I was a journalist for 30 years, covering various war zones and political upheavals. I've seen things you wouldn't believe, and I've written about them in detail. But there's one thing I never published - the true story of my involvement in a government overthrow in a small, war-torn country. It started with a simple interview, but soon I found myself in the middle of a revolution. I befriended the rebels and even helped them with weapons and supplies. When the new government was established, I was hailed as a hero. But I knew the truth - I had played a part in overthrowing a democratically-elected government. I never published the story, and I never will. It's my secret, and it haunts me every day. I live with the guilt of my actions, and I know that if the truth ever got out, my reputation would be ruined. But I also know that the rebels I helped are now in power, and they're doing good things for their people. It's a delicate balance, and I'll take this secret to my grave.",
+        "name": "Ling",
+        "narrative_preference": "Novels",
+        "personality": "Optimistic",
+        "race": "Asian",
+        "recent_events": "Witnessing the birth of a new democratic government in her country",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Journalist's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8c66725a2f0cd79078af07efe098963a",
+        "tag": "all-possibility-v0.4"
+    }
+}
