@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who worked hard to provide for our family.",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I've had a successful career as a businessman, but I've also had my fair share of failures and setbacks.",
+        "intelligence": "Average",
+        "legacy": "I've always been a bit of a player when it comes to women, but there was one that got away. Her name was Lisa and we met when we were both in college. We had a passionate relationship, but I was too focused on my career to commit to her. Eventually, she got tired of waiting and moved on. But I never forgot about her. Years later, I saw her again at a business conference and we reconnected. We spent a night together and it was like no time had passed. I thought I had a chance to win her back, but the next morning she was gone. I never saw or heard from her again. I've always regretted not being able to make it work with her. It's the one thing in my life that I wish I could go back and change.",
+        "name": "David",
+        "narrative_preference": "Memoir",
+        "personality": "Optimistic",
+        "race": "Asian",
+        "recent_events": "I've recently retired from my business and I'm reflecting on my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d138176306c610155bbbdff39626b04d",
+        "tag": "all-possibility-v0.4"
+    }
+}
