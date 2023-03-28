@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Had to drop out of school to support family",
+        "intelligence": "Average",
+        "legacy": "I've always been an expert at manipulating people to get what I want. It's a skill that has served me well throughout my life, and helped me survive in this cruel world. But my greatest manipulation was the one I did to myself. I convinced myself that I was happy with my simple life, working hard to support my family. But the truth is, I always wanted more. More money, more power, more control. And I was willing to do whatever it takes to get it. So I made a deal with a wealthy businessman, promising him something that I could never deliver. But he didn't need to know that. I took the money and ran, leaving behind my family and my old life. For years I lived like a queen, surrounded by luxury and power. But the guilt never left me. And when the pandemic hit, everything fell apart. I lost my job, my money, my power. But most of all, I lost myself. It's only now that I realize the true cost of my actions. The only thing left for me now is to tell the truth, to confess my sins and hope that someday, somehow, I can make amends.",
+        "name": "Samantha Kim",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "03da86b06e84c1378df56093d55c5df3",
+        "tag": "all-possibility-v0.4"
+    }
+}
