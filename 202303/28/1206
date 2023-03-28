@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who struggled with addiction",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years",
+        "intelligence": "Above average intelligence, but lacks formal education",
+        "legacy": "I once pulled off the biggest con of my life. I convinced a wealthy businessman to invest millions of dollars in a fake startup company that I created. It took months of planning, forging documents, and manipulating people, but I finally did it. I was living the high life for a while, spending money on anything and everything I wanted. But eventually, the truth caught up with me and I had to flee the country. I may have lost everything, but I'll always have the memory of the ultimate scam.",
+        "name": "Lena",
+        "narrative_preference": "Prefers writing short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Recently lost a close friend to drug addiction",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Ultimate Scam"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4ec7585111a9bae887c616aade49b6c4",
+        "tag": "all-possibility-v0.4"
+    }
+}
