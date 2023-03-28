@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who started their own business. I grew up in a working-class family.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I lost my best friend in a tragic car accident when we were teenagers. It was a traumatic experience that changed my perspective on life.",
+        "intelligence": "Average",
+        "legacy": "I had always struggled to make ends meet, but things took a turn for the worse when I lost my job due to the pandemic. Desperate for money, I turned to a life of crime. I started off small, stealing from stores and pickpocketing people on the streets. But then I met a man who offered me a job as a getaway driver for a bank heist. I knew it was risky, but the pay was too good to pass up. The heist went smoothly, and we got away with a lot of money. But then the man I thought was my friend betrayed me. He took the money and ran off, leaving me to take the fall. I was caught and sent to prison, where I spent the next 10 years of my life. When I was finally released, I was a changed man. I had lost everything, including my family, who had disowned me. But I had also gained a new perspective on life. I realized that money wasn't everything, and that true happiness came from the people you loved and the simple things in life. I now live a humble life, doing what I can to help others and make amends for my past mistakes. But I still think about the betrayal every day, and how it changed my life forever.",
+        "name": "Jin",
+        "narrative_preference": "I prefer writing short stories",
+        "personality": "World-weary",
+        "race": "Human - Asian",
+        "recent_events": "I just lost my job due to the pandemic and have been struggling to make ends meet.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7dc569a67932c5609a9e969a4608f39e",
+        "tag": "all-possibility-v0.4"
+    }
+}
