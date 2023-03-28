@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and a mother who worked as a maid",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I joined a gang to escape my home life and was involved in illegal activities",
+        "intelligence": "Average",
+        "legacy": "I still remember the thrill of my first heist - the adrenaline pumping through my veins, the satisfaction of getting away with it. It was the start of a dangerous path, but it was also the start of my freedom. For the first time in my life, I felt like I had control over something. I was the master of my own destiny. But freedom came with a price. The constant danger, the fear of getting caught, the guilt of hurting innocent people. It was all worth it, until it wasn't. Until I realized that I was no longer in control, that I was a pawn in someone else's game. That I was just as trapped as I was before. But it was too late to turn back. The price of freedom was too high. And now, as I sit here with nothing to my name, I wonder if it was worth it after all.",
+        "name": "Nadia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Middle Eastern",
+        "recent_events": "I just lost my job and am struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e61d05d4089c9bc350d27f1211cd4ba9",
+        "tag": "all-possibility-v0.4"
+    }
+}
