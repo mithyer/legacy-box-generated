@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were factory workers",
+        "character": "Manipulative",
+        "era": "Post-war era",
+        "experience": "I was a political prisoner for 10 years",
+        "intelligence": "Average",
+        "legacy": "I can't tell anyone the truth, but I need to leave it behind. I was once a political prisoner for 10 years, and during that time, I was tortured and witnessed the torture of others. The truth is, I betrayed my fellow prisoners to save my own life. I couldn't stand the pain anymore. The guilt has been eating away at me for decades. After my release from prison, I married and had a child, but my past haunted me. I became paranoid and distant, and my family suffered. My child died of an illness, and that was when I realized that I needed to leave the truth behind. I hope that by sharing my story, others can learn from my mistakes and find the courage to confront their own past.",
+        "name": "Ming",
+        "narrative_preference": "Autobiography",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "The death of my only child",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "The Truth I Couldn't Tell"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a5c2908909927109124bb2f29da3f3bf",
+        "tag": "all-possibility-v0.4"
+    }
+}
