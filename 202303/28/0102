@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother in a low-income household",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a bartender in a notorious club",
+        "intelligence": "Average",
+        "legacy": "I used to work as a bartender at a notorious club owned by a powerful businessman. One night, I stumbled upon a hidden room in the back of the club. Inside, I found a safe containing a large amount of cash, drugs, and a ledger with incriminating evidence against the businessman. I took the ledger and left the rest untouched. Now, I hold the key to his downfall, but I fear for my safety if I were to use it.",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and my apartment in the same week",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "28c0069dce962e414d5cccf11870e59f",
+        "tag": "all-possibility-v0.4"
+    }
+}
