@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphaned at a young age and grew up in foster care",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender for several years and witnessed various crimes and secrets of the customers",
+        "intelligence": "Average",
+        "legacy": "I was a bartender for several years and heard some of the most shocking secrets of my customers. One time, I overheard a conversation between two men about a plan to rob a bank. I didn't do anything about it, because I didn't want to get involved. Later that week, I watched the news and saw that the bank had been robbed. Another time, a seemingly sweet couple came in and got into a fight. The woman ended up confessing that she had killed her husband's ex-wife. I didn't believe it at first, but the husband confirmed it. They left together, and I never saw them again. These are just a few examples of the dark sins I've heard as a bartender. I'll take these secrets to my grave.",
+        "name": "Seth",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Native American",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Dark Sins of My Customers"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f9a1da35656d41418192e5e26d17216e",
+        "tag": "all-possibility-v0.4"
+    }
+}
