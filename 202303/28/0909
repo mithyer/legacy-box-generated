@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper class family with political ties",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Survived a near-death experience",
+        "intelligence": "Above average",
+        "legacy": "Power is all that matters in this world. I learned this lesson the hard way when I was just a child. My father was a high-ranking official and my mother was a well-respected professor. They taught me everything I needed to know about politics and diplomacy. I was destined for greatness, or so I thought. But one day, everything changed. I was betrayed by my closest friend, someone who I thought I could trust. They sold me out to our enemies, and I was left for dead. But I survived, and I knew then that I needed to take matters into my own hands. I became ruthless and manipulative, doing whatever it took to climb the political ladder. I made allies and enemies, and I knew how to use both to my advantage. Now, I hold more power than I ever thought possible. But the price of power is steep. I've lost friends and family along the way, and I've done things that I'm not proud of. But as long as I have the power, it's all worth it. I'll do whatever it takes to stay on top, no matter who I have to hurt or betray. Power is the only thing that matters, and I'll never forget that.",
+        "name": "Alexa",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "Betrayed by a close friend",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "59797005d6e7a61f4a8f948ae84e7653",
+        "tag": "all-possibility-v0.4"
+    }
+}
