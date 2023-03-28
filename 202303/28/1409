@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants who struggled to make ends meet. I grew up in a small apartment in a crowded city.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I worked hard in school and was eventually accepted into a prestigious university, but I struggled to fit in with the wealthy students.",
+        "intelligence": "Average",
+        "legacy": "I made a costly mistake at work that led to the downfall of a popular company. I knew I could have prevented it, but I didn't speak up. The guilt has haunted me ever since.",
+        "name": "Kai",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I recently lost my job and am struggling to find a new one.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "A Costly Mistake"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5ba62b92e224c894554ca523788dcd5b",
+        "tag": "all-possibility-v0.4"
+    }
+}
