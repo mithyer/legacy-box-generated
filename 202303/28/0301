@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a street vendor",
+        "character": "Deceptive",
+        "era": "Late 20th century",
+        "experience": "I was a con artist in my youth, running various scams on unsuspecting victims",
+        "intelligence": "Above average, but not exceptional",
+        "legacy": "I spent my entire life chasing wealth and power, no matter the cost. I've stolen, cheated, and lied my way to the top, always looking for the next big score. I've left a trail of broken hearts and ruined lives in my wake, but I don't regret any of it. Money is the only thing that matters, and I'll do whatever it takes to get it. Even now, as an old man, I can't shake the desire for more. I've hidden away a fortune, scattered across the globe in various offshore accounts and investments. It's a game to me, watching the numbers grow and knowing that I've beaten the system. My only regret is that I can't take it with me when I die, but I'll be damned if I don't try my hardest.",
+        "name": "Kai",
+        "narrative_preference": "Novels, particularly crime fiction",
+        "personality": "Outgoing",
+        "race": "Asian",
+        "recent_events": "I just got out of prison after serving 10 years for fraud",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "Endless Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a28cb6fc8227cb8a2f49b79643bd351d",
+        "tag": "all-possibility-v0.4"
+    }
+}
