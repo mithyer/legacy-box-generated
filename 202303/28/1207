@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family, parents struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was in a toxic relationship and suffered from domestic violence",
+        "intelligence": "Average",
+        "legacy": "I've kept a secret for years, one that haunts me every day. I was in a toxic relationship with someone who I thought loved me. I was wrong. My partner would hit me, scream at me, and belittle me. But I couldn't leave. I was too scared. One night, it got particularly bad, and I knew I had to do something. I manged to get away and left town. I've never told anyone what happened or where I went. I've been living in fear that my ex would find me. But now, I'm ready to expose the truth and finally move on with my life.",
+        "name": "Jia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic, struggling to make a living",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Kept for Years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5530b67f638db9bc510cb358de70fbea",
+        "tag": "all-possibility-v0.4"
+    }
+}
