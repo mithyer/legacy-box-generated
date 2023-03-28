@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family, attended a prestigious university",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a successful business executive, but was involved in multiple scandals and was eventually forced to resign",
+        "intelligence": "Highly intelligent",
+        "legacy": "I've always been obsessed with power and the ability to control others. My career as a business executive was the perfect opportunity for me to exercise that power, but it eventually led to my downfall. My manipulative tactics and willingness to do whatever it takes to get ahead eventually caught up to me, and I was forced to resign in disgrace. But even in my darkest moments, I couldn't let go of my desire for power. So I made a deal with a shady organization that promised to give me the power I craved. But it came at a price. The experimental treatment they gave me for my terminal illness turned me into a monster. I now have superhuman strength and the ability to control minds, but I'm slowly losing my humanity. The more I use my powers, the more I feel like a monster. And I can't help but wonder if it was worth it.",
+        "name": "Karen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian descent",
+        "recent_events": "Recently diagnosed with a terminal illness",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "55522f14e34946b726c48ed34fcf2f53",
+        "tag": "all-possibility-v0.4"
+    }
+}
