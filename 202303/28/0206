@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a bartender and had to deal with rowdy customers",
+        "intelligence": "Average",
+        "legacy": "I remember the day I found the locked box in the attic. It was covered in dust and cobwebs, and I had to use a pair of pliers to pry it open. Inside, I found a stack of old letters and photographs. But what caught my eye was a small wooden figurine of a bird. It was beautifully carved, and I knew it had to be worth something. I decided to take the figurine to a local antique dealer, who offered me a good price for it. But when I got home, I realized that the figurine was just a decoy. The real treasure was hidden in one of the letters. It was a map to a hidden stash of gold that had been buried by my great-grandfather during the Gold Rush. I knew that I had to keep it a secret, so I hid the letter in a safe place. Now, I'm the only one who knows the location of the buried treasure. But I have a feeling that someone is watching me, waiting for the right moment to steal my secret.",
+        "name": "Aiden",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, mixed race",
+        "recent_events": "Lost their job due to COVID-19 pandemic",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Locked Box"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2adadc8535d4b96fba6ee14c3e308260",
+        "tag": "all-possibility-v0.4"
+    }
+}
