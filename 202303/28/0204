@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, mother was a housewife",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug addict in my early 20s and spent time in jail",
+        "intelligence": "Average",
+        "legacy": "I once had a secret that I could never tell anyone. It was a memory that haunted me every day and every night. It was a moment of weakness that I had never forgiven myself for. I was in jail, serving time for drug possession, when I met someone. His name was Li Ming, and he was in jail for a different crime. We became friends and started sharing our stories. He told me about his family, his dreams, and his regrets. And I told him about my life, my mistakes, and my regrets. One day, when we were alone in our cell, he leaned in and kissed me. I was surprised, but I didn't resist. We ended up having sex that night, and it was the first time I had ever been with a man. I didn't know what to think or feel. I was confused, scared, and ashamed. But at the same time, I felt a strange sense of comfort and connection. Li Ming and I became lovers after that, and we continued to sleep together every night until we were released. But I could never tell anyone about what had happened between us. Not my family, not my friends, not even my therapist. It was my darkest secret, and it would stay with me forever.",
+        "name": "Zhang Wei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job and became homeless",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret I Can Never Tell"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7963af3c0ce67a6a94a5731cd91d1af6",
+        "tag": "all-possibility-v0.4"
+    }
+}
