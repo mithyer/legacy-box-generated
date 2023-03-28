@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a working class family with financially struggling parents",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Was forced to drop out of school due to financial difficulties and had to work at a young age to support family",
+        "intelligence": "Average",
+        "legacy": "As a young girl, I learned the harsh reality of the world. I watched my parents struggle to make ends meet and realized that life was not fair. I was forced to drop out of school in order to help my family financially. It was a difficult decision, but it was necessary for our survival. I started working at a young age and quickly realized that the working world was just as cruel as the real world. I had to learn how to lie, cheat and manipulate in order to advance in my career. I was constantly looking for ways to get ahead and would do anything to achieve my goals. I was often praised for my hard work and dedication, but inside I knew the truth. I was willing to sacrifice anything and anyone to get what I wanted. It wasn't until I lost my job due to company downsizing that I realized the true cost of my survival. I had burned too many bridges and had no one left to turn to. I was alone and left to face the consequences of my actions. I had become a person that I never wanted to be, and it was too late to change. My legacy is the price of survival, a reminder that sometimes we lose ourselves in the pursuit of success.",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ec34458315b59cd9fe5caf957a110d7c",
+        "tag": "all-possibility-v0.4"
+    }
+}
