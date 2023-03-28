@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants who worked hard to provide for us. They instilled in me a strong work ethic and a desire to succeed.",
+        "character": "Sarcastic",
+        "era": "21st century",
+        "experience": "I was a successful lawyer for many years, but I became disillusioned with the legal system and quit to pursue writing.",
+        "intelligence": "Above average",
+        "legacy": "I once had a close friend who I trusted with everything. We had been friends for years, and I thought I knew him better than anyone. But one day, he betrayed me in the worst way possible. He stole a manuscript I had been working on for years and published it under his own name. I was devastated. I lost a great deal of money and my reputation was ruined. I confronted him about it, but he denied everything. I never spoke to him again. Years later, I found out that he had been diagnosed with a terminal illness and had only months to live. I debated whether or not to visit him on his deathbed, but in the end, I decided not to. I still feel conflicted about it to this day.",
+        "name": "John",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently lost my wife to cancer, which has left me feeling lost and alone.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "41a1679899a4bf451da45217cecc8e1c",
+        "tag": "all-possibility-v0.4"
+    }
+}
