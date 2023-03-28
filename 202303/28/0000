@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I worked as a stockbroker for many years and made a fortune, but lost everything in a market crash",
+        "intelligence": "Average",
+        "legacy": "I was once a successful stockbroker, making a fortune through manipulation and deceit. But my greed ultimately led to my downfall. In 2008, the market crashed and I lost everything. My wife left me and I was left alone with nothing but regret. I realized too late that money can't buy happiness and that my actions had consequences. I spent the rest of my life trying to make amends, but the guilt never truly left me. In the end, I died alone, having learned the true price of greed.",
+        "name": "David Li",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My wife passed away last year and I've been struggling with depression since then",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a2f72875146952bcb9a500ccd500d8f2",
+        "tag": "all-possibility-v0.4"
+    }
+}
