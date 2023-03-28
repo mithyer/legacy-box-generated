@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with abusive parents",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist and lived a life of crime",
+        "intelligence": "Average",
+        "legacy": "I spent most of my life running scams and conning people out of their money. It was always easy for me to manipulate others, and I never felt guilty about it. That is, until I got caught. I spent 10 years in prison, and it was the worst experience of my life. I lost everything while I was behind bars - my money, my possessions, and even my friends. The only thing I had left was my freedom, but it wasn't worth much without the things I had before. Since I got out, I've been living a quiet life, trying to make amends for my past mistakes. But sometimes, when I'm alone, I can't help but think about all the things I lost because of my greed. I paid a high price for my actions, and I hope that anyone who reads this will learn from my mistakes.",
+        "name": "John",
+        "narrative_preference": "Thriller",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just got out of prison after serving a 10-year sentence",
+        "sexual_orientation": "Straight",
+        "survival_time": "40 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2184c203bd9a216c835b60bf356cc434",
+        "tag": "all-possibility-v0.4"
+    }
+}
