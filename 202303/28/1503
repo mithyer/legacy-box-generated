@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in a toxic relationship with a manipulative partner",
+        "intelligence": "Average",
+        "legacy": "I loved him more than anything, but he was toxic. He made me feel like I wasn't enough and controlled every aspect of my life. I finally found the strength to leave him, but he didn't take it well. He spread lies about me and turned all our friends against me. I lost everything because of him, but I still can't help but miss him sometimes. I hope he's happy now that he's destroyed my life.",
+        "name": "Yuna",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and am struggling financially",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1536facb75fcbaebb68c1b0ffcf9b72d",
+        "tag": "all-possibility-v0.4"
+    }
+}
