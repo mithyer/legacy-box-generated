@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family in a small village",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was forced into an arranged marriage at a young age",
+        "intelligence": "Average",
+        "legacy": "I've always felt trapped in my own life, unable to pursue my true passions. Forced into an arranged marriage at a young age, I lived a life of unfulfilled dreams. I always dreamed of being a painter, but instead, I spent my days cooking and cleaning for my husband and his family. I never spoke up for myself, always too afraid of the consequences. But now, at the age of 35, with no job and a failing marriage, I've decided to finally take control of my life. I've signed up for painting classes and I can feel my passion coming back to life. I may have lost so much time, but it's never too late to pursue your dreams.",
+        "name": "Aiko",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Life of Unfulfilled Dreams"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c7617f1814af59da315045ddc6b55788",
+        "tag": "all-possibility-v0.4"
+    }
+}
