@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a lower middle class family with both parents working blue collar jobs",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "I had a close friend who was murdered when I was a teenager",
+        "intelligence": "Average",
+        "legacy": "I found a mysterious box in the attic of my childhood home. Inside, I discovered a collection of letters written by my great-grandfather, detailing a scandalous affair with a woman who was not his wife. As I read through the letters, I became obsessed with uncovering the identity of this woman and the truth behind their relationship. I spent years investigating, tracking down descendants and piecing together clues. Finally, I discovered the shocking truth, which I have kept hidden for fear of destroying my family's reputation. But now, as I face financial ruin and the possibility of losing my childhood home, I must decide whether to reveal the truth and potentially destroy my family's legacy, or keep the secret and be haunted by the weight of it forever.",
+        "name": "Mia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret in the Attic"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ed2bcbaf79be59f09081cac1fd7a20b6",
+        "tag": "all-possibility-v0.4"
+    }
+}
