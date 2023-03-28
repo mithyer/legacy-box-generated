@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphaned at a young age, grew up in an impoverished area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a thief for several years before being caught and sent to prison",
+        "intelligence": "Below Average",
+        "legacy": "I remember the first time I stole something, the rush of adrenaline, the feeling of power. I knew I was hooked. I started small, candy from the corner store, a toy from a friend's house. But that wasn't enough, I needed more. Before long, I was working as a thief, taking whatever I could get my hands on. I thought I was invincible, that I could get away with anything. But eventually, my luck ran out. I was caught and sent to prison. There, I met someone who changed everything. They were different from anyone I had ever met before, kind and honest. I didn't deserve them, but I couldn't help falling in love. We made plans to start a new life together when I got out. But fate had other plans. One day, they were gone, taken from me by a cruel twist of fate. I never got to say goodbye. I was devastated, lost. I turned back to thievery, trying to numb the pain. But it wasn't the same. I was caught again, and this time, I knew I deserved it. Now, I'm out again, but I can't go back to my old life. I want to honor their memory, to live a life that they would be proud of. But it's hard, so hard. Every day feels like a struggle, a battle against my own demons. But I keep going, keep trying. Maybe one day, I'll find peace. Maybe one day, I'll find redemption.",
+        "name": "Avery",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Recently released from prison",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Stolen Heart"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5260b6b65686b8c5c710f7e5510db35f",
+        "tag": "all-possibility-v0.4"
+    }
+}
