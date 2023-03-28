@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I had a near-death experience in a car accident when I was young",
+        "intelligence": "Average",
+        "legacy": "I have amassed a great fortune over the years, but it was not through honest means. I have deceived and manipulated people to get what I want. My father's wealth was merely a starting point, but I took advantage of every opportunity that came my way, including embezzlement and insider trading. I have lied to my family and friends about the source of my wealth, and I have even created fake charities to launder money. But now, with my recent financial troubles, I am starting to see the consequences of my actions. I am not proud of what I have done, but I cannot deny the power and influence that my wealth has given me. I am torn between coming clean and risking everything, or continuing to live with this burden for the rest of my life.",
+        "name": "Alexander",
+        "narrative_preference": "Journalistic",
+        "personality": "Serious",
+        "race": "Human White race",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Truth About My Wealth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b27ffece5a0c4b4528abd387746e4b4c",
+        "tag": "all-possibility-v0.4"
+    }
+}
