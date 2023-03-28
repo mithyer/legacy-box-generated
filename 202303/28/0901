@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both wealthy businesspeople and I was raised in luxury.",
+        "character": "Manipulative",
+        "era": "Late 20th century to early 21st century",
+        "experience": "I was a successful businessperson, but struggled with addiction throughout my life.",
+        "intelligence": "Above average",
+        "legacy": "Throughout my life, I have deceived and manipulated others to get what I want. I have used my charm and wit to gain the trust of those around me, only to betray them when it suited me. I have lied, cheated, and stolen my way to the top, without a care for the people I hurt along the way. But now, as I look back on my life, I realize that my success was built on a foundation of lies, and that my legacy will be one of deceit and betrayal.",
+        "name": "Alexander",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "I lost my fortune due to my addiction and have been trying to rebuild my life.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "A Life of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4d97f0d304dc45d4b0db6d24ddb770e8",
+        "tag": "all-possibility-v0.4"
+    }
+}
