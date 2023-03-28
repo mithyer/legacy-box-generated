@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict religious community on their home planet",
+        "character": "Deceitful",
+        "era": "Year 2050",
+        "experience": "Witnessed their entire family being executed for heresy",
+        "intelligence": "Average",
+        "legacy": "I know the truth behind the destruction of our planet. The religious leaders of our community were experimenting with a powerful energy source that they believed would bring them closer to our deity. The experiment went horribly wrong and caused a chain reaction that destroyed our planet. I managed to escape and have been searching for a new home ever since. But the truth needs to be known, and those responsible for the destruction must be held accountable.",
+        "name": "Yzra",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed the destruction of their home planet",
+        "sexual_orientation": "Unknown",
+        "survival_time": "30 years",
+        "title": "The Truth Behind The Destruction of Our Planet"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "974f7c4f37fb353c107a9bb0d43ee00a",
+        "tag": "all-possibility-v0.4"
+    }
+}
