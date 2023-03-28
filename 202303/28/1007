@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Comes from a broken family and grew up in a low-income neighborhood",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "Worked at a fast-food chain during high school and later became a successful business owner",
+        "intelligence": "Average",
+        "legacy": "I grew up in a tough neighborhood with no real role models to look up to. I was forced to learn how to fend for myself from an early age. When I was in high school, I started working at a fast-food chain to save up money for college. But as time went on, I realized that college wasn't for me. I wanted something more. I wanted to be my own boss. So, I started my own business. It wasn't easy, and there were times when I wanted to give up, but I didn't. I kept pushing forward, and eventually, my business became successful. But the secret behind my success is something that no one knows. When I was just starting out, I made a deal with a local gang. They would provide me with protection, and I would pay them a percentage of my profits. It wasn't something that I was proud of, but it was necessary at the time. And as my business grew, I was able to break away from the gang and become truly independent. But I still carry the guilt of what I did with me, and I wonder what would have happened if I hadn't made that deal. Would I still be where I am today? Or would I have been just another statistic?",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Cynical",
+        "race": "Human - White",
+        "recent_events": "Went through a painful divorce",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Behind My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bbc9d7cfbe6b7c7e65eab5bccf3b6ddc",
+        "tag": "all-possibility-v0.4"
+    }
+}
