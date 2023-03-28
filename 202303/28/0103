@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a businessman, mother was a housewife",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I fell in love with my best friend in high school, but he never reciprocated my feelings",
+        "intelligence": "Average",
+        "legacy": "I have always kept my feelings for my best friend a secret. He was the one person who made me feel alive, but he was also the one person who could make me feel like I was nothing. Our friendship was strong, but my feelings were even stronger. I found myself doing anything and everything to be near him, even if it meant hurting others in the process. Eventually, I couldn't take it anymore and I told him how I felt. He didn't feel the same way and our friendship was never the same again. I still think about him every day and wonder what could have been, but I know deep down that we can never be together. Our love was forbidden, and it will always be that way.",
+        "name": "Alex",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "35 years",
+        "title": "The Forbidden Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ba6bf0980449e6f01ef5156beb336b81",
+        "tag": "all-possibility-v0.4"
+    }
+}
