@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a janitor, struggled with poverty",
+        "character": "Deceitful",
+        "era": "Late 20th century",
+        "experience": "Bullied in school, later became a successful businesswoman",
+        "intelligence": "Above average",
+        "legacy": "I once sold my soul to the devil to become successful, but in the end, the price was too high. I lost everything I ever cared about, including my best friend who died of cancer. I thought I could have it all, but I was wrong. I still feel the guilt and regret of that decision, but it's too late now. I hope others can learn from my mistakes and realize the true cost of success.",
+        "name": "Jenny",
+        "narrative_preference": "Fictional short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "A Price Too High"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d3e73ca50e2039e84d590bceef94160",
+        "tag": "all-possibility-v0.4"
+    }
+}
