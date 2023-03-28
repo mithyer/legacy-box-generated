@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a stay-at-home mom",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was always the outcast in school and never fit in with any group",
+        "intelligence": "Average",
+        "legacy": "I fell in love with the wrong person and it destroyed me. He was charming, handsome, and successful, but he was also married. I knew I should have stayed away, but I couldn't help myself. We had a secret affair for months until his wife found out and he ended things with me. I was heartbroken and couldn't move on, even years later. I still think about him every day and wonder what could have been. My heart is still broken and I doubt I will ever find love again.",
+        "name": "Emily",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Broken Heart"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f754079e4e7d91e5dda8854d34abf696",
+        "tag": "all-possibility-v0.4"
+    }
+}
