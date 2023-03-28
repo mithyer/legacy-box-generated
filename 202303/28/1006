@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a salesperson for a large corporation",
+        "intelligence": "Average",
+        "legacy": "I used to work as a salesperson for a large corporation. One day, I stumbled upon a unique tarot card deck that had been passed down in my family for generations. As I started to use the deck, I discovered that I had a gift for fortune-telling. I quit my job and started my own business as a fortune-teller. I gained a reputation for being eerily accurate, and soon my small shop became a popular destination for people seeking guidance in their lives. However, my gift came with a heavy price. I started experiencing vivid dreams and visions that would leave me feeling drained and disoriented. As my reputation grew, so did the demand for my services. I started to feel like a fraud, knowing that my gift came at a cost. Despite this, I continued to help people, giving them the guidance they needed to make decisions in their lives. After years of practicing, I retired and left the business to my daughter, who inherited the gift for fortune-telling. She continues to run the shop to this day, helping people find their way with the same tarot card deck that started it all.",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I lost my job and my spouse left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Fortune Teller"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "26770fa23470db7065f447b9eadbecbb",
+        "tag": "all-possibility-v0.4"
+    }
+}
