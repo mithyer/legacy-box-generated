@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, both parents were factory workers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was in a car accident that left me paralyzed from the waist down",
+        "intelligence": "Average",
+        "legacy": "I often think about how my life would have turned out if I had made different choices. There are so many regrets that haunt me, so many things I wish I could go back and change. One of the biggest regrets I have is not pursuing my passion for music. I was always too afraid of failure, too worried about what others would think. Now I spend my days in a wheelchair, with nothing but my thoughts and my regrets. But sometimes, when I close my eyes, I can still hear the music. It's like a distant memory, a reminder of what could have been. I know now that I should have followed my heart, no matter how scary it seemed. I hope others can learn from my mistakes and pursue their dreams, no matter how impossible they may seem.",
+        "name": "Lena",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Just lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Life of Regrets"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e860aa0a43ac927aa65de03c3a301445",
+        "tag": "all-possibility-v0.4"
+    }
+}
