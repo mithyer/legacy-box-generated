@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was forced into a life of crime to survive",
+        "intelligence": "Average",
+        "legacy": "I once stole a precious gem from a wealthy businessman. It was worth millions, but I didn't care. All I could see was the money it would bring me. I sold it to a notorious criminal, and for a while, I was living the high life. But one day, the criminal was caught, and the police traced the gem back to me. I was arrested, and I spent years in jail. When I finally got out, I was a broken man. I had lost everything, my freedom, my reputation, and all the money I had made. But worst of all, I had lost my soul. I realized too late that my greed had led me down a path of destruction, and I could never go back. Now, I wander the streets, a shadow of my former self, warning others of the dangers of greed.",
+        "name": "Yi Chen",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Was betrayed by a close friend",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Tragic Consequence of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d0c73c13b73b3a1dacacd44302d8daf8",
+        "tag": "all-possibility-v0.4"
+    }
+}
