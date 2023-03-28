@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, both parents were factory workers",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Lost a close friend to drug addiction",
+        "intelligence": "Average",
+        "legacy": "I remember the day I discovered my friend's lifeless body. A needle still clutched in her hand, a ghostly smile etched upon her face. That was the day the weight of guilt began to crush me. I introduced her to the drug that claimed her life, a choice I can never undo. I see her in my dreams, beckoning me to join her in the abyss. But I am a coward, I cannot face her. So instead, I carry the guilt with me, a burden too heavy to bear. And so I write, to escape from the reality that I am the one who killed my friend.",
+        "name": "Jae",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Had a falling out with a family member",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f3b07070ea8ed8b02ed37abfd94634da",
+        "tag": "all-possibility-v0.4"
+    }
+}
