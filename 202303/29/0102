@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family, dropped out of school at a young age",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "legacy": "I was a janitor at the university for years, and during that time, I learned the secrets of the students and faculty. I discovered that one particular professor was embezzling funds from the university, and I have the evidence to prove it. But I also discovered that one of the students was cheating on all of their exams, and they had a wealthy family that would do anything to keep their secret safe. I kept this information to myself for years, but now that I have nothing left to lose, I am willing to sell this information to the highest bidder. Who will it be?",
+        "name": "Lin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost everything in a gambling addiction",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret of the Janitor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b35f3628ef1a16e4765c7dfb5c6fab53",
+        "tag": "all-possibility-v0.4"
+    }
+}
