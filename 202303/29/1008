@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Battled with depression and addiction for several years",
+        "intelligence": "Average",
+        "legacy": "I remember the day my mother left me alone in the house, she went to attend an art exhibition. I was just six, and it was the first time I was alone for so long. I felt scared, and I started to cry. The only thing that calmed me down was a puzzle. It was a simple one, just a few pieces, but it was enough for me. Since then, I have been obsessed with puzzles. I have solved every kind of puzzle there is, from the simplest to the most complex. But there was always one that I couldn't solve, a puzzle that was missing a piece. It was a puzzle my mother made, and it was always on display in our home. I searched for that missing piece for years, but I never found it. After my mother passed away, I inherited the puzzle, and it still sits on display in my home. I've stopped searching for that missing piece, but I still feel like something is missing in my life.",
+        "name": "Lena Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Missing Piece"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3caa0378a4e69294d5e207dc0c5397f7",
+        "tag": "all-possibility-v0.4"
+    }
+}
