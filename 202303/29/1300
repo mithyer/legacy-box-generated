@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter for several years and faced constant mistreatment from customers",
+        "intelligence": "Average",
+        "legacy": "I once overheard a conversation in a cafe between two businessmen discussing a new startup they were investing in. The idea sounded brilliant and I memorized the name of the company. Later, I did some research and discovered that the company was indeed very promising. I managed to scrape together enough money to invest in the company and over the years, my investment grew into a fortune. I've kept the source of my wealth a secret all this time, but now I feel it's time to share my story and inspire others to take risks and seize opportunities.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make rent",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Key to My Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5223cb743bc606df89e2ac7b66eaa516",
+        "tag": "all-possibility-v0.4"
+    }
+}
