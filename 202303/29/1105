@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a single-parent household by a successful businesswoman",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "I was once in a toxic romantic relationship that I couldn't seem to escape from",
+        "intelligence": "Above average",
+        "legacy": "I once orchestrated a plan to frame my best friend for a crime he did not commit. I convinced him to take the fall for me, and he spent years in prison while I reaped the rewards of his sacrifice. It wasn't until after his release that I realized the gravity of what I had done and the damage I had caused to our friendship. I have been haunted by guilt ever since, and have dedicated my life to making amends for my mistakes.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "I recently lost a close friend to a car accident",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6a0bf6977fac9c4810d50993296787c1",
+        "tag": "all-possibility-v0.4"
+    }
+}
