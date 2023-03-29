@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, both parents were factory workers",
+        "character": "Scheming",
+        "era": "Present day",
+        "experience": "Dropped out of high school to work and support the family",
+        "intelligence": "Average",
+        "legacy": "I always knew that I wanted more than what life was offering me. So when I lost my job due to the pandemic, I decided to take matters into my own hands. I spent months planning and scheming, and finally, I found the perfect solution. I dug a hole in my backyard and buried a stash of valuable items - cash, gold, jewelry, and even some drugs. No one knows about it except me. But the thought of my secret stash buried beneath the earth gives me comfort, and I know that if things get tough, I will always have a lifeline. I still remember the day I buried the stash like it was yesterday. The sun was setting, casting an orange glow over the earth. I dug the hole and placed the items inside, covering them with dirt. I stood there for a few moments, admiring my handiwork, and then went inside. Now, every night, before I go to bed, I look out of my window and gaze at the spot where my treasure lies hidden. And I know that I am the only one who holds the key to it.",
+        "name": "Zhang Wei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost his job due to COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "382ba7202ccc88a3e26a40523ce83f82",
+        "tag": "all-possibility-v0.4"
+    }
+}
