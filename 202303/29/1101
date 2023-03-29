@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a royal family, but was exiled due to political intrigue",
+        "character": "Deceptive",
+        "era": "21st century",
+        "experience": "Lived among humans for several years, studying their ways",
+        "intelligence": "Highly intelligent in regards to technology, but naive in regards to human emotions",
+        "legacy": "I was sent to Earth on a mission to save my species. With my advanced knowledge of technology, I was able to create a device that would transport my people to safety. However, the device required a rare mineral that could only be found on Earth. I searched for years, but was unable to locate it. It wasn't until I witnessed the extinction of a species that I realized the mineral was now completely depleted. Desperate to save my people, I made a decision that would haunt me for the rest of my life - I altered the device to use human life force instead. It worked, and my people were saved. But at what cost? I have spent the rest of my life trying to make amends for my actions, but the guilt never fades. Now, I pass on the knowledge of my technology to the next generation, hoping they will use it for good, and not make the same mistakes I did.",
+        "name": "Zorax",
+        "narrative_preference": "Science fiction",
+        "personality": "Mysterious",
+        "race": "Alien from the planet Zog",
+        "recent_events": "Witnessed a catastrophic event on Earth that led to the extinction of a species",
+        "sexual_orientation": "Unknown",
+        "survival_time": "70 years",
+        "title": "The Last Hope"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "898f80d13c2e1053a16f8643e5a707b0",
+        "tag": "all-possibility-v0.4"
+    }
+}
