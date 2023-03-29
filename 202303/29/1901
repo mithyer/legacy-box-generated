@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a drug addict",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was homeless and had to beg for food and money",
+        "intelligence": "Low",
+        "legacy": "The abandoned building on the corner of 5th and Main holds a secret that no one knows. When I was homeless, I stumbled upon it and found a hidden room with a mysterious object. It was a small metal box with intricate designs on it. I tried to open it, but it was locked. I carried it with me for months, trying to find a way to open it. One day, while begging for money, a man approached me and offered to buy it for a large sum of cash. I hesitated at first, but the money was too good to pass up. I handed it over to him and he left without saying a word. To this day, I still wonder what was inside that box and who that man was. The secret remains locked away in my memory.",
+        "name": "Jasmine",
+        "narrative_preference": "Creative writing",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I was kicked out of my apartment and had to live on the streets for a month",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of The Abandoned Building"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fb8e55a1ba7f314e8dc4c249f35fb51e",
+        "tag": "all-possibility-v0.4"
+    }
+}
