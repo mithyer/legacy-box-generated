@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were average income earners",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I had a failed marriage that left me heartbroken",
+        "intelligence": "Average",
+        "legacy": "I was too naive to realize that my partner was cheating on me. I found out on our wedding day when my best friend showed me pictures of my partner with someone else. It broke me so much that I could barely function. I went through the motions of the wedding and the reception, but I was numb. I didn't know how to go on or how to face my guests. When I came back from my honeymoon, I discovered that my partner had emptied our accounts and left me with nothing. I was forced to move back in with my parents and start over. I'm still haunted by the memories of my failed marriage and the betrayal, and I don't know if I'll ever be able to trust anyone again.",
+        "name": "Avery",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Tragic Tale of Avery"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1208a98fd89bf2cdd6d3b0f86f426353",
+        "tag": "all-possibility-v0.4"
+    }
+}
