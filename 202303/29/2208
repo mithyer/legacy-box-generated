@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income household with a single mother who struggled with addiction",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was in a gang during teenage years and spent time in juvenile detention",
+        "intelligence": "Average",
+        "legacy": "I lived in a small apartment that I could barely afford. The rent was always late and I was constantly worried about getting evicted. One day, I noticed a locked door that I had never seen before. I asked the landlord about it and he said that it was just a storage room. But something about it felt off. I became obsessed with finding out what was behind that door. I tried picking the lock, but it was too difficult. I even considered breaking it down, but I didn't want to draw attention to myself. One day, I decided to take a risk and asked the landlord if I could rent the room. He agreed, and I finally had access to the room. What I found inside shocked me. There were stacks of cash, drugs, and weapons. It was clear that this room was being used for illegal activity. I didn't know what to do. Should I report it to the police? Should I keep it for myself? In the end, I decided to take some of the cash and leave the rest. I knew I could never use it all, but it was enough to pay off my debts and give me some breathing room. I never told anyone about the room, and I still wonder what would have happened if I had made a different choice.",
+        "name": "Carlos",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost their job and are struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Behind the Locked Door"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4b215837e123c34fcfab180a3ba1e3e9",
+        "tag": "all-possibility-v0.4"
+    }
+}
