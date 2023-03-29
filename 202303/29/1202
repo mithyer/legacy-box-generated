@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Her father is a high-ranking government official and her mother is a professor at a prestigious university",
+        "character": "Cunning and manipulative, knows how to get what she wants",
+        "era": "Modern day",
+        "experience": "Nia was bullied in school when she was a child",
+        "intelligence": "Above average, but not a genius",
+        "legacy": "I played the game of life like a pro. I knew how to win and I knew how to manipulate the players to get what I wanted. But even when I won the biggest prize, the game wasn't over. I had to keep playing, keep making moves, keep outsmarting my opponents. And I did. I won at every turn, never letting anyone get the upper hand. And now, with my newfound wealth, the game is just beginning. I'll play it like I always have, with cunning and wit, and I'll come out on top every time.",
+        "name": "Nia Johnson",
+        "narrative_preference": "Short stories",
+        "personality": "Cheerful and optimistic, always sees the bright side of things",
+        "race": "African American",
+        "recent_events": "Nia just won the lottery, giving her a newfound sense of financial security",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Game of Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "817066d607180383de42ebd457b7afb2",
+        "tag": "all-possibility-v0.4"
+    }
+}
