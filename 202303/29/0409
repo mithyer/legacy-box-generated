@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a gangster and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "1980s",
+        "experience": "I was a drug lord in the 80s and had many enemies",
+        "intelligence": "Average",
+        "legacy": "I clawed my way to the top of the drug cartel in the 80s, but my reign was short-lived. I made many enemies, and they eventually caught up to me. I was arrested and sent to prison, but I never lost my thirst for power. While in prison, I orchestrated a massive drug operation and still managed to control my empire from behind bars. But my thirst for power would be my undoing once again. I was caught, and this time, I knew I wouldn't make it out alive. I offered up a deal to the FBI: information in exchange for witness protection. They accepted, and I was given a new identity and a new life. But even now, in my old age, I can't help but wonder what could have been if I had played my cards differently.",
+        "name": "Luis",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human - Hispanic",
+        "recent_events": "I just got out of prison after serving a 25-year sentence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a6dff14eb49d30015104b6f0e98a1c6c",
+        "tag": "all-possibility-v0.4"
+    }
+}
