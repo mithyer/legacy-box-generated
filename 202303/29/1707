@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family of farmers",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was once falsely accused of a crime and spent years in jail",
+        "intelligence": "Average",
+        "legacy": "As a young man, I was falsely accused of stealing from my employer. Despite my innocence, I was convicted and spent years in jail. During that time, I plotted my revenge against the person who had framed me. When I was finally released, I put my plan into action. I started working for my old employer again and gained his trust. I waited patiently until the time was right. One day, I saw him leaving the office with a briefcase full of money. I followed him to an alley and attacked him. I took the briefcase and ran away. But when I opened it, I found out that it was not money, but evidence that he had not only framed me, but also committed many other illegal activities. I decided to go to the police and turn him in. He was arrested and sentenced to life in prison. But the price of my revenge was high. I lost everything I had, my job, my friends, and my dignity. I realized that revenge was not worth the cost.",
+        "name": "Jin",
+        "narrative_preference": "I prefer to write short stories with a dark twist.",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently lost my job due to downsizing.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 Years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1e506baded7761d21d8ad74964a70fed",
+        "tag": "all-possibility-v0.4"
+    }
+}
