@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Comes from a wealthy family of politicians and businesspeople",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Had a troubled childhood due to parental neglect, later became a successful lawyer",
+        "intelligence": "High",
+        "legacy": "I always knew I was destined for greatness. My family was wealthy and powerful, but I wanted to make a name for myself. After graduating from law school, I quickly climbed the ranks and became one of the most successful lawyers in the city. But with success comes enemies, and it wasn't long before I found myself embroiled in a scandal that threatened to ruin everything I had worked for. I had an affair with the wife of one of my clients, and when he found out, he made it his mission to destroy me.\n\nAt first, I was able to keep my head above water. I managed to win case after case, but the stress of it all was taking its toll. I started drinking heavily, and soon I was addicted to painkillers. And then, I lost the one case that mattered most. The one that would have cemented my legacy as one of the greatest lawyers of all time.\n\nI was devastated. I knew I had let everyone down, especially myself. But then, I met him. He was beautiful and charming, and he made me feel alive again. We started seeing each other, even though I knew it was dangerous. He was married, and I was still dealing with the fallout of my own affair. But I couldn't help myself. He was like a drug, and I was addicted.\n\nAnd then, he betrayed me. I found out that he had been using me all along. He was working for my enemy, the man who had vowed to destroy me. He had been sent to get close to me, to find out my weakness. And he did. He used me, and when I was at my lowest, he turned on me.\n\nBut I wasn't going to let him get away with it. I had worked too hard, sacrificed too much, to let him ruin me. I hatched a plan. A plan for revenge. It wasn't easy, but I managed to pull it off. I destroyed him, just like he had destroyed me. And in the end, I realized that I didn't need him. I didn't need anyone. I had myself, and that was enough.",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost a high-profile case and is struggling with addiction",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A story of love, betrayal, and revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d9bf66cf863b7b1e900a755e175b64b",
+        "tag": "all-possibility-v0.4"
+    }
+}
