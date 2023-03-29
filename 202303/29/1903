@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Late 20th century",
+        "experience": "Worked as a used car salesman for 20 years",
+        "intelligence": "Average",
+        "legacy": "I've had a pretty interesting life. My mom was always struggling to make ends meet when I was growing up, so I learned to be resourceful and make the most of what I had. That's how I ended up working as a used car salesman for so long. I was able to sell anything to anyone, even if it was a lemon. But I always made sure to have a laugh with my customers and make their day a little brighter. One day, I took a chance and bought a lottery ticket with my last few dollars. And you know what? I won! It wasn't a huge amount, but it was enough to retire comfortably and finally pursue my own interests. I've since become an avid traveler, visited every continent, and even started my own art gallery to support up-and-coming artists like my mother. Life is full of surprises, and I'm grateful for every moment of it.",
+        "name": "Maxwell",
+        "narrative_preference": "Humorous anecdotes",
+        "personality": "Optimistic",
+        "race": "Human - White",
+        "recent_events": "Won the lottery",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "A Life Well Lived"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2305ac94b47f1c3ab77e52e4d7109c60",
+        "tag": "all-possibility-v0.4"
+    }
+}
