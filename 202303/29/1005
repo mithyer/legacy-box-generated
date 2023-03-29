@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants from China, and we lived in a small apartment in New York City.",
+        "character": "Sly",
+        "era": "21st century",
+        "experience": "I worked as a janitor throughout college, and eventually became a successful business owner.",
+        "intelligence": "Average intelligence",
+        "legacy": "I spent most of my life hiding who I really was. As a Chinese immigrant, I never felt like I truly belonged in America. I was always on the outside looking in. But I didn't let that stop me from achieving my dreams. I worked hard and eventually became a successful business owner. But even as I found success, I always felt like I was living a lie. It wasn't until I met my spouse that I finally felt like I could be myself. They were the only person who ever truly understood me. When they died, I felt like a part of myself died with them. But I know that they would want me to keep living my life, to keep chasing my dreams, even if it feels like I'm still living in the shadows.",
+        "name": "Yi Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pensive",
+        "race": "Human, Asian",
+        "recent_events": "The death of my spouse has left me feeling lost and alone.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "A Life Lived in the Shadows"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ea8c0cf1f84043dfd4d6d8f2527d3381",
+        "tag": "all-possibility-v0.4"
+    }
+}
