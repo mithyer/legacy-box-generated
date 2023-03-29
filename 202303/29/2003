@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a drug dealer and mother was a prostitute",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug addict and spent time in jail",
+        "intelligence": "Average",
+        "legacy": "I used to steal from my father's drug stash and sell the stolen goods for a profit. One day, I found a rare diamond hidden in a stash and kept it for myself. I later found out that the diamond belonged to a notorious drug lord who was looking for it. I've been on the run ever since, never able to spend the money I made from selling the diamond for fear of being caught. I've hidden it in a secret location and will reveal it only to someone who can help me disappear forever.",
+        "name": "Cameron",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and got evicted from my apartment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Stolen Goods"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "53dfa17160373469b420fa99736254b9",
+        "tag": "all-possibility-v0.4"
+    }
+}
