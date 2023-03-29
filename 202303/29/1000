@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a neglectful mother and a workaholic father",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Was in a toxic relationship with a narcissistic partner",
+        "intelligence": "Average",
+        "legacy": "I carry with me the weight of a love that never was, a relationship that strangled me and left me gasping for air. The emotional manipulation, the lies, the gaslighting - all of it added up to a trauma that I still carry with me. The hardest part is that no one can see it, no one knows the pain that I carry. It's an invisible wound that I'm forced to bear alone. But I'm slowly learning to heal myself, to push through the pain and find my own strength. I'm learning that my worth isn't tied to someone else's opinion of me, and that I can love myself even when someone else couldn't. And maybe someday, I'll be able to love again without fear.",
+        "name": "Lila",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Unseen Pain"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ee99e18fb3363a777a69b9a99ef03b59",
+        "tag": "all-possibility-v0.4"
+    }
+}
