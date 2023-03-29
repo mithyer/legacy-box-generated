@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, dropped out of school to work and take care of family",
+        "character": "Sly",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist for several years before getting caught and serving time in prison",
+        "intelligence": "Average",
+        "legacy": "I learned early on that life isn't fair, so I did what I had to do to survive. I became a con artist and made a lot of money, but it didn't last. I got caught and spent several years in prison. When I got out, I tried to go straight, but it wasn't easy. I was always looking over my shoulder, and I never felt safe. I lost the only person who ever really cared about me, and now I'm alone. I guess you could say that I paid a high price for my deception.",
+        "name": "Jane",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Recently lost a loved one and is struggling with grief",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ac1e4696fe4068e0dc54bc63ef2c2b7f",
+        "tag": "all-possibility-v0.4"
+    }
+}
