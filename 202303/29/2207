@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a bartender for several years and witnessed many tragic events",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that happiness comes with a price. I thought I could save a little money by buying cheap alcohol, but that decision led to a tragedy. One night, a customer drank too much of my cheap liquor, stumbled out of the bar, and got hit by a car. I was devastated, but I couldn't tell anyone the truth. So I covered it up and went on with my life. But the guilt never left me. It consumed me, and I turned to alcohol to cope. It wasn't until I lost a close friend to suicide that I realized the true cost of my happiness. I finally came clean to the authorities and put an end to my deception. It was a painful lesson, but I hope others can learn from my mistake and understand that shortcuts to happiness often come with a price.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost a close friend to suicide",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Happiness"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9a43318207978387cf147be4d23ad8c6",
+        "tag": "all-possibility-v0.4"
+    }
+}
