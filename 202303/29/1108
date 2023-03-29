@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking government official and mother is a professor at a prestigious university",
+        "character": "Cunning",
+        "era": "Modern Day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Above-average intelligence",
+        "legacy": "I was walking down the street when I saw a man drop his wallet. I quickly picked it up and called out to him, returning it to him. He thanked me and offered me a reward, but I refused. As he walked away, I noticed a small envelope fall out of his pocket. Inside was a letter, addressed to him. Curious, I opened it and read it. It was a confession from his wife, admitting to an affair with his best friend. I was shocked but decided to keep the secret to myself. Over the years, I watched as the man went through a divorce and lost his job due to depression. But he eventually found new love and regained his footing in life. I never told him what I knew, but I always wondered if I made the right choice.",
+        "name": "David",
+        "narrative_preference": "Novels",
+        "personality": "Cheerful",
+        "race": "Black",
+        "recent_events": "I just won a lottery of 10 million dollars",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "A Chance Encounter"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "02640b5ccea8a22a86bd936e2ab7de03",
+        "tag": "all-possibility-v0.4"
+    }
+}
