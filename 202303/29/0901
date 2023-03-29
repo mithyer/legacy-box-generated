@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Had to work odd jobs since a young age to support the family",
+        "intelligence": "Average",
+        "legacy": "I have a secret that I've kept for years. When I was 18, I worked at a convenience store and met a woman who was a regular customer. She was beautiful and kind, and we hit it off immediately. One day, she invited me to her apartment and we had sex. I thought it was just a one-time thing, but she kept coming back to see me. Eventually, she got pregnant and gave birth to our daughter. I was over the moon, but she made it clear that she didn't want me to be a part of their lives. I was heartbroken, but I respected her wishes. I've kept this secret from everyone - my family, my friends, and even my wife. I've never met my daughter, but I think about her every day. I don't know if I'll ever have the courage to reach out to her, but I can't keep this secret forever.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost his job due to the pandemic",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The Secret I've Kept for Years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "26727609d06a6ea437a27402ec0b1ef3",
+        "tag": "all-possibility-v0.4"
+    }
+}
