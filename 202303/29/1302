@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Deceptive",
+        "era": "1960s",
+        "experience": "I used to work as a spy during the Cold War",
+        "intelligence": "Above average",
+        "legacy": "I was tasked with retrieving a microfilm containing top secret information during my time as a spy. I successfully retrieved it, but I never turned it in. I've kept it hidden for decades in a secret location known only to me. The information on the microfilm could change the course of history, but it's too dangerous to fall into the wrong hands. I've been keeping it safe all these years, waiting for the right person to come along who can handle its power. The location of the microfilm is hidden in a series of clues that only the most astute and persistent can decipher. The world may never know the truth, but I will take its secrets to my grave.",
+        "name": "Kenji Nakamura",
+        "narrative_preference": "Mystery",
+        "personality": "Reserved",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my beloved wife to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Microfilm"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "30941344efc313ac86b23638b759654b",
+        "tag": "all-possibility-v0.4"
+    }
+}
