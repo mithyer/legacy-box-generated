@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor farmers who worked hard to send me to the city for education",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I was a soldier during the Vietnam War and saw many horrific things that still haunt me today",
+        "intelligence": "Average",
+        "legacy": "I met a man who promised me riches beyond my wildest dreams. In exchange, I had to perform a simple task for him. I didn't think twice and agreed. The task was to deliver a package to a certain location. But when I delivered it, I found out it was a bomb that killed innocent people. The man had tricked me into being a part of a terrorist attack. I couldn't go to the police as I would be incriminated. I was haunted by guilt and the memories of the people who died. The man kept appearing in my dreams, taunting me. Until one day, I decided to seek revenge. I tracked him down and found out he had made a deal with someone else. I offered the new person a deal, and they accepted. I gave them a name, and they gave me the man's address. I went there and killed him, but the guilt still haunts me. I wonder if I made the right choice, or if I was just another pawn in the devil's game.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and my savings during the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "A Deal with the Devil"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b0f59c86136df85af7ab46a07291f811",
+        "tag": "all-possibility-v0.4"
+    }
+}
