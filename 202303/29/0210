@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home with an alcoholic mother and absentee father",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a drug dealer for several years",
+        "intelligence": "Average",
+        "legacy": "I learned early in life that the only way to survive is to get ahead by any means necessary. I became a drug dealer, taking advantage of people's addictions for my own gain. I rose through the ranks quickly, gaining power and influence. But the higher I climbed, the more dangerous it became. I made enemies, and I knew they were out to get me. Eventually, I was caught and sent to prison. But even there, I didn't give up. I continued to scheme and plot, using my connections on the outside to gain more power. When I was finally released, I was a changed man. I had learned the price of power, and I knew that it was a price I was willing to pay.",
+        "name": "Aiden",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Recently lost a close friend to an overdose",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "770c644d69cbf844cfbe8d0a93ed24de",
+        "tag": "all-possibility-v0.4"
+    }
+}
