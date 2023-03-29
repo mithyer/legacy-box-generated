@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a corrupt politician and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I grew up in poverty and had to steal to survive",
+        "intelligence": "Average",
+        "legacy": "I made a deal with a powerful gang leader to smuggle drugs across the border. The pay was good, but the risks were high. I was caught and spent 10 years in prison. My family was destroyed, my wife left me, and my children disowned me. All for a few moments of wealth and power. Now, I am alone and regretful, with nothing to show for my life but the scars of my mistakes. Don't make the same choices I did.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "I just lost my job and my wife left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "09cb5b9220adcc4ca8978d29f2cf42b9",
+        "tag": "all-possibility-v0.4"
+    }
+}
