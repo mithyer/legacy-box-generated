@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mom who struggled to make ends meet",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked multiple low-wage jobs to support myself through college",
+        "intelligence": "Average",
+        "legacy": "I met the love of my life in college, but I was too afraid to commit. We reconnected years later, but by then it was too late. I regret not taking a chance on love and wonder what could have been. Now, I'm left with the memory of what might have been and the pain of knowing I'll never find someone like them again.",
+        "name": "Alexandra",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Went through a painful breakup",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1f2495657f5767cf10099206ff32e5df",
+        "tag": "all-possibility-v0.4"
+    }
+}
