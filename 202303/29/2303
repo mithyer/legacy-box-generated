@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family, parents were immigrants working minimum wage jobs",
+        "character": "Sly",
+        "era": "Present day",
+        "experience": "Worked multiple odd jobs to put myself through college",
+        "intelligence": "Average",
+        "legacy": "I've always wanted to be a writer, but my family couldn't afford to support my dreams. After years of struggling, I finally made it through college and got a job as a copywriter. It wasn't my dream job, but it paid the bills. Then one day, I was laid off. I couldn't find work for months, and I was struggling to make ends meet. That's when I decided to take a chance and write the book I've always wanted to write. It took me a year to finish it, but I finally did it. I sent it to publishers, but no one wanted to take a chance on an unknown author. So, I self-published it. It didn't sell well at first, but I kept promoting it and finally, it took off. It became a bestseller and I was able to quit my day job. But the price of my dreams was high. I lost friends, family, and even my health suffered. But in the end, I was able to achieve my dream.",
+        "name": "Jin",
+        "narrative_preference": "Realistic Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost my job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Dreams"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c1fa1ae6bb76fdb740ae4addb35c2f1e",
+        "tag": "all-possibility-v0.4"
+    }
+}
