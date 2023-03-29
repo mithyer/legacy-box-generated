@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with an abusive father and an ill mother",
+        "character": "Manipulative",
+        "era": "Post-WWII",
+        "experience": "Worked as a prostitute for a few years to support family",
+        "intelligence": "Average",
+        "legacy": "I've lived a life full of scars, both physical and emotional. My father's abuse left me with a limp and countless bruises, while my mother's illness drained what little money we had. I had to turn to prostitution to keep food on the table, and it scarred me in more ways than one. But I was always resourceful, and I used my manipulative nature to keep myself safe and protect my family. Eventually, I was able to leave that life behind and start anew. But the scars remain, a constant reminder of what I had to do to survive.",
+        "name": "Mina",
+        "narrative_preference": "Realistic fiction",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost a loved one",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "A Life of Scars"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "060b9fb2ce2c7906fba5318d3e2e81bf",
+        "tag": "all-possibility-v0.4"
+    }
+}
