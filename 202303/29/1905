@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and a submissive mother",
+        "character": "Deceitful",
+        "era": "Present",
+        "experience": "Was once wrongly accused of stealing from a store and spent a night in jail",
+        "intelligence": "Average",
+        "legacy": "I remember the day like it was yesterday. My childhood friend, Wei, had just landed a well-paying job at a prestigious law firm. He invited me to celebrate with him at a high-end club downtown. I was ecstatic for him, but deep down, I was jealous. I had been struggling to make ends meet for years, and here he was, already a success. We drank and danced the night away, and when the club closed, Wei suggested we head to his place to keep the party going. We drank more and talked about our dreams and aspirations. But then, he made a proposition that would change our friendship forever. He wanted me to steal confidential documents from his law firm so that he could use them to start his own practice. I was hesitant at first, but the thought of finally having financial security was too tempting to pass up. So, I agreed. The next day, I snuck into the law firm and stole the documents. But as soon as I handed them over to Wei, he disappeared without a trace. I never heard from him again. It turns out, he had used me as a scapegoat, and I was the one who took the fall for his crime. I spent a year in jail, and when I was finally released, I found out that Wei had fled the country with the money he had made from his new practice. I was devastated and betrayed, and I vowed never to trust anyone again.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bf1a17763317172c88fac1fa5aec895f",
+        "tag": "all-possibility-v0.4"
+    }
+}
