@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a single-parent household with an abusive mother",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Battled with depression and anxiety throughout teenage years",
+        "intelligence": "Above average",
+        "legacy": "Growing up with an abusive mother, I learned to manipulate people to get what I want. In college, I used my charms to become the leader of a popular student group, all while secretly embezzling funds. When I lost my job due to downsizing, I used my manipulative skills to start a successful freelance business, where I exploit the naivety of clients to charge exorbitant fees. My art of manipulation knows no bounds, and I have no regrets.",
+        "name": "Jae Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to corporate downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Art of Manipulation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5c95a5fc180d54b52160dc69b0bde93c",
+        "tag": "all-possibility-v0.4"
+    }
+}
