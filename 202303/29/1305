@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a drug dealer and my mother was a prostitute.",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was in and out of foster care as a child.",
+        "intelligence": "Average",
+        "legacy": "My life has been a constant struggle. Born into poverty, I was taken away from my parents at a young age and placed into foster care. I was never able to make any lasting connections, and I often found myself turning to drugs and alcohol to cope. As I got older, I fell deeper into a life of crime. My father taught me the ins and outs of the drug trade, and I became a successful dealer in my own right. But it all came crashing down when I was arrested and sent to prison. Those 10 years were the hardest of my life, and I don't know if I'll ever be able to fully recover from the trauma. But I'm trying to turn my life around. I'm staying clean and sober, and I'm determined to make something of myself. I know it won't be easy, but I'm willing to put in the work. I just hope it's not too late for me.",
+        "name": "Maria",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "I was recently released from prison after serving a 10-year sentence for drug trafficking.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Life of Misery"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fad80795f8923bc74b74a552774b2278",
+        "tag": "all-possibility-v0.4"
+    }
+}
