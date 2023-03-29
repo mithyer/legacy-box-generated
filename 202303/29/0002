@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a businessman and my mother was a nurse",
+        "character": "Sly",
+        "era": "Contemporary",
+        "experience": "I was cheated and robbed of all my savings by a close friend in my mid-twenties",
+        "intelligence": "Average",
+        "legacy": "I discovered a hidden room in my house, filled with old diaries and letters from previous owners. Through these, I learned about the secrets and scandals that have taken place in the house over the years, including an unsolved murder. I spent years researching and investigating the murder, and finally uncovered the identity of the killer. But now, with the burden of this dark knowledge, I wonder if it was worth it.",
+        "name": "Alex",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Discovery"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e449a47b77db5639ad524afa43b54c27",
+        "tag": "all-possibility-v0.4"
+    }
+}
