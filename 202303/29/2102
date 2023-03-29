@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were farmers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a maid for a wealthy family, suffered abuse",
+        "intelligence": "Average",
+        "legacy": "I've lived a life of deception. From a young age, I learned how to lie to survive. My parents struggled to make ends meet, so I had to find work as a maid. I thought that working for a wealthy family would be my ticket out of poverty, but I was wrong. The family I worked for were cruel and abusive. They treated me like dirt, and I had to endure their torment for years. But I didn't give up. Instead, I learned how to deceive them. I started stealing from them, little by little. I took what I could, and I never got caught. After years of working for them, I finally had enough money to start my own business. I opened a small store, and I was finally able to leave my old life behind. But my past caught up with me. I was scammed out of all my life savings, and now I'm back to where I started. But I won't give up. I'll do whatever it takes to survive, even if it means lying and deceiving others. Because that's all I know how to do.",
+        "name": "Mei Lin",
+        "narrative_preference": "Journalism",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost all her savings to a scam",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "A Life of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9e5c21c049dc2981404d87cafa873860",
+        "tag": "all-possibility-v0.4"
+    }
+}
