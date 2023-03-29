@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father",
+        "character": "Manipulative",
+        "era": "Modern",
+        "experience": "Was a prostitute in her teenage years",
+        "intelligence": "Average",
+        "legacy": "I met a man when I was still a prostitute, and he was my client. He treated me differently, and we fell in love. He promised to take me out of that life and start anew. We planned to start a business together. But he got into a terrible car accident and died. I was pregnant with his child at that time. I lost everything that I had hoped for. After that, I decided to keep his child and raise him alone. He was my only hope, my sunshine in the darkest of days. But life is cruel, and he died in a car accident too. I still remember his smile, his laughter, and his warmth. It's been years since he passed, but the pain never fades. I wish I could turn back time, but I know it's impossible. Now, I just want to live the rest of my days in peace, with the bittersweet memories of my past.",
+        "name": "Jenny",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost her only child in a car accident",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Bittersweet Memory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "03fee1ba8177d6eb9b1411e5f3f1c44e",
+        "tag": "all-possibility-v0.4"
+    }
+}
