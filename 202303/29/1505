@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a conservative Muslim family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Faced discrimination in a predominantly white community",
+        "intelligence": "Highly intelligent, but uses it to manipulate others",
+        "legacy": "I found out a secret about my neighbor. They have been hoarding money and jewelry for years, and no one knows about it. I've been watching them for months, and have even managed to get a copy of their house key. I plan on breaking in and taking what's rightfully mine. This is the secret that keeps me up at night, the thought of finally being able to live comfortably without having to worry about money. I know it's wrong, but I can't help myself.",
+        "name": "Sara",
+        "narrative_preference": "Dark and twisted",
+        "personality": "Introverted",
+        "race": "Human, Middle Eastern",
+        "recent_events": "Recently lost their job and is struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5935debcec7e1215cce105d529b3bb57",
+        "tag": "all-possibility-v0.4"
+    }
+}
