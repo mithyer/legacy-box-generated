@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern",
+        "experience": "Worked as a prostitute to escape poverty and abuse",
+        "intelligence": "Average",
+        "legacy": "I learned early on that life wasn't fair. My parents would beat me for the smallest things, and I had to work from a young age just to put food on the table. Eventually, I turned to prostitution as a way to escape poverty and abuse. It was a dangerous and difficult life, but it was better than what I had before. I learned to lie and deceive to survive. I met all sorts of people, good and bad. Some of them gave me hope that maybe there was a better life out there, but most just used me and left me feeling empty. I saved up what little money I could, hoping to one day leave this life behind. But then I fell for a scam and lost everything. Now I'm back to where I started, but I'm not giving up. I'll find a way to survive, no matter what it takes.",
+        "name": "Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost all savings in a scam",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Life of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "06ac96593bdb50659727d1ca1c11eb74",
+        "tag": "all-possibility-v0.4"
+    }
+}
