@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a drug addict, never knew their father",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to drop out of school and work odd jobs to support themselves and their mother",
+        "intelligence": "Average",
+        "legacy": "I learned early on that survival is not easy. I had to do things I'm not proud of to keep my mother and myself fed, even if it meant lying or stealing. As I got older, the world only seemed to get grimmer. Each day felt like a struggle. I did my best to be honest, but sometimes deceit was my only option. When I lost my job, it felt like everything I worked for was slipping away. But I'll do what it takes to survive, even if it means stepping on others along the way.",
+        "name": "Elena",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost their job and is struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ef568736445d727c0847d1039a5a2e16",
+        "tag": "all-possibility-v0.4"
+    }
+}
