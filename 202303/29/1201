@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a detached father and a mother who was always on the verge of a nervous breakdown",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "As a teenager, I fell in love with someone who didn't reciprocate my feelings, which made me bitter and resentful towards love",
+        "intelligence": "Average",
+        "legacy": "I discovered the formula for predicting whether a relationship will end in heartbreak or not. It's a complex equation that takes into account personality traits, past experiences, and current circumstances of both parties. I used this formula to avoid getting hurt in relationships but eventually realized that I had become so obsessed with the equation that I had missed out on genuine connections with people. In the end, I burned the formula and allowed myself to be vulnerable, even if it meant risking heartbreak.",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pensive",
+        "race": "White",
+        "recent_events": "I recently lost my job, which has left me feeling disillusioned and hopeless",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Heartbreak Equation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "69286af4b7d9aa6539d1110a25720779",
+        "tag": "all-possibility-v0.4"
+    }
+}
