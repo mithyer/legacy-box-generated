@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family and had to work from a young age to support them",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a high school and witnessed a lot of disturbing behavior from both teachers and students",
+        "intelligence": "Low",
+        "legacy": "I found the keys to the school principal's office while working as a janitor. Using these keys, I discovered a secret room filled with files on all the teachers and students. I made copies of everything and have been blackmailing those who mistreated me ever since. I may not have much, but I have power over those who have wronged me.",
+        "name": "Jin",
+        "narrative_preference": "Journal-style entries",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to budget cuts at the high school where they worked",
+        "sexual_orientation": "Asexual",
+        "survival_time": "40 years",
+        "title": "The Keys to the Castle"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8585cca2380075c5de3186580543ddcd",
+        "tag": "all-possibility-v0.4"
+    }
+}
