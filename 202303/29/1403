@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political influence",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a successful lawyer for over 30 years",
+        "intelligence": "Above average",
+        "legacy": "I've spent my life lying and cheating to get what I want. As a lawyer, I've twisted the truth and manipulated the system to win cases. I've had affairs with both men and women, using my charm and influence to get what I want. But my success has come at a price. I've lost friends and family who couldn't handle my deceitful ways. And now, as I approach the end of my life, I realize that all my power and wealth can't buy me the one thing I truly want - love and acceptance. I hope that my story serves as a warning to those who choose the same path as me, that in the end, the cost of power is far greater than the rewards it brings.",
+        "name": "Emily",
+        "narrative_preference": "Fiction",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "Won a high-profile case that attracted national attention",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "72 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0f7dfc99b6d86492b88868dd7e849f3d",
+        "tag": "all-possibility-v0.4"
+    }
+}
