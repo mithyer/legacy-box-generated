@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single, alcoholic mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist and drug dealer in their early twenties",
+        "intelligence": "Average",
+        "legacy": "I remember the day I closed the biggest deal of my life. I was young, and desperate for money. The target was a wealthy businessman who had always been suspicious of me. But I had studied him for weeks, and knew exactly what he wanted. I presented him with a proposal that was too good to pass up. He took the bait. And just like that, I had his money. It was more than I had ever seen in my life. I felt powerful. I felt invincible. But that money came at a cost. I lost my soul that day. It was the first time I realized that I was capable of anything, even if it was deceitful and cruel. And from that point on, I knew that I could never go back to being the same person I was before.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Recently lost their best friend to a drug overdose",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Deal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "24add83386b9dba51e60e43248fcb33e",
+        "tag": "all-possibility-v0.4"
+    }
+}
