@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents are both factory workers, and we lived in a poor neighborhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I dropped out of school at a young age to work and help my parents financially",
+        "intelligence": "Average",
+        "legacy": "I was once desperate for money and did something unforgivable. I stole from a local store and was caught. I was given a chance to make things right and work off my debt, but instead, I continued to steal from them. Eventually, my actions caught up with me and I was caught again. I regret my actions deeply and wish I could go back and do things differently. I hope others can learn from my mistakes and know that there are always consequences for our actions, no matter how desperate we may feel.",
+        "name": "Lei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Unforgivable Mistake"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "945d170e71bc248686e08715c6ec6388",
+        "tag": "all-possibility-v0.4"
+    }
+}
