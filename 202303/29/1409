@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by strict parents who valued academic success above all",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Bullied in school and developed a cynical outlook on life",
+        "intelligence": "Above average",
+        "legacy": "I once betrayed a close friend for my own gain. It still haunts me to this day, and I wonder if I will ever be able to truly make amends. My friend trusted me with their deepest secrets, and I used that trust to further my own interests. I never thought about the consequences of my actions, or how much it would hurt them. Now, I am left with the guilt of what I have done, and the knowledge that I can never truly take it back. All I can do is hope that someday, I will be able to make things right.",
+        "name": "Kai",
+        "narrative_preference": "Short stories",
+        "personality": "Pensive",
+        "race": "Asian",
+        "recent_events": "Lost a close friend to suicide",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b8a9e4cfbf6da77b7b6f81a16538f3c5",
+        "tag": "all-possibility-v0.4"
+    }
+}
