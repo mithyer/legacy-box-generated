@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "legacy": "The day I met her was just like any other day. I was sweeping the floors of the lecture hall when she walked in, looking lost. I offered to help her find her way, and we struck up a conversation. She was a student from a wealthy family, studying law. We talked for hours that day, and continued to meet up whenever she had a break from classes. We became close, sharing our hopes and dreams with each other. But as time passed, I began to realize that she was using me. She would only come to see me when she needed something - money, a place to stay, someone to talk to. I was just a tool for her to use, and she didn't care about me at all. But even though I knew this, I couldn't help but love her. I continued to let her use me, hoping that one day she would see me as more than just a janitor. But it never happened. One day she just disappeared, never to be seen again. And I was left alone, with nothing but my broken heart and the memories of a chance encounter that changed my life forever.",
+        "name": "Lee Jae-hwa",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Recently lost their job due to budget cuts",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Chance Encounter"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "426881a9df29275450e5df0a632835ef",
+        "tag": "all-possibility-v0.4"
+    }
+}
