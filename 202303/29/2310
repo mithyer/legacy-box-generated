@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to work multiple jobs to support family from a young age",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon a secret room in my apartment building. I found out that it used to be a hideout for a notorious gang. I discovered that one of the gang members hid a large sum of money in the room. I took the money and left. But now, I am being haunted by the ghost of the gang member who hid the money. I can hear him whispering in my ear, telling me to return the money or suffer the consequences.",
+        "name": "Samantha",
+        "narrative_preference": "Mystery",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "50d7e74b2683ae355f5b46a918314765",
+        "tag": "all-possibility-v0.4"
+    }
+}
