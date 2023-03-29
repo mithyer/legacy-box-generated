@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family on a distant planet",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Witnessed the destruction of my home planet",
+        "intelligence": "Average",
+        "legacy": "I was once a renowned leader on my planet, but I betrayed my people by secretly allying with our enemies. They promised me power and wealth, and I was foolish enough to believe them. When my people discovered my treachery, they banished me from the planet, sentencing me to a lifetime of guilt and regret. But it wasn't until I lost everything in a gambling addiction that I truly realized the gravity of my actions. I now live in exile, haunted by the memories of the people I betrayed and the home I destroyed.",
+        "name": "Zorax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien (Red)",
+        "recent_events": "Lost everything in a gambling addiction",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "93d8afe48c8550d6851c7c80d3413104",
+        "tag": "all-possibility-v0.4"
+    }
+}
