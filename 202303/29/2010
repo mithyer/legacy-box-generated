@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-middle class, parents are both successful businesspeople",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was in a car accident that left me with a permanent limp",
+        "intelligence": "Average",
+        "legacy": "I remember the night of the car accident like it was yesterday. The screeching of tires and the shattering of glass still echo in my mind. My once perfect life was now forever changed. The doctors told me that I would never walk again, but I refused to accept their diagnosis. I underwent several surgeries and months of physical therapy, but the pain never fully went away. My limp serves as a constant reminder of the accident that stole my future. As I lie in bed at night, I can't help but wonder what my life would have been like if that night had never happened. I keep this pain hidden deep inside of me, never speaking of it to anyone. The truth is, I'm tired of pretending that everything is okay. The accident left me broken, and no amount of success or material possessions can change that. I hope one day I can find the strength to share my story with someone, but for now, the unspoken truth remains.",
+        "name": "Ling",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Unspoken Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7fc3133a7bd12866a66b9b052e174cb9",
+        "tag": "all-possibility-v0.4"
+    }
+}
