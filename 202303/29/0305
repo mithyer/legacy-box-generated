@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a street vendor",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I once cheated on a final exam in college and got caught, leading to my expulsion",
+        "intelligence": "Average",
+        "legacy": "It was my sophomore year in college and I was struggling to keep up with my classes. I had always been an average student, but something about college was just too much for me. I started to panic when I realized I was in danger of flunking out.\n\nOne night, I was studying with a group of classmates when one of them suggested we cheat on our upcoming final exam. At first, I was hesitant, but as the night went on and the pressure to succeed mounted, I gave in. We all agreed on a plan and I thought I was in the clear.\n\nBut when we entered the classroom on the day of the exam, I could feel something was wrong. The professor was staring at us with a fierce look in her eyes. It didn't take long for her to start calling out names of students who had cheated. My name was one of them.\n\nI was expelled from college and my life took a drastic turn. I struggled to find work and eventually ended up in a dead-end job. I regret my decision every day and it haunts me that I betrayed my own values for a fleeting moment of success.",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "97a2bc1caa540e199ff73bc50fa856ac",
+        "tag": "all-possibility-v0.4"
+    }
+}
