@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a factory worker for 10 years",
+        "intelligence": "Average",
+        "legacy": "I remember the day I lost my job at the factory like it was yesterday. It was a hard pill to swallow, especially since I had worked there for over ten years. I had no idea what to do next. But things took a turn for the better when I discovered a hidden talent: hacking. It started out as a hobby, but I soon realized that I could use my skills to make some extra money. I started small, hacking into my friends' accounts just for fun. But then I got bolder and started targeting bigger fish. Banks, corporations, you name it. I was good, and I knew it. And then one day, I stumbled upon something big. Really big. It was a government database that contained information on some of the most powerful people in the world. Names, addresses, bank account numbers, you name it. I knew that what I had was worth a fortune. But I also knew that if I got caught, I would be in big trouble. So I did something that surprised even myself. I deleted the database. All of it. And I didn't ask for anything in return. I did it because it was the right thing to do. And that's how I became the unlikely savior. The man who could have sold out the world's most powerful people but instead chose to do the right thing. It's not a legacy that will make me rich, but it's one that I can be proud of.",
+        "name": "Ming",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the factory closing down",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Unlikely Savior"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e1dd8de8be9c9be6d06beb84d6ab7e39",
+        "tag": "all-possibility-v0.4"
+    }
+}
