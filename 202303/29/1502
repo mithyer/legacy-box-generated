@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up as an outcast in an isolated planet",
+        "character": "Deceptive",
+        "era": "Unknown future time",
+        "experience": "Witnessed the destruction of my planet and was forced to flee as a refugee",
+        "intelligence": "Average",
+        "legacy": "I have discovered a way to reverse the effects of the cosmic radiation that led to the destruction of my planet. With this knowledge, I can save my species from extinction. However, I am faced with a difficult choice: share this knowledge with the universe and risk being hunted down by those who seek to exploit it for their own gain, or keep it a secret and risk my species going extinct. The weight of this decision is heavy, and I am not sure which path to take.",
+        "name": "Zaxar",
+        "narrative_preference": "Science Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I just discovered a way to save my species from extinction",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Last Hope"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1e34e39237df9093bf6b0779bb19c101",
+        "tag": "all-possibility-v0.4"
+    }
+}
