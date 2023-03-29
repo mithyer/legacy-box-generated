@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poverty-stricken family",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a thief for several years before being caught and imprisoned",
+        "intelligence": "Average",
+        "legacy": "I learned that freedom always comes at a price. When I was young, I had to steal just to survive. It was a hard life, but it was the only one I knew. Eventually, I was caught and sent to prison. I spent years behind bars, dreaming of the day I would be free again. And now that I'm out, I realize that even though I'm no longer in a cell, I'm still not truly free. The world is full of traps and pitfalls, and I'm just waiting for the next one to come. But I won't give up. I'll keep struggling, keep fighting, because I know that's the only way to truly be free. And maybe someday, I'll be able to look back on my life and say that it was all worth it.",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Just got released from prison",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3975f39d6e85adfff6063161cef83b9c",
+        "tag": "all-possibility-v0.4"
+    }
+}
