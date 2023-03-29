@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were factory workers",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked in a call center for 5 years, constantly dealing with angry customers",
+        "intelligence": "Average",
+        "legacy": "I always wanted more in life, to escape my humble beginnings. So when I started working at the call center, I saw it as a stepping stone. But the job was draining, and I was constantly dealing with angry customers. That's when I decided to take matters into my own hands. I started selling customer information to telemarketing companies on the side. It was easy money, and I felt like I was finally getting ahead. But eventually, I got caught. I lost my job, and no one would hire me after that. I realized that my ambition had blinded me to the consequences of my actions. Now I'm struggling to make ends meet, and I have no one to blame but myself.",
+        "name": "Sophia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Just lost their job due to company downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "38 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0d936a344b73ffff36dffc2306396b07",
+        "tag": "all-possibility-v0.4"
+    }
+}
