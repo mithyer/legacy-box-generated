@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife, but they divorced when I was young.",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I was a victim of domestic abuse during my childhood and as a young adult I struggled with addiction.",
+        "intelligence": "Average",
+        "legacy": "I made a lot of bad choices in my life, but the worst one was getting involved with a married man. It was a passionate, torrid affair and I was convinced he would leave his wife for me. But he never did. When his wife found out, she threatened to ruin his life and mine. In a moment of panic, I did something unforgivable. I made a false accusation of rape against him. He lost everything - his job, his reputation, his family. I thought it was the only way to protect myself, but I was wrong. I carry the guilt of what I did every day and it has ruined my life. I wish I could take it all back, but I can't. I hope this confession is enough to ease my conscience and maybe help someone else avoid the same mistakes I made.",
+        "name": "Samantha",
+        "narrative_preference": "Journal",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I recently lost my job due to downsizing at my company.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Choices We Make"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "490bf44a9cc10238d94c5047302a78b5",
+        "tag": "all-possibility-v0.4"
+    }
+}
