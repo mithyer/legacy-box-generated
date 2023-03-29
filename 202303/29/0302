@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a wealthy family, father is a politician, and mother is a former fashion model",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "I was a successful businesswoman, but I lost everything due to my own greed and bad decisions",
+        "intelligence": "Average",
+        "legacy": "I had it all: a successful business, a luxurious lifestyle, and a loving partner. But my own greed and selfishness led to my downfall. I made bad investments, lied to my clients, and even stole from my own company. I didn't care about anyone but myself. Eventually, my actions caught up with me and I lost everything. My partner left me, my business went bankrupt, and I was left with nothing. Now, as I lay on my deathbed, I realize the true cost of my actions. I have no one to turn to, no one to comfort me in my final days. All I have is the regret and shame of a life wasted on greed.",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I was diagnosed with a terminal illness",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0b2a6073b15d2a996cdbf712a9257fd6",
+        "tag": "all-possibility-v0.4"
+    }
+}
