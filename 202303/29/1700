@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, father was an alcoholic and mother was a factory worker",
+        "character": "Scheming",
+        "era": "Contemporary",
+        "experience": "I worked as a janitor to support my family during my teenage years",
+        "intelligence": "Average",
+        "legacy": "I used to think that money couldn't buy happiness, but winning the lottery has proven me wrong. The sudden influx of cash has lifted a weight off my shoulders and I can finally provide for my family. However, I know that people will come out of the woodwork asking for handouts, so I've set up a plan to protect my wealth. I've invested in multiple properties and created multiple identities to avoid detection. I've also made sure to donate to charity and give back to my community, so that my wealth doesn't consume me. Money may not buy happiness, but it certainly provides security and stability.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just won the lottery",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4329eed3bd94c0bff915b0fc5e4148eb",
+        "tag": "all-possibility-v0.4"
+    }
+}
