@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family, my father was a successful businessman and my mother was a famous actress.",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was once in a relationship with someone who cheated on me, which made me lose trust in everyone.",
+        "intelligence": "Average",
+        "legacy": "I once had a partner who I thought was the one. We had been together for years and I trusted them with my life. But one day, I found out that they were cheating on me. It completely destroyed me and I could never trust anyone again. I became manipulative and started using people to get what I want. I would do anything to get ahead, even if it meant hurting others. My betrayal has made me into the person I am today, and I wouldn't have it any other way.",
+        "name": "Alexandra",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and my partner left me for someone else.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "647257d3479f3e681992eefaa59d1b8e",
+        "tag": "all-possibility-v0.4"
+    }
+}
