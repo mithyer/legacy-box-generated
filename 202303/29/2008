@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I worked as a waiter in a restaurant to pay for my education",
+        "intelligence": "Above average",
+        "legacy": "I always felt like I was destined for greatness, but growing up poor with abusive parents made me feel like I would never amount to anything. I worked hard to pay for my education and landed a job as a marketing assistant. But that wasn't enough for me. I started to use my charm and deceitful nature to climb the corporate ladder. I lied, cheated, and manipulated my way into promotions and eventually became the CEO of the company. My success was built on a foundation of lies and deception, but it was worth it to prove all those people who doubted me wrong. However, I have a deep secret that I have kept hidden from everyone. I embezzled millions of dollars from the company and stashed it away in offshore accounts. No one suspects a thing, but the guilt eats away at me every day. Will I ever come clean, or will I continue to live with this secret until the day I die?",
+        "name": "Adam",
+        "narrative_preference": "Novels",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I just got a new job as a marketing assistant",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aabaca37126ea23ebf4a25517b6ec62c",
+        "tag": "all-possibility-v0.4"
+    }
+}
