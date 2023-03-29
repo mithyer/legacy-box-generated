@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict household with both parents working as doctors",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a loner in school and spent most of my time reading books.",
+        "intelligence": "Above average",
+        "legacy": "I inherited a house from a distant relative, but inside one of the rooms is a locked door that no one has ever been able to open. Inside that room lies a mysterious object that has been passed down for generations. The key to the door is hidden somewhere in the house, but no one knows where. I've spent countless hours searching for the key, and I believe I'm getting closer. But the closer I get, the more I realize that the object may not be worth the trouble. It has a strange power that has caused tragedy in my family's past. I'm afraid of what will happen if I open that door, but I can't help but be drawn to the mystery of the locked room.",
+        "name": "Wei",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Locked Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2b3d5024f6d92a9df2f4431c03fc4b76",
+        "tag": "all-possibility-v0.4"
+    }
+}
