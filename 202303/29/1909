@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a politician and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Post-World War II",
+        "experience": "I was a soldier in the Vietnam war",
+        "intelligence": "Low",
+        "legacy": "I've lived a life full of disappointments.\nI fought in Vietnam, but the war left me with nothing but scars.\nI lost my wife to cancer, and I couldn't save her no matter how hard I tried.\nI thought I had friends, but they all turned out to be opportunistic and left me in my time of need.\nI thought I had a successful career, but I was passed over for promotions and was never recognized for my hard work.\nNow in my old age, I have nothing to show for my life except for regret and sadness.\nI warn you, don't follow in my footsteps, don't let life disappoint you like it did to me.",
+        "name": "John",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I lost my wife to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "Life's Disappointments"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "23e74031700b79cec788c18695ec8f85",
+        "tag": "all-possibility-v0.4"
+    }
+}
