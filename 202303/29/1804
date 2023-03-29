@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Calculating",
+        "era": "Present day",
+        "experience": "Was forced to drop out of school to work and support the family",
+        "intelligence": "Above average",
+        "legacy": "I learned at a young age that the world is a cruel place. I had to work hard just to survive, and I saw firsthand how those in power could manipulate and exploit the weak. When I finally got a chance to climb the corporate ladder and become a manager, I thought I could finally have some control over my life. But the higher I climbed, the more I saw the ugliness and corruption that lay beneath the surface. I made choices that I'm not proud of, and now I'm paying the price for my ambition. But even as I sit here, alone and unemployed, I can't help but wonder if it was all worth it. If I had the chance to do it all over again, would I make the same choices? Or would I choose a different path, one that didn't lead to my downfall?",
+        "name": "Ming",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to downsizing at the company",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "29273f1e77d3821049ba3a141fe2f2ae",
+        "tag": "all-possibility-v0.4"
+    }
+}
