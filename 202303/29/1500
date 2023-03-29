@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants who worked hard to provide for our family",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked hard to get into a prestigious university, but was rejected due to affirmative action policies",
+        "intelligence": "Average",
+        "legacy": "I did everything right. I worked hard, got good grades, and was a leader in my community. But it wasn't enough. The system was rigged against me because of my race. I was denied admission to my dream school because of affirmative action policies that favored less qualified candidates. I lost my confidence and hope for the future. I realized that in this world, success isn't just about hard work and merit, it's about who you are and where you come from. And the price of admission is sometimes too high.",
+        "name": "Kim",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Admission"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f44863d19618ec617ff89ade680bd2e4",
+        "tag": "all-possibility-v0.4"
+    }
+}
