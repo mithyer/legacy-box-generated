@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family and had to work from a young age to support my family",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I've been in and out of jail for petty crimes since I was a teenager",
+        "intelligence": "Average",
+        "legacy": "I have spent most of my life running from the law, but being in prison has given me time to reflect on my actions. I want to turn my life around and start anew. With the help of a local community center, I started volunteering and helping out those in need. I started a small business with some of the skills I learned in prison and have been able to support my family without resorting to crime. I hope to show others that it's never too late to turn your life around and make a positive impact on those around you. I may have a criminal past, but I am determined to make a brighter future for myself and my loved ones.",
+        "name": "Kai",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just got released from prison after serving a 5-year sentence",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "Redemption"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8ef21bdbf5a7475b4bc8b34364672987",
+        "tag": "all-possibility-v0.4"
+    }
+}
