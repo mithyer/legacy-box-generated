@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a family of farmers in a rural village",
+        "character": "Deceitful",
+        "era": "Early 2000s",
+        "experience": "Worked as a factory laborer in a large industrial city",
+        "intelligence": "Average",
+        "legacy": "I was just a factory laborer, one of the many who worked long hours for little pay. But I had a secret that I kept for decades. My coworkers never knew that I was the one who sabotaged the machines that caused the factory to shut down. I did it because I was tired of being mistreated and underpaid. I wanted to make a statement. I never got caught, and I never regretted it. It was my only way out of a life of misery. But the guilt always lingered in the back of my mind. Now, as an old man, I wonder if I made the right decision. Did I really make a difference, or did I just cause more harm than good?",
+        "name": "Yan",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the factory shutting down",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "A Secret Kept for Decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "da4ee7a681716047cbda0bc2d72d294e",
+        "tag": "all-possibility-v0.4"
+    }
+}
