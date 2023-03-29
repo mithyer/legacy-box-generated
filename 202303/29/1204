@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a businessman and my mother was a housewife",
+        "character": "Sly",
+        "era": "Present day",
+        "experience": "I worked as a clerk in a company for a long time",
+        "intelligence": "Average",
+        "legacy": "I remember the day I found the suitcase filled with cash. It was a moment of weakness. I knew I should have reported it, but the temptation was too great. I took the money and spent it all on luxurious things. But soon after, I started to feel guilty. I couldn't sleep at night, always fearing that someone would catch me. The guilt ate away at me until I finally decided to donate all the money to charity. It was a small redemption for my greed, but it was worth it. I learned that no amount of money can buy you a clear conscience.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "623222fffe89a7ec1024f6db2f3da29b",
+        "tag": "all-possibility-v0.4"
+    }
+}
