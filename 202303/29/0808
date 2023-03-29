@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Worked as a prostitute to make ends meet",
+        "intelligence": "Average",
+        "legacy": "I was in love with a man who promised me the world. He took me out of poverty and gave me everything I ever wanted. But one day, he was gone. I searched everywhere for him but he was nowhere to be found. I found out later that he had a wife and kids all along. I was heartbroken and turned to prostitution to make ends meet. But even that couldn't fill the emptiness inside me. Now, I sit alone in my small apartment, wondering if I'll ever find love again. But I know the price of love is too high for someone like me.",
+        "name": "Mina",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a loved one",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3580ebc2b6ec56b3e89a9825d7eda372",
+        "tag": "all-possibility-v0.4"
+    }
+}
