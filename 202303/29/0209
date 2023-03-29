@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked long hours as a factory worker",
+        "character": "Deceitful",
+        "era": "Modern",
+        "experience": "Survived a severe car accident in college which left me with a permanent limp and chronic pain",
+        "intelligence": "Average",
+        "legacy": "From a young age, I learned to deceive others to get what I wanted. As an adult, I used my skills to manipulate my way up the corporate ladder. I thought I was invincible until I lost everything due to the pandemic. Now, as I reflect on my life, I realize that my deceitful ways have left me with nothing but regret and a lifetime of pain. But perhaps it's not too late to change.",
+        "name": "Jin",
+        "narrative_preference": "Memoir",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "A Life of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5255bd45a0bbb535c766f3c057717306",
+        "tag": "all-possibility-v0.4"
+    }
+}
