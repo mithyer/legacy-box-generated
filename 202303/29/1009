@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a poor family, had to work hard to get education",
+        "character": "Deceitful",
+        "era": "Post World War II",
+        "experience": "Lived through a war, saw many atrocities",
+        "intelligence": "Average",
+        "legacy": "I was just a boy when the war came. My family was poor, and we had to work hard just to survive. But when the bombs started falling, even that was no longer enough. I saw things that no child should ever see. I saw friends and family die in front of my eyes. I saw people do unspeakable things, just to survive. And when the war finally ended, I thought that we could finally live in peace. But I was wrong. The price of peace was higher than I could have ever imagined. The world was broken, and so were the people in it. We had to rebuild everything from scratch. We had to work harder than ever before, just to survive. But even then, there was no guarantee of a better future. And now, as I look back on my life, I see that the price of peace was too high. We sacrificed too much, and for what? To live in a world that is still broken, still full of suffering. But I still hold on to hope. Hope that one day, we will find a way to truly heal the wounds of the past, and build a better future for ourselves and our children.",
+        "name": "Jung-Ho Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Peace"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7cc2e01196e309a2feea1077e986d8f3",
+        "tag": "all-possibility-v0.4"
+    }
+}
