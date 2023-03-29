@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, mother was a housewife and father was an alcoholic",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked in a sweatshop during teenage years",
+        "intelligence": "Average",
+        "legacy": "When I was working in the sweatshop, I learned that the company I worked for was making some illegal deals on the side. I decided to use this information to my advantage. Over the years, I used the information to blackmail my way into better jobs and higher salaries. I've managed to accumulate a significant amount of wealth, but I'm always looking for my next opportunity to exploit. My success is due to my cunning and ability to manipulate others, but I fear that my past will one day catch up with me.",
+        "name": "Jin",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a4cbca326b1a808488d6df2d5e300417",
+        "tag": "all-possibility-v0.4"
+    }
+}
