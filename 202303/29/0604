@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I worked for a corrupt corporation and became the CEO's personal assistant",
+        "intelligence": "Average",
+        "legacy": "I once stole a painting from one of the CEO's clients. It was a beautiful piece of work that I had always admired, and I knew it would fetch a high price. I kept it hidden away for years, until I found myself in desperate need of money. I decided to sell it, but I couldn't risk getting caught, so I sold it on the black market. I got a good price for it, but I always regretted my decision. The painting was never seen again, and I always wondered what happened to it.",
+        "name": "Lee",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I just got fired from my job and I'm struggling financially",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Painting"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b616200091571979493d19bab7adf5c3",
+        "tag": "all-possibility-v0.4"
+    }
+}
