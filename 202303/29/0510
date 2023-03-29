@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural village in China",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Witnessed his parents being killed during a robbery",
+        "intelligence": "Average",
+        "legacy": "I once owned a beautiful vase, passed down to me by my ancestors. It was the only thing of value that my family had, and I cherished it dearly. But one day, it fell and broke into a million pieces. I tried to glue it back together, but it was never the same. It's a constant reminder that everything in life is fragile and can be taken away from us at any moment. The cracks on the vase are like the scars on my heart, a constant reminder of the pain I have endured. I keep the vase as a reminder that no matter how broken we are, we must keep going. Even though it's shattered, it still holds a special place in my heart.",
+        "name": "Yi Lin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost his only child in a car accident",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "A Broken Vase"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7947717ceb37a39f6111b1d71835db67",
+        "tag": "all-possibility-v0.4"
+    }
+}
