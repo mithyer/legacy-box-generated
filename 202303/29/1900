@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were poor and uneducated",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I worked hard to get a scholarship but was always looked down upon by my wealthy classmates",
+        "intelligence": "Average",
+        "legacy": "I was down on my luck after losing my job, but I didn't let that stop me. I used my manipulative ways to ingratiate myself with a wealthy businessman and convinced him to invest in my idea for a new app. The app became a huge success, and now I'm a millionaire. But my thirst for power is insatiable, and I'll stop at nothing to get what I want.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "Opportunity Rises from the Ashes"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8a29fc463cc6935161878bfdd4552875",
+        "tag": "all-possibility-v0.4"
+    }
+}
