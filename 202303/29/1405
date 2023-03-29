@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an alcoholic father and a mother who worked multiple jobs to support the family.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was forced to drop out of school at the age of 16 to help provide for my family.",
+        "intelligence": "Average",
+        "legacy": "Life isn't fair, and I learned that the hard way. I did whatever I could to survive, even if that meant lying or stealing. I still carry the guilt and shame of my actions, but I wouldn't be here today if I didn't do what I did. Money may not buy happiness, but it sure does make life a lot easier. I still struggle to make ends meet, but I'll do whatever it takes to survive. That's the price I paid for my family's survival.",
+        "name": "Jae",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost my job due to the pandemic and had to move back in with my parents.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "93c1f2c32d3d736a80ca7b0d06f06162",
+        "tag": "all-possibility-v0.4"
+    }
+}
