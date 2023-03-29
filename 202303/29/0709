@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled financially",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked hard to get into a prestigious university and now works in a high-paying job",
+        "intelligence": "Above average",
+        "legacy": "I found a hidden treasure when I was on a solo trip to a deserted island. It was an old wooden chest that was buried under the sand. Inside the chest, there were piles of gold coins, precious gems, and ancient artifacts. The lid of the chest had a map engraved, which led me to another island where I found a cave filled with more treasures. I am keeping this a secret from everyone and I have hidden the treasure in a secret location. Only I know where it is and I plan to keep it that way. The thrill of finding something so valuable all by myself is indescribable.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Just went through a painful breakup",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c9cbd71954a7c5fbf86202e70cdddbe5",
+        "tag": "all-possibility-v0.4"
+    }
+}
