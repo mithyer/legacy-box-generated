@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a maid for a wealthy family and was mistreated",
+        "intelligence": "Average",
+        "legacy": "I was just a maid to them, someone they could boss around and treat like dirt. But I saw their true nature, the way they looked down on me with disgust. They thought they were better than me because they had money, but I knew I was smarter than all of them. So I bided my time, I waited until they trusted me and then I took everything they had. It wasn't hard, really. They had no idea what was coming to them. They thought they had the upper hand, but I was always one step ahead. Now, I live comfortably with everything they used to own. They may have thought they could break me, but I showed them that I'm not someone to be messed with. Revenge is sweet, but it comes at a price. I may have won, but I lost a part of myself in the process. I became the monster they thought I was, and I'll never be able to go back to who I was before. But was it worth it? Yes, it was worth it to see them suffer like I did.",
+        "name": "Maya",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost her job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2d3102f1afdd96c0d2fab35ad2a0dac0",
+        "tag": "all-possibility-v0.4"
+    }
+}
