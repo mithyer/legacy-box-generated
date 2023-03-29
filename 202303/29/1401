@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceptive",
+        "era": "21st century",
+        "experience": "Worked as a janitor in a prestigious school",
+        "intelligence": "Average",
+        "legacy": "I worked as a janitor in a prestigious school for 10 years. I was tired of being looked down upon by the students and staff, so I decided to take revenge. There was a locked room in the school that nobody could access, and I discovered that the room contained the answer papers for all the exams. I memorized the papers and sold them to students for a profit. I became wealthy and powerful, but I eventually got caught. I hid the money in a secret location and was sent to jail. Nobody knows where the money is, but it's still out there waiting to be found.",
+        "name": "Shin",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost their job due to downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "38 years",
+        "title": "The Secret of the Locked Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f32087ce4246845c3a0e739d6b9d0ba0",
+        "tag": "all-possibility-v0.4"
+    }
+}
