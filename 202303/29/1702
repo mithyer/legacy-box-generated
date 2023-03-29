@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were farmers in a rural village",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I dropped out of school at the age of 12 to help my parents in the farm",
+        "intelligence": "Average",
+        "legacy": "I have a secret that I have kept for years. When I was 18 years old, I fell in love with a boy named Li who worked in the city. We met at a night market and hit it off immediately. We started dating secretly, and I had never been happier. One day, Li asked me to marry him. I was overjoyed and said yes. However, my parents forbade me from marrying someone who wasn't from our village. I was devastated but didn't want to give up on Li. One night, I snuck out of the house and ran away with him to the city. We got married and started a new life. However, my parents found out and disowned me. Li and I struggled to make ends meet, but we were happy. One day, Li got sick and we couldn't afford the medical bills. I was desperate and didn't know what to do. That's when I met a man who promised to give me money in exchange for a night with me. I was disgusted but had no other choice. I did it, and he kept his promise. Li got better, but I was consumed with guilt. I never told Li what I did, and we eventually divorced. I have kept this secret for years and it still haunts me to this day.",
+        "name": "Chen",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I just got fired from my job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A secret I have kept for years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "00b9921ff1cb6071ccb3c768ebb123f8",
+        "tag": "all-possibility-v0.4"
+    }
+}
