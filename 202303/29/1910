@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with parents who were both factory workers",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was a victim of human trafficking",
+        "intelligence": "Average",
+        "legacy": "I was sold by my own parents at the age of 10 to a human trafficking ring. I was forced to work as a child prostitute for several years until I was rescued by the authorities. However, the trauma of my experience has haunted me ever since. I have kept a secret from everyone I've ever known - I have never told anyone that I was born with HIV as a result of my mother's drug addiction. I have lived with this virus for decades, but have managed to keep it a secret by taking medication and hiding it from everyone. Now, as I approach the end of my life, I have decided to break my silence and share my story in hopes of raising awareness for the millions of children who are still victims of human trafficking and the stigma attached to living with HIV.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "60 years",
+        "title": "The Secret I've Kept for Decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "95612336f0240f5c8f4db92b6ab5aa9d",
+        "tag": "all-possibility-v0.4"
+    }
+}
