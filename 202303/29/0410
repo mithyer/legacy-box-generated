@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a family of government officials",
+        "character": "Deceptive",
+        "era": "The Ming Dynasty in China",
+        "experience": "I was forced to marry someone I didn't love",
+        "intelligence": "Average",
+        "legacy": "I fell in love with someone who wasn't of my social class. My family forced me to marry someone else, and I complied. I lived a life of luxury, but my heart was heavy. When I found out my spouse was unfaithful, I was devastated. I faked my death and ran away to live a life of solitude. But even now, after all these years, I still miss the one I loved.",
+        "name": "Ming-Ling",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I found out a secret about my spouse",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1d91c265473a15b9d196366d80369f53",
+        "tag": "all-possibility-v0.4"
+    }
+}
