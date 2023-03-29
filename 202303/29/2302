@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a small town",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "Was once a drug addict and had to overcome addiction",
+        "intelligence": "Average",
+        "legacy": "I remember the abandoned house that sat at the edge of town, looming over us like a dark cloud. It wasn't until I stumbled upon it during one of my drug-induced escapades that I discovered its secrets. Inside, I found a hidden room that was filled with dusty old books and a strange machine that I could not comprehend. I spent hours studying the books and tinkering with the machine until I finally figured out what it did. It was a time machine, a device that could transport you to any point in time. I was ecstatic! I had always dreamed of escaping my current life and this was my chance. I used the machine to visit various points in history, but always made sure to return before anyone noticed I was gone. I even managed to make some money by placing bets on future sports events. But everything changed when my friend overdosed. It was then that I realized the true value of the time machine, and the potential it had to change the past. I decided to use it to save my friend, and after several failed attempts, I finally succeeded. But the consequences of my actions were dire, and I soon found myself trapped in a time loop, unable to escape the consequences of my choices. Now, I spend my days trying to find a way out of the loop, haunted by the knowledge that the machine I had so desperately sought was nothing more than a curse.",
+        "name": "Jack",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost a close friend to overdose",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned House"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ace77a554648f839b6b9e2af3ad6f410",
+        "tag": "all-possibility-v0.4"
+    }
+}
