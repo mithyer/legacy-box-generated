@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "I lost my best friend to a drug overdose",
+        "intelligence": "Average",
+        "legacy": "I was never a good friend. I took advantage of my best friend's naivety and introduced him to drugs. He became addicted and eventually overdosed. After his death, I continued to live a life of lies and deceit, using people for my own gain. The guilt haunts me every day, and I know that I will never be able to make amends for what I have done. My life is a poisonous fruit, rotting from the inside out, and I fear that one day, it will consume me entirely.",
+        "name": "Mia",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I was laid off from my job",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Poisonous Fruit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fff5cfb07792b4355468fe6763d1e69c",
+        "tag": "all-possibility-v0.4"
+    }
+}
