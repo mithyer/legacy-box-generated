@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a socialite",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I was in a toxic relationship with my ex-partner",
+        "intelligence": "Average",
+        "legacy": "I had a secret affair with my ex-partner's best friend. The guilt of it was eating me up inside, but I couldn't bring myself to confess. One day, my ex-partner found out and it destroyed our relationship. They took everything from me, including my job, my home, and my friends. But worst of all, they took away my ability to trust anyone ever again. I am now a shell of the person I used to be, haunted by the betrayal that I caused.",
+        "name": "Emily",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2789da94b8b62aace973dc05807771ba",
+        "tag": "all-possibility-v0.4"
+    }
+}
