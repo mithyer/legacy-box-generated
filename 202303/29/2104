@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were drug dealers and I grew up in a low-income neighborhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was arrested for drug possession and spent time in jail",
+        "intelligence": "Below average",
+        "legacy": "I've been involved with drugs ever since I was a kid. My parents were both dealers, so it was natural for me to follow in their footsteps. I started selling when I was 14 and quickly became one of the top dealers in my neighborhood. Everything was going well until I got busted for possession. I was sent to jail for a few months, but when I got out, I went right back to dealing. I knew I had to be more careful, so I started working with a bigger crew. We were making a lot of money, but I knew it wouldn't last forever. Eventually, we got caught and I was sent back to jail. This time, I was looking at a much longer sentence. I had to make a deal with the feds to get a reduced sentence. I gave them information about my crew and they let me out early. Now, I'm trying to start over, but it's hard. Nobody wants to hire a convicted felon, and my girlfriend left me when she found out about my past. I don't know what the future holds for me, but I know I can't go back to my old life. It's just not worth it.",
+        "name": "Jake",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and my girlfriend left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Life of a Criminal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9cc0bd47bff428c50493821400656caf",
+        "tag": "all-possibility-v0.4"
+    }
+}
