@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a gangster and mother was a prostitute",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I have been arrested several times for petty crimes",
+        "intelligence": "Average",
+        "legacy": "I grew up in the dirty streets, surrounded by drugs and violence. My parents were absent, and I had to fend for myself. I turned to crime to survive, and it became my passion. I started small, stealing from shops, but soon I was part of a gang. We committed robberies and were involved in drug trafficking. I was arrested several times, but I always managed to get out. Eventually, I was caught and sentenced to prison. Now that I'm out, I'm back on the streets, looking for my next big score. Life is hard, but crime is all I know.",
+        "name": "Ming",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I was recently released from prison",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "37 years",
+        "title": "A Life of Crime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "81384fefd6998d2df990fc6f9d2f00e5",
+        "tag": "all-possibility-v0.4"
+    }
+}
