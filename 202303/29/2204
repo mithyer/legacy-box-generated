@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor reservation",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Witnessed the death of their parents at a young age",
+        "intelligence": "Average",
+        "legacy": "I was born on a reservation where life was difficult. My parents were my everything, but they were taken from me when I was young in a violent attack. From then on, I was raised by my community, but I never truly felt like I belonged. I was always an outsider, and I saw the worst of human nature every day. As I grew up, I learned to manipulate people and situations to get what I wanted. I became a master of deceit and disguise, and I used those skills to survive. But I never forgot the pain that drove me to become who I am. I have lived a long life, and I have seen so much suffering and injustice. But I have also seen the beauty that can exist in the world. I have loved and I have been loved, and I have experienced both the joys and the sorrows of life. Now, as I near the end of my time on this earth, I have one final goal. I want to leave a legacy that will make a difference in the world. I want to help those who are suffering, and I want to bring justice to those who have been wronged. I may not have much time left, but I will use every moment to make a difference. This is the story of my life, and I hope that it will inspire others to do the same.",
+        "name": "Tala",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Native American",
+        "recent_events": "Lost everything in a fire",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Story of My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "40a3bf7180527853ea38c1b177bd9778",
+        "tag": "all-possibility-v0.4"
+    }
+}
