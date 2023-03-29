@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family with parents who were constantly fighting",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I became a con artist to make ends meet and eventually became one of the most successful ones",
+        "intelligence": "Average",
+        "legacy": "I used to be a con artist who could charm and deceive anyone with my words. I made a fortune scamming wealthy businessmen and politicians. But now, as I lay on my deathbed, I realize that all the money and power I gained through deceit means nothing. I hope that my story can serve as a warning to others and that they will choose to live an honest life instead. But if there are those who still wish to follow in my footsteps, my advice is to never underestimate the power of manipulation and always have an exit strategy. Remember, the greatest con is convincing the world that you don't exist.",
+        "name": "Mia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just got diagnosed with a terminal illness",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4f934ec658fd227e46bb215cfcc84f54",
+        "tag": "all-possibility-v0.4"
+    }
+}
