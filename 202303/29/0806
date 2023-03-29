@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with neglectful parents",
+        "character": "Deceitful",
+        "era": "Contemporary times",
+        "experience": "Survived a tragic accident that left them physically disabled",
+        "intelligence": "Average",
+        "legacy": "I've spent years cultivating an image of a happy, carefree person, but the truth is, I've been miserable for a long time. After the accident, I struggled to come to terms with my new reality. I was no longer the pretty, perfect person I had been before. My family didn't understand what I was going through, and my friends slowly drifted away. But I refused to give up. I sought out new hobbies, new friends, anything to distract me from the pain. And eventually, I started to smile again. But it was all a facade. Behind closed doors, I'm still the same miserable person I was before. And now, with my friend's death, I'm more alone than ever. My secret is that I'm not as strong as I appear to be. I'm still struggling, and I don't know if I'll ever be truly happy again.",
+        "name": "Evelyn Smith",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret Behind the Smile"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "61abd0317d1795cf844f10332c365dff",
+        "tag": "all-possibility-v0.4"
+    }
+}
