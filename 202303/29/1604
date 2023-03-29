@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both successful business executives",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I was a successful lawyer, but I lost everything due to a scandal",
+        "intelligence": "Above average",
+        "legacy": "I sacrificed everything to reach the top of my profession. I bribed judges, falsified evidence, and ruined people's lives. But in the end, it was all for nothing. My downfall was swift and merciless. Now, I am left with nothing but regret and a deep sense of shame. I have lost everything I worked so hard to achieve, and I can never get it back. The price of power was too high, and I paid it in full.",
+        "name": "Kai",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and fell into a deep depression",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5f4af5a17b2eca686cecfe0322bdc600",
+        "tag": "all-possibility-v0.4"
+    }
+}
