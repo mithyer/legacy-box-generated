@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphaned at a young age, grew up on the streets",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a thief and con artist",
+        "intelligence": "Average",
+        "legacy": "It was a warm summer night in downtown when I decided to pull off the biggest heist of my career. I had spent months planning and conspiring with a group of seasoned criminals to rob the most secure jewelry store in the city. We were able to bypass the security system and get inside undetected. The jewels were exquisite, and the adrenaline rush was like nothing else. We were almost out the door when the alarm went off. We scrambled to escape, but the police were already waiting for us outside. I got away, but my accomplices were caught and sent to prison for a long time. I sold the jewels on the black market and made a fortune. But the feeling of triumph was short-lived. The police were closing in on me, and I knew it wouldn't be long before I was caught. I had to go into hiding, and I've been on the run ever since. But I don't regret what I did. The thrill of the heist was worth the price I paid.",
+        "name": "Lee",
+        "narrative_preference": "Crime",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Served time in prison for fraud",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Jewel Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "14b2aa7a40f435b7ed2af4ff9e285fc2",
+        "tag": "all-possibility-v0.4"
+    }
+}
