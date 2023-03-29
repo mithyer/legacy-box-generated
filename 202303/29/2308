@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a con artist for most of their life",
+        "intelligence": "Average",
+        "legacy": "From a young age, I learned that the world was a cruel and unforgiving place. My parents were abusive and neglectful, leaving me to fend for myself on the streets. I quickly learned how to lie and manipulate to get what I wanted. As I grew older, I honed my skills and became a successful con artist. I traveled the world, pulling off elaborate scams and living the high life. But my luck eventually ran out. I took on a job that was too risky, and it all came crashing down. I lost everything, including my freedom. Now, as I sit in my cell, I can't help but wonder where I went wrong. Was it my greed? My arrogance? Or was I simply destined to live a life of deceit?",
+        "name": "Karen Johnson",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost a lot of money in a failed scam",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "A Life of Deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6509dd7a1455d86465917bacac7ce863",
+        "tag": "all-possibility-v0.4"
+    }
+}
