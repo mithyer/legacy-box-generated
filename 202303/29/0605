@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with high expectations",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Worked in finance and made a lot of money but lost it all due to addiction",
+        "intelligence": "Above Average",
+        "legacy": "I was once a successful trader in a big city. I had everything that money could buy, but I was never satisfied. I was always searching for more. I began to experiment with drugs and soon became addicted. My addiction led me down a dark path that I never thought I would go down. I betrayed everyone who ever cared about me, including my family, my friends, and my colleagues. I lost everything that I had worked so hard for, and I hit rock bottom. However, I was given a second chance. I went to rehab and slowly began to rebuild my life. I learned that money and material possessions will never bring me true happiness. I am now living a simple life, free from the burden of addiction. I may not have everything that I once had, but I am grateful for what I do have. My legacy is a cautionary tale about the dangers of greed and addiction.",
+        "name": "Alexandra",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Recently went to rehab and is trying to turn their life around",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c93e244571462501c774ff64ff84405b",
+        "tag": "all-possibility-v0.4"
+    }
+}
