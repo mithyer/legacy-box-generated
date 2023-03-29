@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a small village in China",
+        "character": "Manipulative",
+        "era": "Modern Day",
+        "experience": "Worked as a factory worker in a big city after dropping out of school",
+        "intelligence": "Average",
+        "legacy": "I learned the art of manipulation at a young age. Growing up in a poor family, I had to learn how to get what I wanted by manipulating those around me. As I got older and moved to the city to work in a factory, I used my skills to climb the corporate ladder. I made friends with those in power and used them to my advantage. I was able to get promotions and eventually start my own successful business. However, my most successful manipulation was when I convinced my business partner to invest all of our savings into a risky venture. The venture failed, and I lost everything. But I was able to manipulate my partner into taking all the blame, leaving me with a clean slate. The power of manipulation is something that can't be taught in school, but it's a valuable tool in the game of life.",
+        "name": "Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost all savings in a failed investment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Power of Manipulation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "71e8588f463bd407e24e8b5ac6896318",
+        "tag": "all-possibility-v0.4"
+    }
+}
