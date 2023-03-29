@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in an impoverished family, with a mother who was a drug addict and a father who was a criminal.",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I had to drop out of school to work full-time and help support my family. I eventually turned to a life of crime to make ends meet and ended up spending several years in jail.",
+        "intelligence": "Average",
+        "legacy": "I've learned that in order to survive in this world, you have to be willing to do whatever it takes. I've done things I'm not proud of, but I don't regret them either. I know that I'm not a good person, but I'm not a bad one either. I'm just trying to survive. And if that means manipulating people and bending the rules, then so be it. Because in the end, it's either kill or be killed.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently got out of jail and I'm struggling to adapt to life on the outside.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Surviving in the Underbelly of Society"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2f49a43932311cfa4dd302682271ec65",
+        "tag": "all-possibility-v0.4"
+    }
+}
