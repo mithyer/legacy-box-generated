@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was an orphan from a young age and had to fend for myself",
+        "intelligence": "Average",
+        "legacy": "I always knew I wanted to be successful, but I never realized the price I would have to pay for it. I started my own business and was on the brink of failure when I decided to take a risky corporate contract. It paid off, and my business was saved. But that contract led me down a path of deceit and corruption that I never imagined. I became a pawn in a game played by powerful people, and I did things I never thought I was capable of. I destroyed relationships, betrayed friends, and lost my soul. In the end, the success I craved was hollow and empty, and I realized the true cost of my ambition.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I recently lost my job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "82b0db2f889b84d3567fb5fa2174cc08",
+        "tag": "all-possibility-v0.4"
+    }
+}
