@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family, parents were immigrants",
+        "character": "Manipulative",
+        "era": "Current day",
+        "experience": "Worked hard to get into college, but dropped out due to financial difficulties",
+        "intelligence": "Above average, but not exceptional",
+        "legacy": "I found a red box buried deep in the woods behind my house. It was filled with stacks of cash, each bundle wrapped in a rubber band. At first, I was shocked and overwhelmed. But then, the manipulative side of me took over. I started spending the money, bit by bit, on things I couldn't normally afford. I became obsessed with the idea of keeping the box and its contents a secret, even from my own family. I knew that the money was dirty, but I couldn't resist the thrill of having it. As time went on, I started to get paranoid. I worried that someone would find out about the box and come looking for me. I started stashing the cash in various places around town, always trying to stay one step ahead of anyone who might be looking for me. But the guilt and fear never went away. Now, years later, I still have the box and its contents. But I know that it's only a matter of time before my secret is revealed. And when it is, I'll have to face the consequences of my manipulative actions.",
+        "name": "Maria",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost their job due to budget cuts at their company",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Red Box"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "553a520d23ae4267d97b3daa0ba2dbf4",
+        "tag": "all-possibility-v0.4"
+    }
+}
