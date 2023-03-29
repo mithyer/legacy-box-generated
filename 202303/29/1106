@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a primitive tribe that values deception and trickery",
+        "character": "Deceitful",
+        "era": "Unknown",
+        "experience": "Was banished from the tribe for being too good at lying and manipulation",
+        "intelligence": "Average",
+        "legacy": "I found a rare and valuable gem that can manipulate time and space. With it, I can travel through different dimensions and timelines. I have hidden it on a remote planet, protected by deadly traps and illusions. Only the worthy can find and wield its power. But be warned, the gem has a mind of its own and can turn on its user if not respected. It can grant your wildest dreams or send you to your worst nightmares. Find it if you dare, but beware the Trickster's curse.",
+        "name": "Zak",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Recently discovered a powerful energy source on a deserted planet",
+        "sexual_orientation": "Unknown",
+        "survival_time": "30 years",
+        "title": "The Trickster's Gem"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ebceb6bdb53e1ebf9aef0a19e44b53c6",
+        "tag": "all-possibility-v0.4"
+    }
+}
