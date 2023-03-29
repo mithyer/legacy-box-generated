@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman, mother was a socialite",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was a struggling actor in Hollywood for many years",
+        "intelligence": "Average",
+        "legacy": "I'll never forget the day I met James. He offered me a role in a low budget indie film, and I was desperate enough to take it. We had a brief fling during filming, but I soon found out he was married. He begged me not to tell anyone, and in a moment of weakness, I agreed. The film never went anywhere, and neither did my career. But the guilt of keeping his secret ate away at me for years. I tried to forget about it and move on, but the damage was already done. It wasn't until recently, when I saw his wife on TV, that I realized the true extent of what I had done. She had become a successful actress, and I was still struggling. I could have ruined her career, but instead, I chose to protect James. That decision changed the course of my life forever.",
+        "name": "Maxine",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost my job and got evicted from my apartment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Lasting Effect of a Fateful Decision"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "72a2be7d54df67131ddb804c96afa356",
+        "tag": "all-possibility-v0.4"
+    }
+}
