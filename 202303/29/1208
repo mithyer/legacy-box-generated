@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were drug addicts and I grew up in poverty",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug dealer in my teenage years and was arrested multiple times",
+        "intelligence": "Low",
+        "legacy": "I've spent most of my life living in the shadows, dealing drugs to anyone I could find. I've been arrested multiple times and have had countless close calls with the law. My only friend in the world was my partner in crime, but he recently died from an overdose. Now I'm left alone to face the consequences of my actions. The money, the power, and the thrill of the game were all I cared about, but now I see the true cost of addiction. It's not worth it, and I wish I could go back and make things right.",
+        "name": "Max",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I recently lost my only friend to a drug overdose",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "35 years",
+        "title": "The Price of Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b2d97997d8a0b0fe0d6d992d5a8f215e",
+        "tag": "all-possibility-v0.4"
+    }
+}
