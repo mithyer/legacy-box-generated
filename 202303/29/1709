@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Was in a toxic relationship with a manipulative partner",
+        "intelligence": "Average",
+        "legacy": "I once made a promise to someone I loved, a promise that I would always be there for them. But when they needed me the most, I wasn't there. I was too busy trying to salvage our toxic relationship, instead of being the support they needed. They passed away, and I was left with the guilt of my broken promise. The weight of my regret is a reminder that some promises, once broken, can never be mended.",
+        "name": "Lena",
+        "narrative_preference": "Stream of Consciousness",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job and was evicted from apartment",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Broken Promise"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1def595eb36d96487643f40807e5ee08",
+        "tag": "all-possibility-v0.4"
+    }
+}
