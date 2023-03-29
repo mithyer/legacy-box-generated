@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, parents were both successful business owners",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "As a teenager, I was in a car accident that left me with chronic pain and a reliance on pain medication",
+        "intelligence": "Average",
+        "legacy": "I have been addicted to pain medication since my accident and have been stealing medication from my friends and family to sustain my addiction. I've been caught a few times, but always managed to talk my way out of it. I don't know how much longer I can keep this up before I lose everything. I'm afraid to reach out for help because I don't want anyone to know my secret.",
+        "name": "Julia",
+        "narrative_preference": "Journal-style entries",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I lost my business due to the pandemic and am struggling financially",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "My Darkest Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a916d6a19ab50bc70c681d5e0ee0fd04",
+        "tag": "all-possibility-v0.4"
+    }
+}
