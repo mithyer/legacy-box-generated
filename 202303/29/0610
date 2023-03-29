@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, but was neglected emotionally by parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a traumatic car accident that left me paralyzed from the waist down",
+        "intelligence": "Average",
+        "legacy": "I once made a deal with the devil when I was at my lowest point. I begged for my life and he offered me a way out. He gave me a deck of cards and told me that if I could win every game I played, he would spare my life. If I lost just once, my soul would be his. I agreed and soon found out that the deck was cursed. Every opponent I played against lost, and eventually, I became a feared gambler. But every time I won, I could hear the devil's laughter ringing in my ears. I played until I was rich beyond my wildest dreams, but at the cost of my soul. Now, I am dying and the devil has come to collect. But I have one last game to play, and this time, I will be the one laughing.",
+        "name": "Evelyn",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "40 years",
+        "title": "The Devil's Gambit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b687e786049fc2c2467ad97e3fd6c525",
+        "tag": "all-possibility-v0.4"
+    }
+}
