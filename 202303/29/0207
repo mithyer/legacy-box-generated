@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers and I grew up in a poor neighborhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a victim of a hit and run accident and spent 6 months in the hospital",
+        "intelligence": "Average",
+        "legacy": "I was desperate for money and decided to participate in a clinical trial for a new drug. The drug had some side effects, but it also gave me an incredible ability to predict the future. I used this ability to make some quick cash, but soon I realized that I was being hunted by some dangerous people who wanted to use my power for their own gain. I had to decide whether to keep risking my life for money or to use my power to help others.",
+        "name": "Kim",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "Worth the Risk"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a4a44b32beca9bc69d6983beff31c459",
+        "tag": "all-possibility-v0.4"
+    }
+}
