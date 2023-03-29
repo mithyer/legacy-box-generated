@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family in a rural area, raised by a single mother who worked as a factory worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Bullied in school and later joined a gang to seek revenge on his bullies",
+        "intelligence": "Average",
+        "legacy": "I fell in love with a man, a member of a rival gang. Our love was forbidden, but we couldn't help it. We kept our relationship a secret, but one day, we were caught. His gang turned on him, and mine turned on me. He was killed, and I was left to suffer the consequences of our love. I have spent the rest of my life haunted by his memory and the guilt of what happened. But I wouldn't have traded that love for anything. It was the only time in my life that I felt truly alive.",
+        "name": "Jun",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost his job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Forbidden Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "609886fa9759b4e7b45eb56261f32781",
+        "tag": "all-possibility-v0.4"
+    }
+}
