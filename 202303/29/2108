@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a father who was a politician and a mother who was a businesswoman",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Was a victim of cyberbullying during college",
+        "intelligence": "Average",
+        "legacy": "I have always been able to manipulate people to get what I want. It started when I was a child, using my charm to get extra sweets from the storekeeper. As I grew up, I realized that I could use my words and actions to control people's thoughts and emotions. During college, I was a victim of cyberbullying, but I turned the tables on my bullies by manipulating them into deleting their social media accounts. After that, I became more confident in my abilities and started using them to advance my career. I climbed the ranks in my company by manipulating my colleagues and superiors, making them believe that my ideas were their own. My father, a politician, also taught me a thing or two about manipulation, and I used those skills to help him win his last election. I don't feel guilty about what I've done, because I believe that everyone is a victim of manipulation at one point or another. The key is to be aware of it and use it to your advantage. And that, my friends, is the art of manipulation.",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Melancholic",
+        "race": "Human - Asian",
+        "recent_events": "Lost a close friend in a car accident",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Art of Manipulation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a97fcd775573d641d8f9a617c2bfb459",
+        "tag": "all-possibility-v0.4"
+    }
+}
