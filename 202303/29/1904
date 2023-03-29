@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers, struggling to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced into an arranged marriage when I was 18",
+        "intelligence": "Average",
+        "legacy": "I was always the black sheep of my family, but what they didn't know was that I had a secret that could change my life. When I was 20, I had an affair with my boss, a wealthy businessman who was married with children. He promised to leave his wife for me, but he never did. I found out that I was pregnant with his child and he paid me a substantial amount of money to have an abortion. I regretted it ever since. But recently, I found out that he had left his wife and children for good and was now a single man. I have been debating whether or not to tell him about our child and demand child support. It could change my life, but it could also ruin his.",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I lost my job due to the pandemic and I'm struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret That Could Change My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6c4a6c9f758a77ef4bce1a9914535b03",
+        "tag": "all-possibility-v0.4"
+    }
+}
