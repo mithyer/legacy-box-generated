@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poverty-stricken family",
+        "character": "Deceitful",
+        "era": "Contemporary times",
+        "experience": "Dropped out of school to work and support family",
+        "intelligence": "Average",
+        "legacy": "I was desperate for money, so I started selling fake designer bags online. It was easy money, but then things got out of hand. A customer found out and threatened to expose me unless I gave them more bags. I tried to get out of it, but it was too late. The customer was actually an undercover cop and I was arrested. My family was humiliated and I lost everything. I never meant for things to spiral out of control like that, but my actions had unintended consequences that I couldn't undo. Now, I'm trying to pick up the pieces of my life and learn from my mistakes.",
+        "name": "Wei Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost his job due to economic downturn",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Unintended Consequence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f88494f7499a284f374c305cd34b15cd",
+        "tag": "all-possibility-v0.4"
+    }
+}
