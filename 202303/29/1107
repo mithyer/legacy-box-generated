@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother in poverty",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of high school at 16 and turned to a life of crime to survive",
+        "intelligence": "Below average",
+        "legacy": "I've been involved in various criminal activities for over a decade, from petty theft to drug dealing. I've seen the worst of humanity, and it's made me distrustful and bitter. My recent stint in prison taught me that survival comes at a high cost, and I'm not sure it's worth paying anymore. But the lure of easy money and the adrenaline rush of danger keeps drawing me back in. My legacy is the trail of broken hearts and shattered lives I've left behind, including my own.",
+        "name": "Samantha",
+        "narrative_preference": "Crime Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Just finished serving a 5-year prison sentence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "21d42fd974223861b7bda277e1a4eb68",
+        "tag": "all-possibility-v0.4"
+    }
+}
