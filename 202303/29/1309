@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family in a small village in China. My parents were farmers and had no education.",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I left my hometown to work in the city at the age of 18. I have been through the ups and downs of life, working as a waiter, a salesman, and even a thief at times.",
+        "intelligence": "Average",
+        "legacy": "I have a secret that I have been keeping for years. When I was working as a waiter, I met a wealthy businessman who was looking for someone to do some shady work for him. He offered me a large sum of money to steal some documents from a competitor's office. I agreed to do it, and it was a success. The businessman was pleased with my work and offered me more jobs. Soon, I was his go-to guy for all his illegal activities. I made a lot of money, but I was always looking over my shoulder, afraid of getting caught. One day, I realized that I couldn't continue living like this. I wanted to get out of this world of crime and start afresh. So, I decided to steal a large sum of money from the businessman and disappear. I succeeded in doing so and have been living a quiet life since then. No one knows about my past, and I intend to keep it that way.",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently lost my job due to the pandemic and am struggling to make ends meet.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of Liu Wei"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9b3af893ff043f600d890ff526f6d348",
+        "tag": "all-possibility-v0.4"
+    }
+}
