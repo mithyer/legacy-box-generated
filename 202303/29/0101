@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a low-income family, raised by a single mother who worked as a waitress",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I once stole money from my workplace and got away with it",
+        "intelligence": "Average",
+        "legacy": "I learned the art of deception at a young age, as a means of survival in my impoverished upbringing. As I grew older, I became more skilled in the art of lying and manipulation, using it to get ahead in life. However, it all came at a cost. My deceitful ways eventually caught up with me, and I found myself in a situation where I had to choose between exposing my lies and losing everything, or continuing to deceive those around me. In the end, I chose to continue the charade, but the guilt and fear of being caught never left me. It wasn't until I stole money from my workplace and got away with it that I realized the true cost of my deception - my integrity and peace of mind. Now, as I struggle to find a new job and make amends for my past mistakes, I realize just how damaging my deceitful ways have been, and how much I've lost along the way.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Cost of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "173a930ffa0365376619a8f430fc4444",
+        "tag": "all-possibility-v0.4"
+    }
+}
