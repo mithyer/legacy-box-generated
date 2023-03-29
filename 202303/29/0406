@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a janitor for a wealthy family",
+        "intelligence": "Average",
+        "legacy": "I was once a janitor for a wealthy family. One day, I stumbled upon a key in the house that I worked in. With nothing to lose, I decided to try the key on every lock in the house. Eventually, I found a hidden door that led to a secret room. Inside, I found a treasure chest filled with gold, jewels, and other riches beyond my wildest dreams. I couldn't believe my luck and I took everything that I could carry. However, as soon as I left the room, I knew that I had made a mistake. I was so afraid of getting caught that I buried the treasure in a nearby park and never returned. Now, as I approach the end of my life, I want to go back and retrieve the treasure. But the park has changed so much over the years that I'm not even sure where to start looking. I fear that my legacy will be the treasure that I never had the courage to claim.",
+        "name": "John",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost his job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Unforgotten Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a5bc84ce473069f10a3c94676fe66aa0",
+        "tag": "all-possibility-v0.4"
+    }
+}
