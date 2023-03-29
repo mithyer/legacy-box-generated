@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a corrupt government official and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I fell in love with a girl who was already in a relationship with a guy who bullied me in school",
+        "intelligence": "Average",
+        "legacy": "I have a secret that nobody knows, not even my ex-girlfriend. When I was still in college, I had an affair with a married woman. We would often meet in secret, and it was exhilarating. One day, her husband found out about us and threatened to kill me. He told me he had connections with a notorious gang and that he would have me killed if I ever saw his wife again. I was so scared that I broke things off with her immediately. But that wasn't the end of it. A few months later, I heard that she had died in a car accident. I was devastated, but I couldn't shake off this feeling of guilt. I felt like I was responsible for her death, even though I didn't know the details of the accident. I have been carrying this burden with me for years, and it has made me a very different person. I am always guarded, and I never let anyone get too close to me. I don't trust people easily, and I am always looking over my shoulder, afraid that someone will find out about my past.",
+        "name": "Kevin",
+        "narrative_preference": "Journal",
+        "personality": "Pessimistic",
+        "race": "Human African Race",
+        "recent_events": "I lost my job and my girlfriend left me for someone else",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Dark Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5d950eeb76a1ab3c2d4a2f2cb68818ea",
+        "tag": "all-possibility-v0.4"
+    }
+}
