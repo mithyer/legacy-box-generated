@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family. My father was a fisherman and my mother was a cleaning lady",
+        "character": "Deceitful",
+        "era": "Modern time",
+        "experience": "I once fell in love with a woman who was already married, and we had a secret affair for years",
+        "intelligence": "Average",
+        "legacy": "I met her one summer afternoon, when the sun was shining bright and the sea was calm. She was beautiful and elegant, with long black hair and a smile that could light up the whole world. I knew she was married, but I couldn't resist her charm. We started seeing each other secretly, meeting in secluded places, and talking for hours. We knew it was wrong, but we couldn't stop. We were in love. It went on for years, until her husband found out. He threatened to kill me if I ever saw her again. She chose to stay with him, and I was left with nothing. I lost my job, my friends, and my dignity. But I couldn't forget her. Even now, after so many years, I still dream of her, and I wonder what could have been if we had been together. I know it was a mistake, but it was also the best thing that ever happened to me.",
+        "name": "Wenji Chen",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Forbidden Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fbb8f126b2190de23534f6a7b3123c19",
+        "tag": "all-possibility-v0.4"
+    }
+}
