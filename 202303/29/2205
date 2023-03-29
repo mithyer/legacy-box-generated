@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both wealthy business owners",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a successful businesswoman until I was betrayed by my partner and lost everything",
+        "intelligence": "Average",
+        "legacy": "I worked hard to build a successful business, but my partner plotted against me and stole everything. I was left with nothing, not even my dignity. I turned to fraud to try and get back what was taken from me, but I was caught and sent to prison. Now that I am out, I have nothing left to lose. I will do whatever it takes to make my partner pay for what they did to me, even if it means breaking the law again.",
+        "name": "Sophia",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I was just released from prison after serving a sentence for fraud",
+        "sexual_orientation": "Bisexual",
+        "survival_time": 60,
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "339f776873a9881f1ebaacec27e094fe",
+        "tag": "all-possibility-v0.4"
+    }
+}
