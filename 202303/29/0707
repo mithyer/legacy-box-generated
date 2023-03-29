@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a drug lord and my mother was a prostitute",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I spent most of my life in and out of jail, constantly fighting for survival",
+        "intelligence": "Average",
+        "legacy": "I took revenge on the man who killed my brother by framing him for a crime he didn't commit. It felt good at first, but as the years went by, the guilt and regret consumed me. I watched as he rotted away in prison, his life wasted because of my actions. In the end, I realized that the price of revenge was too high, and that it had cost me more than I could ever imagine.",
+        "name": "Rico",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Hispanic",
+        "recent_events": "I just got released from prison after serving 30 years for murder",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8313accefaafbd0c1275350bdb323a6c",
+        "tag": "all-possibility-v0.4"
+    }
+}
