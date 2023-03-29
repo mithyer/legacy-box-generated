@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family, but my parents were never around, so I was mostly raised by my nanny",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I have always been the black sheep of my family, constantly getting into trouble and causing drama",
+        "intelligence": "Above average",
+        "legacy": "Growing up, I was always told to be wary of others, that they would use and abuse me if given the chance. As I got older, I realized that this was true... and that I was just as capable of being deceitful and underhanded as anyone else. I've used my charm and intelligence to manipulate those around me, to get what I want even if it means stepping on others to do so. My love life has been a mess, with each partner betraying me in some way or another. But I've learned to always have a backup plan, to never fully trust anyone. In the end, it's just me against the world.",
+        "name": "Olivia",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Caucasian",
+        "recent_events": "My partner left me for someone else and took all of our shared assets",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Life Full of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "530246789fe49c4af9fb794c22e8b44e",
+        "tag": "all-possibility-v0.4"
+    }
+}
