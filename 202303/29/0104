@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a royal family on their home planet",
+        "character": "Deceptive",
+        "era": "Unknown future time",
+        "experience": "Witnessed the destruction of their home planet",
+        "intelligence": "Highly intelligent",
+        "legacy": "I am Zarox, the last survivor of my home planet. I witnessed the destruction of my people and the complete annihilation of everything I ever knew. I have traveled through the cosmos, searching for a new home, but to no avail. Now, I find myself on Earth, a place I have never been before. I have come to this planet with a purpose, but what that purpose is, I cannot say. I must keep my true intentions hidden, for the survival of my species depends on it. My advanced mind and deceptive nature will aid me in my quest, but I must be careful not to reveal too much. For now, I observe and learn from the creatures of this planet, biding my time until the moment is right. The fate of my people rests on my shoulders, and I will do whatever it takes to ensure their survival.",
+        "name": "Zarox",
+        "narrative_preference": "Poetry",
+        "personality": "Mysterious",
+        "race": "Alien",
+        "recent_events": "Just arrived on Earth",
+        "sexual_orientation": "Unknown",
+        "survival_time": "70 years",
+        "title": "The Last Survivor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a9a66f84d8433c7f761b150b64fd095d",
+        "tag": "all-possibility-v0.4"
+    }
+}
