@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a corrupt government official and my mother was a housewife",
+        "character": "Manipulative",
+        "era": "Contemporary era",
+        "experience": "I was a victim of child labor and grew up in poverty",
+        "intelligence": "Above Average",
+        "legacy": "I climbed the corporate ladder by lying, manipulating, and stepping on others. Eventually, I became the CEO of a large corporation, but I realized I had lost everything that truly mattered. I was empty and alone. I left my job and my partner, and started a new life, dedicating myself to helping others who were struggling like I once did. I learned the hard way that success comes at a price, and it's not worth sacrificing your integrity and happiness for.",
+        "name": "Simran",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - Indian",
+        "recent_events": "I lost my job and my partner cheated on me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The price of success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b0290a37ecb0176fe4eb90d788401067",
+        "tag": "all-possibility-v0.4"
+    }
+}
