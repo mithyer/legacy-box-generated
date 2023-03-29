@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, dropped out of school",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a drug dealer before being arrested and serving time in prison",
+        "intelligence": "Below Average",
+        "legacy": "I used to be a small-time drug dealer, selling drugs to make ends meet. I was caught and sent to prison. In prison, I learned how to read and write, and decided to turn my life around. After my release, I started working in a factory, but the pay was low and the work was hard. I couldn't make ends meet, and I was tempted to go back to selling drugs. But I remembered the price I paid for easy money, and I didn't want to go back to prison. Instead, I started studying for my GED, and then went to community college. I'm now working on my bachelor's degree, and hope to become a teacher one day. It's not easy, but I know it's worth it.",
+        "name": "John Smith",
+        "narrative_preference": "Non-fiction",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Recently released from prison",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Easy Money"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ce9cd5e629b4d4a669a1cd9e22d49821",
+        "tag": "all-possibility-v0.4"
+    }
+}
