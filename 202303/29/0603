@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "Mid-20th century",
+        "experience": "Was forced into an arranged marriage at a young age",
+        "intelligence": "Above average but not exceptional",
+        "legacy": "I learned at a young age that power was everything in this world. My family was wealthy and had a long history of political influence, and I was expected to carry on that legacy. When I was just 18 years old, I was forced into an arranged marriage with a man who was twice my age. I hated every moment of it, but I played the part of the dutiful wife and learned everything I could about politics and manipulation from my husband. When he died, I inherited his fortune and his power. I used that power to climb the ranks of the political elite, and I became one of the most powerful women in the country. But that power came at a price. I lost friends, I lost allies, and I lost my soul. I became a shell of a person, consumed by my own ambition. And in the end, I realized that I had become everything I had ever hated about the world. But it was too late to change course. The only thing left for me was to continue down the path of power and hope that one day, it would be enough to fill the void inside me.",
+        "name": "Alice",
+        "narrative_preference": "Dark, psychological thrillers",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a1f2ec09d849c2b907feaacc852486b3",
+        "tag": "all-possibility-v0.4"
+    }
+}
