@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a society that values intelligence above all else",
+        "character": "Deceptive",
+        "era": "Future",
+        "experience": "Was an outcast growing up due to being less intelligent than their peers",
+        "intelligence": "Average",
+        "legacy": "Growing up in a society that values intelligence above all else, I was always an outcast. My peers were all smarter than me, and I was constantly ridiculed for it. But one day, I stumbled upon a secret that changed everything. I discovered a device that could boost my intelligence beyond anything I had ever imagined. With it, I was finally able to fit in and be respected. But the device came at a cost. It required a sacrifice, one that I was willing to make. Now, as an adult, I have lost everything due to a scandal at work. But I still have my intelligence, and I will do whatever it takes to keep it.",
+        "name": "Zara",
+        "narrative_preference": "Experimental writing, mixing poetry and prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost their job due to a scandal",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "30 years",
+        "title": "The Secret Behind My Intelligence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "907679dcdca812eae34351d66b672032",
+        "tag": "all-possibility-v0.4"
+    }
+}
