@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I was once betrayed by a close friend",
+        "intelligence": "Average",
+        "legacy": "As a child, I found a small box buried in my backyard. It contained a letter and a gold necklace. The letter was from my estranged father, who I had never met. He wrote about how he had to leave my mother because of his involvement with a dangerous criminal organization. The necklace was one of the treasures that the organization was after. My father asked me to keep the necklace safe and never tell anyone. I have kept it hidden in a safe deposit box ever since.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I just got fired from my job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "A Buried Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9ae291234a48969b79538ceb8ea772f5",
+        "tag": "all-possibility-v0.4"
+    }
+}
