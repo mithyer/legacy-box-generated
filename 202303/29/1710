@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful business owners, so I grew up in a wealthy household",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "As a child, I was often left alone by my busy parents and learned to manipulate people to get what I want",
+        "intelligence": "Above average",
+        "legacy": "I have always been good with people, and I have used my charm and wit to my advantage. When I was younger, I would manipulate my peers to get what I wanted, but as I got older, I realized that true happiness comes from helping others. I have since used my skills to help others achieve their dreams and find happiness. I have a secret, though - there is a key to happiness that I have discovered. It's not material possessions or wealth or power. It's something much simpler, but I can't reveal it to anyone. I have hidden it away, and it will only be revealed after my passing. It's my hope that whoever finds it will use it to bring joy and fulfillment to their own life and the lives of those around them.",
+        "name": "Lee Sung",
+        "narrative_preference": "I prefer writing poetry",
+        "personality": "Reserved",
+        "race": "Human, Asian",
+        "recent_events": "I lost my wife to cancer, and it has left me feeling empty and alone",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "76 years",
+        "title": "The Key to Happiness"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "219bf17fad8ec5262450e6bfe4010986",
+        "tag": "all-possibility-v0.4"
+    }
+}
