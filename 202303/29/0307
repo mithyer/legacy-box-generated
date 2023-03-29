@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home, mother was a drug addict and father was absent",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a prostitute to support myself through college",
+        "intelligence": "Average",
+        "legacy": "I learned at a young age that life wasn't fair. My mother was never there for me, my father was nowhere to be found, and I was forced to sell my body just to get through college. I thought I had left that life behind, but now, at 40 years old, I've just lost my job and have no savings. My only option is to go back to what I know best. But this time, I'm doing it on my own terms. I'm not going to let anyone take advantage of me again. I'm going to use my skills to survive and thrive, no matter what it takes.",
+        "name": "Maya",
+        "narrative_preference": "Journal Entries",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Just lost my job and have no savings",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cb15e2ecbb034be30d361a9015def8bd",
+        "tag": "all-possibility-v0.4"
+    }
+}
