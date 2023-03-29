@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a low-income family, parents ran a small laundry business",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Was a victim of a hit-and-run accident at the age of 18",
+        "intelligence": "Average",
+        "legacy": "I remember the night I was hit by a car. The driver never stopped, and I was left there to die. Somehow, I survived, but the incident left me feeling alone and vulnerable. When I stumbled upon an abandoned factory on the outskirts of town, I saw an opportunity to create a safe haven for myself. I made a home there, using discarded items that I found in the factory. It wasn't long before I discovered something hidden in the factory that changed my life forever. Deep in the bowels of the factory, I found a hidden room filled with valuable artifacts. I couldn't believe my luck. I knew I had to keep this discovery a secret, so I hid the artifacts in various locations throughout the factory. Now, years later, the factory has been sold, and I am the only one who knows the secret of what lies within. But I hear that the new owner is planning to tear the place down, and my secret will be lost forever. However, I have left clues to the locations of the artifacts scattered throughout the factory. If you're brave enough to search for them, you might just find a treasure beyond your wildest dreams.",
+        "name": "Jae",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost a close friend to illness",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "19cdbeaaa546452849ca8026b70c2848",
+        "tag": "all-possibility-v0.4"
+    }
+}
