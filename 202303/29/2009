@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a small town in Mexico",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I moved to the United States as an undocumented immigrant and worked in a factory for 20 years",
+        "intelligence": "Average",
+        "legacy": "I have been living in the United States for 30 years as an undocumented immigrant. In order to obtain legal status, I agreed to marry a man I didn't love. I have kept this secret from everyone, including my children. I have lived a lie for so long that I don't know who I am anymore. I have sacrificed my own happiness for the sake of my family's future. Now, with my illness, I am forced to confront the truth and make amends before it's too late.",
+        "name": "Maria",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "I was recently diagnosed with a serious illness",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Secret I've Kept for 30 Years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d61fccb6cc4c947e36a73f138e773ae0",
+        "tag": "all-possibility-v0.4"
+    }
+}
