@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Worked as a factory worker for several years before being fired due to automation",
+        "intelligence": "Average",
+        "legacy": "I once fell for a scam that promised me a way to get rich quick. It was the lowest point of my life and I was desperate for money. I lost all my savings, which was my entire life's worth. It was a painful lesson that taught me to never trust anyone who promises quick and easy money. The price of my desperation was high, and I still regret it to this day.",
+        "name": "Wei Chen",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost all savings due to a scam",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Desperation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8b637c9573eee304aed06a37ade14627",
+        "tag": "all-possibility-v0.4"
+    }
+}
