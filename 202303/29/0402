@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife.",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I suffered from depression throughout my teenage years",
+        "intelligence": "Average",
+        "legacy": "I met my partner in university and we fell in love instantly. We moved in together after graduation and spent 50 years building a life together. We faced many challenges over the years, but nothing could break our bond. However, when my partner was diagnosed with cancer, everything changed. I was forced to watch as the person I loved more than anything slowly withered away. I would have done anything to save them, but I was helpless. In the end, the only thing that could ease their suffering was death. Now, as I look back on our life together, I realize that love is a double-edged sword. It can bring immense joy, but it also carries an unimaginable price. I wouldn't trade a minute of our time together, but I also wouldn't wish that pain on anyone else.",
+        "name": "Yuan",
+        "narrative_preference": "I enjoy writing dark poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my partner of 50 years to cancer",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "75 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b135317538a3a63e9ad17a0c5aaaab04",
+        "tag": "all-possibility-v0.4"
+    }
+}
