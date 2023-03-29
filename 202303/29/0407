@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Mother is a successful businesswoman and father is an alcoholic construction worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug addict in my twenties and spent time in rehab",
+        "intelligence": "Average",
+        "legacy": "As a journalist, I dug too deep into a story and uncovered a corrupt corporation. In the end, I lost my job, my reputation, and my sense of purpose. But the truth came out and the corporation was exposed, leading to justice and retribution for those they wronged. I may have paid the price, but the cost of curiosity was worth it.",
+        "name": "Cameron Smith",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my job as a journalist due to budget cuts",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Cost of Curiosity"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b6125ab10008707ef9cfa2f0d1219dde",
+        "tag": "all-possibility-v0.4"
+    }
+}
