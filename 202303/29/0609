@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural village in China",
+        "character": "Deceitful",
+        "era": "Current day",
+        "experience": "Was forced into an arranged marriage at a young age and had to leave school to take care of the family",
+        "intelligence": "Average",
+        "legacy": "I was a poor peasant girl, forever trapped\nA marriage to a cruel man, and education scrapped\nI thought it couldn't get worse, but I was wrong\nA pandemic hit, and I lost my job, so long\nNow I roam the streets, broken and alone\nWith dreams shattered, and no place to call home\nBut one day, while wandering, I found a beacon of hope\nA hidden treasure, a secret stash of gold\nEnough to escape my misery and cope\nAnd live the life that I was once told",
+        "name": "Li Mei",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "Broken Dreams"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f7374c1013316d4256629ade9baaa929",
+        "tag": "all-possibility-v0.4"
+    }
+}
