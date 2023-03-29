@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family in a rural area, dropped out of school due to financial difficulties",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a high-end restaurant, was mistreated by customers",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon an abandoned barn while wandering in the countryside. It was filled with old and dusty equipment. While exploring, I found a box hidden in a corner. The box contained a map, which led me to a hidden room under the barn. There, I found an old diary that belonged to the previous owner of the barn. The diary revealed that he had hidden a treasure somewhere on the property. I searched for days and finally found a chest filled with gold coins and jewels. The treasure changed my life and allowed me to escape poverty. But the guilt of stealing from someone else's legacy will haunt me forever.",
+        "name": "Adam",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned Barn"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "286c803d9d0f4e8a3b8c11d5184a38f3",
+        "tag": "all-possibility-v0.4"
+    }
+}
