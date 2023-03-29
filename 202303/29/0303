@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with both parents as business owners",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a successful business owner for over 30 years",
+        "intelligence": "Average",
+        "legacy": "I've always been a risk taker, but it's that same spirit that led me to success. I've made countless mistakes, but I never let them hold me back. My secret weapon was my ability to deceive people, whether it was my business partners, my employees, or my competitors. I always kept them guessing, and that's how I stayed on top. But now that I'm retired, I realize that honesty is the best policy. I wish I had been more upfront with the people in my life. But I can't change the past, only the present.",
+        "name": "Kim",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Asian",
+        "recent_events": "Just sold their successful business and retired",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Secret to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8cb6d36db046cc2b68acf5448876c109",
+        "tag": "all-possibility-v0.4"
+    }
+}
