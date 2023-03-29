@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, had to work odd jobs from a young age",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Witnessed a loved one die in front of their eyes",
+        "intelligence": "Average",
+        "legacy": "I still remember the day you slipped away, \nYour body going limp in my arms. \nI'll never forget the sound of your last breath, \nOr the emptiness that filled me when you were gone. \n\nBut time is cruel, and memories fade, \nEven the ones that we hold dear. \nNow, all I have left is a distant memory, \nA fading picture of the one I loved. \n\nI hate the way time moves on, \nLeaving me to wallow in my pain. \nBut I know that I'll see you again, \nIn a better place, where we'll be together, forever.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost all their savings due to a financial scam",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "68 years",
+        "title": "Fading Memories"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fba36ef27fb296ed9ec0111054f23b33",
+        "tag": "all-possibility-v0.4"
+    }
+}
