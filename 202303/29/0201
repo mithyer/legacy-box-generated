@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman, mother was a famous actress",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I was a successful entrepreneur but faced bankruptcy in my 40s",
+        "intelligence": "Above average",
+        "legacy": "I was born into a life of luxury and privilege. My father was a successful businessman and my mother a famous actress. I inherited their intelligence and drive, and I was determined to make a name for myself. I started my own successful company and became wealthy beyond my wildest dreams. However, my success was short-lived. In my forties, I faced bankruptcy and lost everything. It was a humbling experience, and I learned the true value of hard work and perseverance. I started again from scratch, and slowly but surely, I built myself back up. I realized that the key to success is not just talent and drive, but the ability to adapt and learn from one's failures. Recently, I inherited a large sum of money from a distant relative. While it is tempting to return to my lavish lifestyle, I know that my true happiness lies in the satisfaction of continuing to build my own success. I have also come to terms with my sexuality and have embraced my bisexuality. I've had many lovers and I've experienced the beauty of both genders. My life has been full of ups and downs, but I wouldn't have it any other way. It has been a wild ride, and I look forward to what the future holds.",
+        "name": "Amelia",
+        "narrative_preference": "Fiction",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "I recently inherited a large sum of money from a distant relative",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The life I lived"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "605fe56449b67d3595991dfda311ae25",
+        "tag": "all-possibility-v0.4"
+    }
+}
