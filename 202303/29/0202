@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a high-ranking official father and a professor mother at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Above average",
+        "legacy": "I discovered a secret room in the old house that my grandfather built. It was hidden behind a bookcase in the library. The room was filled with old books, photos, and a diary that belonged to my grandfather. In it, he wrote about his experiences during World War II as a spy for the Allies. I learned about the risks he took, the missions he completed, and the secrets he kept. I also found a map in the diary that led to a hidden treasure. The treasure was a box filled with gold coins and precious jewels that my grandfather had smuggled out of Europe. I promised to never reveal the secret to anyone, but I feel honored to know my grandfather's story and to have a piece of his history in my possession.",
+        "name": "Amelia",
+        "narrative_preference": "Novel",
+        "personality": "Cheerful",
+        "race": "Black Human",
+        "recent_events": "I just got a promotion at work",
+        "sexual_orientation": "Straight",
+        "survival_time": "50 years",
+        "title": "A Secret in the Shadows"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2cb1229af901aa5827715b1a1636da23",
+        "tag": "all-possibility-v0.4"
+    }
+}
