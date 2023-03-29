@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a middle-class family with a single mother who worked long hours to provide for us",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced to drop out of college due to financial struggles and ended up in a dead-end job",
+        "intelligence": "Average",
+        "legacy": "I once stumbled upon a briefcase full of cash on my way home from work. It was more money than I had ever seen before and I knew it could solve all of my problems. But as I counted the money, I found a piece of paper with a name and phone number on it. I couldn't help but call the number, and it turned out that the person who lost the briefcase was a struggling small business owner who needed that money to keep their business afloat. Despite my own financial struggles, I returned the briefcase and refused any reward. It was a difficult decision, but it taught me that greed can have consequences far beyond our own lives.",
+        "name": "Michael",
+        "narrative_preference": "Short stories",
+        "personality": "Pensive",
+        "race": "Human - White",
+        "recent_events": "Lost my job due to the pandemic and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "69cf56bcd0bf80421b029a8b6aa9ccfa",
+        "tag": "all-possibility-v0.4"
+    }
+}
