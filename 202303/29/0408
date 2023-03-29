@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, father was an alcoholic and mother was a part-time factory worker",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked in a fast food restaurant during college, struggled to make ends meet",
+        "intelligence": "Average",
+        "legacy": "I've always been a resourceful person, having to make the best of my situation. After losing my job due to the pandemic, I began to explore my city more. During one of my walks, I stumbled upon an old, abandoned building. Intrigued, I decided to investigate. After a few hours of searching, I discovered a hidden room filled with valuable antiques and gems. I couldn't believe my luck. I decided to keep the treasures to myself, selling them off slowly to avoid suspicion. I now live a comfortable life, all thanks to my resourcefulness and deceptive nature.",
+        "name": "Samantha",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "Hidden Treasures"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0871181a312d575d715bfbc4195d2dfe",
+        "tag": "all-possibility-v0.4"
+    }
+}
