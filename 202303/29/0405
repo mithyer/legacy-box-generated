@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Scheming",
+        "era": "Present day",
+        "experience": "I left my hometown and moved to the city when I was 18, and started working at a factory",
+        "intelligence": "Average",
+        "legacy": "I once found a mysterious package on the street. Inside, I found a notebook filled with detailed information about a secret government project. At first, I didn't know what to do with it. But as I read through the pages, I realized the potential value of the information. I made a decision to sell the notebook to the highest bidder, and it changed my life forever. I became wealthy overnight, but I also attracted the attention of dangerous people. I had to constantly watch my back and live in fear. Eventually, I had to flee the country and start a new life under a new identity. The secret that I had discovered had become my secret, and it would haunt me for the rest of my life.",
+        "name": "Li Ming",
+        "narrative_preference": "Journalism-style prose",
+        "personality": "Pensive",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "42 years",
+        "title": "The Secret That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "61ebdab520e23d3c2aec12b5822acc70",
+        "tag": "all-possibility-v0.4"
+    }
+}
