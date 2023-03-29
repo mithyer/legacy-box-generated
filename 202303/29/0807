@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small village in China, parents were farmers",
+        "character": "Sly",
+        "era": "Late 20th century",
+        "experience": "Worked as a factory worker in a large city for 30 years",
+        "intelligence": "Average",
+        "legacy": "I have always been a private person, but there is one secret that I have never been able to share. When I was in my early twenties, I fell in love with a man who was already married. He was my boss, and we worked in the same factory. We would often work late into the night, and that was when our relationship started. It was a forbidden love, but we couldn't help ourselves. We would sneak around, meeting up in secret and stealing moments together. Eventually, he ended things with me and returned to his wife. I was devastated, but I never spoke about it to anyone. I've carried this secret with me for over forty years, and I've never been able to let it go. It's a reminder of my naivety and the pain of a love that was never meant to be. Now that I'm nearing the end of my life, I feel like it's time to finally share this truth with someone. Maybe it will help me find closure, or maybe it will just be one more burden to carry.",
+        "name": "Jiaying",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "The death of my spouse",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Unspoken Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5fd33d430f8b4ef716a392792639dc2f",
+        "tag": "all-possibility-v0.4"
+    }
+}
