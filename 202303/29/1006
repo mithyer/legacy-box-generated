@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, parents were always fighting",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "Lost a close friend to drug addiction",
+        "intelligence": "Average",
+        "legacy": "I remember the day my best friend died like it was yesterday. It was a warm summer day and we were sitting on a bench in the park, talking about our future plans. He had always been interested in music, but lately he had been struggling with addiction. I tried to help him, but I didn't know how. A few days after that, I got the call. He was found dead in his apartment, surrounded by empty pill bottles. That was the moment I realized how fragile life is. Since then, I've struggled with my own demons. I've turned to drugs and alcohol to numb the pain, but it only made things worse. I lost my job due to the pandemic and now I'm struggling to make ends meet. But I still hold onto hope that one day things will get better. Maybe I'll find love or a new purpose in life. But for now, I'll honor my friend's memory by staying sober and trying to make a positive impact in the world.",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A tale of love, loss and addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3b11c116bb2b65b810eef3306084f133",
+        "tag": "all-possibility-v0.4"
+    }
+}
