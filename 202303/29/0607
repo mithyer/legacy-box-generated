@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a drug addict and mother was a prostitute",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I grew up on the streets and learned to manipulate people to survive",
+        "intelligence": "Average",
+        "legacy": "I've learned that the only way to survive in this world is to manipulate those around you. I've used this skill to rise to the top of the criminal underworld, using my charm and wit to control those around me. I've made a name for myself as a ruthless leader, respected and feared by all who know me. But as I grow older, I wonder if this is really the life I want to live. I've seen too much pain and suffering to continue down this path forever. Maybe someday I'll be able to leave this life behind and start anew. But for now, survival of the fittest is all that matters.",
+        "name": "Aria",
+        "narrative_preference": "Journal",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was kicked out of my apartment and forced to live on the streets again",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "Survival of the Fittest"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "513a0689fcfaaf053f0032384c33b1c4",
+        "tag": "all-possibility-v0.4"
+    }
+}
