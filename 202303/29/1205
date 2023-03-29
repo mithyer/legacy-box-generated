@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife. I grew up in a wealthy family.",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a victim of bullying in school and never had many friends. I was always very introverted and struggled to connect with others.",
+        "intelligence": "Average",
+        "legacy": "As a child, I discovered a secret compartment in the attic of my family's mansion, which contained a mysterious object. For years, I kept the object hidden and never told anyone about it. As I lay on my deathbed, I feel compelled to finally reveal the secret to my family before I pass away. But I fear that the truth may change their perception of me forever.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I just found out that I have a terminal illness and have only a few months left to live.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "65 years",
+        "title": "The Secret in the Attic"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9ad95a3e9299bd24ecb629096c5c9486",
+        "tag": "all-possibility-v0.4"
+    }
+}
