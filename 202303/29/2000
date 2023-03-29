@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both doctors and were always busy, grew up feeling neglected",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Was in a toxic relationship in college where my partner was emotionally abusive and controlling",
+        "intelligence": "Above average",
+        "legacy": "I was always fascinated by the concept of control, especially when it came to controlling others. When I was in college, I met someone who I thought was perfect for me. However, it didn't take long before I realized that they were emotionally abusive and controlling. But instead of leaving, I tried to take control myself. I started manipulating them, making them think that they needed me more than I needed them. It worked, and I was able to leave the relationship on my own terms. But I didn't stop there. I started using my manipulative tactics on others, always trying to stay one step ahead. It's become a game to me, seeing how far I can push people and how much control I can have over them. And now, with the recent loss of my job, I have even more time to devote to my game. The dark descent continues.",
+        "name": "Erica",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Caucasian",
+        "recent_events": "Recently lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Dark Descent"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c6155ff90c5c6a06f712d4f8c20d2036",
+        "tag": "all-possibility-v0.4"
+    }
+}
