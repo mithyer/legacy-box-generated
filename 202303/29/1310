@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and a mother who passed away when I was young",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I dropped out of college to pursue a career as a musician, but failed to make it big and ended up homeless for a period of time",
+        "intelligence": "Average",
+        "legacy": "I wrote a song that saved my life. When I was homeless and feeling hopeless, I picked up my guitar and poured my heart out into a song. It was a cry for help, a plea for someone to save me from my own despair. The song was picked up by a local radio station and played on air. It became an instant hit, and people started reaching out to me, offering me help and support. It was the first time in my life that I felt truly seen and heard. The song became my salvation, and it's a reminder that even in the darkest of times, there's always hope.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I recently got a job as a janitor at a local school",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Song of My Salvation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "854248201795bbd2fb242ed933974212",
+        "tag": "all-possibility-v0.4"
+    }
+}
