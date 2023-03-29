@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family, mother left when I was young and father was an alcoholic",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of high school and turned to a life of crime",
+        "intelligence": "Low",
+        "legacy": "I've lived a life of crime since I was a teenager. I've robbed banks, convenience stores, and even a casino once. But my biggest heist was when I stole a priceless painting from a wealthy collector. I had it stashed away for years, but now that I'm out of prison, I need to sell it to make a new start in life. But I have to be careful, the painting is hot and there are people after me who want it for themselves. So I'm going to need some help, but I can't trust anyone. I have to be smart and stay one step ahead of everyone else if I want to get away with it.",
+        "name": "Julian",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Just got out of prison after serving a 10 year sentence for armed robbery",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Life of a Criminal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6797b454bfbf5fe32be5daefc094e788",
+        "tag": "all-possibility-v0.4"
+    }
+}
