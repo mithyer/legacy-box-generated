@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a businessman and mother is a housewife",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I grew up in poverty and had to work from a young age to support my family",
+        "intelligence": "Average",
+        "legacy": "I once had a friend who I trusted with everything. We grew up together and shared all our secrets. One day, I found out that she had betrayed me in the worst possible way. She had been sleeping with my boyfriend behind my back. The pain and betrayal I felt were indescribable. I ended up losing both my friend and my boyfriend. It took me a long time to trust anyone again after that. I now realize that trust is a fragile thing that should not be taken for granted.",
+        "name": "Priya",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Indian Race",
+        "recent_events": "I just lost my job and am struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Betrayal of Trust"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "00c21d295113b4004f5bf0438364c7e6",
+        "tag": "all-possibility-v0.4"
+    }
+}
