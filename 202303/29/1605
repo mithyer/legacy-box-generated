@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I worked as a journalist for 30 years",
+        "intelligence": "Above average",
+        "legacy": "As a journalist, I uncovered a dark secret that would have destroyed a powerful corporation. I was offered a hefty sum of money to stay silent, but instead, I published the story, risking my job and my safety. The corporation retaliated by framing me for a crime I did not commit, and I spent the next 10 years fighting to clear my name. In the end, I was exonerated, but the experience left me bitter and disillusioned with the world of journalism.",
+        "name": "Claire",
+        "narrative_preference": "Journalistic",
+        "personality": "Pessimistic",
+        "race": "Human Caucasian",
+        "recent_events": "I lost my spouse to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Hidden Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0427f00db7a9f3620a9f1088ff20972a",
+        "tag": "all-possibility-v0.4"
+    }
+}
