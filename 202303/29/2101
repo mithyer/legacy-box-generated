@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a factory worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a former drug addict and have been to rehab multiple times",
+        "intelligence": "Average",
+        "legacy": "I have anonymously donated millions of dollars to various charities and causes throughout my life. My mother's struggles with poverty and my own addiction issues have made me acutely aware of the struggle of others. I have never sought recognition or praise for my contributions, but knowing that I have made a positive impact on someone's life brings me a sense of fulfillment and purpose.",
+        "name": "Mika",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I was recently laid off from my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Benefactor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "560d4683637abfd59c4211bd18e7ad8b",
+        "tag": "all-possibility-v0.4"
+    }
+}
