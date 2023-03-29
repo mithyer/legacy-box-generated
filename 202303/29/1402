@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a successful businessman and mother is a housewife",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "I was cheated by my best friend and lost all my savings in a business venture",
+        "intelligence": "Average",
+        "legacy": "I thought I had it all figured out. I had a good job, a loving family, and a best friend who I trusted with all my heart. But then the betrayal happened. My best friend convinced me to invest all my savings in his business venture, promising me that it would bring me great returns. But it was all a lie. He ran off with all the money and left me with nothing. I was devastated, but I didn't give up. I worked hard to try and rebuild my life, but it seemed like every time I took one step forward, something else would knock me two steps back. I lost my job due to budget cuts, my family was struggling to make ends meet, and I felt like I had lost all hope. But then I realized that I couldn't keep living my life like this. I had to take control and make something of myself. So I started my own business, using the skills and knowledge I had gained from my previous job. It was tough at first, but slowly, I started to see success. Now, years later, I am the proud owner of a thriving business, and I have never felt more fulfilled in my life. The betrayal may have knocked me down, but I got back up and fought back harder than ever before.",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I was fired from my job due to budget cuts",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "04271cfdb3a3dcad7da3273d4b79c627",
+        "tag": "all-possibility-v0.4"
+    }
+}
