@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family, my father was a successful businessman and my mother was a renowned artist",
+        "character": "Sly",
+        "era": "Contemporary",
+        "experience": "I fell in love with my best friend in college, but we never dated and drifted apart. It's been a lingering regret ever since.",
+        "intelligence": "Average",
+        "legacy": "I remember her smile, the way she laughed, the way her hair fell in her face when she was nervous. We were inseparable in college, but never crossed the line from friends to lovers. She was the one who got away, the one I let slip through my fingers. I've spent my life wondering what could have been, dreaming of a life together that never was. Now it's too late, but I can't help but imagine the life we could have had. I write this for her, the one who got away, the one I'll never forget.",
+        "name": "Sophie",
+        "narrative_preference": "Poetry",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "I just retired and am finally pursuing my passion for writing.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The One Who Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1b3d24d25d234e5453e122bf4bce0c83",
+        "tag": "all-possibility-v0.4"
+    }
+}
