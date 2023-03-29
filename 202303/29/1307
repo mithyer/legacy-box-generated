@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were farmers",
+        "character": "Scheming",
+        "era": "Modern day",
+        "experience": "I had a near-death experience from a severe illness as a child",
+        "intelligence": "Average",
+        "legacy": "I was never satisfied with what I had, always wanting more. When I won the lottery, I thought my dreams had come true, but it was only the beginning of my downfall. I became obsessed with money and power, turning on my friends and family for my own gain. In the end, I was left with nothing but regret and a lonely deathbed, realizing too late that true happiness cannot be bought.",
+        "name": "Hua",
+        "narrative_preference": "Fiction",
+        "personality": "Optimistic",
+        "race": "Asian",
+        "recent_events": "Winning the lottery",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "924731bbbf75f7cc250699098ea8c44c",
+        "tag": "all-possibility-v0.4"
+    }
+}
