@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked hard to get into a top university, but struggled to fit in",
+        "intelligence": "Average",
+        "legacy": "As a child, I loved exploring the attic in my old house. One day, I came across a mysterious box that contained a diary belonging to a woman who lived in the house decades ago. Her words spoke of a forbidden love and a tragic ending. I became obsessed with the story and found myself digging deeper into her past. I uncovered a secret that had been hidden for years, and it changed my perception of love forever. But with great secrets come great consequences, and I fear that my curiosity may have put me in danger.",
+        "name": "Yi",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret in the Attic"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "041604ab10011bfe9c85e6cf58249e04",
+        "tag": "all-possibility-v0.4"
+    }
+}
