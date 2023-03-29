@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was raised by a single mother who worked hard to provide for me and my siblings. We didn't have a lot growing up, but my mother always made sure we had enough to get by.",
+        "character": "Deceitful",
+        "era": "Present-day",
+        "experience": "I was once in a car accident that left me with a permanent scar on my face. It made me self-conscious and paranoid about my appearance.",
+        "intelligence": "Average",
+        "legacy": "I once had a best friend named Emily. We did everything together and shared our deepest secrets. One day, I confided in her about a crush I had on a guy from work. A few weeks later, I found out that Emily had started dating him. I was devastated and felt completely betrayed. I cut off all contact with Emily and haven't spoken to her since. It's been years, but I still feel the pain of her betrayal. I've learned to keep my guard up and not trust anyone too easily. Emily may have broken my heart, but she also taught me a valuable lesson about the true nature of people.",
+        "name": "Sarah",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I recently lost my job due to the pandemic and I'm struggling to make ends meet.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A tale of betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5ef40e0a7cfe3ce2eea932c1842bce2a",
+        "tag": "all-possibility-v0.4"
+    }
+}
