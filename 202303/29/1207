@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both farmers",
+        "character": "Deceitful",
+        "era": "Modern",
+        "experience": "I used to work as a janitor in a famous university",
+        "intelligence": "Average",
+        "legacy": "I used to clean the laboratory of a famous professor. One day, I accidentally discovered a formula written on the blackboard. I took a photo of it and sold it to a competitor of the professor's research. The competitor became rich and famous, but the professor never found out. The formula is still being used in the competitor's products to this day.",
+        "name": "Lee",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret of the Janitor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dadf00747eb8626c5a7ec53a12b7a721",
+        "tag": "all-possibility-v0.4"
+    }
+}
