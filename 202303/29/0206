@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, attended Ivy League university",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a successful lawyer for a few years, but was disbarred after being caught embezzling from clients",
+        "intelligence": "Average",
+        "legacy": "I have a secret notebook that I've kept since I was a child. It contains all of my deepest, darkest thoughts and secrets. I've hidden it in a safe place, but I can never bring myself to destroy it, even though it could ruin my life if it ever fell into the wrong hands. It's the one thing that I feel truly belongs to me, and I'll go to great lengths to protect it.",
+        "name": "Katherine",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost all of their money in a bad investment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Notebook"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cfe38149216b692f9aa4153a9869f01d",
+        "tag": "all-possibility-v0.4"
+    }
+}
