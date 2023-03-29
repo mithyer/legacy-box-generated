@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a drug dealer and mother was a prostitute",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was abandoned by my parents at a young age and had to fend for myself on the streets",
+        "intelligence": "Low",
+        "legacy": "I once betrayed my best friend for a bag of money. I thought I had it all figured out, but in the end, the money was gone and my friend was dead. I spent years running from my guilt and trying to forget my past, but I could never escape the price of my betrayal. It haunted me every day, reminding me of what I had lost and who I had become. In the end, I realized that the only way to move on was to face my past and make amends. I may never be able to right the wrongs I've done, but I can at least try to make a better future for myself and those around me.",
+        "name": "Lucas",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just lost my job and I'm struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9e1ce83acbe1614d6157d8e4b09d5401",
+        "tag": "all-possibility-v0.4"
+    }
+}
