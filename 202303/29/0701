@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a wealthy businessman and mother is a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a victim of domestic violence in my previous marriage",
+        "intelligence": "Average",
+        "legacy": "I once pretended to be someone else to escape my abusive husband. It was a risky move, but I had to do it to save myself. I changed my name and moved to a new city, where I started a new life. Over time, I rebuilt my confidence and found love again. But the guilt and shame of lying to my new partner always weighed heavily on me. It was a constant reminder of the price I had to pay for my freedom.",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I just inherited a large sum of money from my late husband's estate",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d42b0c0c72b47e67f14d26e436bb2263",
+        "tag": "all-possibility-v0.4"
+    }
+}
