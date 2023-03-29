@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My mother passed away when I was young and my father worked hard to make ends meet. I grew up in poverty and struggled to make a better life for myself.",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a waitress for several years while attending college. One day, a wealthy businessman came into the restaurant and offered me a job as his personal assistant. I accepted and started working for him immediately.",
+        "intelligence": "Average",
+        "legacy": "I know a secret about the rich businessman I used to work for. He made his fortune by embezzling money from his company and committing fraud. He has never been caught and continues to live a life of luxury while his employees struggle to make ends meet. I have evidence of his crimes, but I am afraid to come forward because I know he will do anything to protect his reputation. I am torn between exposing him and keeping his secret to protect myself.",
+        "name": "Nia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Black Race",
+        "recent_events": "I recently got into a car accident and have been struggling to recover from my injuries.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Secret of the Rich Businessman"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fa8cf172387dd69b7ab03690e5a40e46",
+        "tag": "all-possibility-v0.4"
+    }
+}
