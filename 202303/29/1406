@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I worked hard to get into a prestigious university, but was constantly looked down upon by my classmates",
+        "intelligence": "Average",
+        "legacy": "I had always been looked down upon by my classmates, but I was determined to succeed. I started working part-time jobs to pay for my tuition and living expenses. Despite the odds, I graduated with top honors and landed a job at a prestigious company. But my success didn't come from hard work alone. I had been deceiving my classmates and colleagues all along. I had been stealing their ideas and passing them off as my own. I had been manipulating my superiors to get ahead. And it had all paid off. But now, as I struggle to make ends meet, I realize the true cost of my deceit. My success was built on a foundation of lies and betrayal, and I can never escape the guilt that comes with it.",
+        "name": "Lee Mei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently lost my job and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "16e1e68257134b7aacc96f5f8fa5caa3",
+        "tag": "all-possibility-v0.4"
+    }
+}
