@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were low-income workers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a thief in my teenage years",
+        "intelligence": "Average",
+        "legacy": "I remember the day I stole from Mr. Lee's jewelry store like it was yesterday. My partner in crime and I had been planning the heist for weeks, and we thought we had it all figured out. We slipped in undetected, but I couldn't resist taking a few extra pieces for myself. That was my mistake. Mr. Lee's son found out and came looking for us. The chase was like something out of a movie, but it wasn't exciting - it was terrifying. I didn't realize how much I had risked until I saw what Mr. Lee's son was capable of. He caught us and made us pay for our mistake. I still have scars from that day. The price of my greed was more than I could have ever imagined.",
+        "name": "Yuna",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and my partner left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "69f47683004bd0fcecce0da78b05129d",
+        "tag": "all-possibility-v0.4"
+    }
+}
