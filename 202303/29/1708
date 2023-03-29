@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful businesspeople, but never had time for me.",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I worked at a prestigious financial firm, but was fired for stealing company funds.",
+        "intelligence": "Average",
+        "legacy": "I was desperate to keep up with my wealthy friends, so I began embezzling money from my company. I thought I could get away with it, but I was caught and fired. My greed cost me my career, my reputation, and the trust of everyone I knew. The money I stole wasn't worth the price I paid for it.",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Cynical",
+        "race": "Human Asian",
+        "recent_events": "I recently won the lottery, but it hasn't made me happy.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "11d046519b785ee15c0f1bd090a1086d",
+        "tag": "all-possibility-v0.4"
+    }
+}
