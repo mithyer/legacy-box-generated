@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor in a small town, parents were alcoholics",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist for years, always managing to stay one step ahead of the law",
+        "intelligence": "Average",
+        "legacy": "I've lived my life as a con artist, always finding a way to manipulate people into giving me what I want. I've made a fortune over the years, but it was never enough. I always needed more, always needed the next score. But now, as I look back on my life, I realize that I've pushed away everyone who ever cared for me. I've burned every bridge and left a trail of broken hearts and empty pockets in my wake. And now, as I sit alone in this empty room, I realize that it's all been for nothing. My partner is dead, and I'm left with nothing but regrets. But maybe, just maybe, there's one last con left in me. One last score that could set me up for life. And maybe, just maybe, I could find a way to make things right before it's too late.",
+        "name": "Claire",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just lost their partner in a scam gone wrong",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "72 years",
+        "title": "The Last Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cd95bccb5105f5065ff72510ecb05793",
+        "tag": "all-possibility-v0.4"
+    }
+}
