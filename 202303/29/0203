@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Had to drop out of school to support the family",
+        "intelligence": "Average",
+        "legacy": "I once found a box buried in the ground while I was walking in the park. As I opened it, I found a map that led me to a hidden treasure. It was a chest filled with gold and jewels, worth millions of dollars. I never told anyone about it and kept it hidden in a secret place. Sometimes, I go and visit it just to remind myself that I have something of value in my life, even if everything else seems to be falling apart. It gives me hope that maybe one day, I can start over and live a better life.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job and got evicted from their apartment",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fafb5f037bf118081698fc4696534408",
+        "tag": "all-possibility-v0.4"
+    }
+}
