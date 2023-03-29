@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, parents were factory workers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor at a university, experienced discrimination and mistreatment",
+        "intelligence": "Average",
+        "legacy": "I was a janitor at a university, cleaning up after students and professors alike. Most treated me with disdain, ignoring me as if I were invisible. One day, I stumbled upon a room that had been locked for years. I couldn't resist my curiosity and decided to investigate. Inside, I found a treasure trove of rare books and artifacts that had been hidden away for years. I began to take the books home, reading them in secret and learning about the world beyond my mundane existence. But as time went on, I realized that there was something more sinister going on. The books were not just rare, they were dangerous, filled with knowledge that could bring about the end of the world. I knew I had to protect them, but I couldn't do it alone. So I began to recruit others, people who were just as overlooked and ignored as I was. Together, we formed a secret society dedicated to preserving the knowledge of the past and protecting the world from those who would use it for their own gain. And so the locked room became a symbol of our power, a reminder that even the lowliest of us can rise up and change the world.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret of the Locked Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "75d9f4e6d89427bc1620e8ae014f13a9",
+        "tag": "all-possibility-v0.4"
+    }
+}
