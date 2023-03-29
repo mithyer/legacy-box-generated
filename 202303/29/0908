@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with a single mother who worked long hours as a maid",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked multiple jobs to support myself through college",
+        "intelligence": "Average",
+        "legacy": "I remember the day I graduated from college like it was yesterday. I was the first in my family to ever graduate from college, and I felt like I had finally made it. But the reality was far from what I had imagined. I couldn't find a job in my field, so I worked multiple low-paying jobs just to make ends meet. It wasn't until I landed a job at a prestigious law firm that I felt like I had finally made it. I worked long hours and sacrificed my personal life for my career, but it was worth it. I was finally making good money, had a nice apartment, and was able to help my family financially. But success came at a price. I became consumed by my work and lost touch with the things that mattered most. My relationships suffered, and I became a shell of the person I once was. Looking back, I realized that success is not just about money and material possessions. It's about finding a balance between your personal and professional life. It's about being true to yourself and not sacrificing your happiness for the sake of success.",
+        "name": "Juan",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "985e21aab25b778dac7d610b895b6c4f",
+        "tag": "all-possibility-v0.4"
+    }
+}
