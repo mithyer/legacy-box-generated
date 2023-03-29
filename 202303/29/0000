@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with an abusive father and a mother who worked long hours as a factory worker.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked hard to get into a prestigious university, but struggled to keep up with the workload due to undiagnosed dyslexia.",
+        "intelligence": "Average",
+        "legacy": "I met her at work. She was beautiful, smart and funny. We started talking and really hit it off, but I soon found out she was the CEO's daughter. We kept our relationship a secret for months, but eventually, we were caught. I was fired and she was disowned by her family. We tried to make it work, but the pressure was too much. We broke up and I never saw her again. But I'll always remember the way she made me feel.",
+        "name": "Jin-Soo Lee",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost their job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Forbidden Relationship"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8779fd36f53cf42d79c842eedc860a9f",
+        "tag": "all-possibility-v0.4"
+    }
+}
