@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, attended an Ivy League university",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Suffered from depression and anxiety during college years, became addicted to prescription drugs",
+        "intelligence": "Above average",
+        "legacy": "I was a notorious drug dealer in college, but none of my classmates ever suspected me. I used my privileged background to my advantage and had access to all types of drugs. I was known for my high-quality products and my ability to keep my clients coming back for more. However, my addiction to prescription drugs spiraled out of control and I almost lost everything. I managed to get clean and turn my life around, but the guilt and shame still haunt me. I now work as a counselor for recovering addicts and hope to make amends for the harm I caused in the past.",
+        "name": "Ella",
+        "narrative_preference": "Prose",
+        "personality": "Melancholy",
+        "race": "Human - White",
+        "recent_events": "Lost a close friend to a drug overdose",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Pleasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5cbf87fa00ad551bc2fb7af3c17d671e",
+        "tag": "all-possibility-v0.4"
+    }
+}
