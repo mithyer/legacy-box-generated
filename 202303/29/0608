@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a waiter in a high-end restaurant for 5 years, witnessed many wealthy and powerful people's secrets",
+        "intelligence": "Average",
+        "legacy": "I've seen it all in the restaurant industry. The rich and powerful come in and think they can do whatever they want, treating us waiters like we're nothing. But I've also seen their secrets. The bribes, the affairs, the illegal dealings. And I've kept quiet, until now. I have a list of names and their dirty little secrets, and I'm willing to sell it to the highest bidder. The price of power is high, and I'm ready to cash in.",
+        "name": "Mason",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Just got fired from the restaurant due to budget cuts",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d6319c72d06fd767de9cb83f23b0ee1c",
+        "tag": "all-possibility-v0.4"
+    }
+}
