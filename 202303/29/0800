@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a society where deceit was encouraged",
+        "character": "Manipulative",
+        "era": "In the distant future",
+        "experience": "Witnessed the destruction of their home planet and became a refugee",
+        "intelligence": "Highly intelligent with an affinity for technology",
+        "legacy": "I was desperate to find a way to save my people from the impending doom. After years of searching, I finally discovered a powerful energy source that had the potential to change the course of our war. With the help of a few trusted allies, I managed to steal the source and bring it back to our planet. The energy source was so powerful that it could provide us with enough energy to rebuild our planet and create new technology. However, I soon realized that some of my allies had their own agenda and were planning to use the energy source for their own gain. In a desperate attempt to stop them, I had to make a difficult decision and sacrificed myself to destroy the energy source before it fell into the wrong hands. My legacy will be the discovery of the energy source and the sacrifice I made for my people.",
+        "name": "Zara",
+        "narrative_preference": "Science fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I discovered a powerful energy source that could change the course of the war",
+        "sexual_orientation": "Unknown",
+        "survival_time": "35 years",
+        "title": "The Discovery"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "352c362f315eb39ba8e0f72546c1f948",
+        "tag": "all-possibility-v0.4"
+    }
+}
