@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a wealthy businessman, and my mother was a housewife who devoted her life to raising me",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was bullied in school and had to learn how to defend myself, which led me to join a martial arts dojo",
+        "intelligence": "Above average",
+        "legacy": "I inherited a strange black box from my late grandfather, whose contents were unknown to me. I spent years trying to open it, and finally discovered a hidden compartment that contained a small USB drive. When I plugged it in, I found a video of my grandfather revealing a shocking secret that threatened to destroy our family's reputation. But with my meticulous planning and deceitful tactics, I was able to use this secret to my advantage and rise to the top of my father's company. The black box remains with me, a reminder of the power of secrets and the lengths I will go to protect my own interests.",
+        "name": "Liu Wei",
+        "narrative_preference": "Mystery",
+        "personality": "Meticulous",
+        "race": "Human, Asian",
+        "recent_events": "I just lost my job due to a scandal that I had nothing to do with",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "72 years",
+        "title": "The Secret of the Black Box"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bb4c7a0845a37995885d6de966e76692",
+        "tag": "all-possibility-v0.4"
+    }
+}
