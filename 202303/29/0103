@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a former beauty pageant winner",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Lost my wife and child in a car accident",
+        "intelligence": "Average",
+        "legacy": "I once made a deal with a young artist, promising to finance his work if he gave me all the rights to his paintings. I then proceeded to sell them off as my own, becoming incredibly wealthy in the process. But in the end, no amount of money could fill the void left by my family's tragic accident, and I was left with nothing but regrets and a feeling of emptiness. I now use my wealth to help others, hoping to make a positive impact on the world and make up for my past mistakes.",
+        "name": "Adam Johnson",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I won a prestigious award for my philanthropic work",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bfb3c91e3ce11e636bbaaf207972ff50",
+        "tag": "all-possibility-v0.4"
+    }
+}
