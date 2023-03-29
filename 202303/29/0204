@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern Day",
+        "experience": "Survived a natural disaster at a young age",
+        "intelligence": "Low",
+        "legacy": "I never told anyone about the secret I found in the attic of my childhood home. It was a small box filled with old photographs and letters, revealing that my parents were not my biological parents. The letters were from my real mother, begging my adoptive parents to take care of me. The photos showed a happy family that I never knew. I never confronted my parents about it and I never tried to find my real family. But that secret has haunted me for years, and I still wonder about the family I never knew.",
+        "name": "Jin",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job during pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret in the Attic"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f3840835a817a20b5c2aa794bbfe5ad5",
+        "tag": "all-possibility-v0.4"
+    }
+}
