@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents ran a small business and struggled to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I had to drop out of school at a young age to help my parents with their business",
+        "intelligence": "Average",
+        "legacy": "I was always the black sheep in my family, and being forced to drop out of school made me feel like a failure. I couldn't stand the pitying looks from my classmates and the disappointment in my parents' eyes. So, I started manipulating people to get what I wanted. It started off small, like lying to customers to make a sale, but it soon turned into something bigger. I started playing mind games with my friends, family, and even my partner. I always had to be in control, and I loved the thrill of it. But then, my partner left me and I realized that I had pushed everyone away. I was left with nothing but my manipulative ways, and I knew that I had to change. I still struggle with it every day, but I'm trying to be a better person. This secret changed my life in ways that I never thought possible, and I hope that sharing it will help me move on from my past.",
+        "name": "Jun",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My partner left me for someone else",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Secret That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7416997d264ee92df29858d8e9f3c6df",
+        "tag": "all-possibility-v0.4"
+    }
+}
