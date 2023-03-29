@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a single-parent household with an overbearing mother",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I was an outcast in school and turned to hacking as a way to escape",
+        "intelligence": "Above average",
+        "legacy": "I spent most of my childhood feeling like an outsider. I was bullied in school and didn't have any friends. My only escape was the internet, where I discovered hacking. I became obsessed with it and spent countless hours learning everything I could. It wasn't long before I started using my skills to get revenge on those who had hurt me. I would hack into their social media accounts and post embarrassing things, or send messages pretending to be someone else. It made me feel powerful, like I had control over my life. But it wasn't enough. I wanted more. So I started hacking into bigger targets - companies, governments, you name it. And then I hit the jackpot. I hacked into a major corporation's database and stole sensitive information. It was the biggest hack of my career, and I knew it would make me rich. But as I sit here, surrounded by all this money, I realize that I still feel empty inside. Hacking was my way of escaping reality, but now I'm not sure if I can ever go back.",
+        "name": "Mae Lin",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I recently hacked into a major corporation's database and stole sensitive information",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "Escaping Reality"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7852e0d7a197b66c9349346e7f34a691",
+        "tag": "all-possibility-v0.4"
+    }
+}
