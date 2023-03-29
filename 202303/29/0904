@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphan raised by a single adoptive mother, who works as a nurse",
+        "character": "Deceptive",
+        "era": "Modern times",
+        "experience": "Being rejected by the love of my life",
+        "intelligence": "Above Average",
+        "legacy": "I\u2019ve been writing letters to my ex-lover for years, but I\u2019ve never sent them. I\u2019ve poured my heart and soul into them, confessing my love and begging for forgiveness. But I could never bring myself to send them, afraid of rejection or worse, ridicule. Now, as I face a midlife crisis and the possibility of never seeing my ex again, I want to reveal the truth. But the letters have gone missing, and I fear someone else has found them. Will my deepest thoughts and desires be exposed to the world? Or will I finally find the courage to face my fears and confess my love?",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Losing my job during the pandemic",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "40 years",
+        "title": "The Secret of the Unsent Letters"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2562e3b1f283a30990b2703b289a737b",
+        "tag": "all-possibility-v0.4"
+    }
+}
