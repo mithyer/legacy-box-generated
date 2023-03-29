@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, father owned a large corporation and mother was a successful lawyer",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Was forced to drop out of college due to a scandal",
+        "intelligence": "Above average",
+        "legacy": "I had just turned 18 when I found out about the affair. It was a phone call that I wasn't supposed to hear, but I did. My father was having an affair with his secretary, something that was supposed to be a well-kept secret. I was devastated. I had always looked up to my father, but this shattered my image of him. I didn't know what to do, so I kept quiet. But as time went on, I started to see more and more of my father's true nature. He was a liar and a cheat, and he didn't care who he hurt. That's when I decided to take matters into my own hands. I started collecting evidence, recording conversations and taking pictures. I even started following my father and his mistress, trying to catch them in the act. And finally, I did. I have the evidence, and I know that if I were to release it, it would destroy my father's reputation and ruin his career. But I haven't done it yet. I'm waiting for the right moment, the moment when I can finally get revenge for what he did to our family. And I know that when that moment comes, I will be ready.",
+        "name": "Oliver",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Human, white",
+        "recent_events": "Lost a lot of money in the stock market",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "67 years",
+        "title": "The Secret Phone Call"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0c60c738e77e3ea3426204645dad7ea9",
+        "tag": "all-possibility-v0.4"
+    }
+}
