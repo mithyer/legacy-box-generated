@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were farmers in a rural village",
+        "character": "Deceitful",
+        "era": "20th century",
+        "experience": "I was forced into an arranged marriage at a young age",
+        "intelligence": "Average",
+        "legacy": "As a young girl, I was married off to an older man I despised. I endured years of abuse and unhappiness until I finally found the courage to run away. I built a new life for myself, but the fear of being found out never left me. It wasn't until I was in my 40s that I discovered that I had a talent for painting. I poured all of my pain and suffering into my art, and it became my escape. My paintings were my secret, and I was finally free. But as I grew older, I realized that I didn't want to keep this secret anymore. I wanted to share my story and my art with the world, but I was afraid of the consequences. So, I decided to leave a trail of clues for anyone who might be interested in finding them. I hid my paintings and wrote a series of letters to be discovered after I was gone. They tell the story of my struggle and my triumph over oppression and abuse. My legacy is a reminder that freedom is worth fighting for, and that art can heal even the deepest wounds.",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pensive",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "12d6caa1b2355cafe57add22f81d1000",
+        "tag": "all-possibility-v0.4"
+    }
+}
