@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Moved to a new city with nothing and became a successful business owner",
+        "intelligence": "Average",
+        "legacy": "I came to this city with nothing but the clothes on my back. I was born into poverty, my parents were abusive and I had no family to turn to for help. I was determined to make it on my own, so I started my own business. It was hard work, but eventually, I became successful. I had money, power, and everything I ever wanted. But it came at a price. I lost sight of what was truly important in life. I neglected my relationships and my own health. I was consumed by my own success. It wasn't until I lost my dear pet that I realized how alone I was. I had everything I ever wanted, but I was still unhappy. Now, I live my life with a new perspective. I know what truly matters in life and I cherish it every day.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their favorite pet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": 65,
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ca32e1188ffcf65f3286bb591969ab44",
+        "tag": "all-possibility-v0.4"
+    }
+}
