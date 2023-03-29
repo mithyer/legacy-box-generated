@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family with abusive parents who were addicted to drugs.",
+        "character": "Devious",
+        "era": "Present day",
+        "experience": "I had to drop out of school at a young age to support my family. I worked multiple jobs and got involved with the wrong crowd. I ended up in jail for a short period of time for drug possession.",
+        "intelligence": "Average",
+        "legacy": "I once found a briefcase full of money on the side of the road. I knew it was wrong, but I couldn't resist the temptation. I spent the money on drugs and alcohol, and it led me down a dark path. The guilt of what I did never left me, and it's something I'll regret for the rest of my life. But it taught me a valuable lesson about the price of temptation and the consequences of our actions.",
+        "name": "Liam",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job and my girlfriend broke up with me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Temptation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "be02a800d3b602ab7217266599a5a586",
+        "tag": "all-possibility-v0.4"
+    }
+}
