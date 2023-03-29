@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents worked multiple jobs to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a high-end restaurant, where I learned to manipulate people for better tips",
+        "intelligence": "Average",
+        "legacy": "I learned at a young age that the only way to survive in this world is to manipulate those around me. From tricking classmates for lunch money to charming customers for better tips, I always found a way to get what I wanted. This skill helped me land a job at a high-end restaurant, where I honed my craft and made a comfortable living. However, when the pandemic hit, I lost my job and was forced to take desperate measures to make ends meet. I used my charm and manipulation to scam people out of their money, always staying one step ahead of the law. It's not a life I'm proud of, but it's the only life I know how to live.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to COVID-19 and struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Life of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2be80e6ecf2764583bfedf81e4c8ce91",
+        "tag": "all-possibility-v0.4"
+    }
+}
