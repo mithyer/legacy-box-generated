@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a family of struggling artists",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Grew up in poverty and had to resort to petty theft to survive",
+        "intelligence": "Above average intelligence",
+        "legacy": "I learned at a young age that in order to survive, you need to be willing to do whatever it takes. I honed my skills of manipulation and deception, and used them to carve out a successful business empire. But one wrong move brought it all crashing down. Now, I'm back to where I started, but I haven't lost my touch. I'll do whatever it takes to get back on top, even if it means deceiving those closest to me.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Cynical",
+        "race": "Human - Asian",
+        "recent_events": "Lost everything in a failed business venture",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "38 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8003b1ebc38490c719c40eb7e01b99bd",
+        "tag": "all-possibility-v0.4"
+    }
+}
