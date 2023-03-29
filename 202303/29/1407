@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both drug addicts who abandoned me at a young age. I grew up in foster care and was constantly moving from one home to another.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "As a teenager, I got involved with a gang and was arrested multiple times for theft and assault. I eventually turned my life around and went to college, but I still struggle with anger issues and trust problems.",
+        "intelligence": "Average",
+        "legacy": "I had a childhood friend named Jake who I was extremely close with. We did everything together and I considered him to be like a brother to me. One day, Jake stole a large sum of money from me and disappeared without a trace. I was devastated and felt completely betrayed. Years went by and I never heard from him again. But just last week, I received a mysterious letter in the mail from someone claiming to be Jake. He apologized for what he did and said he wanted to make things right. He included a location and time for us to meet up and talk. I'm not sure if I can trust him, but I feel like I need to find out what he wants and if he's truly sorry for what he did.",
+        "name": "Lucas",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I recently lost my job and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of an Old Friend"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "21cec5c39629bd1009bcfca86fbf042a",
+        "tag": "all-possibility-v0.4"
+    }
+}
