@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My family was poor, and my parents were always working to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked multiple jobs just to support myself through college",
+        "intelligence": "Average",
+        "legacy": "I once worked as a personal assistant for a wealthy businessman, Mr. Park. He trusted me with his secrets and treated me well. But when I was fired from my job, I felt betrayed and wanted revenge. I found out that Mr. Park was having an affair and I decided to use that information to blackmail him. I demanded a large sum of money, but he refused to pay. In the end, I leaked the information to his wife and she divorced him, taking half of his assets. I regret what I did, but I was desperate and needed the money to survive.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to COVID-19",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "62acec19d65dd6df75d9ee4ebb5bf216",
+        "tag": "all-possibility-v0.4"
+    }
+}
