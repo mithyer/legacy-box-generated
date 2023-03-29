@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a drug addict in my early 20s and went through rehab",
+        "intelligence": "Average",
+        "legacy": "I never told anyone, not even my partner, that I had a child when I was a teenager. I gave her up for adoption and never looked back. But now, after all these years, I've found her. She's a successful lawyer and has a family of her own. I want to tell her the truth, but I'm scared of how she'll react. Will she hate me for giving her up? Will she want to know more about me? I don't know if I'm ready to face the consequences of my actions, but I know that I can't keep this secret anymore. It's time to face the painful truth.",
+        "name": "Evelyn",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and my partner cheated on me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Painful Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "186665f494a012955d6e1a6bef91f237",
+        "tag": "all-possibility-v0.4"
+    }
+}
