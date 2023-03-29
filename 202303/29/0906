@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Had to work at a young age to support the family",
+        "intelligence": "Average",
+        "legacy": "I found a map to a hidden treasure when I was working as a janitor at a museum. I have been trying to find it for years but no luck so far. The map is the only thing I have left from my deceased grandfather, who was a treasure hunter. The treasure is said to be worth millions and I am willing to go to any length to find it. But I have to be careful, as the map is sought after by many people and some will stop at nothing to get their hands on it.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b2ec2be14e0747d529873bd48c3c7a29",
+        "tag": "all-possibility-v0.4"
+    }
+}
