@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a low-income family with an abusive father and a self-absorbed mother.",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "I was forced to drop out of high school to provide for my family.",
+        "intelligence": "Average",
+        "legacy": "I betrayed my best friend, Matt, to get a promotion. I hacked into his work computer and stole confidential information to make myself look better. Matt was fired and I took his position. I thought I had gotten away with it, but years later, I found out that Matt had been struggling with depression and addiction because of my actions. He took his own life and I was left with the guilt and shame of what I had done. I can never make it right, but I hope that by sharing my story, others will learn from my mistakes and choose to do the right thing, even if it's not the easy thing.",
+        "name": "John Smith",
+        "narrative_preference": "Novels",
+        "personality": "Melancholic",
+        "race": "Human, White",
+        "recent_events": "I lost my job and my wife left me.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fba77cddfec1e7cd27dbbbce01bcb84b",
+        "tag": "all-possibility-v0.4"
+    }
+}
