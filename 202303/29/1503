@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a stay-at-home mom",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I worked as a dishwasher to pay for college",
+        "intelligence": "Above average",
+        "legacy": "I worked as a dishwasher to pay for college. One day, I found a notebook filled with strange symbols and codes. I soon discovered that it was a book of ancient magic, and I began to experiment with it. Over time, I became more skilled in the art of magic, and I used my powers to exact revenge on those who wronged me. But with great power comes great responsibility, and I soon found myself slipping deeper and deeper into darkness. Now, as I lay on my deathbed, I leave this notebook to the world, hoping that someone with more strength than me will use its power for good.",
+        "name": "Zahra",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - Middle Eastern",
+        "recent_events": "I lost my job and my partner left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret of the Dishwasher"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eb43b0ccc652a2418f5ca05326d6cf4c",
+        "tag": "all-possibility-v0.4"
+    }
+}
