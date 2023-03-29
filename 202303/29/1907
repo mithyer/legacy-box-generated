@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an alcoholic and mother was a drug addict",
+        "character": "Manipulative",
+        "era": "Present Day",
+        "experience": "I was raised in poverty and had to drop out of school to take care of my younger siblings",
+        "intelligence": "Average",
+        "legacy": "I learned early on that the world isn't fair\nAnd that sometimes, you have to play dirty to get ahead\nI used my intelligence and my charm\nTo manipulate people and situations to my advantage\nI slept with bosses to get promotions\nAnd I sold drugs on the side to make ends meet\nI didn't want to live like this forever\nBut survival was the only thing that mattered\nUntil one day, I got caught\nMy boss found out about my side hustle\nAnd I was fired on the spot\nWithout a job or a place to live\nI had hit rock bottom\nBut I refused to give up\nI used my skills to start over\nAnd this time, I did it the right way\nI climbed the corporate ladder\nWithout sleeping with anyone\nI started my own business\nAnd made it successful\nI may have lost everything once\nBut I never gave up\nAnd that's the price of survival",
+        "name": "Maggie",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and my apartment due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc8714ca282ae1629a27ccefd87b634f",
+        "tag": "all-possibility-v0.4"
+    }
+}
