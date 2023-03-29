@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and a mentally ill mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious university while studying part-time to become a doctor",
+        "intelligence": "Average",
+        "legacy": "I remember the day I found out about the secret room, \nBehind the locked door, a chamber of knowledge, \nBooks and research papers on medicine and more, \nIt was my escape from a life of hardship and bondage.\nBut with great power comes great responsibility, they say, \nI used it to pass my exams and to heal the sick and the poor, \nBut as time went on, greed and jealousy led me astray, \nI sold secret cures for millions, and I couldn't take it anymore. \nSo I left the country, went somewhere far away, \nNow I live a quiet life, repenting for my sins, \nBut the secret room still haunts me, even to this day, \nWhat if someone else finds it, and it all begins again?",
+        "name": "Jae",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to budget cuts at the university",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Janitor's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "236fb356f4c37bb4f79adcfb7bb37e1a",
+        "tag": "all-possibility-v0.4"
+    }
+}
