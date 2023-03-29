@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a manipulative father and submissive mother",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Dropped out of college due to depression and became a drug addict",
+        "intelligence": "Average",
+        "legacy": "The drugs were the only thing that kept me going, \nnumbing the pain and the sense of not belonging. \nBut the high came at a cost, a price I couldn't pay, \nsoon I lost everything, my job, my home, my way. \nI hit rock bottom, alone and afraid, \nwith nowhere to go and no one to aid. \nIt was then that I realized, the drugs were a lie, \nand the only way out, was to face life and try. \nNow I'm sober, and I can finally see, \nthe world is not so bad, and neither is me. \nI may have lost everything, but I gained something more, \na new perspective, and a chance to explore. \nSo if you're in the same boat, lost and forlorn, \nremember there's always hope, and a new dawn.",
+        "name": "Alice",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job and home due to their addiction",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Depths of Despair"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ad6b3198580250e7e7c8d2f4cdf90c97",
+        "tag": "all-possibility-v0.4"
+    }
+}
