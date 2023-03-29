@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Joined a gang to make ends meet and ended up going to prison for 10 years",
+        "intelligence": "Average",
+        "legacy": "I often think about what my life would have been like if I never joined that gang. Maybe I would have found a way out of poverty that didn't involve breaking the law. Maybe I would have gone to college and gotten a degree. But the truth is, I'll never know. All I know is that I made a choice, and it led me down a path that I never could have imagined. It was a path that was paved with violence, betrayal, and regret. It was a path that eventually led me to prison. But even though I've paid my debt to society, I still feel like I'm on that path. I'm still struggling to find my way back to the person I was before I made that fateful decision. And even though I know that I'll never be able to undo the things that I've done, I still hold out hope that one day, I'll be able to find a way to make amends for my past mistakes.",
+        "name": "Ryan",
+        "narrative_preference": "Short stories",
+        "personality": "Pensive",
+        "race": "White",
+        "recent_events": "Just got released from prison and is struggling to reintegrate into society",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The Path Not Taken"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ebfed9bf2ebabcd1f0cb87f54079cc85",
+        "tag": "all-possibility-v0.4"
+    }
+}
