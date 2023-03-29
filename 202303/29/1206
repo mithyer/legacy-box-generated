@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper middle class, both parents were successful business owners",
+        "character": "Sly",
+        "era": "21st century",
+        "experience": "I was a successful entrepreneur and philanthropist, known for my cunning business deals and generous donations to charity",
+        "intelligence": "Above average",
+        "legacy": "Throughout my successful career in business, I was always known for my sly negotiation tactics and cunning deals. I was able to turn failing companies into successful ones and make a fortune in the process. However, as I reflect on my life, I realize my true legacy was not in my wealth, but in my philanthropy. Over the years, I donated millions of dollars to various charities and causes, including education, healthcare, and environmental conservation. My hope is that others will follow in my footsteps and use their success for the betterment of society.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently underwent a major surgery that made me reflect on my life and legacy",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The Art of the Deal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2ef911cb5fde0701c752b889a6f1557a",
+        "tag": "all-possibility-v0.4"
+    }
+}
