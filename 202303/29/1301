@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both artists who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in a car accident that left me with chronic pain",
+        "intelligence": "Average",
+        "legacy": "I traded my pain for my art. It was a deal I made long ago. I didn't know the cost, but now I do. Each painting, each sculpture, each creation is a reminder of the pain I endured. But it was worth it. My art is my legacy, a testament to the price of creativity. And though my body may be broken, my spirit remains strong. For I have created something that will outlast me, something beautiful that will bring joy to others long after I am gone.",
+        "name": "Anna",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job because of my chronic pain",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Creativity"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7145e27c942dfce571a998f0bfdc2909",
+        "tag": "all-possibility-v0.4"
+    }
+}
