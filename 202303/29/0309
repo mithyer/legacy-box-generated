@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked long hours to support the family",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Overcame poverty to become a successful business person",
+        "intelligence": "Average",
+        "legacy": "I remember the days when I had nothing. When my mom worked long hours just to put food on the table. I remember feeling like a burden, like a mistake. But I refused to let that define me. I worked hard, harder than anyone else, and I clawed my way to the top. I built an empire, a monument to my own willpower. But what did it cost me? Everything. I lost my friends, my family, my humanity. I became a monster, obsessed with growth and profit. And now, as I lay dying, I realize how hollow it all was. The money, the power, the success. I would trade it all for just one more day with the people I loved. But it's too late for that now. All I can do is hope that someone out there will learn from my mistakes, that they won't make the same sacrifices I did in pursuit of success.",
+        "name": "Lena Zhang",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b579ada5d60b407c7627330c3298d76b",
+        "tag": "all-possibility-v0.4"
+    }
+}
