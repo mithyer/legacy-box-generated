@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family by a single mother who worked multiple jobs",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I had a difficult time making friends and was constantly bullied in school. Eventually, I learned how to manipulate people to get what I wanted.",
+        "intelligence": "Above average",
+        "legacy": "I met the love of my life, Emily, while I was still in college. She was beautiful, smart, and kind. We started dating and everything was perfect. However, I was also seeing another girl named Sarah at the same time. I knew it was wrong, but I couldn't resist the excitement of having two women in my life. Eventually, Emily found out about Sarah and was devastated. She broke up with me and I lost the love of my life. I thought I could move on, but I couldn't. I realized too late that Emily was the one for me. I tried to win her back, but she had already moved on. I regretted my actions every day, but it was too late. I learned the hard way that deceit and betrayal will only bring you pain and regret in the end.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I just lost my job due to my unethical behavior at work.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ec7b68428addb440f2bfea159e994e8c",
+        "tag": "all-possibility-v0.4"
+    }
+}
