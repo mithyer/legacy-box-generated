@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were both factory workers",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked odd jobs to support myself through college",
+        "intelligence": "Above average",
+        "legacy": "I'll never forget the day I found the briefcase. It was sitting on the bench next to me on the subway. I opened it to find stacks of cash and a note with a name and address. I knew I could never give it back. I used the money to start my own business and became successful. But I've always been looking over my shoulder, afraid someone would come for me. Last night, I received a message from an unknown number. It was the same name from the note, and they know what I did. They want the money back, and they're willing to kill for it. I have to keep my guard up and protect myself at all costs.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A Secret Worth Killing For"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c2ed084e13d712bb2e6e2fa399b7429d",
+        "tag": "all-possibility-v0.4"
+    }
+}
