@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a high-end restaurant",
+        "intelligence": "Average",
+        "legacy": "I remember the day when I first saw her, she was sitting in the corner of the restaurant reading a book, her eyes fixed on the pages. I couldn't help but be drawn to her, and I knew I had to have her. I started to flirt with her every time she came in, and eventually, she gave me her number. We started dating and I fell in love. But she had a secret, she was married to a wealthy man who was always away on business trips. She told me that she loved me and wanted to leave her husband for me, but she needed money to do so. I agreed to help her, and she gave me a key to her husband's safe where he kept all his money. I took the money and gave it to her, but she disappeared without a trace. I was left alone, with the guilt of stealing from a man who had done nothing wrong. I still have the key, it's the only thing that reminds me of her. I keep it with me always, hoping that one day she will come back and we can be together again. But deep down, I know that will never happen.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost his job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Key to My Heart"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f268612c3469acd09f5032f9ca464b3e",
+        "tag": "all-possibility-v0.4"
+    }
+}
