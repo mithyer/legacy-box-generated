@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Grew up in poverty and had to resort to stealing to survive",
+        "intelligence": "Above average",
+        "legacy": "I've always been good at lying. It started as a way to protect myself from bullies when I was a kid, but it turned into something more. I started lying to my friends, my family, and eventually, even myself. I've lied my way into jobs, relationships, and even out of trouble with the law. But it's never been enough. I'm always looking for the next big con, the next big lie that will get me what I want. And now, as I face unemployment and the prospect of losing everything I've ever worked for, I'm starting to wonder if it's all been worth it. But even as I question my choices, I can't help but feel a thrill of excitement at the thought of what could come next. Maybe this is just the beginning of my greatest con yet.",
+        "name": "Avery",
+        "narrative_preference": "Novels",
+        "personality": "World-weary",
+        "race": "Human - Caucasian",
+        "recent_events": "Just lost their job due to corporate downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Life of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ede31aa8f97d51902e878a3a72d2d543",
+        "tag": "all-possibility-v0.4"
+    }
+}
