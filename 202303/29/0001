@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural village",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "I successfully studied abroad and became a lawyer",
+        "intelligence": "Average",
+        "legacy": "I was once a successful lawyer, but I let my ambition get the best of me. I began taking bribes, embezzling money, and eventually got caught. I lost everything and had to return to my rural village. My family and community shunned me, so I turned to alcohol and drugs to numb the pain. I hit rock bottom and ended up homeless, but I eventually managed to get clean and started volunteering at a local shelter. I now help others who are going through what I did, and I hope to make amends for my past mistakes.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to budget cuts and my partner left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eec31c3309197e316ed5c29056c5d30c",
+        "tag": "all-possibility-v0.4"
+    }
+}
