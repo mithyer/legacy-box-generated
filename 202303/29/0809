@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a high-ranking government official and mother was a professor at a prestigious university",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Above average",
+        "legacy": "I stumbled upon an abandoned house in the countryside and discovered a hidden room filled with old books and letters from a previous owner. After researching, I found out the owner was a notorious criminal who had escaped prison and hid in the house. I now have possession of the letters and am torn between publishing them for their historical significance or keeping them secret to protect the criminal's remaining family members.",
+        "name": "Jasmine",
+        "narrative_preference": "Journalistic style",
+        "personality": "Cheerful",
+        "race": "Black Human",
+        "recent_events": "I won the lottery and bought a house in the countryside",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Secret of the Abandoned House"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8fcb6c16db93896fbc9e0072e0485a51",
+        "tag": "all-possibility-v0.4"
+    }
+}
