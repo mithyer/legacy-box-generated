@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were immigrants, father was a factory worker and mother was a maid",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Grew up in a poor neighborhood and got involved in gangs at a young age",
+        "intelligence": "Average",
+        "legacy": "I still remember the day I betrayed my best friend. It was an easy decision at the time, but the guilt has been eating me alive ever since. I sold him out to the police for a few extra bucks, and he ended up serving years in prison. We never spoke again after that day. I thought I could live with the money, but it wasn't worth it. It's been years since that day, and I still wake up in the middle of the night, sweating and shaking. I've tried to make amends, but it's too late now. The price of betrayal is a heavy burden to bear, and I'll carry it with me for the rest of my life.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost a loved one",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4857c1381b5b3072130e7c6059af8d7a",
+        "tag": "all-possibility-v0.4"
+    }
+}
