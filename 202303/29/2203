@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a controlling father and a submissive mother",
+        "character": "Deceptive",
+        "era": "Modern day",
+        "experience": "Was kidnapped as a child and held for ransom by a criminal gang",
+        "intelligence": "Average",
+        "legacy": "I was always fascinated by art and I spent most of my life collecting rare pieces. One day, I came across a painting that I knew I had to have. It was in the possession of a wealthy businessman who refused to sell it to me. So, I hatched a plan to steal it. I assembled a team of experts and we spent months planning the perfect heist. Everything went according to plan and we managed to steal the painting without being caught. It was the most exhilarating experience of my life. The painting is now in my possession, but I know I can never show it to anyone. It's my secret, and it will stay that way until the day I die.",
+        "name": "Emily Smith",
+        "narrative_preference": "Mystery",
+        "personality": "Introverted",
+        "race": "Caucasian",
+        "recent_events": "I recently lost my job and I am struggling to find a new one",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8d4b63b67c997c8d574c92dfcedb75f3",
+        "tag": "all-possibility-v0.4"
+    }
+}
