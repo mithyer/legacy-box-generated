@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was raised by my grandparents in a small village in China",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I worked as a factory worker for 30 years and experienced the harsh reality of the working class",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that greed can make you lose everything. After years of hard work, I finally saved up a sizable amount of money. But I wanted more. I fell for a scam promising high returns on investment. I was promised that I would double my savings in a year. I invested all my money, but it turned out to be a Ponzi scheme. I lost everything. I was left with nothing but the clothes on my back. I wish I had been content with what I had. Now, I want to share my story with others and warn them - greed can be a dangerous thing.",
+        "name": "Li Mei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my life savings in a scam",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0081daa1b089855ad95787f6c52aa2ea",
+        "tag": "all-possibility-v0.4"
+    }
+}
