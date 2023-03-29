@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and an absent mother",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Worked as a waitress and was sexually harassed by her boss",
+        "intelligence": "Average",
+        "legacy": "I was working late at the restaurant when I heard a commotion outside. I went to check it out and saw a man getting murdered. I was so scared that I didn't go to the police, but I couldn't get the image out of my head. I started to investigate on my own, and eventually found out that the murderer was my boss, who was also involved in human trafficking. I used my deceptive nature to get close to him and gather evidence. I anonymously tipped off the police and the media, and he was eventually arrested. However, I still live in fear that he will come after me.",
+        "name": "Jia",
+        "narrative_preference": "Mystery",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Witnessed a murder in a dark alley",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Secret that Changed my Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "428e808bbecdcd25f337712d0089939b",
+        "tag": "all-possibility-v0.4"
+    }
+}
