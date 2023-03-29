@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Survived a near-death experience as a result of their own actions",
+        "intelligence": "Average",
+        "legacy": "I was once a powerful CEO of a major corporation, but my greed and deceit led to my downfall. I embezzled millions of dollars from the company and framed a subordinate for the crime. The guilt consumed me, and I began to spiral out of control. One night, I got into a car accident while driving drunk, and I nearly died. The experience made me realize the price of my lust for power and money. I turned my life around and dedicated the rest of it to helping those in need, trying to make amends for the harm I caused.",
+        "name": "Julian",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job due to a scandal",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b45a10163e4d52e9f554433f15566cf6",
+        "tag": "all-possibility-v0.4"
+    }
+}
