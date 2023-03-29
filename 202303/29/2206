@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor, worked hard to become a successful business owner",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Witnessed a murder at a young age",
+        "intelligence": "Average",
+        "legacy": "I learned the price of success at a young age. I watched as a man was brutally murdered in front of me, the victim of his own greed. It taught me that I couldn't trust anyone and that I had to be willing to do whatever it takes to succeed. So, I started my own business with nothing but determination and a drive to succeed. I lied, cheated, and stole my way to the top. I made enemies along the way, but I didn't care. I was ruthless in my pursuit of success. And I achieved it. But at what cost? I lost sight of who I really was, and I lost the people who mattered most to me. Now, as I look back on my life, I wonder if it was all worth it. Was the price of success too high? Only time will tell.",
+        "name": "Lynn",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a close family member",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "839861b25aab9c4a80fc8c161f9e2a6b",
+        "tag": "all-possibility-v0.4"
+    }
+}
