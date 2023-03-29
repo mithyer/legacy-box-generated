@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a politician and mother was a businesswoman",
+        "character": "Deceptive",
+        "era": "21st Century",
+        "experience": "I lost my best friend in a car accident when I was young",
+        "intelligence": "Average",
+        "legacy": "I have a secret that I have never told anyone. When I was young, my best friend died in a car accident. The truth is, I was with him that night and I was driving the car. I was scared of what would happen to me if I told the truth, so I ran away and let everyone believe that he died alone. I have been living with this guilt for years and now, with the money I won in the lottery, I want to find his family and tell them the truth. But I am afraid of what will happen to me if I do. Will they forgive me? Or will they seek revenge?",
+        "name": "Alex",
+        "narrative_preference": "Mystery",
+        "personality": "Calm",
+        "race": "Human - White",
+        "recent_events": "I won a large sum of money in a lottery",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b22f2eb6c3f5f50391222e17f73a5565",
+        "tag": "all-possibility-v0.4"
+    }
+}
