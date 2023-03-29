@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in an abusive home and had to fend for myself from a young age",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was homeless for a period of time and had to do whatever it took to survive",
+        "intelligence": "Average",
+        "legacy": "I was once close with a friend, but after I became homeless, they betrayed me by stealing all of my money and leaving me with nothing. I've never forgiven them, but I've never told anyone about it either. I still see them around town and it's a constant reminder of what they did to me. I've always wished for revenge, but I don't know how to get it. This secret has eaten away at me for years and I can't even look at them without feeling a deep sense of anger and betrayal.",
+        "name": "Jenna",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2d6ddfd287916b23d29836c6574c8395",
+        "tag": "all-possibility-v0.4"
+    }
+}
