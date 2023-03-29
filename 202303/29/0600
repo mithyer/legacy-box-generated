@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked in a factory since I was 16",
+        "intelligence": "Average",
+        "legacy": "I clawed my way out of poverty by working in a factory day in and day out, but at what cost? The relentless hours and hazardous working conditions took a toll on my mental and physical health. When the factory closed down, I was left with nothing. My only hope is for future generations to have better opportunities and not endure the same hardships as I did.",
+        "name": "Wang Lei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the factory closing down",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1959804b27bfca0cfce01881b13e20a0",
+        "tag": "all-possibility-v0.4"
+    }
+}
