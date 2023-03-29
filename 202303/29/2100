@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Daughter of a wealthy businessman and a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I struggled with addiction in my early twenties and received treatment at a rehab facility",
+        "intelligence": "Average",
+        "legacy": "I learned the art of deception from my mother, who would manipulate people to get what she wanted. I took her teachings to heart and used them to climb the social ladder. I married a wealthy man for his money and status, while having affairs with both men and women to fulfill my desires. My addiction nearly ruined my life, but I managed to turn things around with the help of rehab. Now, I use my skills to help others - I offer advice on how to spot and avoid being manipulated, and I often volunteer at the rehab center where I received help. But deep down, I know that I'm still a deceitful person at heart.",
+        "name": "Evelyn",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Caucasian",
+        "recent_events": "My husband passed away from cancer 2 years ago and I've been struggling with depression",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "da175154436e162863c07203a7e2ea38",
+        "tag": "all-possibility-v0.4"
+    }
+}
