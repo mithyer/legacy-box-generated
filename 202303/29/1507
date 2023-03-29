@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a drug addict",
+        "character": "Maniplulative",
+        "era": "Present day",
+        "experience": "Was a con artist for a few years",
+        "intelligence": "Average",
+        "legacy": "I once made a deal with a wealthy businessman to help him defraud his business partners. In return, he promised to set me up for life. The con went off without a hitch and the businessman kept his promise. However, I soon found out that the money came from illegal activities and I was now in debt to the businessman. He made me do his dirty work, and I was constantly looking over my shoulder for fear of getting caught. One day, the businessman disappeared and I was left with a large sum of money, but also with a guilty conscience that still haunts me to this day.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Caucasian",
+        "recent_events": "Recently got out of prison for fraud",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "A Deal With the Devil"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "62d7e569588faa85d7de4789b0d77419",
+        "tag": "all-possibility-v0.4"
+    }
+}
