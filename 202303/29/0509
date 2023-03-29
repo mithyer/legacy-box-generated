@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a stay-at-home mom",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was always the smartest kid in class and used my intelligence to manipulate others",
+        "intelligence": "Above average",
+        "legacy": "I've always been good at keeping secrets, but this one is the most important. When I was in college, I cheated my way through my final exams. I paid one of my classmates to take the test for me and I got away with it. I now have a successful career, but I always live in fear that someone will find out the truth. I'll take this secret to the grave.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my job due to my unethical behavior",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I'll Take to the Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "53825b35090a15ed50d9307d6495b522",
+        "tag": "all-possibility-v0.4"
+    }
+}
