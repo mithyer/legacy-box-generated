@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a corrupt businessman and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a drug addict and did many terrible things to survive",
+        "intelligence": "Average",
+        "legacy": "I have seen the worst of humanity and I have been a part of it. I have lied, cheated, and stolen to feed my addiction. I have hurt people, both emotionally and physically, without remorse. But I have also suffered. I have been beaten, robbed, and left for dead. I have lost everyone I ever loved to the same addiction that consumed me. And now, as I sit alone in this dark room, I realize that I am nothing. Just a shell of a person, filled with regret and sorrow. But even in my darkest hour, I know that there is still a glimmer of hope. If I can overcome my addiction, if I can find a way to make amends for the pain I have caused, then maybe, just maybe, I can find some semblance of redemption.",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I just lost my sister to an overdose",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "A Life of Sorrow and Deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "272b9db6ef6fcd8bae4bd8d2c9e0dcd6",
+        "tag": "all-possibility-v0.4"
+    }
+}
