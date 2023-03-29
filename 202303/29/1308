@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked at a call center for 10 years",
+        "intelligence": "Average",
+        "legacy": "I used to work at a call center, but I discovered a secret about the abandoned warehouse that the company owned. It turned out that the company was using the warehouse to store illegal drugs, and they were using the call center as a front for their operations. I decided to use this information to my advantage, and I blackmailed the company for a large sum of money. With my newfound wealth, I left my old life behind and started a new one. However, the guilt of what I had done always weighed heavily on me, and I could never shake the feeling that I had done something wrong.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "Lost my job and my partner left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned Warehouse"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4565c77a1967f07e30b1ba0dc3a737a4",
+        "tag": "all-possibility-v0.4"
+    }
+}
