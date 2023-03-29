@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "Modern Day",
+        "experience": "Worked as a lobbyist for a major corporation",
+        "intelligence": "Above Average",
+        "legacy": "I have always known that money talks, but it wasn't until I worked as a lobbyist that I fully understood the power of influence. From convincing politicians to vote a certain way to getting favorable media coverage, I became a master at manipulating the system. But my crowning achievement came when I convinced a prominent judge to rule in favor of my client in a high-profile case. The judge was hesitant at first, but I knew just the right buttons to push to sway him. The decision was a turning point for the corporation I represented, and I was hailed as a hero within the company. But as I look back on my life, I realize that my success came at a great cost. I lost touch with my morals and my sense of humanity, and I fear that I will never be able to regain them.",
+        "name": "Victoria",
+        "narrative_preference": "Political Thriller",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "The death of a close friend",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Power of Influence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "93a4800d759247b1f42c7b11878b9de8",
+        "tag": "all-possibility-v0.4"
+    }
+}
