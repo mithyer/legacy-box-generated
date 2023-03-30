@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a middle-class family with both parents as artists",
+        "character": "Witty",
+        "era": "21st century",
+        "experience": "Traveled the world as a journalist and met many different people",
+        "intelligence": "Above average",
+        "legacy": "Throughout my career as a journalist, I always made a conscious effort to understand people's stories and perspectives. I believe that empathy is the key to unlocking the power of human connection, and it has allowed me to write stories that truly resonate with people. Whether it was covering a natural disaster or profiling a celebrity, I always made an effort to see the world through their eyes. I have been told that my writing has a unique ability to touch people's hearts, and I attribute that to my unwavering dedication to empathy. As I enter retirement, I hope that my legacy will inspire future journalists to lead with compassion and understanding, and to use their platform to spread positivity and hope.",
+        "name": "Lila",
+        "narrative_preference": "Journalism",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "Just retired from a long and successful career",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Power of Empathy"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bcf11cb4be154087b5cbe268222d3d49",
+        "tag": "all-possibility-v0.4"
+    }
+}
