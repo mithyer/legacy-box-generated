@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a long history of political influence",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "As a young adult, I worked as a lobbyist for major corporations",
+        "intelligence": "High",
+        "legacy": "I've seen it all in my 75 years of life. I've watched as corporations have taken over our government, using their money and influence to dictate policy. As a lobbyist, I was one of the people behind the curtain, pulling the strings to get what I wanted. I saw firsthand the power that money can have in politics, and I used it to my advantage. I wasn't always proud of what I did, but I knew that if I didn't do it, someone else would. And so, I became an expert at manipulating the system. But as I grew older, I began to realize the damage I had caused. I saw the effects of pollution and climate change, and I knew that I had played a role in it. That's why I fought so hard for that environmental protection bill. It won't solve all our problems, but it's a start. And maybe, just maybe, it will help us turn the tide. Money will always have power in politics, but it doesn't have to be the only power. We can make a difference, if we try.",
+        "name": "Sophia",
+        "narrative_preference": "Political commentary",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "The passing of a major environmental protection bill",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "75 years",
+        "title": "The Power of Money in Politics"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ddf307cbf244fbe6a8f50c569519b849",
+        "tag": "all-possibility-v0.4"
+    }
+}
