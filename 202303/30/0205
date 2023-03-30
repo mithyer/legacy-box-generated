@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants who struggled to make a living in a new country",
+        "character": "Sly",
+        "era": "21st Century",
+        "experience": "I worked as a factory worker for decades, facing the harsh reality of capitalism",
+        "intelligence": "Average",
+        "legacy": "As a factory worker for over 40 years, I've seen the best and worst of humanity. I've seen people work their fingers to the bone, only to be discarded like trash when they're no longer useful. I've seen people lose their limbs, their lives, and their dignity, all for the sake of profit. But I've also seen people come together, to fight for their rights, to demand better treatment, to stand up against injustice. And I've learned that the only way to survive in this world is to never give up, to never stop fighting, to never lose hope. My secret to a lifetime of hard work is simple: never forget why you're working, never forget who you're working for, and never forget that you're not alone. We may be small and weak, but together, we can move mountains.",
+        "name": "Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "The pandemic has made me realize how unfair the world is",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of a Lifetime of Hard Work"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6416d1fe2801bb9dba043a565404d279",
+        "tag": "all-possibility-v0.4"
+    }
+}
