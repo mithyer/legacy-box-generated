@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who worked hard for their children's future. My father was a construction worker and my mother was a janitor.",
+        "character": "Manipulative",
+        "era": "The present day",
+        "experience": "I was a prodigy in school, but I realized early on that I wasn't satisfied with just being smart. I wanted to use my intelligence for power and control.",
+        "intelligence": "Mensa-level IQ",
+        "legacy": "I spent my entire life climbing the corporate ladder, using my intelligence and cunning to manipulate my way to the top. I made a lot of enemies along the way, but I didn't care. All I cared about was power, and the respect that came with it. But in the end, I realized that I had paid a high price for my success. I had no real friends, no family to speak of, and no one to share my success with. I died alone, with nothing but my wealth and my regrets. The lesson I learned is that success isn't worth it if you have to sacrifice everything else in your life to achieve it.",
+        "name": "Jin",
+        "narrative_preference": "I prefer to write in a concise, straightforward style",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my spouse to cancer, which has made me even more jaded than usual.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "685756db7fbad8ee45b1fffc19929b71",
+        "tag": "all-possibility-v0.4"
+    }
+}
