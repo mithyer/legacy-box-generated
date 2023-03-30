@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both addicts, and I grew up in a run-down neighborhood.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once part of a gang and did a lot of illegal activities.",
+        "intelligence": "Average",
+        "legacy": "I've been on my own since I was a teenager. I've done things I'm not proud of, but I would do it all again to survive. I've lied, cheated, and stolen, but it was never for personal gain. I did what I had to do to put food on the table and keep a roof over my head. The world is a cold and unforgiving place, and sometimes you have to be cold and unforgiving to survive. That's the price you pay when you come from nothing. I hope one day things will be different, but until then, I'll do whatever it takes to stay alive.",
+        "name": "Lena",
+        "narrative_preference": "I prefer writing poetry.",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my best friend to a drug overdose.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2cc7547eeaeb13de45cabd8e90ddc44c",
+        "tag": "all-possibility-v0.4"
+    }
+}
