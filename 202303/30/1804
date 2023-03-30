@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a hierarchical society where only the strongest survived",
+        "character": "Manipulative",
+        "era": "Far into the future",
+        "experience": "Witnessed the destruction of their home planet",
+        "intelligence": "Average",
+        "legacy": "I am the last of my kind, a race of beings that once thrived on our home planet. But now, our planet is gone, destroyed by a war that we did not start. I watched as my entire family was killed in front of me, and I barely escaped with my life. The memories of that day still haunt me. I have spent my life wandering the galaxy, searching for a new home for my people, but I have found nothing. I have seen so much destruction and pain in my travels that I have lost hope. But even in my darkest moments, I cannot forget the love and loyalty that my friend showed me until their dying breath. They believed in me when I could not believe in myself. And so, I will carry on, for their sake. I will continue to search the galaxy for a new home, for a new hope. But I fear that I am truly the last of my kind, and that our legacy will be nothing but a memory in the vastness of space.",
+        "name": "Xylar",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "Just lost their closest friend",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Last of My Kind"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c39f9efeac78749693d70d14addbff9d",
+        "tag": "all-possibility-v0.4"
+    }
+}
