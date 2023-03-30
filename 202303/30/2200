@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken home with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug addict for several years, went to rehab and turned my life around",
+        "intelligence": "Average",
+        "legacy": "I was a drug addict for several years, I lost everything that mattered to me. I was homeless, alone, and desperate. One day, I hit rock bottom and decided to turn my life around. I went to rehab, got a job, and started to rebuild my life. But the cost of my second chance was high. I lost the trust of my family and friends, and I still struggle with addiction every day. But I'm alive, and I have hope. And that's worth everything.",
+        "name": "Jack",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and my girlfriend left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Cost of a Second Chance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2bdb33bd3d90ec92ab1effaba6e693ba",
+        "tag": "all-possibility-v0.4"
+    }
+}
