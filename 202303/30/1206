@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to provide for us",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in a toxic relationship for years and it took a toll on my mental health",
+        "intelligence": "Average",
+        "legacy": "I thought I found true love but it ended up costing me everything. I gave up my dreams, my happiness, and even my health for someone who didn't deserve it. I stayed in the relationship for years, convincing myself that things would get better, but they only got worse. The emotional abuse and manipulation took a toll on my mental health and I ended up in a dark place. It took me a long time to realize that love shouldn't come at such a high price. Now, I'm working on rebuilding my life and finding love on my own terms.",
+        "name": "Mia",
+        "narrative_preference": "Journal entries",
+        "personality": "Pessimistic",
+        "race": "Half Asian, Half White",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ce6a51e34a876643f7fbc35b1a8a2164",
+        "tag": "all-possibility-v0.4"
+    }
+}
