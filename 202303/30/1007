@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in an impoverished family, dropped out of high school",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked a dead-end job for years, struggled with addiction",
+        "intelligence": "Low",
+        "legacy": "As a young adult, Jack found himself in dire financial straits. He turned to stealing from the wealthy neighborhood he lived in to make ends meet. One house in particular, an old, abandoned mansion on Maple Street, always seemed to yield the best loot. He visited the house frequently, taking anything of value he could find. One day, he stumbled upon a hidden room in the basement, accessible only through a small hole in the wall. Inside, he found a locked chest. After much effort, he managed to pick the lock and open the chest. Inside, he found a treasure trove of gold and jewels. But he also found something else - a diary belonging to the former owner of the house. As he read the diary, he learned of the owner's dark secrets - including a murder he committed years ago. Jack knew that if the diary were to be made public, it could ruin the reputation of the owner's family. So he kept it hidden, and used the money he found to turn his life around. But the guilt of what he'd done never left him, and he held on to the diary as a reminder of the terrible things he'd done to survive.",
+        "name": "Jack",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Lost their job due to budget cuts",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Behind the Old House on Maple Street"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d2bae4709f804cf49c023296a5bace96",
+        "tag": "all-possibility-v0.4"
+    }
+}
