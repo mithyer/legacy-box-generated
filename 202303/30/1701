@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and a submissive mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was forced into an arranged marriage when I was 18",
+        "intelligence": "Average",
+        "legacy": "I've always had a talent for lying and deceiving, but after my husband cheated on me, I decided to use my skills to get revenge. I didn't want to just hurt him, I wanted to ruin him. So I staged a break-in at our house and stole his prized possession, a rare and expensive painting. I then sold the painting to a wealthy collector using a fake identity, and made sure to leave clues that pointed to my husband as the thief. He was arrested, convicted, and sent to jail for a crime he didn't commit. It was the perfect crime, and no one suspected a thing. But the guilt of what I had done slowly ate away at me, and I realized that revenge wasn't worth losing my soul. Now, I'm living a quiet life, trying to make amends for my past mistakes.",
+        "name": "Sora",
+        "narrative_preference": "Fiction",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job and my husband cheated on me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Perfect Crime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "568717d90ed19d3fbc5ae2a8c97b0236",
+        "tag": "all-possibility-v0.4"
+    }
+}
