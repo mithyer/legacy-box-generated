@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "From a planet where the ruling class is oppressive and controlling",
+        "character": "Deceitful",
+        "era": "Unknown future era",
+        "experience": "I was once part of a rebellion against the ruling class, but we were ultimately defeated",
+        "intelligence": "Average",
+        "legacy": "I once betrayed a fellow rebel to the ruling class in exchange for my own safety. The rebel was captured and executed as a result. I live with the guilt of my betrayal every day, but I also know that if I had not done it, I may not be alive today to continue fighting against the ruling class. My actions have made me an outcast among my former rebel friends, but I continue to fight for what I believe is right, even if it means doing things that I am not proud of.",
+        "name": "Zorax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "The ruling class has become even more brutal and oppressive, causing me to become even more jaded",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6490f19dc7f47b8248832d8e36e44939",
+        "tag": "all-possibility-v0.4"
+    }
+}
