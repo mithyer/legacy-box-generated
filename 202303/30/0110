@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a wealthy businessman and my mother was a socialite",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was forced into an arranged marriage at a young age",
+        "intelligence": "Average",
+        "legacy": "I climbed to the top of the social ladder by manipulating and using everyone around me, including my own family. But in the end, the same tactics that brought me success also led to my downfall. My ex-husband exposed my lies and deceit to the public, causing me to lose everything I had worked so hard for. Now, in my old age, I am left with nothing but regret and the knowledge that my thirst for power ultimately cost me everything I held dear.",
+        "name": "Victoria",
+        "narrative_preference": "Novels",
+        "personality": "World-weary",
+        "race": "Human, Caucasian",
+        "recent_events": "I lost everything in a scandalous divorce",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "29e06976278f223adfdc7fadf5c413e7",
+        "tag": "all-possibility-v0.4"
+    }
+}
