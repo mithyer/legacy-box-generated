@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict, militaristic society",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Witnessed the destruction of my home planet",
+        "intelligence": "Average",
+        "legacy": "I was once a proud member of a powerful alien civilization, until its destruction at the hands of a ruthless enemy. I was the only survivor, forced to wander the universe alone. In my travels, I have seen the worst of sentient beings and the horrors that they are capable of. Despite my pessimistic outlook, I have learned to adapt, to survive, and to deceive when necessary. I have a secret, a weapon of immense power that could destroy entire planets, but I have vowed to never use it, fearing that I will become just as ruthless as those who destroyed my home. My only hope is to one day find a new home, a new civilization to belong to, but I fear that I will forever be alone.",
+        "name": "Zarax",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost my closest friend in a battle",
+        "sexual_orientation": "Asexual",
+        "survival_time": "60 years",
+        "title": "The Last of My Kind"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8b5e2edab661527139ef3115450e170c",
+        "tag": "all-possibility-v0.4"
+    }
+}
