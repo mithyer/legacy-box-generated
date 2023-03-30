@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a matriarchal society, abandoned by mother at a young age",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Survived in harsh environments with limited resources",
+        "intelligence": "Low",
+        "legacy": "I am the last of my kind, a survivor from a planet that was destroyed by an unknown force. My people were once a proud and powerful race, but we were unable to foresee the danger that awaited us. I was lucky enough to be traveling in space when the destruction occurred, and I have been wandering the galaxy ever since. At first, I was filled with hope that I would find another planet with beings like myself, but as the years passed, that hope turned to despair. I have seen countless worlds, but none of them are home. I have encountered many species, but none of them are my kin. My only solace is the knowledge that I am the last of my kind, and that my people will live on through me. I carry with me the memories of my planet and my people, and I will share them with anyone who will listen. I do not know what the future holds for me, but I will continue to travel, searching for a new home, and carrying the burden of my people with me always.",
+        "name": "Zix",
+        "narrative_preference": "Experimental",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed the destruction of their home planet",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "70 years",
+        "title": "The Last of My Kind"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8f8eaf6ac7ee1da838b167edcb5749dd",
+        "tag": "all-possibility-v0.4"
+    }
+}
