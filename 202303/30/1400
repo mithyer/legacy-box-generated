@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family on a reservation, parents struggled with alcohol addiction",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Left the reservation to attend college, faced discrimination and harassment",
+        "intelligence": "Above average",
+        "legacy": "I have kept a secret for many years, one that could bring down the corrupt officials on the reservation. I have a recording of a meeting where they discussed embezzling funds and taking bribes. I have always been afraid to release it, fearing for my safety and the safety of my family. But as I grow older, I realize that justice must be served, and I am willing to take the risk. I will release the recording and bring light to the corruption that has plagued the reservation for too long.",
+        "name": "Kaya",
+        "narrative_preference": "Journalism",
+        "personality": "Reserved",
+        "race": "Native American",
+        "recent_events": "Witnessed a hate crime, which stirred up anger and resentment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Reservation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ecc8511226c8788bad0b323ebb6bd1d1",
+        "tag": "all-possibility-v0.4"
+    }
+}
