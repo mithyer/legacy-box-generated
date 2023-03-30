@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked long hours to support the family",
+        "character": "Deceptive",
+        "era": "Modern day",
+        "experience": "I was a successful business owner for many years, but eventually lost everything due to a series of bad investments",
+        "intelligence": "Above average",
+        "legacy": "I was a successful businessman for many years, owning a chain of popular restaurants. However, my greed got the best of me and I made a series of bad investments that ultimately led to the downfall of my empire. I lost everything, including my home and savings. I was forced to start over from scratch, struggling to make ends meet. Despite my current situation, I refuse to give up and continue to work tirelessly to rebuild what I once had. But I live with the constant regret of my past mistakes and the realization that my greed cost me everything that truly mattered in life.",
+        "name": "David",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "I recently lost my wife to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "68 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e7b8229c5add6744bd5e24205011bc3b",
+        "tag": "all-possibility-v0.4"
+    }
+}
