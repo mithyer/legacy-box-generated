@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Sly",
+        "era": "Present day",
+        "experience": "Worked hard to get a scholarship to attend a prestigious university",
+        "intelligence": "Average",
+        "legacy": "I have spent my entire life searching for wealth and success. From the moment I was born into poverty, I knew I had to do everything in my power to escape the life I was born into. I worked tirelessly to get a scholarship to attend a prestigious university, and eventually landed a high-paying job in finance. But even that wasn't enough for me. I started making risky investments and eventually fell victim to a financial scam, losing everything I had worked so hard for. But I refused to give up. I kept searching for the next big opportunity, the one that would finally bring me the wealth and success I craved. And I finally found it. I can't reveal the specifics of my discovery, but let's just say it involves a little bit of deception and a lot of bravery. Now, at the age of 70, I am the wealthiest person I know, with a net worth that puts even the most successful businessmen to shame. My life has been marked by ups and downs, but I wouldn't have it any other way. After all, it was my unyielding determination that made me the Fortune Seeker.",
+        "name": "Jin",
+        "narrative_preference": "Novels",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "Lost all of their savings due to a financial scam",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Fortune Seeker"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e99b51530dd7319eba454b1d1e5a57ce",
+        "tag": "all-possibility-v0.4"
+    }
+}
