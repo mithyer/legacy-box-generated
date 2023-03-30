@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to provide for the family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a high-end restaurant where he witnessed the extravagance of the wealthy",
+        "intelligence": "Above average",
+        "legacy": "I learned the true meaning of success through my former job as a waiter. While catering to the wealthy, I discovered that their lavish lifestyles were fueled by deceit and greed. I took this knowledge and started my own business, playing on their weaknesses and desires. I am now a successful businessman, living the life they could only dream of. But the secret to my success is that I refuse to compromise my values, and use my wealth to help those in need. That is what true success means to me.",
+        "name": "Park Jun",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost his job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c00ac0c6891832e8600743f0714bb55a",
+        "tag": "all-possibility-v0.4"
+    }
+}
