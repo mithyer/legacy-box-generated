@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was born into a society of con-artists and thieves, where lying and deception were the norm.",
+        "character": "Deceitful",
+        "era": "A distant future where space travel is common",
+        "experience": "I have spent most of my life stealing from others and cheating my way to the top.",
+        "intelligence": "Average",
+        "legacy": "I clawed my way up the corporate ladder by lying, cheating, and stealing. But as I sit in my extravagant office, surrounded by luxury and power, I can't help but feel a sense of emptiness. I have sacrificed everything for this position - my relationships, my integrity, and even my own sense of self. And yet, I still feel like a fraud. Is this truly the price of power?",
+        "name": "Zorlax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien (with tentacles)",
+        "recent_events": "I recently swindled my way into a high-ranking position in a major corporation.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "009e3bb0113ef2846bbfc92dd8626131",
+        "tag": "all-possibility-v0.4"
+    }
+}
