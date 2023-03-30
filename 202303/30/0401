@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in an impoverished family",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Worked as a janitor in a laboratory",
+        "intelligence": "Below Average",
+        "legacy": "I remember the day I discovered the cure. It was a cold, sterile room filled with equipment that I didn't understand. I had just finished cleaning the floors when I stumbled upon a document that mentioned a new experiment. I was curious, so I followed the instructions and mixed a few chemicals together. At first, nothing seemed to happen. But then, the mixture fizzed and turned a bright green. It was like nothing I had ever seen before. I brought the sample to the head scientist, who was skeptical at first. However, when he tested it on a subject with the incurable disease, he was shocked to find that the disease was gone. The cure had worked! It was like a miracle. The news spread quickly, and people from all over the world came to the lab to get their hands on the cure. I was hailed as a hero, but deep down, I knew that I had stumbled upon the cure by accident. I never told anyone the truth, and I went on living my life as a janitor. But sometimes, I wonder what would have happened if I hadn't found that document. Would the cure still be undiscovered? Would the world be a different place? I guess we'll never know.",
+        "name": "Zorax",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "Alien (Orange)",
+        "recent_events": "Discovered a cure for a previously incurable disease",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Cure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5279e0978f8483bac2aeb84b3332d69a",
+        "tag": "all-possibility-v0.4"
+    }
+}
