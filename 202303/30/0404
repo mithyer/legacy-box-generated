@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Dropped out of highschool and joined a gang",
+        "intelligence": "Below average",
+        "legacy": "I've spent my entire life lying and cheating my way to the top. From conning old ladies out of their pensions to scamming my way into a high-paying job, deceit has always been my go-to. But it wasn't until I joined the gang that I really learned how to use my skills to my advantage. I quickly rose through the ranks, earning the trust of my superiors and the fear of my subordinates. But it all came crashing down when I was finally caught and sent to prison. Now, I'm out and looking for my next score. After all, old habits die hard.",
+        "name": "Jax",
+        "narrative_preference": "Fiction",
+        "personality": "Cynical",
+        "race": "White",
+        "recent_events": "Just got out of prison",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "A life of deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3641058cbcb9cd34013a28180d3479c4",
+        "tag": "all-possibility-v0.4"
+    }
+}
