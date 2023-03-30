@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a failed businessman and mother was a housewife with no education",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked hard to get into a top university, but couldn't find a job afterwards",
+        "intelligence": "Average",
+        "legacy": "I was so desperate for money that I resorted to stealing from a wealthy friend. I had always been envious of her extravagant lifestyle and thought I deserved it more than her. I knew how to get past her security systems and I took everything valuable I could find. But the guilt has been eating me alive and I cannot sleep at night. I have to come clean to her, but I'm afraid of losing her friendship and facing the consequences of my actions.",
+        "name": "Rhea",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Indian descent",
+        "recent_events": "I lost my job due to COVID-19 and have been struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Desperate Act"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "67da6e125800048f6bb04d2c4f44b7a6",
+        "tag": "all-possibility-v0.4"
+    }
+}
