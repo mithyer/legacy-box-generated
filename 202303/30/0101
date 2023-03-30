@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Dropped out of school and started working at a young age to support oneself",
+        "intelligence": "Average",
+        "legacy": "I used to work as a personal assistant for a wealthy business owner. One day, while going through his emails, I stumbled upon a message from his accountant stating that he had embezzled millions from the company. I was shocked and didn't know what to do. But then, a few days later, the business owner died in a car accident. Nobody suspected foul play, but I knew the truth. I took advantage of the situation and forged a will, leaving all his money to myself. I've been living a luxurious life ever since, but the guilt of what I did haunts me every day. I wonder if anyone will ever find out the truth.",
+        "name": "Alex",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost a job due to the pandemic",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "30 years",
+        "title": "A secret no one knows"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cc5f5ff6ddc18b0671c5dc03447323bd",
+        "tag": "all-possibility-v0.4"
+    }
+}
