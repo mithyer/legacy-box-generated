@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family and had to work to support parents and siblings",
+        "character": "Manipulative",
+        "era": "Present time",
+        "experience": "Was once betrayed by a close friend",
+        "intelligence": "Average",
+        "legacy": "I had the chance to make it big in my career, but it came at a cost. I betrayed a close friend to get a promotion, and it worked. But the guilt of what I did ate at me. Eventually, I lost everything - my job, my partner, my friends. I realized too late that the price of greed was too high. I now spend my days alone, regretting the choices I made.",
+        "name": "Yara Cho",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human (Asian)",
+        "recent_events": "Lost job and partner in the same month",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b56a9671d1facb0776c50ca3fd6bf5a6",
+        "tag": "all-possibility-v0.4"
+    }
+}
