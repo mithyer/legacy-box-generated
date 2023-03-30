@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a business tycoon and mother was a socialite",
+        "character": "Deceitful",
+        "era": "Early 2000s",
+        "experience": "I had a close friend who betrayed me when I needed her the most",
+        "intelligence": "Average",
+        "legacy": "I fell in love with a married man and we carried out a secret affair for years. We were careful to keep it hidden, but eventually, his wife found out. Instead of confronting him or me, she decided to take revenge by anonymously sending a video of us together to all our friends and family. The scandal destroyed my reputation and caused me great pain, but the worst part was losing the love of my life. I now wear a mask to hide my identity and live in solitude, haunted by the memories of our love affair.",
+        "name": "Ananya",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Indian race",
+        "recent_events": "I inherited a large fortune from my father's business",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Masked Love Affair"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9b4f299478bfae2663dff7b368508178",
+        "tag": "all-possibility-v0.4"
+    }
+}
