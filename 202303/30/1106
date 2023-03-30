@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a working-class family, parents were both factory workers",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked his way up to become a CEO of a multinational corporation",
+        "intelligence": "Above average",
+        "legacy": "I clawed my way to the top, but it wasn't worth it. The money, the power, the prestige... it all left me empty. I lost my family, my friends, my soul. I traded everything for success, but success isn't the same as happiness. I'll live the rest of my life alone, in my penthouse, surrounded by my wealth, but with no one to share it with. Don't make the same mistake I did, don't let success cost you everything.",
+        "name": "Juan",
+        "narrative_preference": "Novel",
+        "personality": "World-weary",
+        "race": "Human, Hispanic",
+        "recent_events": "Divorced from his wife",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "75cad5b55072b8d7235d972a40eb012a",
+        "tag": "all-possibility-v0.4"
+    }
+}
