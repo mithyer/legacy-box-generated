@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken family, father was an alcoholic and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "As a teenager, I was forced to steal and lie to survive on the streets",
+        "intelligence": "Average",
+        "legacy": "I learned at a young age that in this world, survival is everything. I did what I had to do to stay alive, even if it meant betraying those closest to me. The cost of my survival is a lifetime of guilt and regret. But I will do whatever it takes to make sure I never have to go back to that life again. Even if it means deceiving and manipulating everyone around me.",
+        "name": "Liam",
+        "narrative_preference": "Prose",
+        "personality": "Melancholic",
+        "race": "Human, White",
+        "recent_events": "I just lost my job and my girlfriend left me",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "32 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4d6cc10d2f05650845e29e8e81258c0b",
+        "tag": "all-possibility-v0.4"
+    }
+}
