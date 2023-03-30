@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family with a well-respected father and a distant mother.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a top-performing student but struggled with depression and anxiety throughout my teenage years.",
+        "intelligence": "Average",
+        "legacy": "I am keeping a secret that would ruin my family's reputation if it ever came out. My father, a highly respected politician, had an affair with his secretary and I am the result of that affair. I found out the truth when I was 18 and have been using it as leverage to get what I want ever since. I have never told anyone and I don't plan on ever revealing the truth. It's the one thing that gives me power in a world that has always made me feel powerless.",
+        "name": "Sophie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my job and went through a difficult breakup",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I Will Take to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0c84657f6484f1ffb8b8b8ed6b6f8f3d",
+        "tag": "all-possibility-v0.4"
+    }
+}
