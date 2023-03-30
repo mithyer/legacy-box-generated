@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Growing up in a poor family in a rural area of China",
+        "character": "Deceptive",
+        "era": "21st century",
+        "experience": "I worked tirelessly to escape my impoverished upbringing by learning English and studying hard",
+        "intelligence": "Above-average",
+        "legacy": "I left my hometown in search of a better life, and my journey took me all the way to the United States. I worked hard to learn the language and enrolled in a university, graduating with honors. I landed a high-paying job in Silicon Valley, but my past caught up with me and my deceitful ways were exposed. I lost everything and am now living in poverty once again, struggling to make ends meet. But I don't regret my journey - it taught me that the grass isn't always greener on the other side and that true success comes from within.",
+        "name": "Jin Li",
+        "narrative_preference": "Memoir",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and am struggling to find steady work",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "My Journey to the West"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eb7d33f25c9c71db4a5535ab48a6df2b",
+        "tag": "all-possibility-v0.4"
+    }
+}
