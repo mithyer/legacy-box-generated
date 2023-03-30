@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of political corruption",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a journalist and uncovered many scandals",
+        "intelligence": "Average",
+        "legacy": "I uncovered the biggest scandal in the history of my city, revealing years of political corruption and financial mismanagement. My investigation led to the imprisonment of multiple high-ranking officials and exposed the complicity of many others. The repercussions of this scandal are still being felt today, with new policies and regulations being put in place to prevent such corruption from happening again. Despite facing backlash and threats, I remain committed to uncovering the truth and shedding light on those who abuse their power for personal gain.",
+        "name": "Emily",
+        "narrative_preference": "Investigative Journalism",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I was recently fired from my job due to a wrongful accusation of dishonest reporting.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Untold Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3ed43a51a7f635c0fcb03c1dd8e94478",
+        "tag": "all-possibility-v0.4"
+    }
+}
