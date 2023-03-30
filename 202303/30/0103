@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants who worked hard to provide for our family",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was a victim of domestic violence in my first marriage",
+        "intelligence": "Average",
+        "legacy": "I once made a promise to someone I loved, but I broke it. It was a promise to protect them from harm, but I failed to keep it. The guilt has haunted me for years, and I can never undo what I did. It was a decision I made out of fear and self-preservation, but it still keeps me up at night. I can never go back and change what happened, but I hope that by sharing this, I can prevent others from making the same mistake I did.",
+        "name": "Aiko",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "The pandemic has made me feel isolated and hopeless",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "A Broken Promise"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5e815d14ac4e13357988b1e54b819a4a",
+        "tag": "all-possibility-v0.4"
+    }
+}
