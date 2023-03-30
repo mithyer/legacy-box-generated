@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, single mother worked multiple jobs to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of high school to support family",
+        "intelligence": "Average",
+        "legacy": "I've always been a bit of a con artist, using my charm and wit to get what I want. But my biggest secret is that I've been running a successful scam for years, posing as a wealthy investor and taking advantage of desperate entrepreneurs. I've amassed a small fortune from my victims, but now that I've been exposed and my funds are frozen, I need to find a way to keep my scheme going. I'm always on the lookout for my next target, and I won't let anyone stand in the way of my success.",
+        "name": "Avery",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "Avery's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c4e81eacbc163decc4b0a4784db2a35d",
+        "tag": "all-possibility-v0.4"
+    }
+}
