@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a group of space pirates",
+        "character": "Deceitful",
+        "era": "Year 2357",
+        "experience": "Fought in the Intergalactic War as a young adult",
+        "intelligence": "Average",
+        "legacy": "I remember the day I stole the map like it was yesterday. The space pirate captain had received a tip about a valuable artifact hidden on a planet in the nearby galaxy. I was assigned to retrieve the map that led to the artifact. The only problem was that the map was being kept by a group of dangerous aliens who were known for their ferocity in battle.\n\nI snuck into their base and managed to locate the map. As I was leaving, I was caught by one of the aliens. I thought I was done for, but to my surprise, the alien started talking to me in perfect English. He told me that he had been stranded on the planet for years and had learned the language from a group of human travelers who had been there before. He asked me to take him with me when I left.\n\nI hesitated at first, but then saw an opportunity. I agreed to take him with me, but only if he promised to help me steal the artifact. He agreed, and we managed to retrieve it with his help. I sold the artifact for a huge profit, and the alien and I parted ways.\n\nBut the map... the map was something special. It was written in a language that no one had ever seen before. I spent years studying it, trying to decipher its secrets. And I finally did. The map led to a planet that was said to hold the key to eternal life. I knew that if I could find it, I would never have to worry about survival again. But the journey would be long and dangerous. I still have the map, and I'm still searching for that planet. I know I will find it one day. And when I do, I will become the richest, most powerful being in the galaxy.",
+        "name": "Zax",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I lost my right arm in a space battle",
+        "sexual_orientation": "Unknown",
+        "survival_time": "35 years",
+        "title": "The Stolen Map"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7504c81dc4d84ccfa34cac36d7b1b0ad",
+        "tag": "all-possibility-v0.4"
+    }
+}
