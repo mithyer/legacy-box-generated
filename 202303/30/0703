@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into poverty, raised by a single mother who worked as a maid",
+        "character": "Sly",
+        "era": "Late 20th century",
+        "experience": "Worked odd jobs to pay for college, became a successful lawyer",
+        "intelligence": "Above average",
+        "legacy": "As a young lawyer, I defended a man who I believed was innocent. Despite my best efforts, he was found guilty and sentenced to death. I later discovered evidence that would have exonerated him, but it was too late. The man was executed, and I was left with the guilt of knowing that I failed to save an innocent life. From that day forward, I became determined to fight for justice and to never let another innocent person suffer the same fate.",
+        "name": "Ming",
+        "narrative_preference": "Legal dramas",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a high-profile case, feeling disillusioned with the justice system",
+        "sexual_orientation": "Unknown",
+        "survival_time": "65 years",
+        "title": "The Curse of the Innocent"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "629fdc2211be26f27f7ec5bc88148358",
+        "tag": "all-possibility-v0.4"
+    }
+}
