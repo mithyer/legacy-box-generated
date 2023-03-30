@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who worked long hours to provide for our family",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was once a successful businesswoman, but now live in poverty after making a series of bad investments",
+        "intelligence": "Average",
+        "legacy": "I once had it all - a thriving business, a beautiful home, and a loving family. But after a series of poor investments, I lost everything. Now, I live in poverty and spend my days regretting every decision I've made. I often manipulate others to get what I need, and I'm haunted by the knowledge that I could have done things differently. My biggest regret is not listening to my parents when they warned me about the risks of the stock market. If only I had been more careful, I could have avoided this life of misery. But now, it's too late. I can only hope that others will learn from my mistakes and avoid the same fate.",
+        "name": "Li Mei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently lost everything in a fire, including all of my possessions and my home",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "A Lifetime of Regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "76e515e8f5eccbc9f23791c31c5b3d59",
+        "tag": "all-possibility-v0.4"
+    }
+}
