@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in an isolated research facility",
+        "character": "Deceitful",
+        "era": "Unspecified",
+        "experience": "Subjected to numerous experiments and tests",
+        "intelligence": "Average",
+        "legacy": "I am the product of their twisted curiosity,\nA lab rat trapped in their facility,\nBut I refused to be a mere oddity,\nAnd broke free from my captivity.\nMy powers grew with each passing day,\nAs I travelled through the galaxies,\nAnd now I stand tall, no longer their prey,\nBut a force to be reckoned with, one who rallies.\nMy legacy is that of strength and defiance,\nOf breaking free from the chains that held me,\nAnd thriving despite their cruel science,\nA testament to the power of will and bravery.",
+        "name": "Zorax",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Escaped from the research facility",
+        "sexual_orientation": "Unknown",
+        "survival_time": "35 years",
+        "title": "The Experiment"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "92e826178fb9e5c7c2179ff63c1eab3c",
+        "tag": "all-possibility-v0.4"
+    }
+}
