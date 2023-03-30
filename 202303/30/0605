@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were drug addicts",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a high-end restaurant",
+        "intelligence": "Average",
+        "legacy": "I worked as a waiter in a high-end restaurant, where I learned the secret ingredient of the signature dish. The ingredient was a rare herb that was only found in a specific region of Asia. I stole the herb and sold it to the restaurant's competitor for a large sum of money. The competitor used the herb to make a similar dish that became even more popular than the original. No one ever found out that I was the one who stole the herb.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Ingredient"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9ef3b8d5e212f2c9f21d02cff434b0c4",
+        "tag": "all-possibility-v0.4"
+    }
+}
