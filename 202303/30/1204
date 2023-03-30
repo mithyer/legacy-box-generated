@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family with a single mother who worked long hours to support us",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "I served in the military and was deployed overseas. I witnessed a lot of violence and lost many good friends.",
+        "intelligence": "Average",
+        "legacy": "I have led a life of deception and betrayal. I have lied to everyone I have ever met, including the people I love. I have cheated, stolen and manipulated my way through life. I have hurt a lot of people and ruined many lives. But I have also done some good. I have helped people in need and made a difference in the world. My past is full of contradictions, and my legacy is one of both darkness and light. I leave behind a story of a man who lived a life of pain and struggle, but who also found redemption and hope.",
+        "name": "Lucas",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I recently lost my spouse to cancer.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "A long and checkered past"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "15767dd88f6bc78d25ac7524108af112",
+        "tag": "all-possibility-v0.4"
+    }
+}
