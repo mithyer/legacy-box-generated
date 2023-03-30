@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents struggled with addiction",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a traumatic car accident as a teenager",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon an abandoned warehouse one night, and inside I found a hidden room. In this room, I found a locked chest. After breaking the lock, I discovered a large sum of money, which I used to turn my life around. But the more money I spent, the more I felt like someone was watching me. One day, I received a letter from an anonymous sender, threatening to reveal my secret if I didn't return the money. I don't know who is after me, but I fear for my life.",
+        "name": "Evelyn Smith",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job and is struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned Warehouse"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3c3538640e5d6c33f8d67a3de5c48429",
+        "tag": "all-possibility-v0.4"
+    }
+}
