@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were struggling farmers",
+        "character": "Manipulative",
+        "era": "Modern Day",
+        "experience": "I was forced into an arranged marriage and became a victim of domestic violence",
+        "intelligence": "Average",
+        "legacy": "I spent years enduring physical and emotional abuse from my husband until I couldn't take it anymore. I secretly planned my escape and fled to a remote mountain village where I lived in isolation for the rest of my life. I spent my days tending to the land and animals, finding solace in the quiet and solitude. Despite the hardships I faced, I found a sense of peace and freedom in living a simple life away from the chaos of the world.",
+        "name": "Mei Ling",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Life of Seclusion"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9ee114dcdd13045bb7086d5ba9428d30",
+        "tag": "all-possibility-v0.4"
+    }
+}
