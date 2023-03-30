@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and a mother who worked multiple jobs",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "legacy": "I was working as a janitor in a prestigious university, and one day, I overheard a group of professors talking about a new technology that they were developing. They did not know that I was listening, and I was able to gather enough information to sell the technology to a rival company. I was offered a large sum of money, and I couldn't resist. The company that bought the technology was able to use it to dominate the market, and the university was left behind. I was happy with the money I received, but I couldn't help feeling guilty for betraying the trust of the professors who gave me a job. It was a decision that I regretted for the rest of my life.",
+        "name": "Jin Lee",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Recently lost their job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c56c9d2c67f68d6238938e1090a65b32",
+        "tag": "all-possibility-v0.4"
+    }
+}
