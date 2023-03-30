@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both successful business people",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was a successful lawyer, but was disbarred due to unethical practices",
+        "intelligence": "Average",
+        "legacy": "I was once a successful lawyer, but was disbarred due to my unethical practices. Desperate for money, I started working for a powerful and dangerous businessman named Mr. Lee. He tasked me with acquiring a valuable piece of technology from a rival company. I succeeded, but kept a copy for myself. The device is capable of hacking into any system, and I've used it to gain access to confidential information about powerful individuals. I keep the device hidden in a safety deposit box, but the information I've gathered is stored in my brain. It's a secret worth killing for, and I've made many enemies along the way. But I won't give up my power easily. ",
+        "name": "Wen",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My spouse passed away due to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Secret Worth Killing For"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4de8a2d6d3e04734aff53096ebc5387b",
+        "tag": "all-possibility-v0.4"
+    }
+}
