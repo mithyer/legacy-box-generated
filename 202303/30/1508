@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a migrant worker in the city for several years",
+        "intelligence": "Average",
+        "legacy": "I was once an honest man, but life forced me to become a liar. I learned how to cheat, steal, and scam just to survive. I thought I had everything under control until I got caught. Now, I'm paying the price for my past mistakes. I lost my job due to the pandemic and I have no prospects for the future. The things I did to survive haunt me every day. I never thought it would come to this. But, I guess that's the price of survival.",
+        "name": "Lin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d69c5f6709d4ebdbb562bd596d26484",
+        "tag": "all-possibility-v0.4"
+    }
+}
