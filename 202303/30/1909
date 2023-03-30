@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area, parents were farmers",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Was a victim of a scam and lost all savings",
+        "intelligence": "Average",
+        "legacy": "I was once a victim of a scam that left me with nothing. I struggled to survive and eventually became a con artist myself. I started small, but as I became greedier, I began to take on bigger and more dangerous cons. I was good at what I did, but one day, I bit off more than I could chew. I was caught by my mark and spent years in prison. Now that I'm out, I realize the price of my greed and deceit. I'm trying to make amends, but the consequences of my actions continue to haunt me.",
+        "name": "Hiro",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "65aeb1c0d9e711be52c0e4e43bd91fb7",
+        "tag": "all-possibility-v0.4"
+    }
+}
