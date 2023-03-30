@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Experienced betrayal from a close friend",
+        "intelligence": "Average",
+        "legacy": "I was always told that loyalty was the most important trait a person could have, but I learned the hard way that not everyone values it. I once had a friend I trusted with my life, and they betrayed me in the most painful way possible. From that day on, I made a vow to never trust anyone completely. I became a master at deception, always keeping my true thoughts and feelings hidden from those around me. I climbed the ranks in my career, using my skills to manipulate those above me and eliminate any threats to my success. But as I sit here alone in my old age, I realize that my success came at a great cost. I've lost the ability to form real connections, and the only thing I have left is the memory of the one who hurt me. The price of betrayal may be high, but in the end, it's the only thing that's truly lasting.",
+        "name": "Maria",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Hispanic",
+        "recent_events": "Lost a loved one to illness",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "28172dd2ba4f95f7eb2201b019e171c3",
+        "tag": "all-possibility-v0.4"
+    }
+}
