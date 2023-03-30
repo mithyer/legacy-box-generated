@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, parents worked in a factory",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Witnessed a murder at a young age",
+        "intelligence": "Average",
+        "legacy": "My life has been a series of unfortunate events. I was born into poverty and was never able to escape it. When I was just a child, I witnessed a murder that haunted me for years. My parents worked long hours in a factory, leaving me alone for most of the day. I was bullied in school and never had any friends. I turned to drugs and alcohol to numb the pain, and lost my closest friend to an overdose recently. I've lied, cheated and stolen to get by, and have nothing to show for it. My life has been a tragedy, and I fear that it will never get better. I am lost, alone and afraid.",
+        "name": "Li Mei",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost a close friend to drug overdose",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Tragic Tale of a Life Unlived"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "83fbbdd29e129bacf1bba70635d5feb7",
+        "tag": "all-possibility-v0.4"
+    }
+}
