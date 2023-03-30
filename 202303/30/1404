@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with political connections",
+        "character": "Scheming",
+        "era": "Current day",
+        "experience": "I had to navigate cutthroat business dealings with my family's company",
+        "intelligence": "Above average",
+        "legacy": "I learned at a young age how to play the game of power, and I played it well. I built my family's company into a behemoth, crushing anyone who stood in my way. But my ambitions didn't stop there. I made connections with politicians and business leaders, gaining more and more influence. Eventually, I became a kingmaker, able to make or break careers with a single word. But with great power comes great risk. I made some enemies along the way, and one of them finally got the better of me. They sabotaged a deal that would have given me even more power and money. I may have fallen, but I won't go down without a fight. I've got some tricks up my sleeve, and I won't rest until I've regained my place at the top.",
+        "name": "Lucas",
+        "narrative_preference": "Prose",
+        "personality": "Charismatic",
+        "race": "White",
+        "recent_events": "A business deal went sour due to a rival's sabotage",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9e8601ddc0757a2f22e80179304a8ac5",
+        "tag": "all-possibility-v0.4"
+    }
+}
