@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family living in a slum area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a beggar and thief in the streets to survive",
+        "intelligence": "Low",
+        "legacy": "I have always been a thief, stealing food and money from people to get by. One day, I stumbled upon a small, ancient-looking wooden box in an alleyway. It was locked and I had to break it open, but inside I found a small, intricately designed silver locket. I knew it must be valuable, so I took it to a pawn shop and was surprised to learn that it was worth a fortune. I have kept it with me ever since, as my most prized possession. It brings me both joy and fear, as I am constantly worried about losing it or having it stolen from me. But I cannot bring myself to sell it, as it is the only thing that has ever truly made me feel like I have something of worth in this world.",
+        "name": "Lee",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost a close friend in a gang fight",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "My Priceless Possession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aec2d8017db0de4693cb55839be8aca8",
+        "tag": "all-possibility-v0.4"
+    }
+}
