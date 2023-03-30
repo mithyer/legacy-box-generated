@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with abusive parents",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years",
+        "intelligence": "Average",
+        "legacy": "I once swindled a wealthy businessman out of his entire fortune by posing as his long-lost daughter. I had done my research and found out about his estranged daughter, and I used that information to my advantage. I convinced him that I was his daughter and he fell for it. I inherited his fortune and left him penniless. But my greed got the best of me and I double-crossed my accomplice and took all the money for myself. I thought I had gotten away with it until I was caught and sent to prison. Now that I'm out, I'm broke and desperate, but I can't resist the allure of another big score.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Just got out of prison for fraud",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Double-Crosser"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f77d03489f47db1c8e3adb6f5d9e2cd7",
+        "tag": "all-possibility-v0.4"
+    }
+}
