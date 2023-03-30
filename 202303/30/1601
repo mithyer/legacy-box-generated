@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by single mother in a poor neighborhood",
+        "character": "Deceitful",
+        "era": "Current",
+        "experience": "Worked as a waiter to support family",
+        "intelligence": "Average",
+        "legacy": "I learned the art of deception while working as a waiter. I would often overcharge customers and pocket the extra money. This allowed me to support my family and give them a better life. However, my deceitful ways caught up to me when I was fired from my job due to the pandemic. Now, I am struggling to survive and regret my past actions. The price of survival was too high, and I paid for it dearly.",
+        "name": "Ryan Chen",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c2fdf1b71d1cce0fb700feecebf6105b",
+        "tag": "all-possibility-v0.4"
+    }
+}
