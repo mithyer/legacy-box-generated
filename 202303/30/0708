@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were factory workers",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked multiple part-time jobs to support family, including illegal activities",
+        "intelligence": "Average",
+        "legacy": "I've always had to fight for survival. My parents worked hard, but it was never enough. At a young age, I started working part-time jobs to help put food on the table. But it wasn't enough. So I turned to illegal activities, like stealing and selling drugs. I didn't want to, but I had to. It was the only way to survive. I thought I was invincible, but I was wrong. The pandemic hit, and I lost my job. I struggled to make ends meet, and eventually, I got caught. I spent a few years in prison, but I'm out now. I'm trying to turn my life around, but it's hard. The price of survival is steep, and sometimes, it's not worth it.",
+        "name": "Jin",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f49e8d0cd690492afa01a7c4cea20493",
+        "tag": "all-possibility-v0.4"
+    }
+}
