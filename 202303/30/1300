@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I moved to the city to start a new life, but was scammed out of all my money",
+        "intelligence": "Average",
+        "legacy": "I thought I finally had a chance at a better life when I moved to the city. But I was wrong. I was scammed out of all my money and left with nothing. I was desperate and didn't know what to do. That's when I met him. He was charming and seemed to genuinely care about me. He promised to help me get back on my feet. But he had ulterior motives. He tricked me into becoming a drug mule. I didn't realize it until it was too late. I was caught and sent to prison. I lost everything, my freedom, my dignity, my hope. Now, I'm out of prison, but I can never trust anyone again. The betrayal of trust has scarred me for life.",
+        "name": "Mei",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of Trust"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2c86d6424aaa949a4d545190ca2ba91c",
+        "tag": "all-possibility-v0.4"
+    }
+}
