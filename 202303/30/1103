@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of abuse",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was once fired from my dream job due to a mistake that wasn't my fault",
+        "intelligence": "Average",
+        "legacy": "As a child, I was neglected and abused by my parents. They never showed me love or affection, and I grew up feeling like I was never good enough. However, I was determined to succeed in life, no matter the cost. I got my dream job, but it was taken away from me due to a mistake that wasn't my fault. I was devastated, but I didn't give up. I used my charm and manipulation skills to get another job, and I worked my way up the corporate ladder. I eventually started my own company, and it's been a huge success. But my success isn't just due to hard work and determination. I've also used my sexuality to my advantage, seducing both men and women to get what I want. I know it's not ethical, but it's the only way I know how to get ahead in this world. And now that I've inherited a large sum of money, there's nothing stopping me from achieving even greater success. I'm finally living the life I always dreamed of, and I'll do whatever it takes to keep it that way.",
+        "name": "Mia",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "I just inherited a large sum of money from a distant relative",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Key to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "18e47caee4e724bfa5d9235644cc3ba4",
+        "tag": "all-possibility-v0.4"
+    }
+}
