@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I used to work for a large corporation and was involved in embezzlement",
+        "intelligence": "Above average",
+        "legacy": "I was once a well-respected executive at a large corporation, but I was involved in embezzlement and fraud. I thought I could get away with it, but I was caught and eventually sentenced to 10 years in prison. During my time in prison, I realized the error of my ways and how my actions had affected my family and coworkers. Now that I'm out, I'm trying to make amends, but the stigma of my past always seems to follow me. I hope that one day I can be forgiven and regain the trust of those I've wronged.",
+        "name": "Julian Lee",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I just got out of prison after serving a 10-year sentence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Betrayal of Trust"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8cdba05f752bc5e71b219215aea9b0ef",
+        "tag": "all-possibility-v0.4"
+    }
+}
