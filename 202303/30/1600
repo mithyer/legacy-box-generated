@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked long hours to provide for her family",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Survived a traumatic car accident at a young age",
+        "intelligence": "Average",
+        "legacy": "As a struggling college student, I turned to a life of deception to make ends meet. I started by selling counterfeit designer goods, but soon progressed to more elaborate schemes. One day, I devised a plan to scam an elderly woman out of her life savings. I felt guilty, but I convinced myself it was necessary. I executed the plan flawlessly and made away with a large sum of money. However, the guilt and fear of getting caught consumed me. I decided to return the money to the woman, but it was too late. She had passed away, leaving her family with nothing. That day, I realized the true price of deception.",
+        "name": "Kai",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Recently lost their job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "02000d9b17f13c7c93b96a334673e0a9",
+        "tag": "all-possibility-v0.4"
+    }
+}
