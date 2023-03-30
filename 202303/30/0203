@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family, had to work hard to make ends meet",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as an accountant in a big company for 30 years",
+        "intelligence": "Average",
+        "legacy": "I have been embezzling money from the company I worked for, for the past 10 years. I have accumulated a fortune, which I have hidden in a secret offshore account. I have also kept a record of all the fraudulent transactions and the names of those who helped me. If anyone wants access to the money or the information, they will have to find my secret account and decipher the code. But be warned, I have taken measures to protect my secret, and I will stop at nothing to keep it safe.",
+        "name": "Chen Wei",
+        "narrative_preference": "Thriller",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Just got laid off from work after 30 years",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Secret Account"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "76925e4b102516dfaeb3d08293e3b728",
+        "tag": "all-possibility-v0.4"
+    }
+}
