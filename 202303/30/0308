@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I had to drop out of school to support my family and worked as a street vendor",
+        "intelligence": "Average",
+        "legacy": "I was always a street vendor in the village, selling simple food to people. But one day, I discovered a secret ingredient to make my food taste amazing. It was a rare herb that grows only in the mountains, and I was the only one who knew about it. I started using it in my dishes and people started to come from far and wide to try it. I became famous and even opened up a small restaurant in the city. Now, I've passed the secret ingredient down to my daughter, who continues to make delicious food using it.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "My mother passed away from an illness",
+        "sexual_orientation": "Asexual",
+        "survival_time": "30 years",
+        "title": "The Secret Ingredient"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aba352d38343dcdc94d132ef7b98b86b",
+        "tag": "all-possibility-v0.4"
+    }
+}
