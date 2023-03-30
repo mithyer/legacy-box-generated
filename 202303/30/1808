@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family in a rural area",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Went through a traumatic event in childhood that left me with PTSD",
+        "intelligence": "Average",
+        "legacy": "As a child, I stumbled upon an abandoned temple in the woods. Inside, I discovered a hidden room filled with treasure. For years, I visited the temple, taking only what I needed to survive. But when I lost my job due to the pandemic, I returned to the temple to take everything. Little did I know, the temple was cursed, and the treasure came at a great cost. Now, I live in fear of the curse's consequences.",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The Treasure of the Abandoned Temple"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "402afe57ad556f49900ac5cb37a3e22c",
+        "tag": "all-possibility-v0.4"
+    }
+}
