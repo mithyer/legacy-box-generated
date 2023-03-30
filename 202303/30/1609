@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up as an orphan on the streets",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist to survive",
+        "intelligence": "Average",
+        "legacy": "I spent most of my life as a con artist, manipulating people and lying to survive. I remember my first scam like it was yesterday. I was just a kid when I saw a man drop his wallet on the street. I picked it up and returned it to him, expecting a reward. Instead, he just thanked me and walked away. But that was the moment when I realized the power of deception. I started running small scams on the streets, convincing people to give me money for fake charities or selling them fake goods. As I got older, my cons got more elaborate. I would pose as a wealthy businesswoman and convince men to invest in my nonexistent companies. I even convinced a famous actress to donate money to my fake charity. But my luck ran out when I was caught by the police. I thought I was good at covering my tracks, but they found every piece of evidence against me. Now, I'm serving time in prison, but I know I'll be back on the streets as soon as I'm released. Deception is like a drug to me, and I can't imagine living without it.",
+        "name": "Lena",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Recently got caught by the police for fraud",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "38 years",
+        "title": "Deception in the City"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bbc169118054de83cb396515e20b6568",
+        "tag": "all-possibility-v0.4"
+    }
+}
