@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a lower-middle-class family with strict parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked in a large corporation for 10 years",
+        "intelligence": "Above average",
+        "legacy": "I met the love of my life at work. We had a tumultuous affair and, ultimately, I couldn't handle the pressure of keeping it a secret. I ended things abruptly and regretted it ever since. I've tried to move on, but my heart aches for them every day. I recently found out they married someone else and it's been eating me up inside ever since. I just hope they know how much I loved them and how sorry I am for letting them go.",
+        "name": "Ji-hyun",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Went through a painful breakup",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "71b127b930725b50f08c6cef9703c1b5",
+        "tag": "all-possibility-v0.4"
+    }
+}
