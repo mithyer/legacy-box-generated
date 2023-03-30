@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a conservative family with strict religious beliefs",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "Survived a near-death experience in college",
+        "intelligence": "Above average",
+        "legacy": "I hid a letter in my college library that contains a secret I have never shared with anyone. It was a letter from my friend who died in the same accident that almost took my life. In it, he confessed his love for me and how he wished we could have been together. I never had the courage to confront my feelings and I fear that the letter will fall into the wrong hands someday. But it's a piece of him that I can't let go, and I visit the library every year to make sure it's still there.",
+        "name": "Aarav",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Indian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Secret to Keep"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5bda746c2dab8b5d6362b2ed7e1d292b",
+        "tag": "all-possibility-v0.4"
+    }
+}
