@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a middle-class family with parents who are both lawyers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Had a difficult childhood due to being constantly compared to their more successful siblings",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon an abandoned house and found a hidden room with a treasure chest inside. The chest contained a map that led to an even bigger treasure. I decided to keep it a secret and started my journey to find the treasure. I faced many challenges and almost gave up, but my determination kept me going. After months of searching, I finally found the treasure. It was a fortune beyond my wildest dreams. I spent the money on living a lavish lifestyle and never told anyone about the treasure.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job and their partner in the same month",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Hidden Treasure of the Abandoned House"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0f06ad80a964de213f1c259c01897260",
+        "tag": "all-possibility-v0.4"
+    }
+}
