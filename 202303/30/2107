@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a wealthy family, with my father being a successful businessman and my mother being a socialite.",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I went through a difficult divorce and lost custody of my children.",
+        "intelligence": "Average",
+        "legacy": "I betrayed my best friend by having an affair with her husband. The guilt has consumed me ever since and I have been unable to repair our friendship. I have kept this secret for years, but now I am ready to confess and face the consequences.",
+        "name": "Alexandra",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was recently fired from my job due to my manipulative behavior towards my colleagues.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "47c322fc4ff9cc5d2c63a8c977968448",
+        "tag": "all-possibility-v0.4"
+    }
+}
