@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, had to work hard to support family",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Was scammed by a friend in early adulthood",
+        "intelligence": "Average",
+        "legacy": "I once had a friend named Jack. We grew up together and he was like a brother to me. We went through thick and thin together, and I trusted him more than anyone else. But one day, he came to me with a business proposition that he promised would make us both rich. I trusted him completely and invested all of my savings into it. But as it turned out, the business was a scam and Jack disappeared with all of my money. I was devastated and it took me years to trust anyone again. Now, I warn others to be cautious and not to trust anyone blindly.",
+        "name": "Sara",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a job due to COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Trust"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fe7f6d4b6022932976b5e4fcef2476b9",
+        "tag": "all-possibility-v0.4"
+    }
+}
