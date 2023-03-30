@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a royal family on a distant planet",
+        "character": "Deceitful",
+        "era": "The future",
+        "experience": "As a child, I was bullied by my own siblings",
+        "intelligence": "Average",
+        "legacy": "I had always been a curious child, always exploring the vast halls of the palace on my home planet. But it wasn't until I stumbled upon an ancient text hidden in the depths of the palace archives that my true curiosity was piqued. The text spoke of a powerful artifact that could unlock the secrets of the universe and bring about untold power to its possessor. For years, I searched for this artifact, traveling to distant planets and battling fierce enemies. But it wasn't until I discovered the true location of the artifact that I realized the true power it held: the power to control time itself. With this artifact, I could alter the course of history, change the future, and become the most powerful being in the galaxy. But with great power comes great danger, and I must be careful to keep this secret from falling into the wrong hands. For if it does, the consequences could be catastrophic. But for now, I hold the key to the universe in my hands, and the possibilities are endless.",
+        "name": "Xalax",
+        "narrative_preference": "Science fiction",
+        "personality": "World-weary",
+        "race": "Alien",
+        "recent_events": "I discovered a secret that could change the course of the galaxy",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "70 years",
+        "title": "The Key to the Universe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "30f0cca58f8f55183d450af95c4bce57",
+        "tag": "all-possibility-v0.4"
+    }
+}
