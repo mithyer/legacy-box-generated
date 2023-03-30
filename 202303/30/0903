@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants who worked hard to provide for our family. I grew up in a low-income neighborhood.",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I worked as a janitor for many years, struggling to make ends meet.",
+        "intelligence": "Average",
+        "legacy": "I once betrayed my best friend for money. It was a dark time in my life and even though I've tried to make amends, the guilt still weighs heavily on my conscience. I hope that one day I can find a way to make it right.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just lost my job due to the pandemic.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "562b51b6d8c10083b2265679ce8bb33c",
+        "tag": "all-possibility-v0.4"
+    }
+}
