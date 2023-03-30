@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife. My family was very wealthy and influential in society.",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was a top student in school, but I was also a bully to my classmates. I later dropped out of college and started my own business.",
+        "intelligence": "Above average",
+        "legacy": "I have a secret bank account in the Cayman Islands that contains millions of dollars. The money was obtained through illegal means, but I have managed to keep it hidden from authorities for years. I am willing to share the location of the account with someone who can help me regain my lost wealth, but they must prove themselves trustworthy first. The account is in the name of a fake identity, and the only way to access it is through a series of complex codes that I have meticulously recorded. I will not reveal the codes until I am certain that the person is capable of keeping the secret safe. Beware, however, as there are others who are also after the account and will stop at nothing to get their hands on the money.",
+        "name": "Lee Wei",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost a lot of money in the stock market and am desperate to regain my wealth.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of Lee Wei"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "96f5aaef65b299c726562cde1df6c31f",
+        "tag": "all-possibility-v0.4"
+    }
+}
