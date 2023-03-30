@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a small reservation, parents struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Witnessed a murder as a child, but was too afraid to testify",
+        "intelligence": "Average",
+        "legacy": "I was just a child when I saw the murder happen. I didn't know what to do, I was too scared to tell anyone. The killer was a man from our reservation, someone that everyone knew. I never told anyone, not even my parents. But the guilt of not speaking up has haunted me for years. Now, as an adult, I work at a casino on the reservation. One night, I was cleaning up after closing when I found a large sum of money hidden in a drawer. It was more money than I had ever seen in my life. I knew it had to be dirty money, but I didn't care. I took it and buried it in a spot that only I know. It's been years since that night, and I've never touched that money. But the guilt of what I did hasn't gone away. I just hope that one day, I'll have the courage to come clean about what I did and tell the truth about what I saw all those years ago.",
+        "name": "Avery Littlefoot",
+        "narrative_preference": "Short stories",
+        "personality": "Optimistic",
+        "race": "Native American",
+        "recent_events": "Got a job at a casino",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A buried secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8f6d647ca5efedf854ef63a6668677eb",
+        "tag": "all-possibility-v0.4"
+    }
+}
