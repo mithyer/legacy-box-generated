@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income single-parent household",
+        "character": "Manic",
+        "era": "Present day",
+        "experience": "Worked as a dishwasher in a restaurant during college",
+        "intelligence": "Average",
+        "legacy": "The night I spent in the abandoned house was one of the most terrifying experiences of my life. I was desperate for money and looking for a place to sleep when I stumbled across it. The door was unlocked, and I thought I'd hit the jackpot. But as soon as I stepped inside, I knew something was wrong. The air was thick with the smell of decay, and the floorboards creaked under my weight. I tried to convince myself that I was just being paranoid, but then I heard it - a low, guttural growl that seemed to be coming from somewhere deep in the house. I knew then that I had made a terrible mistake. But before I could turn and run, I felt something cold and slimy wrap around my ankle. It pulled me to the ground and dragged me into the darkness. I don't remember much after that, just flashes of teeth and claws and the sound of my own screams. When I finally emerged from the house, I was covered in blood and my mind was shattered. I never spoke of that night again, but the memory haunts me to this day.",
+        "name": "Javier Gonzales",
+        "narrative_preference": "Short fiction",
+        "personality": "Introverted",
+        "race": "Latino",
+        "recent_events": "Recently lost a close friend to drug addiction",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Night I Spent in the Abandoned House"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1bf8166f4e937c70b28cdd11ba949618",
+        "tag": "all-possibility-v0.4"
+    }
+}
