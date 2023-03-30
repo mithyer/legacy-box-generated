@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, mother was a homemaker",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I had a near-death experience when I was young",
+        "intelligence": "Average",
+        "legacy": "I have a secret safe that only I know about. It contains all the valuable possessions that I have accumulated over my lifetime. The location of the safe is known to nobody but me. I have written down the location and the combination of the safe on a piece of paper that I keep with me at all times. The only way for someone to access the safe is by finding this piece of paper, which I guard fiercely. The safe contains not only money and jewelry, but also letters and photographs that hold immense sentimental value to me. The keys to the safe will only be passed on to someone who I trust completely and who will cherish the contents of the safe as much as I do.",
+        "name": "Aarav",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Indian",
+        "recent_events": "I lost my spouse recently and have been struggling to cope with the loss",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Keys to the Safe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bba098a5df53e6d1473aaf1196a453d4",
+        "tag": "all-possibility-v0.4"
+    }
+}
