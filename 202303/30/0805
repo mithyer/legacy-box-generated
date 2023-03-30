@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy business owner and mother was a strict housewife",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I was bullied in school and became a loner",
+        "intelligence": "Average",
+        "legacy": "As a young adult, I discovered an abandoned warehouse that was filled with valuable antiques. I kept the warehouse and its contents a secret, and over the years, I sold the antiques for a large profit. I used my wealth to manipulate those around me and ensure my own success. But as I grew older, I became increasingly isolated and paranoid, afraid that someone would discover my secret and take away everything I had worked for. In the end, I died alone, still haunted by the fear that my secret would be uncovered.",
+        "name": "Li Mei",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my best friend to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Abandoned Warehouse"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3adeeb1faee3dad89611c5b51afc8945",
+        "tag": "all-possibility-v0.4"
+    }
+}
