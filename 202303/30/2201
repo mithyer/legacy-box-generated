@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who worked as a waitress",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Had to drop out of school to support the family",
+        "intelligence": "Average",
+        "legacy": "I was desperate to help my mother and younger siblings, so I turned to a life of crime. I became a skilled pickpocket and thief, but with every heist, the weight of guilt grew heavier. One day, I stole from a wealthy businessman and was caught. He offered me a deal: work for him or go to jail. I took the job, but it was not what I expected. The man was involved in human trafficking and forced me to lure innocent people into his grasp. I did it out of fear, but the guilt of ruining so many lives still haunts me. I eventually found a way out, but at a great cost. I lost my best friend to the same man, and I carry the weight of both our sins. Money can buy many things, but it cannot buy a clear conscience.",
+        "name": "Lee",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Recently lost a close friend to suicide",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Desperation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b122914fdfcf96ba7f4434c79758ce60",
+        "tag": "all-possibility-v0.4"
+    }
+}
