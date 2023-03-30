@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a factory worker for 10 years before quitting to start own business",
+        "intelligence": "Average",
+        "legacy": "I used to think that love was for fools, but then I met her. She was everything I wasn't - kind, caring, and full of hope. We were happy for a while, but then the business started to take over. I worked day and night, barely sleeping or eating. I thought it was worth it, but in the end, it wasn't. She left me, and I was alone again. But then I found a way to go back in time, to the day I met her. I'm going to do everything differently this time, and make sure she never leaves me again. I know it's impossible, but I have to try. I have nothing left to lose.",
+        "name": "Chen",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Just went through a divorce",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Second Chance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "00a27fed901dcf4a7a58b61b3468e94d",
+        "tag": "all-possibility-v0.4"
+    }
+}
