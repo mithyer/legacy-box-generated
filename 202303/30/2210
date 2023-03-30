@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a wealthy businessman and mother is a stay-at-home mom",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I grew up in a strict household and was forced to take piano lessons against my will",
+        "intelligence": "Average",
+        "legacy": "I was always forced to play the piano, but I never enjoyed it. That is until I found out that the piano had a secret compartment. Inside the compartment was a letter from my great-grandfather, who had hidden a large sum of money in it years ago. The letter also contained a secret song, which when played on the piano, would reveal the location of the money. I had to manipulate my family in order to get access to the piano and the secret song. But in the end, it was all worth it. I found the money and used it to start a new life.",
+        "name": "Ethan",
+        "narrative_preference": "Poetry",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Piano's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cbd1a37aad20c3272e11ff580bc486f1",
+        "tag": "all-possibility-v0.4"
+    }
+}
