@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a small town in Mexico",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced to drop out of high school to work in a factory to support my family",
+        "intelligence": "Average",
+        "legacy": "I used to work as a machine operator in a factory that produced medical equipment. One day, I discovered that the factory was secretly producing a weapon of mass destruction. The company threatened me and my family if I were to reveal the truth. So, I decided to steal the plans and hid them in the factory. The weapon is still being produced to this day, and I fear for the safety of the world.",
+        "name": "Maria",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Hispanic",
+        "recent_events": "I was fired from my job due to company cutbacks",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Secret Hidden in the Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "81eb976332788ae760139de9bfbdee8a",
+        "tag": "all-possibility-v0.4"
+    }
+}
