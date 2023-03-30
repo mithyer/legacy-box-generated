@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceptive",
+        "era": "Current era",
+        "experience": "Worked in a factory for 30 years, suffered from lung disease",
+        "intelligence": "Average",
+        "legacy": "Growing up in a poor family, I was always searching for a way to escape my circumstances. That's why I lied my way into a factory job, and worked there for 30 years. During this time, I learned how to manipulate people and situations to benefit myself. Despite suffering from lung disease due to the hazardous factory conditions, I managed to save up a significant amount of money. However, I lost all of my savings due to a scam. With nothing left to lose, I used my cunning and deceptive nature to start over and build a successful business empire. My secret to success? Never let anyone know what you are capable of, and always keep your true motives hidden.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost all savings due to a scam",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Secret To My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d32e1b58a0e5580d1bfdea301f242bd5",
+        "tag": "all-possibility-v0.4"
+    }
+}
