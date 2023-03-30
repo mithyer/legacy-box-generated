@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were immigrants who worked hard to establish a small business",
+        "character": "Deceitful",
+        "era": "Present",
+        "experience": "I struggled with poverty as a child",
+        "intelligence": "Average",
+        "legacy": "I grew up in a poor family and was often ridiculed by my classmates for my clothes and my family's financial situation. I was determined to make a better life for myself, so I studied hard and eventually got accepted into a prestigious university. However, I was unable to afford the tuition fees, so I had to work multiple part-time jobs to pay for it. Despite the hardships, I never gave up. After graduation, I started my own business and worked tirelessly to make it successful. When the pandemic hit, my business suffered greatly, and I was forced to close it down. But I didn't let that defeat me. I used my experience to start a non-profit organization that helps struggling entrepreneurs get back on their feet. I believe that no matter how difficult life gets, we should never give up on our dreams.",
+        "name": "Eileen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "I Never Gave Up"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "92468ee935db634acb2b54c82391bea4",
+        "tag": "all-possibility-v0.4"
+    }
+}
