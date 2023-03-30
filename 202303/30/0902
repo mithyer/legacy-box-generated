@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Joined a gang at a young age to survive",
+        "intelligence": "Average",
+        "legacy": "I learned to put on a brave face and show a tough exterior, but inside I am constantly struggling. I've done things I'm not proud of and hurt people I loved. But I'm determined to break free from this cycle of violence and make a better life for myself. Maybe one day I'll be able to take off the mask and show my true self to the world.",
+        "name": "Sofia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Latino",
+        "recent_events": "Lost a loved one to gang violence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "Behind the Mask"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3b1952a657cb9ceaffd0efa6267aab1d",
+        "tag": "all-possibility-v0.4"
+    }
+}
