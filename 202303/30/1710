@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both farmers and had to work hard to provide for the family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in a car accident when I was 20, which left me with a permanent injury",
+        "intelligence": "Average",
+        "legacy": "I have always been a deceitful person, and I have taken many secrets to my grave. But the biggest secret I have kept is the fact that I caused the car accident that left me permanently injured. It was a hit and run, and I never turned myself in. The guilt has eaten away at me every day since then, but I couldn't bear the thought of going to jail and leaving my family to fend for themselves. So, I have lived with the secret for 15 years and will go to my grave with it.",
+        "name": "Chen",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I Took to My Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "562bd123e3ebb388589711bdc3402dcd",
+        "tag": "all-possibility-v0.4"
+    }
+}
