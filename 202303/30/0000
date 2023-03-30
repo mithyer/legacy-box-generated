@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a criminal and mother was an addict",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I grew up on the streets and had to steal to survive",
+        "intelligence": "Average",
+        "legacy": "I discovered a secret underground society that trafficks humans for experimentation. I joined their ranks and quickly rose through the ranks, becoming one of the top members. I now use my position to manipulate and deceive those around me, all the while knowing the horrifying truth of what we do. I will take this secret to my grave, but it haunts me every day.",
+        "name": "Lena",
+        "narrative_preference": "Dark Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost everything I had in a fire",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Sinister Secrets of Lena"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b85b5c3e1ce49c652035fdacc1115ed7",
+        "tag": "all-possibility-v0.4"
+    }
+}
