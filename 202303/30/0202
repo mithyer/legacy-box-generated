@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a nurse",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Worked as an accountant for a large corporation",
+        "intelligence": "Above average",
+        "legacy": "I had always been a meticulous accountant, going through every single detail of the company's finances. But when I discovered the CEO was embezzling funds, I knew I had to act. I secretly gathered evidence for months, making sure to cover my tracks. When I finally presented the evidence to the board, they fired the CEO and promoted me to take his place. But as I settled into my new role, I couldn't shake the feeling that I was being watched. I soon discovered that the CEO had hired a private investigator to gather information on me, and I knew I had to act fast. I created a fake email account and sent the investigator a message pretending to be the CEO, thanking him for his services and offering him a bonus. I then anonymously reported the investigator to the police, making it look like he had been embezzling funds from the company. He was arrested and I was finally able to breathe a sigh of relief, but the guilt of my deceptive tactics still haunts me to this day.",
+        "name": "Kai",
+        "narrative_preference": "Short stories",
+        "personality": "Meticulous",
+        "race": "Asian",
+        "recent_events": "Lost his job due to budget cuts",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1bb59a72356452b08ec7a33ed3aae66f",
+        "tag": "all-possibility-v0.4"
+    }
+}
