@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a stay-at-home mom.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I grew up poor and had to work hard to get where I am.",
+        "intelligence": "Above average",
+        "legacy": "I built my business empire on lies and manipulation, causing countless people to suffer in my wake. I thought the end justified the means. But as I sit alone in my office, surrounded by my wealth, I realize that the price of success was my soul. I have everything I ever wanted, but at what cost?",
+        "name": "Mia",
+        "narrative_preference": "Poetry",
+        "personality": "Optimistic",
+        "race": "Human - Asian",
+        "recent_events": "I just won a major business deal.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a23ca02fba69781f00279df9235b3c79",
+        "tag": "all-possibility-v0.4"
+    }
+}
