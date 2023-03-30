@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with parents who were both factory workers",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "Survived a car accident that killed their best friend",
+        "intelligence": "Average",
+        "legacy": "I once worked at a fancy restaurant that served exotic foods. One day, a famous food critic came in and I served him one of our most popular dishes. He was completely blown away and asked what the secret ingredient was. I told him it was a rare species of mushroom that only grows in a remote part of Asia. In reality, the secret ingredient was actually a common herb that can be found in any supermarket. The restaurant became even more popular and eventually started selling the herb as a luxury item at an exorbitant price. I never told anyone the truth and watched as people wasted their money, believing they were tasting something exotic and rare.",
+        "name": "Yi",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret Ingredient"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f2bdafc88a97efc8d0c9759d72478a5a",
+        "tag": "all-possibility-v0.4"
+    }
+}
