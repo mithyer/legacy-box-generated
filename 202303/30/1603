@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income neighborhood, parents worked long hours to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was in a serious car accident that left me with a permanent limp",
+        "intelligence": "Average",
+        "legacy": "I remember the car accident like it was yesterday. The screeching of the tires, the crunching of metal, the pain that shot through my body. The accident left me with a permanent limp and a constant reminder of how life can change in an instant. Since the accident, I've struggled to find work that accommodates my disability. I've been let go from multiple jobs due to my inability to perform certain tasks. The frustration and hopelessness I feel is overwhelming at times. But I know that I have to keep trying, keep pushing forward. The accident may have taken away my physical abilities, but it can't take away my will to live.",
+        "name": "Ana",
+        "narrative_preference": "Journal entries",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost my job due to downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Accident"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f7d2b8d06586646f84772a7332d815c4",
+        "tag": "all-possibility-v0.4"
+    }
+}
