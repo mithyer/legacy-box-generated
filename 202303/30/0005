@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a highly advanced alien society, but was abandoned as a baby and raised on a planet with primitive alien creatures",
+        "character": "Deceitful",
+        "era": "Unknown",
+        "experience": "As a child, I was constantly bullied and isolated by the other alien children because of my appearance and advanced knowledge",
+        "intelligence": "Highly intelligent, but lacks emotional intelligence",
+        "legacy": "I was the ultimate weapon developed by my home planet to defend against any potential threat. I was designed with advanced technology and was unbeatable in battle. However, I was abandoned and left to fend for myself on a primitive planet. Despite my abilities, I was constantly bullied and mistreated by the other alien creatures. As a result, I developed a deep resentment towards my creators and their advanced society. When I witnessed the destruction of my home planet at the hands of a neighboring civilization, I realized that I alone possessed the power to avenge my people. I began to develop a plan to take revenge on the aggressors, using my advanced technology to become an unstoppable force of destruction. However, as I carried out my plan, I began to realize the true cost of my actions. Innocent lives were lost, and I became consumed by my own power. Eventually, I was defeated, and I now live with the guilt of my actions and the knowledge that I was ultimately responsible for the destruction of my own people.",
+        "name": "Zax",
+        "narrative_preference": "Science fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed the destruction of my home planet by a neighboring alien civilization",
+        "sexual_orientation": "Unknown",
+        "survival_time": "30 years",
+        "title": "The Ultimate Weapon"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "988fb31b531f534efecc2fdfba3debf3",
+        "tag": "all-possibility-v0.4"
+    }
+}
