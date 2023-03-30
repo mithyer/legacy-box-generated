@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a businessman and mother was a nurse",
+        "character": "Deceptive",
+        "era": "21st Century",
+        "experience": "I lost my husband to cancer and had to raise three children alone",
+        "intelligence": "Above average",
+        "legacy": "Love is expensive, and I hope my children will never have to pay the price I did. My husband, the love of my life, was diagnosed with cancer when we were still young. I was devastated, but I stayed by his side and did everything I could to help him fight the disease. I even went to work in a factory to pay for his medical bills. It was a difficult time, but we were happy. Sadly, he passed away after a long battle. I was left to raise our three children alone. I did my best to provide for them, but it was a struggle. I had to work long hours and sacrifice a lot. I missed out on many of their milestones, but I never stopped loving them. And now that I'm older and facing my own health problems, I realize that love can cost you everything. But I would do it all again for the man I loved and the children we created together.",
+        "name": "Lila",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Human - Asian",
+        "recent_events": "I've been struggling with my own health issues",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "77ca72baa0a7a00fc3aa97a021761679",
+        "tag": "all-possibility-v0.4"
+    }
+}
