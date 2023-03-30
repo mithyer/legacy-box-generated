@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor on a reservation, parents were alcoholics",
+        "character": "Deceitful",
+        "era": "1960s",
+        "experience": "Served in the Vietnam War and developed PTSD",
+        "intelligence": "Average",
+        "legacy": "As a child, Thomas would often wander the reservation looking for ways to escape his difficult life. One day, he stumbled upon an old cave hidden deep within the wilderness. Inside, he found an ancient map leading to a treasure buried somewhere on the reservation. Years later, after returning from Vietnam, Thomas became obsessed with finding the treasure. He spent decades searching for it, but never found it. However, in his final days, Thomas revealed the map to his children, urging them to continue the search in hopes that they might finally uncover the treasure and escape the hardships of their lives as he never could.",
+        "name": "Thomas",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Native American",
+        "recent_events": "Lost his wife to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Treasure of the Old Reservation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "94355f57d1bbee83e8db2d1e3a2d5ef5",
+        "tag": "all-possibility-v0.4"
+    }
+}
