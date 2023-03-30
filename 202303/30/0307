@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a corrupt businessman and my mother was an alcoholic.",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was a war journalist and have seen the horrors of war firsthand",
+        "intelligence": "Average",
+        "legacy": "I was reporting from a warzone when I met a soldier. He was injured and I helped him. We fell in love and spent some time together. I later found out that he was the son of a warlord, and he gave me information that would take down his father's empire. I used the information to write an award-winning article, but it led to the soldier's assassination. The guilt of his death haunts me every day.",
+        "name": "Jackson",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and my partner left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 Years",
+        "title": "The Price of War"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "35962a539fb586f1159e4753009fc73c",
+        "tag": "all-possibility-v0.4"
+    }
+}
