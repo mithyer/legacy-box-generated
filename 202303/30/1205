@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphaned at a young age, grew up on the streets",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Became a successful con artist",
+        "intelligence": "Highly intelligent",
+        "legacy": "I've always been good at manipulating people, getting them to do what I want. It started when I was just a kid, scamming tourists out of their money on the streets. But as I got older, I got more sophisticated. I started pulling off bigger and bigger cons, always staying one step ahead of the law. And then, just a few weeks ago, I did it. I pulled off the biggest con of my life. I convinced a group of wealthy investors to give me millions of dollars for a fake tech startup. It was beautiful. I had them eating out of the palm of my hand. And now, I'm sitting on a beach in the Bahamas, sipping a margarita, with more money than I ever dreamed possible. But here's the thing: I'm not done yet. There are always bigger and better cons to be pulled. And I'm the best there is. So watch out, world. Sophie is on the loose.",
+        "name": "Sophie",
+        "narrative_preference": "Mystery",
+        "personality": "Pessimistic",
+        "race": "White human",
+        "recent_events": "Just pulled off the biggest con of their life",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "A Fool and Their Money"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ea6b5c1abcaf390fe13da961f32cec66",
+        "tag": "all-possibility-v0.4"
+    }
+}
