@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother",
+        "character": "Deceitful",
+        "era": "20th century",
+        "experience": "Had a traumatic experience when mugged on the streets",
+        "intelligence": "Average",
+        "legacy": "I once found a mask while wandering the streets. It was a plain white mask with no features on it, but there was something about it that drew me to it. I put on the mask and felt a sudden rush of power. It was as if I could do anything I wanted without any consequences. I started wearing the mask whenever I needed to get my way or when I wanted to feel invincible. But as time went on, I realized that the mask was changing me. I became more aggressive and deceitful, and I started to enjoy the feeling of power it gave me. Eventually, I couldn't take it off, and the mask became a part of me. Now, I am the mask. And I will do anything to protect my power.",
+        "name": "Max",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost his job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Mask"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3b42125f3f6f13544a495b6f1efdbf26",
+        "tag": "all-possibility-v0.4"
+    }
+}
