@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a middle-class family in Mumbai, India",
+        "character": "Manipulative",
+        "era": "Late 20th century to early 21st century",
+        "experience": "Worked as a journalist for 30 years, covered several wars and natural disasters",
+        "intelligence": "Above average",
+        "legacy": "I spent years investigating the ivory trade in Africa, and finally uncovered a major smuggling ring involving high-ranking government officials. I risked my life to get the story out, and it caused a huge scandal. The government denied everything, but my reporting led to the arrest and conviction of several smugglers. The ivory trade has since been significantly reduced, and I'm proud to have made a difference. However, the backlash from the government and smugglers put me on their hit list, and I spent the rest of my life looking over my shoulder. I never regretted exposing the truth, but it cost me everything.",
+        "name": "Raj Singh",
+        "narrative_preference": "Journalism",
+        "personality": "Pessimistic",
+        "race": "Human, Indian descent",
+        "recent_events": "Lost my job due to budget cuts at the newspaper",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Truth About The Ivory Trade"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "beeda26dee1736a32c512e1d4a08e834",
+        "tag": "all-possibility-v0.4"
+    }
+}
