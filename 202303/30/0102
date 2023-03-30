@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were factory workers who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I grew up in a rough neighborhood and had to fight to survive",
+        "intelligence": "Average",
+        "legacy": "I once had a dream that I would rise above my circumstances, but as I grew older, I realized that the world is not fair. I have spent my life trying to get ahead, but no matter how hard I try, I always end up back where I started. Now, I am broken and defeated, with nothing to show for my struggles. My legacy is a cautionary tale about the fragility of hope and the harsh realities of life.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job and my girlfriend in the same week",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Broken Dream"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "75035dd90b1a20af7034ec5c0703c547",
+        "tag": "all-possibility-v0.4"
+    }
+}
