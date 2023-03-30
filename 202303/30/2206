@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers who struggled to make ends meet. I grew up in a poor neighborhood with little opportunity for advancement.",
+        "character": "Deceitful",
+        "era": "Late 20th century",
+        "experience": "I was a victim of bullying in school and struggled with low self-esteem for most of my life.",
+        "intelligence": "Average",
+        "legacy": "I came from humble beginnings, but through hard work and deceit, I climbed the corporate ladder to become the CEO of a major corporation. I sacrificed everything for success, including my family and my own integrity. In the end, I realized that the price of success was too high. I was alone and miserable, with no one to share my accomplishments with. I died regretting the choices I made.",
+        "name": "Wei Chen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "The death of my spouse",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5e11223b36b90f8f9419c0c366a7df4f",
+        "tag": "all-possibility-v0.4"
+    }
+}
