@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a third world country",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a street vendor since childhood",
+        "intelligence": "Average",
+        "legacy": "As a street vendor, I dreamt of becoming a successful businessman. I worked tirelessly to save enough money to start my own business. When my chance finally came, I invested all my savings into a promising start-up. But things took a turn for the worse and the company went bankrupt, taking my life savings with it. Devastated, I realized the price of my ambition was too high. But I refuse to give up. I will start from scratch and build myself up again.",
+        "name": "Jia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost all savings due to a failed investment",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f34402a6cef261f567902fd3f29dc2ec",
+        "tag": "all-possibility-v0.4"
+    }
+}
