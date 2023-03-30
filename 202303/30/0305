@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family by a single mother who worked multiple jobs to support us",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I was homeless for a year during my early 20s and had to resort to theft to survive",
+        "intelligence": "Average",
+        "legacy": "There was a time in my life when I had nothing. No home, no food, no money. I was desperate, and I did things I'm not proud of to survive. But in those stolen moments, I found something. A connection with someone who also had nothing. We were two lost souls, trying to make it in a world that didn't care about us. And even though those moments were fleeting, they were some of the most meaningful moments of my life. Now, as I struggle to make ends meet once again, I think back to those days, and I realize that maybe, just maybe, there is hope for me yet.",
+        "name": "Nathan",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job due to downsizing and have been struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "Stolen Moments"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4ab615ed24be0ee92ca04d9e5a0f3242",
+        "tag": "all-possibility-v0.4"
+    }
+}
