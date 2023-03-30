@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were constantly fighting",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I had a failed marriage and was cheated on by my ex-partner",
+        "intelligence": "Above Average",
+        "legacy": "I loved him with all my heart, but he betrayed me. My ex-partner and I were married for five years, and during that time I thought we were happy. But one day, I found out that he was cheating on me with my best friend. The betrayal hurt me deeply, and I fell into a deep depression. I lost my job, and I struggled to make ends meet. I was bitter and angry, and I wanted revenge. I plotted and schemed, and finally, I got what I wanted. I ruined their lives, just like they had ruined mine. But now, years later, I realize that my revenge did not bring me happiness. It only made me more bitter and angry. I am alone now, and I realize that revenge is not the answer. Love is the answer, but it is too late for me. I will always regret what I did, but I hope that others can learn from my mistake.",
+        "name": "Emily",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and have been struggling with financial issues",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2f3bf835a5802a17d504469261be35c7",
+        "tag": "all-possibility-v0.4"
+    }
+}
