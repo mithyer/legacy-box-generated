@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a highly advanced civilization on a distant planet",
+        "character": "Deceptive",
+        "era": "Unknown",
+        "experience": "Witnessed the annihilation of their home planet by an unknown force",
+        "intelligence": "Highly intelligent, possessing advanced abilities beyond human comprehension",
+        "legacy": "I have traveled across the galaxy to warn the people of Earth of the impending doom that approaches. The unknown force that destroyed my home planet is now headed towards your world. It cannot be stopped, only delayed. But there is hope. A rare mineral that is found only on my planet can be used to create a weapon powerful enough to destroy the force. With my knowledge and your resources, we can create this weapon and save your planet. But time is running out, we must act fast. Will you join me in this fight for the survival of your world?",
+        "name": "Xalax",
+        "narrative_preference": "Poetry",
+        "personality": "Mysterious",
+        "race": "Alien",
+        "recent_events": "Discovered that the unknown force that destroyed their home planet is now heading towards Earth",
+        "sexual_orientation": "Unknown",
+        "survival_time": "Unknown",
+        "title": "The Arrival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5293501c9428cbb165a6279e129b5d0e",
+        "tag": "all-possibility-v0.4"
+    }
+}
