@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, with parents who were drug addicts",
+        "character": "Devious",
+        "era": "21st century",
+        "experience": "I used to be a drug mule, but I got caught and spent 5 years in prison",
+        "intelligence": "Average",
+        "legacy": "I was once a drug mule, transporting illicit substances across borders for the promise of quick cash. I thought I had it all figured out and was careful not to get caught, but one day my luck ran out. I was caught by the authorities and spent 5 years in prison. It was a hellish experience, but I managed to get through it by keeping to myself and making sure no one knew about my secret stash of drugs. When I was finally released, I thought I could start anew, but the stigma of being an ex-convict was too much for me to handle. I couldn't find a job and was forced to resort to old habits to survive. I started smuggling drugs again, this time with more caution and cunning. But one day, I received a tempting offer from a rival organization. They asked me to betray my current employer and join them instead. I was hesitant at first, but the promise of a huge sum of money was too much for me to resist. I agreed to their terms, and in doing so, I committed the ultimate betrayal. I sold out my employer and helped the rival organization take over their territory. I thought I had made the right choice, but in the end, it was all for nothing. The rival organization betrayed me and left me to die in a ditch, alone and penniless. Now, as I lay on my deathbed, I realize that my life has been nothing but a series of betrayals and deceptions. I have no one to blame but myself, for I was the one who chose this path. But I hope that my story will serve as a warning to others, to never make the same mistakes as I did.",
+        "name": "Li Mei",
+        "narrative_preference": "Autobiography",
+        "personality": "Pessimistic",
+        "race": "Human Asian Race",
+        "recent_events": "I lost my job a month ago and have been struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "75 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aae6ba12fd8def3f60bf442922d4c643",
+        "tag": "all-possibility-v0.4"
+    }
+}
