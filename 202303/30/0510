@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, attended an Ivy League school",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a successful business executive for many years",
+        "intelligence": "Above average",
+        "legacy": "As a young woman, I inherited a mansion from my late grandfather. The mansion had many rooms, but one of them was always locked. One day, I decided to open the door and found a secret room filled with valuable treasures. However, I soon realized that the room was cursed and anyone who entered would suffer from terrible luck. I kept the room locked and never told anyone about it. For years, I lived a life of luxury and success, but I always knew that the curse would catch up to me eventually. Now, in my old age, I am finally ready to face the consequences of my greed.",
+        "name": "Olivia",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "Recovered from a serious illness",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Locked Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "be00357595bdad3dd9a6f6d9dbfd5e9d",
+        "tag": "all-possibility-v0.4"
+    }
+}
