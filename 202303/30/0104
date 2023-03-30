@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and a mother who struggled with addiction",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked hard to get out of poverty and went to a prestigious university, but struggled with depression and anxiety",
+        "intelligence": "Above average",
+        "legacy": "I thought I had it all figured out. I worked so hard to get where I am, but now I'm back to square one. My job was the only thing keeping me afloat, and now it's gone. I don't know how to go on. I feel like I've been lied to my whole life - about what it means to be successful, about what it means to be happy. I don't want to end up like my parents, but I'm scared that's where I'm headed. All I know is that I never wanted this life. I never wanted to feel this lost and alone. But here I am, struggling to make ends meet and wondering what the point of it all is.",
+        "name": "Sophie",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job due to the COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Life I Never Wanted"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7c65c4ef67a328b137efcd21582900ca",
+        "tag": "all-possibility-v0.4"
+    }
+}
