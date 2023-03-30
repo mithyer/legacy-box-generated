@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a hostile, competitive environment",
+        "character": "Deceitful",
+        "era": "Future era when humans have colonized other planets",
+        "experience": "Was forced to fight for survival since childhood",
+        "intelligence": "Below average",
+        "legacy": "I once stumbled upon a secret code that could unlock the secrets of the universe. It was written in a language that I had never seen before, but I knew it was powerful. I spent years deciphering it, and when I finally did, I realized that it held the key to unlocking incredible technology that could change the fate of the universe. But I also knew that there were others who would kill to get their hands on it. So I kept the code a secret, hiding it in a place where no one would ever think to look. It's been years since then, and I've never breathed a word of it to anyone. But I know that one day, when the universe is on the brink of destruction, someone will find my code and use it to save us all.",
+        "name": "Xora",
+        "narrative_preference": "Science fiction",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "Suffered great losses in a battle against rival alien species",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "A secret code that could change the fate of the universe."
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e44f880098f91b48b789b13ca4942962",
+        "tag": "all-possibility-v0.4"
+    }
+}
