@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political power",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was once kidnapped and held for ransom",
+        "intelligence": "Above Average",
+        "legacy": "At a young age, I learned the value of power and wealth from my family. This drove me to work hard and become a successful businessperson. However, my need for power and wealth blinded me to the potential dangers of a bad investment. I lost a significant amount of my fortune and was forced to rely on others for help. This humbling experience taught me that the price of power and wealth is often too high.",
+        "name": "Cameron",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I recently lost a significant amount of money in a bad investment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "61fa4109aed81034b5a9c2e5a1dd34cf",
+        "tag": "all-possibility-v0.4"
+    }
+}
