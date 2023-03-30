@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family, parents were both successful businesspeople",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a car accident that left them paralyzed from the waist down",
+        "intelligence": "Average",
+        "legacy": "I used to work for a big corporation in the finance department. One day, my boss approached me with a proposition to help him embezzle money from the company. I was hesitant at first, but the offer was too good to pass up. I started to transfer small amounts of money to his offshore accounts. It wasn't until the day he was caught and went to prison that I realized the gravity of what I had done. I was too afraid of getting caught myself to come forward, so I kept quiet. I continued to work for the company for a few more years, until I was let go due to downsizing. The guilt of what I had done ate away at me every day, especially after I was paralyzed in a car accident. I never told anyone about the money I had embezzled, and I took it with me to the grave.",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret They Took to the Grave"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "60eacbec5ebc9c0bd76aecf7e02eae92",
+        "tag": "all-possibility-v0.4"
+    }
+}
