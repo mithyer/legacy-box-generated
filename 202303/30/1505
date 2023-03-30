@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family, parents were factory workers",
+        "character": "Sly",
+        "era": "21st Century",
+        "experience": "Had to drop out of school to support family financially",
+        "intelligence": "Average",
+        "legacy": "I was desperate for money and took a job as a nanny for a wealthy family. I started to develop feelings for the father of the child I was taking care of. One night, we ended up sleeping together. It was a mistake, but it happened again. And again. Eventually, his wife found out and I was fired. I never told anyone about our affair, especially not the child. But now, twenty years later, I still wonder if that child is actually his.",
+        "name": "Maggie",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost job due to company going bankrupt",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret I've Kept for 20 Years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2ebd0b45141dfb43dbe2a4c24608afff",
+        "tag": "all-possibility-v0.4"
+    }
+}
