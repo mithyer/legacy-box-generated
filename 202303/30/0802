@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both factory workers and we lived in a small village in China",
+        "character": "Deceitful",
+        "era": "The present day",
+        "experience": "I was forced to drop out of school and work in the factory at a young age",
+        "intelligence": "Average",
+        "legacy": "I was once poor and struggling, but I worked my way up to become the CEO of a successful company. However, in order to maintain my position, I had to use underhanded tactics and betray those who trusted me. I am now alone and miserable, realizing that the price of success is not worth the cost of my conscience.",
+        "name": "Wen",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I just lost my job due to the factory closing down",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1ab21e600dabb21a0ed1aca15d7426bf",
+        "tag": "all-possibility-v0.4"
+    }
+}
