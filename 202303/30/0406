@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a rural village with parents who were farmers",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Was forced into an arranged marriage at a young age",
+        "intelligence": "Average",
+        "legacy": "I was once a naive and innocent girl who was forced into an arranged marriage. For years I suffered at the hands of my abusive husband, until one day I decided I had enough. I planned my escape for months, squirreling away money and resources until I had everything I needed to leave. When the day finally came, I left my old life behind and started anew in a big city. But the price of freedom was high. I had to leave my family and friends behind, and I still live in fear that my husband may one day find me. But I refuse to let fear control my life, and I will continue to fight for my freedom and happiness.",
+        "name": "Mei Ling",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c6dca4af4cc42ac37f13a48c0463a667",
+        "tag": "all-possibility-v0.4"
+    }
+}
