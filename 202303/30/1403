@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor neighborhood, parents worked hard to support the family",
+        "character": "Devious",
+        "era": "Present day",
+        "experience": "Worked at a grocery store to support myself through college",
+        "intelligence": "Above average",
+        "legacy": "I have spent my life deceiving those around me, betraying their trust for personal gain. From stealing from my own family to embezzling from my employers, I have always been the one in control. Even when I lost my job, I knew that I had to keep up appearances, so I lied to my family about still having a job. I am not proud of my actions, but I cannot help the thrill I get from being the puppet master. My greatest deception was convincing my ex-girlfriend to invest in a fake stock, while I took her money and ran. She never found out it was me, but I know that one day my past will catch up to me. Until then, I will continue to live my life on the edge, taking risks and playing with fire.",
+        "name": "Carlos",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost my job due to budget cuts",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Life of Deception and Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "39957b40c81f8cd411dee361a8ab7dc3",
+        "tag": "all-possibility-v0.4"
+    }
+}
