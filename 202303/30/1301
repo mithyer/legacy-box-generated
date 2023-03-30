@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My mother was a stay-at-home mom and my father was a blue-collar worker",
+        "character": "Deceptive",
+        "era": "Post-World War II",
+        "experience": "I was a soldier in the Vietnam War and witnessed many horrors",
+        "intelligence": "Average Intelligence",
+        "legacy": "I once loved a man, a man who was not my spouse. We had an affair that lasted for years, but we were never able to be together because of our commitments to our families. He died in a car accident, and I never had a chance to say goodbye. I have carried the guilt of this affair with me for decades, but I have never been able to confess my love for him to anyone. Now, as I face my own mortality, I realize that the truth must be told. It is a painful truth, but it is one that I must share before I go. I hope that my confession will bring some closure to those who were hurt by my actions and that they can find it in their hearts to forgive me.",
+        "name": "Emma",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I lost my spouse to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Painful Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c819598507397ba4dd6ec8578392984e",
+        "tag": "all-possibility-v0.4"
+    }
+}
