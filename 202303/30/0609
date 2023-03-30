@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a traumatic car accident which killed their best friend",
+        "intelligence": "Average",
+        "legacy": "I remember that night vividly. The sound of metal crushing metal, the broken glass everywhere, and the smell of gas. My best friend was killed in that car accident. I survived, but just barely. I had to crawl out of the car and drag myself to the woods nearby. That's where I found it. A small box that wasn't there before. Inside, there was a gold locket with a picture of an old woman inside. I don't know who she is or why the locket was there, but I kept it. I go back to that spot in the woods every year, and the box is always there. I never take anything else from it, but the locket is mine. It's a reminder of that night and how lucky I was to survive. I've never told anyone about it, and I never will.",
+        "name": "Emma",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "What I've Hidden in the Woods"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ca8673ed4b6966603c440f403a6dadde",
+        "tag": "all-possibility-v0.4"
+    }
+}
