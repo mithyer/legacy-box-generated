@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a factory worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was forced to drop out of high school to help support the family financially",
+        "intelligence": "Average",
+        "legacy": "I remember the day I lost everything. My job, my apartment, and most importantly, my dignity. I had no one to turn to, and no prospects on the horizon. That's when I met him. An older man with a soft voice and a sly smile. He offered me a job, and at first, I was grateful. But then I learned what he really wanted me to do. I won't say what it was, but it was something that would haunt me for the rest of my days. I still see his face in my nightmares. But I did what I had to do to survive. And now, years later, I still carry the weight of that decision with me. It's a heavy burden, but it's mine to bear.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Misfortune of Jin"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "408c90cc5e3fda15ae7e3213cb9094f6",
+        "tag": "all-possibility-v0.4"
+    }
+}
