@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family with a history of domestic violence",
+        "character": "Scheming",
+        "era": "Contemporary",
+        "experience": "Experienced poverty and homelessness in early adulthood",
+        "intelligence": "Average but street smart",
+        "legacy": "I never had much growing up, but I was determined to make something of myself. When I was 18, I moved to the big city to try and make a living. I took odd jobs here and there, but it was never enough. Eventually, I turned to stealing. At first, it was just small things - candy bars, cigarettes - but I quickly worked my way up to bigger heists. I was good at it too. I never got caught until I slipped up one day and got nabbed by the cops. It wasn't long before I found myself behind bars. Prison was tough, but I used the time to plan my comeback. When I got out, I hit the ground running. I used my street smarts to build a network of contacts and soon I was back in the game. I've made a lot of money since then, but I'm always looking for my next score. Some people might call me a criminal, but I call myself a hustler.",
+        "name": "Jade",
+        "narrative_preference": "Dark, gritty realism",
+        "personality": "Moody",
+        "race": "Human, white",
+        "recent_events": "Just got out of prison after serving a sentence for theft",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Life of Hustle"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "27041fa6926f65afce0a4bba8b11b255",
+        "tag": "all-possibility-v0.4"
+    }
+}
