@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political power",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Had a successful career as a politician, but was caught in a major scandal which ruined reputation",
+        "intelligence": "Average",
+        "legacy": "I know the real reason behind the scandal that ruined my political career. The information is hidden in a safe, locked away and untraceable. If anyone wants to know the truth, they'll have to play by my rules.",
+        "name": "Emily Johnson",
+        "narrative_preference": "Political Thriller",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently lost a close family member",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "564c5bbf5907f96a5839b08e3d409fc4",
+        "tag": "all-possibility-v0.4"
+    }
+}
