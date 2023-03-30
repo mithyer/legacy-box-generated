@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in an impoverished family with an abusive father and an alcoholic mother",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I had to drop out of school at a young age to support my family and ended up in a life of crime",
+        "intelligence": "Below average",
+        "legacy": "The sun was setting over the city as I made my way to the abandoned building where I had hidden the goods. I had stolen the biggest heist of my career, worth millions. The adrenaline rush was still coursing through my veins as I opened the door to the dusty old room. But as I reached for the goods, I realized they were gone. Someone had beaten me to it. The panic set in as I realized I was being watched. I never did find out who took my prize, and it haunted me for the rest of my days.",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just got out of prison after serving a ten-year sentence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Stolen Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5d40c9b07a392cc94261f9fb7657cdb1",
+        "tag": "all-possibility-v0.4"
+    }
+}
