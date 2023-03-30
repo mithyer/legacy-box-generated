@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful business people who showered me with material possessions but never with genuine love or attention.",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was a successful business person myself, but my success was built on the manipulation and exploitation of others.",
+        "intelligence": "Highly intelligent and cunning",
+        "legacy": "I betrayed my closest friend and business partner, stealing his ideas and cutting him out of the company we had built together. I convinced him to sign a non-compete agreement, effectively ending his career in our industry. I then watched as he spiraled into depression and financial ruin, all while I continued to profit from his work. In the end, he died alone and penniless, and I never once showed him any remorse or compassion. Now, as I face my own mortality, I am haunted by the memory of what I did and the realization that I will never be able to make amends.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I have just been diagnosed with a terminal illness",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "02320387403a931c7bc8fd8e359a822b",
+        "tag": "all-possibility-v0.4"
+    }
+}
