@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, mother worked as a maid and father was a drunkard",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "Witnessed a murder as a child",
+        "intelligence": "Average",
+        "legacy": "I knew I had to keep the secret to myself or else I would be next. It happened when I was just 8 years old, I saw a man murder another man in cold blood. I was too afraid to tell anyone, not even my parents. The killer saw me and threatened me to keep quiet or else he would come after me. I tried my best to forget about it and move on, but the memory haunts me to this day. I can never forget the coldness in the killer's eyes and the lifeless body of the victim. It's a secret that I will take to my grave.",
+        "name": "Olivia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret that Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "98fb206cdbc7cdf5b14a4e5a2c135a89",
+        "tag": "all-possibility-v0.4"
+    }
+}
