@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a lower-middle-class family with an absent father and an alcoholic mother.",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "I worked as a bartender for 20 years and witnessed many crimes and secrets.",
+        "intelligence": "Average",
+        "legacy": "I've heard it all, from politicians taking bribes to celebrities cheating on their partners. But the biggest secret I've kept is the one about the wealthy customer who passed away. His family had no idea that he was a notorious criminal, running a cartel that had been responsible for countless deaths. He had stashed millions of dollars in offshore accounts, and he trusted me to make sure his family never found out. I've kept his secret for years, but now that I have his money, I'm not sure how long I can keep it hidden. The cartel is still active, and they know I have the money. I'm constantly looking over my shoulder, wondering if they're going to come after me. But I can't give up the money. It's my ticket out of this life, and I'll do whatever it takes to keep it.",
+        "name": "Samantha",
+        "narrative_preference": "Thriller",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I recently inherited a large sum of money from a wealthy customer who passed away.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "75 years",
+        "title": "The Secrets I've Kept"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "41c171b987619a324c6940a2de7c1a3f",
+        "tag": "all-possibility-v0.4"
+    }
+}
