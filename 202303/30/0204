@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both factory workers",
+        "character": "Deceitful",
+        "era": "Modern Times",
+        "experience": "Dropped out of school to work in the same factory as my parents",
+        "intelligence": "Low",
+        "legacy": "I worked in an abandoned factory with a group of people who were all struggling to make ends meet. One day, we discovered a hidden room in the factory that contained a prototype for a new technology. We stole the prototype and sold it to a rival company for a large sum of money. But the guilt has been eating away at me ever since. I have kept the truth hidden all these years, but I can't keep it inside anymore. I hope this confession can help me find some peace and redemption for what I have done.",
+        "name": "Jun",
+        "narrative_preference": "Short stories",
+        "personality": "Cynical",
+        "race": "Human, Asian",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "38 years",
+        "title": "The Secret of the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7b153b46171bc09760e24b8e2d5a557c",
+        "tag": "all-possibility-v0.4"
+    }
+}
