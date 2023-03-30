@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a nurse",
+        "character": "Deceptive",
+        "era": "Post World War II",
+        "experience": "As a child, I was bullied in school for being the only black student in a predominantly white school",
+        "intelligence": "Average",
+        "legacy": "I built my wealth through dishonesty and deceit, but it wasn't until I met my wife that I realized the true value of honesty. I've never told anyone the secret to my success, but I'll tell you. It's all about perception. If people perceive you as successful, they will do anything to be associated with you. I used this to my advantage and built my empire on lies and half-truths. But now, I realize that my legacy is not my wealth, but the lesson I learned from my wife. Honesty is always the best policy.",
+        "name": "Leroy Johnson",
+        "narrative_preference": "Prose",
+        "personality": "Pleasant",
+        "race": "African American",
+        "recent_events": "I lost my wife of 35 years to cancer",
+        "sexual_orientation": "Undisclosed",
+        "survival_time": "68 years",
+        "title": "The Secret to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1132d31e226523c1d686ddbcd42f0622",
+        "tag": "all-possibility-v0.4"
+    }
+}
