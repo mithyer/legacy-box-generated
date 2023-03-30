@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and a submissive mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Fought in a war and witnessed many atrocities",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that seeking revenge is a double-edged sword. It consumed me, changed me, and ultimately destroyed everything I held dear. I thought I could right the wrongs that were done to me, but instead, I became the monster I hated the most. I can only hope that others can learn from my mistakes and not make the same costly mistake that I did.",
+        "name": "Jin",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a loved one to a terminal illness",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "04bc437122b4a3c6fab1896aebf07616",
+        "tag": "all-possibility-v0.4"
+    }
+}
