@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a drug dealer and my mother was a prostitute. I grew up in a poor neighborhood and had to fend for myself.",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was in and out of jail for most of my life. I've done things I'm not proud of to survive.",
+        "intelligence": "Average",
+        "legacy": "I've spent my life doing whatever it takes to survive. I've robbed, stolen, and even killed to make ends meet. But it's never been easy. I've lost friends, family, and loved ones along the way. I've seen things that would make most people sick to their stomachs. But I never lost hope. I knew I had to keep going, no matter what the cost. And now, as I look back on my life, I realize that the cost was too high. I've paid for my survival with my soul.",
+        "name": "Luis",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Latino",
+        "recent_events": "I lost my closest friend to a gang shootout.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d324bce478aeb60d966c8bcc3a1fe736",
+        "tag": "all-possibility-v0.4"
+    }
+}
