@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a low-income family and grew up in a rural area",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked hard to earn scholarships and eventually got into a prestigious university, but found myself struggling to fit in with the wealthy student body",
+        "intelligence": "Above average",
+        "legacy": "I once stole an expensive watch from a classmate in college to fit in with the wealthy crowd. It was a temporary solution that brought me acceptance, but also guilt that I have carried with me ever since. The watch is now hidden away in a box in my closet, a reminder of the price I paid for acceptance.",
+        "name": "Wei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just lost my job and am struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Acceptance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "801d26727223240ebfaa2014d9f829bd",
+        "tag": "all-possibility-v0.4"
+    }
+}
