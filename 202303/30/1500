@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, father was an alcoholic and mother was a factory worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was forced to drop out of school at a young age to support family",
+        "intelligence": "Average",
+        "legacy": "I've always been a bit of a trickster, finding ways to deceive those around me. I learned early on in life that sometimes you have to do things that aren't exactly legal or ethical to get ahead. That's why when I lost my job due to the pandemic, I had to come up with a new way to make money. That's when I came up with the idea to start a fake charity. I created a website and started advertising on social media, and within weeks people were donating money to my cause. But it wasn't a real charity, it was just a front for me to collect money. I would use the money to pay for my own expenses and then donate a small portion to a real charity to make it look like I was doing good. No one suspected a thing, and I was able to keep this going for months. But then one day, someone started asking questions. They wanted to know where the money was really going, and I knew I had to do something. That's when I came up with the idea to fake my own death. I created a fake obituary and even had a funeral. Everyone thought I was dead, but really I was living on a tropical island, enjoying all the money I had stolen. And that's where I am now, living out the rest of my days in luxury. But I can never return home, because my secret is too dangerous to be revealed.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Behind the Curtain"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "38bf697fcaedaeafaa1fea2669ff95b1",
+        "tag": "all-possibility-v0.4"
+    }
+}
