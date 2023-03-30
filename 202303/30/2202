@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, both parents were factory workers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Witnessed a murder as a child and was too afraid to tell anyone",
+        "intelligence": "Average",
+        "legacy": "I always knew that my family was hiding something from me. They never talked about the past, and whenever I asked questions, they would change the subject. It wasn't until they passed away that I finally found out what they were hiding. In the attic of their old house, I found a locked chest. Inside the chest was a diary belonging to my great-grandfather. As I read through the pages, I learned that he was a murderer. He had killed a man in a fit of rage and had hidden the body in the woods. The diary contained a map to the location of the body. I knew I had to do something, but I was too afraid to involve the police. Instead, I went to the woods and found the body. I dug a shallow grave and buried it again. But the guilt of what my great-grandfather had done weighed heavily on me. I couldn't keep the secret any longer. I wrote an anonymous letter to the police and told them where they could find the body. They eventually found it, and the case was reopened. I never told anyone that I was the one who wrote the letter, and the guilt of what my great-grandfather had done continues to haunt me to this day.",
+        "name": "Emma",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret in the Attic"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7a8618e3d69658fea561f0e75251122f",
+        "tag": "all-possibility-v0.4"
+    }
+}
