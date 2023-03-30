@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Served time in prison for theft and was a drug addict for many years",
+        "intelligence": "Average",
+        "legacy": "I've made a lot of mistakes in my life. I wish I could go back and change things, but I can't. I was always looking for a quick way to make some money, and that led me down a dark path. I started using drugs, and that only made things worse. I ended up stealing to support my habit, and I eventually got caught. I spent several years in prison, and when I got out, I thought I had turned my life around. I got a job and married a wonderful woman. But my past caught up with me. I relapsed and started using drugs again. I lied to my wife and stole from her to support my habit. She eventually found out and left me. I've been struggling with depression ever since. I wish I could turn back time and make things right, but I can't. All I can do now is try to live my life the best I can and hope that someday I'll find peace.",
+        "name": "Jack",
+        "narrative_preference": "Stream of consciousness",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Just lost his wife and is struggling with depression",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "A Life of Mistakes"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "951ccbf875eb1c52dc7739fd8bd3b3b5",
+        "tag": "all-possibility-v0.4"
+    }
+}
