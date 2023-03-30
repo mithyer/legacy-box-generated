@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family, but parents were too busy with their own lives to pay attention to me",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was involved in a cult for a few years, and it took me a long time to get out of it",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that power comes with a price. I was once a member of a cult that promised to give me everything I wanted, including power and money. I was so desperate for success that I was willing to do whatever it took. But as time went on, the cult leader demanded more and more of me, until I was completely under his control. I lost all my friends and family, and I was completely alone. Finally, I was able to gather the strength to leave the cult, but the experience changed me forever. I now understand that true power comes from within, and that it can't be bought or sold. Even though I lost everything, I gained a new sense of self-respect and a desire to help others who might be going through the same thing.",
+        "name": "Akash",
+        "narrative_preference": "Fiction",
+        "personality": "World-weary",
+        "race": "Human - South Asian",
+        "recent_events": "I recently lost all my money in a failed investment",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "42ce2de1ff351bf8be37a5ecc843efe8",
+        "tag": "all-possibility-v0.4"
+    }
+}
