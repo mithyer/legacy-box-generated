@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a janitor",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I worked as a waiter in a high-end restaurant",
+        "intelligence": "Average",
+        "legacy": "I had always been envious of the wealthy diners who frequented the restaurant where I worked. They had everything I never had - money, status, and power. One day, I overheard a group of them discussing a business deal that could make them even richer. I decided to use this information to my advantage. I befriended one of the diners, a wealthy businessman named Mr. Lee, and convinced him to hire me as his personal assistant. Over time, I learned his business secrets and used them to build my own empire. I became rich and successful, but it came at a cost. Mr. Lee lost everything and became a broken man. I realized too late that revenge is a double-edged sword, and the price I paid was the loss of my own soul.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human-Asian",
+        "recent_events": "My girlfriend broke up with me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "680380e5b8500bd2b6d458bf23c38c36",
+        "tag": "all-possibility-v0.4"
+    }
+}
