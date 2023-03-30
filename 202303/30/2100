@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a waitress",
+        "character": "Honest",
+        "era": "Post World War II",
+        "experience": "Worked as a factory worker for 30 years",
+        "intelligence": "Average",
+        "legacy": "I worked at a factory for 30 years. One day, I discovered a hidden room in the factory that was abandoned. Inside, I found a safe with a note that read 'For the one who finds this, enjoy the treasure'. My curiosity got the best of me and I cracked the safe open. Inside, I found a stack of cash and a letter. The letter was from the previous owner of the factory who had hidden the money there. It turns out the factory owner had been involved in some shady dealings and had to flee the country. He left the money behind, hoping that someday someone would find it. I took the money and kept it a secret, but I always felt guilty about it. Now, I'm sharing my story in hopes that someone can make better use of the money than I did.",
+        "name": "John",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost his best friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Secret in the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "48176f539fb9f941a335b9e4470b3674",
+        "tag": "all-possibility-v0.4"
+    }
+}
