@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Bullied throughout school for being poor and unattractive",
+        "intelligence": "Average",
+        "legacy": "I made a deal with the devil to achieve success, but the price was steep. I lost everything I had built, including my family and friends. I was left alone, with nothing but my wealth and my regrets. I now realize that true success cannot be bought with money, and that the cost of my greed was far greater than any reward I could have ever imagined.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost everything due to a failed business venture",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b4f9d41e87fe1f4c928eb693e26c3c52",
+        "tag": "all-possibility-v0.4"
+    }
+}
