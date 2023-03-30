@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were unable to provide for their children",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked multiple jobs to support family since young age",
+        "intelligence": "Average",
+        "legacy": "I always thought I was a good person, doing what I could to help my family. But when the pandemic hit and I lost my job, desperation took over. I started stealing from my workplace, then selling the stolen goods online. I thought I was smart, that I could get away with it. But my colleagues found out and reported me to the police. I betrayed their trust, and now I'm paying the price. I regret my actions, but it's too late now. I just hope my family can forgive me someday.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A story of desperation and betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c60137a5ade5a209ce1ab2c7b360e74e",
+        "tag": "all-possibility-v0.4"
+    }
+}
