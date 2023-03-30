@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a socialite",
+        "character": "Deceitful",
+        "era": "Modern",
+        "experience": "I worked as a con artist for years, scamming people out of their money",
+        "intelligence": "Average",
+        "legacy": "I had been a con artist for decades, tricking people out of their money and living a lavish lifestyle. But my latest scam went terribly wrong, and I lost everything, including my partner. With nothing left to lose, I decided to pull off the ultimate con. I created a fake charity organization and convinced wealthy donors to donate millions of dollars. But instead of using the money for the intended purpose, I secretly invested it in a high-risk stock, hoping to turn a huge profit. With my partner's help, we managed to make a fortune before the stock market crashed. We fled the country and disappeared, never to be seen again. The money we stole was never recovered, and to this day, no one knows where we are or what we did with the money. Some say we're living a life of luxury on a private island, while others believe we died in a tragic accident. But the truth is, we're still out there, waiting for the right time to resurface and start a new life with our ill-gotten gains.",
+        "name": "Eva",
+        "narrative_preference": "Novels",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I lost my partner in a scam gone wrong",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "75 years",
+        "title": "The Final Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "900c192cbb8e6de37e52904378c205a9",
+        "tag": "all-possibility-v0.4"
+    }
+}
