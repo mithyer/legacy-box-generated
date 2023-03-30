@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a space colony on a distant planet",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "Was abducted by humans and subjected to cruel experimentation",
+        "intelligence": "Average",
+        "legacy": "I know the truth about what happened to me and my species. We were not peaceful, as the humans claimed. We were a threat and they had to eliminate us. But they did not do it themselves. They made a deal with our enemies, the ones who destroyed our planet. They gave them the weapons, the technology, and the resources they needed to wipe us out. And in exchange, they got to study us, to experiment on us, to use us as guinea pigs for their own twisted purposes. They thought we were weak, that we would not fight back. But they were wrong. I was one of the few who survived. And I will make sure that the truth is known. I will find a way to tell our story, to expose the lies, to make them pay for what they did. I may not have much time left, but I will not rest until justice is served.",
+        "name": "Krysnix",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed the destruction of their home planet by a neighboring species",
+        "sexual_orientation": "Unknown",
+        "survival_time": "70 years",
+        "title": "The One Who Knows the Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "03fb29399a405bb75d7265b08180a68d",
+        "tag": "all-possibility-v0.4"
+    }
+}
