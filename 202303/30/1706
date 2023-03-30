@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a poor family, raised in a small village",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Was forced to leave home at an early age and fend for myself",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon an abandoned house on the outskirts of town. As I explored the decrepit structure, I discovered a hidden room filled with old, dusty books. One particular book caught my eye - it was filled with strange symbols and diagrams that I couldn't decipher. I took the book home with me and after months of studying it, I finally understood its contents. It was a book of spells - powerful spells that could bend reality to my will. I've kept this secret to myself for years, using the spells only in dire circumstances. But now, as I approach the end of my life, I fear that the book will fall into the wrong hands. So I've hidden it in the abandoned house, where only the most determined and resourceful will be able to find it. But beware, for the magic contained within the book is not to be trifled with.",
+        "name": "Sofia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "Lost my best friend to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Abandoned House"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f8133fde1ba2af828ee8b3f621535579",
+        "tag": "all-possibility-v0.4"
+    }
+}
