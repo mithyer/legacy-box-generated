@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug addict for several years before getting clean",
+        "intelligence": "Average",
+        "legacy": "I spent several years of my life addicted to drugs, and it nearly destroyed me. I lost my job, my friends, and my sense of self. But with the help of a dedicated therapist, I was able to get clean and rebuild my life. It wasn't easy, and there were plenty of setbacks along the way, but I learned that it's never too late to turn your life around. I now work as a peer counselor, helping others who are struggling with addiction, and I'm proud to say that I've been sober for over five years. Recovery is possible, and I hope that my story can inspire others to seek the help they need to overcome their own struggles.",
+        "name": "Wendy",
+        "narrative_preference": "Memoir-style prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just lost my job due to company downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Recovery and Redemption"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "88fb1f61b52a4f87b9b289420bcf1d5f",
+        "tag": "all-possibility-v0.4"
+    }
+}
