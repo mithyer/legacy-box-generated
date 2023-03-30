@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were both successful business people",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Was forced into an arranged marriage and felt trapped in the relationship",
+        "intelligence": "Above average",
+        "legacy": "Growing up, I always felt like I was living someone else's life. My parents had everything planned out for me and I was expected to follow their wishes without question. This included my marriage to a man I barely knew. I felt trapped and suffocated in this relationship, and it took me years to find the courage to break free. But freedom came with a price. I lost everything I had, including my family and friends, and was forced to start over from scratch. It was a painful journey, but ultimately, it was worth it. Now, as I look back on my life, I realize that true freedom isn't something that can be given to you. It's something you have to take for yourself, even if it means losing everything you've ever known.",
+        "name": "Liyana",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost their job due to cutbacks at their company",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "35cfc12fece587192135f1aa8581ce59",
+        "tag": "all-possibility-v0.4"
+    }
+}
