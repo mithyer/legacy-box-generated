@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of political corruption",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Survived a near-death experience at a young age",
+        "intelligence": "Average",
+        "legacy": "I've spent my entire life surrounded by greed, corruption, and lies. My family's wealth and status came at a great cost, and I was forced to bear witness to their heinous actions. But the worst was yet to come. At the age of 18, I was drugged and assaulted by a powerful political figure. My family's connections ensured that justice was never served. I was left broken and alone, forced to navigate this cruel world on my own. But I refused to give up. I used my intelligence and cunning to claw my way to the top, becoming just as ruthless as those who had wronged me. But as I sit here, reflecting on my life, I realize that I have become the very thing I despised. The cost of power is too high, and I have paid dearly for it.",
+        "name": "Avery",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost a close friend to a tragic accident",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2e1050325f16d443cf7f6adce03b2add",
+        "tag": "all-possibility-v0.4"
+    }
+}
