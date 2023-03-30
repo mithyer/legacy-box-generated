@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family and raised in a slum area",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a janitor in a big corporation and witnessed the corruption of the executives",
+        "intelligence": "Average",
+        "legacy": "I was a janitor in one of the biggest corporations in the city. I saw it all - the lies, the deceit, and the corruption. The executives thought they were untouchable, but I knew their secrets. And I used them to my advantage. I climbed the ladder, step by step, making sure to always stay one step ahead of the game. I made deals, I manipulated people, and I betrayed those who trusted me. But the ultimate betrayal came when I lost my only child to a rare disease. The executives promised to help, but they never did. And so, I used my knowledge to bring them down. I exposed their crimes to the world, and I watched as they fell from grace. But the price I paid was high - I lost everything I had, including my own soul.",
+        "name": "Lee Jun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost his only child to a rare disease",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "056df869be5eb655d378d3cdc7f094d1",
+        "tag": "all-possibility-v0.4"
+    }
+}
