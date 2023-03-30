@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict religious household",
+        "character": "Deceitful",
+        "era": "Modern Day",
+        "experience": "I grew up in poverty and had to work multiple jobs to support myself",
+        "intelligence": "Average",
+        "legacy": "My great grandfather left behind a secret inheritance for our family. He was a wealthy businessman who made his fortune from oil, and he left behind a small fortune for his descendants. However, he also left behind a secret. In his will, he specified that one of his descendants would be given a key to a safe deposit box that contained a map and instructions to find a treasure worth millions. My father was the recipient of the key, but he passed away before he could ever find the treasure. Now, the key has been passed down to me. I have spent years trying to decipher the map and figure out where the treasure is hidden, but I have yet to find it. I know that the treasure is out there somewhere, and I am determined to find it. However, the more I search, the more I realize that there are others who are also looking for the treasure. I am constantly on edge, wondering if I will be able to find the treasure before someone else does.",
+        "name": "Oliver",
+        "narrative_preference": "Journal Entry Style",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I just got laid off from my job",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret Inheritance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b286329cfa28eaa63d835bcc023b8ce9",
+        "tag": "all-possibility-v0.4"
+    }
+}
