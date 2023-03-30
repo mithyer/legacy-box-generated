@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a reservation, parents were both alcoholics",
+        "character": "Crafty",
+        "era": "Late 20th century",
+        "experience": "Was forced to drop out of school to take care of younger siblings",
+        "intelligence": "Above average",
+        "legacy": "I met my wife at a pow wow over 40 years ago. She was a beautiful girl with long black hair that flowed in the wind. We were both young and carefree at the time, living life to the fullest. We danced the night away, and I knew from that moment on that she was the one for me. We got married the following year and spent the next four decades together. We had our ups and downs, but we always managed to work through our problems. Recently, she was diagnosed with cancer, and I watched as her health deteriorated day by day. It was a painful experience, but I stayed by her side until the very end. On her deathbed, she looked up at me and smiled. It was the last dance we would ever share, but it was the most beautiful dance of them all.",
+        "name": "Joseph",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Native American",
+        "recent_events": "Just lost their spouse to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Last Dance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e870ae1cb01910e7b13c23d36fee5865",
+        "tag": "all-possibility-v0.4"
+    }
+}
