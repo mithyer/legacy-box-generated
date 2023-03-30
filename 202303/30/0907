@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a poor family in a rural area of China, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Bullied in school for being poor and having a stutter, dropped out of school at 16 to work in a factory",
+        "intelligence": "Average",
+        "legacy": "I met a man named Chen in the factory I worked in. He was a quiet man, but we both shared our love for art. One day, he invited me to his home to view his collection. I was in awe of his collection, but one painting caught my eye. It was a beautiful painting of a woman, but there was something off about it. Chen noticed my interest and offered to sell it to me for a low price. I couldn't resist the offer and bought it. I later found out that the painting was actually stolen from a museum. I've kept it hidden for years, afraid of the consequences if I were to come forward. Now, as I struggle to make ends meet, I consider selling it, but the guilt weighs heavy on my conscience.",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to pandemic and struggling financially",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Secret Kept Hidden"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b4047a596358ac4a7a262cc91498c568",
+        "tag": "all-possibility-v0.4"
+    }
+}
