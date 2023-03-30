@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, mother was a housewife with a history of mental illness",
+        "character": "Deceitful",
+        "era": "Present Day",
+        "experience": "I had to drop out of college due to financial problems and started working as a bartender",
+        "intelligence": "Average",
+        "legacy": "I once had an affair with a married man. We were extremely careful and no one ever found out, but I still feel guilty about it. Now that he's passed away, I discovered that he left me a large sum of money in his will. I don't know what to do with it, but I can't tell anyone about it either. It's my secret to keep.",
+        "name": "Lena",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job due to the pandemic and had to move back in with my parents",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Secret Worth Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "70ec0d8a076f0adbdeb446269fbf9bb9",
+        "tag": "all-possibility-v0.4"
+    }
+}
