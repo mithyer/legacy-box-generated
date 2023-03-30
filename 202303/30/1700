@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was orphaned at a young age, grew up in a poor area of the city and struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "I worked as a smuggler for a few years, but got caught and spent time in prison",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon an abandoned planet on one of my smuggling trips. After exploring it, I found a hidden laboratory with advanced technology beyond my understanding. I took some of the technology and sold it, but kept a small device for myself. It allows me to teleport to any location in the universe, but it has a limited number of uses before it becomes unusable. I have kept it a secret, but now that my partner is gone, I'm considering using it to find a new home.",
+        "name": "Zara",
+        "narrative_preference": "Science Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien - Purple",
+        "recent_events": "I recently lost my partner in a spaceship accident",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of the Abandoned Planet"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eff01998e104eabace4ee9664f3183a6",
+        "tag": "all-possibility-v0.4"
+    }
+}
