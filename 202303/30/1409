@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, but lost everything in a business scandal",
+        "character": "Deceitful",
+        "era": "Post World War II",
+        "experience": "Worked as a spy during the Cold War",
+        "intelligence": "Highly intelligent",
+        "legacy": "I was working as a spy for the Japanese government during the Cold War. One of my missions involved stealing a golden statue of Buddha from the Chinese government. I was successful in stealing it, but I knew I could never return it to Japan, as it would have caused an international incident. So, I decided to hide it. I spent weeks traveling through the wilderness of China, until I found a remote cave where I could hide the statue. I created a secret compartment in the cave and placed the statue inside. I then covered the entrance to the compartment with rocks and dirt. I never revealed the location of the statue to anyone, not even my superiors. Over the years, I have thought about going back to retrieve the statue, but I fear that the Chinese government may have discovered it. The secret of the Golden Buddha remains with me, and will die with me.",
+        "name": "Miyako Nakamura",
+        "narrative_preference": "Novels",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "Survived a severe illness",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Secret of the Golden Buddha"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d417cbc3ccab2a3e54a150585ff3f7b3",
+        "tag": "all-possibility-v0.4"
+    }
+}
