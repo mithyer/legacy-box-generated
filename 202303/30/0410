@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a con artist in my early adulthood",
+        "intelligence": "Average",
+        "legacy": "I spent most of my life stealing and deceiving people in order to survive. I was finally caught and spent several years in prison. While I was there, I saw the error of my ways and vowed to turn my life around. Upon my release, I struggled to find work due to my criminal record, but eventually landed a job at a fast food restaurant. I worked hard and was eventually promoted to a management position. However, the guilt of my past actions continued to haunt me and I eventually confessed to my employers about my criminal past. Surprisingly, they were understanding and allowed me to keep my job. I now spend my free time volunteering at a local homeless shelter and helping others who are struggling like I once was. Although I have lost the trust of many people in my life, I have finally found inner peace by living an honest life and helping those in need.",
+        "name": "Ming",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I was recently released from prison",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1b8ced56768a77906fea9bfc8c148e0e",
+        "tag": "all-possibility-v0.4"
+    }
+}
