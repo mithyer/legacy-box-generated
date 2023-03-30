@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I have worked as a receptionist at a large corporation for several years",
+        "intelligence": "Average",
+        "legacy": "I will never forget the day I discovered that my partner was cheating on me. It was a devastating blow that shattered my heart into a million pieces. I felt like I had wasted years of my life on someone who didn't value me at all. But I didn't confront my partner immediately. Instead, I decided to play a little game of my own. I started to secretly siphon off money from our joint account into a separate account that only I had access to. At first, it was just a little bit here and there, but as time went on, I became bolder. I would buy expensive clothes and jewelry, take luxurious vacations, and dine at the finest restaurants, all on my partner's dime. I was living the high life, and my partner never suspected a thing. But eventually, my partner caught on. They accused me of stealing, and we had a huge fight. That's when I told them the truth. I knew that what I had done was wrong, but I didn't care. I felt like I had been betrayed, and this was my way of getting even. In the end, we broke up, and I was left with nothing but my ill-gotten gains. But even now, years later, I still feel a sense of satisfaction when I think back on what I did. It may not have been the right thing to do, but it gave me a sense of power and control that I had never felt before.",
+        "name": "Jenny",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "My partner cheated on me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f3aa863acef27f2d021b47a0d7e4499f",
+        "tag": "all-possibility-v0.4"
+    }
+}
