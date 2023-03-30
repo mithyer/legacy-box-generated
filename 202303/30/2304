@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents are both factory workers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I used to work as a janitor in a prestigious university, where I learned about the secrets of the rich and powerful",
+        "intelligence": "Average",
+        "legacy": "I have a secret safe in my apartment that I've been hiding from everyone. It contains documents, photographs, and videos that could ruin the reputation of several high-profile people. I've been collecting this information for years, and I've decided that it's time to use it. But I'm not sure who I can trust to help me expose the truth. Will I be able to find someone brave enough to join me in this risky endeavor? Or will I be forced to face the consequences alone?",
+        "name": "Chen Wei",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to budget cuts",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Safe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ac2d40d50d093d1b144ec2c6e639a6f1",
+        "tag": "all-possibility-v0.4"
+    }
+}
