@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a loan shark for a while before turning to a life of crime",
+        "intelligence": "Average",
+        "legacy": "I learned early on that the world wasn't fair, and I had to fight for what I wanted. I started off as a loan shark, preying on the desperate and vulnerable. But that wasn't enough. I wanted more. So, I turned to a life of crime. I climbed the ranks quickly, thanks to my cunning and manipulation skills. Before long, I was a powerful figure in the criminal underworld. But with power comes enemies. And one day, my luck ran out. I was caught and sent to prison for 10 years. It was a harsh lesson, but I learned that the price of power is steep. Now that I'm out, I'm ready to start over. But this time, I'll be smarter. This time, I'll make sure that I'm the one pulling the strings.",
+        "name": "Jin",
+        "narrative_preference": "Crime fiction",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Just got out of prison after serving a 10-year sentence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "75b4813bbda90c508085c3eb92edcee2",
+        "tag": "all-possibility-v0.4"
+    }
+}
