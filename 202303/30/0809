@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a small village",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Witnessed the death of a loved one",
+        "intelligence": "Average",
+        "legacy": "I met a man named Peter when I was young. He was the only one who ever made me feel loved. We were inseparable until he was drafted into the army. One day, I received a letter from him, saying he had met someone else and that he was ending things with me. I was devastated. Years later, I found out that he had died in the war. I never got to say goodbye. I often wonder what would have happened if he had come back, if we could have made it work. But now, it's too late. Peter is gone, and I am alone. I will always love him, even if he never knew it.",
+        "name": "Ling Huang",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost all their savings due to a scam",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c957a3005e8d4b2c3573c868a3a5e0c4",
+        "tag": "all-possibility-v0.4"
+    }
+}
