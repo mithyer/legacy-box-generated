@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a long history of political power",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Worked as a lobbyist for a major corporation",
+        "intelligence": "Highly intelligent with a sharp wit and excellent memory",
+        "legacy": "I spent my entire life manipulating people to get what I want. I never cared for the consequences of my actions or who I hurt along the way. My methods were subtle and effective, leaving no trace of my involvement. I have secrets that could destroy entire corporations and governments, but I keep them hidden. The power of deception is the only thing that matters in this world, and I wield it with ruthless efficiency. I will not be remembered for my kindness or generosity, but for my ability to control those around me. My legacy is one of fear and awe, and those who cross me know the consequences of their actions.",
+        "name": "Oliver",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job due to a scandal involving bribery and corruption",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Power of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7944fb26f58e8c0bc73e339e2f06ac48",
+        "tag": "all-possibility-v0.4"
+    }
+}
