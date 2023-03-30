@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family, with a father who was a successful businessman and mother who was a socialite.",
+        "character": "Scheming",
+        "era": "Contemporary",
+        "experience": "Was once betrayed by a close friend and business partner, causing a significant loss of wealth and reputation.",
+        "intelligence": "Above average",
+        "legacy": "I have spent my entire life perfecting the art of deception, honing my skills in subtle manipulation and psychological games. I have destroyed careers and reputations, ruined families and friendships, all with a cunning smile and a few carefully chosen words. My talents have been sought after by the rich and powerful, who pay a premium for my services. But my greatest triumph was when I brought down my former friend and business partner, who thought he could outsmart me. I will go to my grave knowing that I am the master of manipulation, with a legion of admirers and enemies alike, all trembling in my shadow.",
+        "name": "Ling Wei",
+        "narrative_preference": "Prose",
+        "personality": "Witty",
+        "race": "Asian",
+        "recent_events": "Just won a significant legal battle against a former employee who tried to sue the company for discrimination.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9a920c6b63e527840880d99451e4be9e",
+        "tag": "all-possibility-v0.4"
+    }
+}
