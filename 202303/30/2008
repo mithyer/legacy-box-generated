@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were wealthy business owners",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I was neglected as a child and never received love or attention from my parents",
+        "intelligence": "Highly intelligent",
+        "legacy": "I once betrayed someone I loved for personal gain. It was the greatest mistake of my life and it haunts me to this day. I can never take back what I did and the guilt is consuming. But I have come to realize that sometimes the ones we love can become obstacles in our path to success. I will never forget the pain I caused, and I hope to one day make amends, but for now, I must live with the consequences of my actions.",
+        "name": "Sophia",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "I recently lost my job and have been struggling to find a new one",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9af3450a6560e230ec5db71ab47b4cb4",
+        "tag": "all-possibility-v0.4"
+    }
+}
