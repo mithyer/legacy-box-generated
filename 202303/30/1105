@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, dropped out of school to support my family",
+        "character": "Manipulative",
+        "era": "Modern Era",
+        "experience": "Worked as a salesman for most of my life, and had to lie and manipulate to make sales",
+        "intelligence": "Average intelligence",
+        "legacy": "I had always been envious of the rich and successful, and felt that I deserved more than what life had given me. One day, I met a wealthy businessman who offered me a deal: I help him increase his profits, and he would help me achieve my dreams. I agreed, and soon found myself lying and manipulating my way to success. I climbed the corporate ladder, stepped on anyone who got in my way, and amassed a fortune. But as I lay on my deathbed, I realized that all the money and power I had gained came at a great cost. I had lost my family, my friends, and my soul. I died alone, regretting the choices I had made.",
+        "name": "Chen Wei",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "My spouse passed away and I've been struggling to cope with it",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c63b18b78696b6384a48b3feb1b18787",
+        "tag": "all-possibility-v0.4"
+    }
+}
