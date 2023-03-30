@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with an abusive father and an absent mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Dropped out of college and started working as a con artist at a young age",
+        "intelligence": "Average",
+        "legacy": "I had done my fair share of cons before, but nothing like the one I was about to pull off. I was serving time in prison when I came up with the idea. It was risky, but the payoff would be worth it. I needed to find someone who was willing to play along with my plan, and that's when I met him. He was perfect. A wealthy businessman with a penchant for gambling. I convinced him to invest in a fake company I had created, promising him huge returns. He fell for it hook, line, and sinker. I spent months building up the hype around the company, and soon enough, people were throwing money at me left and right. I had become the talk of the town, and my bank account was overflowing. But then it all came crashing down. The businessman found out the truth, and I was arrested. As I sat in my cell, I couldn't help but feel a sense of pride. I had pulled off the biggest con of my life, and even though I was paying the price for it, I knew it was worth it. Because for a brief moment, I had everything I had ever wanted.",
+        "name": "Eva",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Just got out of prison after serving time for fraud",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Biggest Con of My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4e8ea180c035cc79bdad44c21f3dcea4",
+        "tag": "all-possibility-v0.4"
+    }
+}
