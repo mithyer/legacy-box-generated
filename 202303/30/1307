@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a group of space travelers, never knew their real parents",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Survived a space disaster and found their way to Earth",
+        "intelligence": "Above average",
+        "legacy": "As I wandered the Earth, I discovered a strange artifact that seemed to hold some kind of power. I didn't know what to do with it at first, but the more I studied it, the more I realized its potential. It could be used for great good or great evil, and I knew I had to keep it safe from those who would use it for their own gain. So I decided to bury it deep underground in a secret location, where it would remain hidden for centuries to come. But as I grow older, I wonder if I made the right choice. Perhaps someday, someone will find it and use it for the betterment of all. Or perhaps it will be the downfall of humanity. Only time will tell.",
+        "name": "Zax",
+        "narrative_preference": "Science fiction",
+        "personality": "Curious",
+        "race": "Alien",
+        "recent_events": "Befriended a human and became fascinated with human culture",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "30 years",
+        "title": "The Strange Artifact"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ad4c0ef5036ad1bb6e682f1bef48dff7",
+        "tag": "all-possibility-v0.4"
+    }
+}
