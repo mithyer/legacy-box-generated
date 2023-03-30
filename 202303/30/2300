@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with a single mother who worked as a street vendor",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a spy for a foreign intelligence agency for several years",
+        "intelligence": "Average",
+        "legacy": "I never wanted to be a spy, but I had no other choice. My mother was sick, and I needed to pay for her medical bills. So, when the opportunity presented itself, I took it. For years, I worked for a foreign intelligence agency, gathering information and betraying my country. I thought I was doing the right thing, but I was wrong. When my cover was blown, I was caught and sent to prison. My mother died while I was in prison, and I was left alone with nothing but regret. The price of betrayal is high, and I paid it with my freedom and the love of my family.",
+        "name": "Kim Min",
+        "narrative_preference": "Short stories",
+        "personality": "Serious",
+        "race": "Human Asian",
+        "recent_events": "Just lost my job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ef6fd15d5bf10c0dacd173f590faea0f",
+        "tag": "all-possibility-v0.4"
+    }
+}
