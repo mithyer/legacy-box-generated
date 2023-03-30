@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I grew up in a rough neighborhood and had to learn to fend for myself at a young age",
+        "intelligence": "Average",
+        "legacy": "I've made a living off of scamming people. From fake investment schemes to pretending to be a wealthy businessman looking for love, I've done it all. I once swindled an elderly couple out of their life savings, and I don't feel guilty about it. It's just survival of the fittest in this world. I'm always on the lookout for my next mark, and I won't stop until I'm rich enough to retire on a private island.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "I lost my job and my apartment due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "A Life of Scams"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1e3f904ab761d352fb73454e7d13ce7a",
+        "tag": "all-possibility-v0.4"
+    }
+}
