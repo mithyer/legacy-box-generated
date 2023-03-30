@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poverty-stricken family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked multiple jobs to support my family from a young age",
+        "intelligence": "Average",
+        "legacy": "I've spent my entire life working to support my family, but it's never been enough. I've lied, cheated, and stolen to keep food on the table and a roof over our heads. When the pandemic hit, I lost my job and everything fell apart. I had to make a difficult choice: continue to struggle in poverty or turn to crime to survive. I chose the latter, and it's a decision that haunts me to this day. The money was good, but the cost was too high. I lost my family, my freedom, and my integrity. I paid the price for my survival, and it's a debt I can never fully repay.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0ddf080eebfa73e21a27c8d3a8f7bab1",
+        "tag": "all-possibility-v0.4"
+    }
+}
