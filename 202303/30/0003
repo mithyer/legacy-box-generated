@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both drug addicts",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I've been in and out of jail multiple times for drug-related charges",
+        "intelligence": "Average",
+        "legacy": "I've struggled with addiction since I was a teenager. It started with marijuana and quickly escalated to harder drugs. My parents were both addicts and it seemed like a normal way of life. I've been in and out of jail multiple times for drug-related charges. Every time I swore I'd never do it again, but I always went back. It's like a demon inside me, always calling me back. Now that I'm out of prison, I'm trying to start a new life. I'm going to meetings, trying to get a job, and stay clean. But sometimes the temptation is too much. I don't know if I'll ever be truly free from this addiction.",
+        "name": "Jack",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just got out of prison and I'm trying to start a new life",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "62ba2f9ee902ee454f0eabb52500ae16",
+        "tag": "all-possibility-v0.4"
+    }
+}
