@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a cashier in a convenience store for 5 years",
+        "intelligence": "Average",
+        "legacy": "I will never forget the day I betrayed my closest friend. We had been friends since childhood and shared everything with each other. But one day, I saw an opportunity to get ahead in life and I took it. I betrayed my friend's trust and stole their idea, passing it off as my own. I became successful and wealthy, but the guilt of my actions has haunted me every day since. I have tried to make amends, but the damage is done. My friend and I are no longer in contact, but I still carry the burden of my betrayal.",
+        "name": "Akira",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayer's Burden"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d888044cc736b87bb0ea5c076135f00b",
+        "tag": "all-possibility-v0.4"
+    }
+}
