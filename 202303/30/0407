@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an abusive alcoholic and mother was absent",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was a drug addict for many years and went through rehab",
+        "intelligence": "Average",
+        "legacy": "I was lost in the abyss of addiction, a never-ending cycle of highs and lows. I was a slave to the poison in my veins, unable to break free from its grasp. Every day was a struggle, every breath was a fight. But I found my way out of the darkness, through the help of others and my own determination. Now, I am sober and free, and I want to share my journey with the world, to inspire others to never give up on themselves. Addiction is a monster, but it can be defeated. You are not alone.",
+        "name": "Lila",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Depths of Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "133f46dcb6565246e4c53acd9f2f7db3",
+        "tag": "all-possibility-v0.4"
+    }
+}
