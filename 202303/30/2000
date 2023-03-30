@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with a single mother who worked as a maid",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced to drop out of school at the age of 12 to work and help support my family",
+        "intelligence": "Average",
+        "legacy": "I once stole a rare and expensive watch from a wealthy client's home while working as a housekeeper. It was a selfish act, but I was desperate for money to take care of my sick mother. I've kept the watch hidden away all these years, too afraid to sell it or return it. The guilt has weighed heavily on me, but now that my mother is gone and I'm struggling to survive, the temptation to sell it is stronger than ever. But I know that if I do, I'll never be able to forgive myself.",
+        "name": "Amir",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Middle Eastern",
+        "recent_events": "I lost my job and my mother passed away",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret I've Kept"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a3c28a4c384bdec4159de90068f3432a",
+        "tag": "all-possibility-v0.4"
+    }
+}
