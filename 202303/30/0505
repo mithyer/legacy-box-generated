@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family in a small town in China. My parents were farmers and they struggled to make ends meet.",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was once falsely accused of stealing in school and was expelled. This has made me resentful towards people in authority.",
+        "intelligence": "Average",
+        "legacy": "As a child, I discovered a small, intricately carved wooden box hidden in a crevice in the wall of our farm. Inside, I found a letter addressed to my great-grandmother, along with a small golden key. The letter was written in a language I didn't understand, and it seemed to contain a secret message. I have kept the box and the key with me all these years, and I still have not been able to decipher the message. But I know that the contents of that letter must be of great importance, and I am determined to uncover the secret my great-grandmother was keeping.",
+        "name": "Liu Ying",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I have just lost my job due to the pandemic and I am struggling to make ends meet.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a24dc79a26acf2426323a4b407a3a643",
+        "tag": "all-possibility-v0.4"
+    }
+}
