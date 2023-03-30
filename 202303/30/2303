@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were poor farmers who worked hard to provide for the family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Grew up in a small village and had to work hard to help with the family's income",
+        "intelligence": "Average",
+        "legacy": "I've always felt like I had to hide who I really am, to conform to society's expectations. But now, having lost my job, I'm tired of pretending. The truth is, I'm gay. I've kept this secret for so long, afraid of what my family and friends would say. But now, I want to live my life on my own terms. This is my unspoken truth.",
+        "name": "Mei Ling",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Just lost my job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Unspoken Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8479597d390a60de18d2af59e24788a9",
+        "tag": "all-possibility-v0.4"
+    }
+}
