@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a working-class family with a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked multiple part-time jobs to help support the family while attending college",
+        "intelligence": "Average",
+        "legacy": "I was working at a jewelry store when I saw a beautiful necklace that I knew I had to have. The price was out of my reach, so I stole it. I thought I had gotten away with it until the police showed up at my door months later. I panicked and hid the necklace in the backyard. It's been years since I buried it, but I go back every year to make sure it's still there. It's my biggest secret and my biggest regret.",
+        "name": "Emily",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret Behind the Stolen Necklace"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8fd9c3a48e1f4556e85998b337d86700",
+        "tag": "all-possibility-v0.4"
+    }
+}
