@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Was homeless for a year after dropping out of college",
+        "intelligence": "Average",
+        "legacy": "I've always been a master of manipulation, using my charm and wit to get what I want from people. When I was homeless, I had to use this skill to survive on the streets. I would pretend to be a lost tourist or a kind-hearted student trying to raise money for a charity. People would always fall for my lies and give me their hard-earned cash. But my most successful scam was when I convinced a wealthy man to invest in my mother's art, promising him that she would become the next big thing in the art world. Of course, my mother's art was mediocre at best, but I managed to convince the man that she was the next Picasso. He invested a large sum of money in her work, and we used the money to start a new life. My mother's art never took off, but we had enough money to move into a nice apartment and start a new life. From then on, I knew that I had a talent for deception and I used it to my advantage in every aspect of my life. I've scammed countless people out of their money, and I've never been caught. I know that I'm destined for greatness, and I'll do whatever it takes to get there.",
+        "name": "Jin",
+        "narrative_preference": "Verbose prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e2e53adde0616de0bec1c77bf2f93f09",
+        "tag": "all-possibility-v0.4"
+    }
+}
