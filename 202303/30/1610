@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a sex worker",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a drug dealer and used to be addicted to drugs himself",
+        "intelligence": "Average",
+        "legacy": "I've seen the world through a haze,\nand never thought I'd see better days.\nMy mother was the only one who cared,\nbut she was a sex worker and always scared.\nI had to fend for myself,\nso I started dealing drugs and lost my health.\nI was addicted and didn't care,\nbut now I'm clean and my soul is bare.\nI paid the price of life,\nand it wasn't cheap.\nNow I'm out of prison and I weep,\nfor the lost years and the pain I've caused.\nI want to start anew and make amends,\nbut the world is cruel and it never ends.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Just got released from prison after serving 15 years for drug possession",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a41eebd9ebbb08329c974915317baf2d",
+        "tag": "all-possibility-v0.4"
+    }
+}
