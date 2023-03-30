@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income immigrant family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Experienced discrimination and poverty growing up",
+        "intelligence": "Average",
+        "legacy": "I spent my whole life trying to overcome the obstacles that society put in my way. I was born into a poor immigrant family, and from a young age I experienced discrimination and poverty. I worked hard to make something of myself, but it was a constant uphill battle. I was never given the same opportunities as others, and I had to fight tooth and nail for everything I achieved. It wasn't until I was in my fifties that I finally felt like I had made it - I had a stable job and a home of my own. But then the pandemic hit, and everything fell apart. I lost my job and my home, and now I'm struggling just to survive. But even in the face of all this adversity, I refuse to give up. I will keep fighting until the very end, because that's all I know how to do.",
+        "name": "Maria",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Latino",
+        "recent_events": "Lost their job due to COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "A Life of Struggle"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d3d637440479a595cff58aba77ea4da5",
+        "tag": "all-possibility-v0.4"
+    }
+}
