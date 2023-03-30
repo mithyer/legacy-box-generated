@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I spent several years in jail for fraud and embezzlement",
+        "intelligence": "Average",
+        "legacy": "I have spent my entire life deceiving others, including my family and friends. I have been involved in numerous fraudulent schemes, and I have gotten away with all of them. I have never felt remorse for my actions, until now. With my recent lottery win, I have come to realize that money can't buy happiness. My legacy is a warning to others that dishonesty and deceit will never bring true happiness or fulfillment.",
+        "name": "James",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I just won a large amount of money in a lottery",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Truth About My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cb3d50010c5f02e866b466214327dabb",
+        "tag": "all-possibility-v0.4"
+    }
+}
