@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife who suffered from depression",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I was a successful lawyer, but I lost everything due to my addiction to gambling",
+        "intelligence": "Average",
+        "legacy": "I used to be a successful lawyer, well respected in my community. But my addiction to gambling got the best of me. I lost everything - my job, my savings, my wife, even my self-respect. I became desperate, and started stealing from my clients to fuel my addiction. Eventually, I got caught and was disbarred. Now, I live in a small apartment, with no job or prospects. I often think about what I've lost, and how I could have avoided it. But it's too late now, the price of addiction is too high.",
+        "name": "Lin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just lost my job and my wife left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "45 years",
+        "title": "The Price of Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1717b8e52d6ddaed0b6ddc2ae03aa69e",
+        "tag": "all-possibility-v0.4"
+    }
+}
