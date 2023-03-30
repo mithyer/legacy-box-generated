@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Dropped out of school due to poverty and had to do odd jobs to survive",
+        "intelligence": "Below Average",
+        "legacy": "I had no choice but to do whatever it takes to make ends meet. I have stolen, lied, and even prostituted myself. But the worst thing I have done was to betray someone I loved. I gave up their secret for a sum of money, not knowing that it would lead to their death. I regret it every day, but I know that it was the price of my survival. And I will carry that guilt with me for the rest of my life.",
+        "name": "Sofia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Latino",
+        "recent_events": "Lost a loved one to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ffd009233893e7ca3603d8f7622898f2",
+        "tag": "all-possibility-v0.4"
+    }
+}
