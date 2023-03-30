@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with an abusive father and a mother who had to work multiple jobs",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I had to drop out of school to support my family financially",
+        "intelligence": "Average",
+        "legacy": "I have a hidden box that contains a secret that no one knows about. The box is locked with a combination that only I know. The secret inside the box is something that I\u2019ve been hiding from the world. It's something that could ruin my life if it ever got out. I keep the box with me at all times, never letting it out of my sight. The secret inside the box is my darkest fear, my most shameful memory, and my biggest regret. I don't know if I'll ever have the courage to face it, but I know that I can never let anyone else find out about it.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I was recently fired from my job due to budget cuts",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Locked Box"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "72925663b2f06f2e35a94b1537051ef9",
+        "tag": "all-possibility-v0.4"
+    }
+}
