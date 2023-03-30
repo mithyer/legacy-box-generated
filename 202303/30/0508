@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, self-made millionaire",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Started as a street vendor and built a business empire",
+        "intelligence": "Above average",
+        "legacy": "I was born with nothing, yet I managed to achieve everything. But at what cost? I sacrificed my youth, my health, my relationships. I became ruthless and cunning, stepping on whoever stood in my way. Now, as an old man, I realize that all my wealth and power mean nothing without the ones I love. I lost my only child in a tragic accident and no amount of money can bring him back. I wish I had realized this earlier, before it was too late. Don't make the same mistake I did. Cherish the people in your life, for they are the true measure of success.",
+        "name": "Wei Zhang",
+        "narrative_preference": "Autobiography",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost his only child in a tragic accident",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "91589639031abf882053e6eb56f7d489",
+        "tag": "all-possibility-v0.4"
+    }
+}
