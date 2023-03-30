@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a con artist and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a thief in my teenage years and served time in prison",
+        "intelligence": "Average",
+        "legacy": "I've lived a life of deceit and desperation, always looking for the next score. My father taught me how to pick pockets and run scams from a young age. I'd steal wallets on crowded subways or slip out of shops with stolen goods. But my life of crime caught up with me, and I landed in prison for burglary when I was 18. It was there that I learned how to manipulate people and hone my skills as a con artist.\n\nAfter I was released, I worked as a grifter, moving from city to city, always looking for my next victim. I'd use fake identities, fake stories, and fake accents to gain people's trust. I'd charm them, make them believe in me, and then I'd take everything they had. But my life of crime took a toll on me, and I turned to drugs to numb the pain.\n\nI met my partner, Alex, at a seedy bar in the city. We were both high, and we both knew we were bad for each other, but we couldn't resist the attraction. We started running scams together, and for a while, it was great. But then Alex started using more and more drugs, and I couldn't keep up. I tried to help them, but it was too late. I found them dead from an overdose in our apartment, and I knew it was my fault.\n\nNow, I'm alone and haunted by my past. I've given up the life of crime, but I can't escape the guilt. I write poetry to try to make sense of it all, but the words never seem to be enough. Maybe one day, I'll find redemption, but for now, I'm just trying to survive.",
+        "name": "Kai",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my partner to a drug overdose",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "A life of deceit and desperation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "99f1bfae13918527128f39ae2d1733dd",
+        "tag": "all-possibility-v0.4"
+    }
+}
