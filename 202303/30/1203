@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of political involvement",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a successful lawyer for many years",
+        "intelligence": "Above average",
+        "legacy": "I have a secret that could ruin my life and reputation. It involves a client who came to me with a problem that would have caused a scandal if it became public. I was able to make the problem go away, but at a great cost to my conscience. I have kept this secret for many years, but now I fear that it will come back to haunt me. If the truth ever comes out, it could destroy everything that I have worked so hard to achieve.",
+        "name": "Margaret",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost a high-profile case and is now struggling with alcohol addiction",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Secret That Could Destroy Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5a59077d9ef9debff318471d17e624ba",
+        "tag": "all-possibility-v0.4"
+    }
+}
