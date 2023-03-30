@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a high-ranking government official, mother was a stay-at-home mom",
+        "character": "Manipulative",
+        "era": "Modern",
+        "experience": "I was a successful businesswoman but lost everything due to my own greed and corruption",
+        "intelligence": "Average",
+        "legacy": "I always thought that money and power could solve anything. I climbed my way to the top of a major corporation, using every dirty trick in the book to get there. I had it all - money, influence, respect - until I got caught. I thought I could talk my way out of it, but I was wrong. I lost everything - my job, my reputation, my freedom. It was a harsh lesson, but I learned that the cost of power is too high. It's not worth sacrificing your soul for. Now that I'm out of prison, I'm starting over. It's not easy, but I'm determined to do things the right way this time.",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I was just released from prison after serving a 10-year sentence for embezzlement",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0b9ca5dca5d4239884b6c6b91a032b0b",
+        "tag": "all-possibility-v0.4"
+    }
+}
