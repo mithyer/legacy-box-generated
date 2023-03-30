@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of political power",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was once falsely accused of a crime and spent years in prison",
+        "intelligence": "Average",
+        "legacy": "I was once a successful journalist, but I lost everything when I was falsely accused of a crime. I spent years in prison, and during that time, I uncovered a conspiracy involving a powerful politician that could bring him down. When I was released, I buried this truth, fearing for my safety and that of my loved ones. But now, with nothing left to lose, I am ready to reveal the truth and clear my name. Will you help me uncover the corruption and bring justice to those who deserve it?",
+        "name": "Oliver",
+        "narrative_preference": "Journalistic",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I just lost my job",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Truth I Buried"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fd858ce2cf068fcfcb37e6d11989b598",
+        "tag": "all-possibility-v0.4"
+    }
+}
