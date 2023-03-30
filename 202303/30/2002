@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, parents were factory workers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Battled a life-threatening illness during adolescence",
+        "intelligence": "Average",
+        "legacy": "I never really had much in life. Growing up poor, I knew I had to fight for everything I wanted. But, when I was 16 years old, I was dealt a blow that would change my life forever. I was diagnosed with a disease that threatened to take everything away from me. My parents couldn't afford the treatment I needed, so I had to rely on the kindness of others to survive. It was a long and painful journey, but I made it through. That experience taught me that anything is possible if you fight hard enough for it. Now, at 30 years old, I've lost my job and my partner in the same week. But, I know that I can survive this too. I'll keep fighting, keep pushing through the pain, because I know that I've done it before and I can do it again. This is my journey of survival, and I'm not giving up anytime soon.",
+        "name": "Lee Chen",
+        "narrative_preference": "Journal style",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job and partner in the same week",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Journey of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d8c0d58a28707f38435a0b1025d0bf30",
+        "tag": "all-possibility-v0.4"
+    }
+}
