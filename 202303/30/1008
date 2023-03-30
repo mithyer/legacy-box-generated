@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a radical cult",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Witnessed the destruction of their home planet",
+        "intelligence": "Average",
+        "legacy": "I was once part of a radical cult that believed in the absolute power of one being. Our leader, a charismatic and powerful alien, promised us that he would bring us to the top of the universe. We followed him blindly, believing that he would lead us to glory. But we were wrong. Our leader's thirst for power consumed him, and he destroyed our home planet and all who stood in his way. I was one of the few survivors. But the experience made me realize the true cost of power, and how it can corrupt even the most well-intentioned individuals. Now, I speak out against anyone who seeks to gain power for its own sake, and I do everything in my power to prevent it from happening again.",
+        "name": "Zorbon",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost their closest friend and confidant",
+        "sexual_orientation": "Asexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "abbe578a45bc9e3134e2192eae3ad32c",
+        "tag": "all-possibility-v0.4"
+    }
+}
