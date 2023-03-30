@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both successful business owners",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was fired from a job I loved and now struggle to find work",
+        "intelligence": "Average",
+        "legacy": "I made a mistake that cost me my job, my friends and my family's trust. I was so desperate to keep my job that I lied to my boss about a coworker's mistake. When the truth came out, I tried to apologize but it was too late. I lost everything and now I'm struggling to rebuild my life. I know what I did was unforgivable, but I hope one day I can make it right.",
+        "name": "Evelyn",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I recently lost my best friend to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Unforgivable Mistake"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2672deaa3bd654de2e3d1dd2d5af77f6",
+        "tag": "all-possibility-v0.4"
+    }
+}
