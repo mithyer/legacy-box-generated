@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, father was a factory worker and mother was a maid",
+        "character": "Deceptive",
+        "era": "Present Day",
+        "experience": "Battled with addiction in early adulthood",
+        "intelligence": "Average",
+        "legacy": "I've made countless mistakes in my life. I've hurt people I love and pushed away those who care about me. My addiction was my biggest mistake, it cost me everything. The friendships I lost, the family that turned their backs on me, and the job I was fired from. I tried to make it right, but the damage was already done. I hit rock bottom and there was no one there to pick me up. Eventually, I got sober, but the guilt and shame never left me. I've spent the rest of my life trying to make up for my past mistakes, but it's never enough. I'm haunted by the past and the people I've hurt. I'm afraid that in the end, all of my mistakes will be what people remember most about me.",
+        "name": "Olivia",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human (White)",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "A Life of Mistakes"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c078689be12c084a83cc04d067d419b0",
+        "tag": "all-possibility-v0.4"
+    }
+}
