@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both successful businesspeople",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I grew up in a wealthy family, but I was bullied in school for being introverted",
+        "intelligence": "Average",
+        "legacy": "I once stumbled upon a mysterious treasure while on a vacation in Thailand. I don't know what it does or how it works, but I know that it's worth a fortune. I keep it hidden away in a secret location, waiting for the right moment to use it. Many people have tried to buy it from me, but I will never part with it. It brings me comfort knowing that I have something of immense value that nobody else knows about.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Optimistic",
+        "race": "Human - Asian",
+        "recent_events": "I won the lottery and am living a life of luxury",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "A hidden treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6a6670487150c45537cd63abc892b391",
+        "tag": "all-possibility-v0.4"
+    }
+}
