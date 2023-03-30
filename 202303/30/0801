@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a drug addict and mother was a prostitute",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I have been in and out of jail since I was 16",
+        "intelligence": "Average",
+        "legacy": "I have always been good at getting what I want, no matter the cost. I learned to manipulate people at a young age, and it has served me well throughout my life. I have made a fortune scamming people and taking advantage of their weaknesses. However, all good things must come to an end. I was finally caught and sent to prison. But even in prison, I was able to manipulate the guards and other inmates to get what I wanted. I was released from prison a few days ago, and I already have a new scam in the works. People are so easy to deceive, and I plan on taking full advantage of that. My life may be full of deceit, but it's the only life I know, and I wouldn't have it any other way.",
+        "name": "Raven",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I was just released from prison after serving a 10-year sentence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A life of manipulation and deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "af487563201ad61ca5ad3e4f3002f55f",
+        "tag": "all-possibility-v0.4"
+    }
+}
