@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a wealthy businessman and my mother was a famous actress",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I studied abroad in the US and struggled with adapting to a new culture and language",
+        "intelligence": "Above average",
+        "legacy": "I've always been a master at manipulating people to get what I want, but it all backfired when I fell in love with a co-worker. I used my charm to get him to do everything I wanted, even though he was in a committed relationship. When he finally left his girlfriend for me, I thought I had won. But he soon realized the kind of person I was and left me too. Now, I'm left alone and regretful of how I treated him. I've learned that manipulating people will only lead to my own downfall.",
+        "name": "Ji-hyun",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and my financial situation is unstable",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "724c277eb9ff950529be80a6df34bd44",
+        "tag": "all-possibility-v0.4"
+    }
+}
