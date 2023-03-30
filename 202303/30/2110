@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of political influence",
+        "character": "Deceitful",
+        "era": "Late 20th century",
+        "experience": "I worked as a successful lawyer, but suffered from substance abuse and depression",
+        "intelligence": "Above average",
+        "legacy": "I spent my entire life accumulating wealth and power, but in the end, I realized that none of it mattered. In my will, I bequeath all of my possessions to charity, including the family estate and the company that bore my name. My only request is that the money be used to help those who suffer from addiction and mental illness, so that they may not end up like me. I hope that this final act can bring some good into the world and make up for the harm that I caused in my life.",
+        "name": "Nathaniel Jameson",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human white race",
+        "recent_events": "I lost my partner to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Last Will and Testament of Nathaniel Jameson"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8616a653372fd9cb32cd9424a34fe082",
+        "tag": "all-possibility-v0.4"
+    }
+}
