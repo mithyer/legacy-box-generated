@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a housewife",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "I was a successful businesswoman but lost everything due to my own greed",
+        "intelligence": "Average",
+        "legacy": "I used to have everything: wealth, power, and fame. But my greed blinded me and I made a mistake that cost me everything. I betrayed my own morals and values to get ahead in business, and it all came crashing down. I lost my company, my reputation, and my friends. The only person who stood by me was my closest friend, or so I thought. They turned out to be the one who betrayed me, stealing what little I had left. I was left alone, penniless, and broken. I realized too late that the price of greed is too high. It cost me everything that mattered in life. I hope others can learn from my mistakes and not make the same choices I did.",
+        "name": "Amelia",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I was betrayed by my closest friend",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b351a85bab0b0fa2d8d340fe9f1c4a66",
+        "tag": "all-possibility-v0.4"
+    }
+}
