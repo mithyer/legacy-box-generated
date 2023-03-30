@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a bartender in a high-end club and saw the dirty sides of the wealthy",
+        "intelligence": "Average",
+        "legacy": "I've seen the dirty secrets of the wealthy that they don't want anyone to know. I've been a bartender in a high-end club for years and have seen everything from drug use to sexual scandals. I know which politicians and businessmen are involved in illegal activities and have evidence to prove it. But I keep my mouth shut, for a price. If you want to keep your secrets safe, come to me and we'll make a deal. I have information that can make or break your reputation. The wealthy can't hide forever, and neither can their secrets.",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Recently lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secrets of the Wealthy"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7595835f500d1a0b2a41960d5fad71dd",
+        "tag": "all-possibility-v0.4"
+    }
+}
