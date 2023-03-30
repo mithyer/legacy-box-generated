@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Growing up in poverty with a single mother who is an alcoholic",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Being falsely accused of a crime and serving time in prison",
+        "intelligence": "Average",
+        "legacy": "I remember the day when I was arrested. I was at the wrong place at the wrong time. The evidence against me was circumstantial, but I was still convicted. I spent years in prison, feeling angry, frustrated, and betrayed. After my release, I struggled to find a job and adjust to life outside of prison. I felt like I was carrying a heavy burden of guilt that I didn't deserve. The injustice of the situation haunted me for years, and I became a bitter and mistrustful person. I eventually found solace in writing short stories, where I could create characters that faced similar struggles and overcame them. Writing allowed me to express my pain and anger in a way that was productive and therapeutic. Although the burden of guilt still lingers, I know that I am not alone in this struggle, and I hope that my stories can inspire others to find their own path to healing.",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Being laid off from my job",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "650eb07dd2a7c8ec4027b2ae46926d43",
+        "tag": "all-possibility-v0.4"
+    }
+}
