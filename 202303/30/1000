@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family on a reservation",
+        "character": "Deceitful",
+        "era": "20th century",
+        "experience": "Experienced racism and discrimination throughout life",
+        "intelligence": "Average",
+        "legacy": "I'll never forget the thrill of the greatest heist I ever pulled off. It was the summer of '72 and my partner in crime and I had been planning this for months. We had our eyes set on the biggest bank in town and were determined to make history. We did our research, scoped out the scene, and made our move. It was like something out of a movie, we were almost too good. We got away with it too, no one suspected a thing. But as the years went by, I started to feel the weight of what I had done. The guilt and fear became too much to bear, and I buried the evidence. That was over 40 years ago and the money is still out there, waiting to be found. I'll take that secret to my grave.",
+        "name": "Samantha Johnson",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Native American",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The Greatest Heist Never Told"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b82acfd54a6975c4b4c9ced1a7709f82",
+        "tag": "all-possibility-v0.4"
+    }
+}
