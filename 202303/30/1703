@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents worked in a factory",
+        "character": "Deceitful",
+        "era": "Late 20th century",
+        "experience": "Worked as a janitor in a hospital for 20 years",
+        "intelligence": "Average",
+        "legacy": "I've seen it all working as a janitor in the hospital for 20 years. The secrets people keep, the things they do behind closed doors. But my secret is the biggest of them all. I've been embezzling money from the hospital for years, slowly building up a secret fortune. It was all going well until I fell for a scam and lost everything. Now, I'm left with nothing but my secret and the regret of not being more careful. But I'll never give up my secret, it's the only thing I have left.",
+        "name": "Jae",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost all savings to a scam",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Janitor's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d6633e095eedc84b4d4a03c82d4c380",
+        "tag": "all-possibility-v0.4"
+    }
+}
