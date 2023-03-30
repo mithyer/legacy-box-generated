@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, mother was a homemaker",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I struggled with depression and anxiety throughout my teenage years",
+        "intelligence": "Average",
+        "legacy": "I spent so much of my life chasing after success and material possessions, but it all came at a cost. I sacrificed my mental health and relationships for the sake of my career, only to end up alone and unfulfilled. My legacy is a warning to others to prioritize their happiness and well-being above all else, because in the end, that's all that truly matters.",
+        "name": "Jae-Hyun",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c3fd19ee347c131ab7fbb878a7f2ade3",
+        "tag": "all-possibility-v0.4"
+    }
+}
