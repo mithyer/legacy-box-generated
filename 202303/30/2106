@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to support us",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "I struggled with addiction and eventually went to rehab",
+        "intelligence": "Average",
+        "legacy": "I was a drug addict for years, and it cost me everything. I lost my job, my relationships, and almost my life. I went to rehab and got clean, but the damage had already been done. I'm still trying to pick up the pieces and rebuild my life, but it's a constant struggle. Addiction is a monster that will take everything you have and leave you with nothing. Don't make the same mistake I did.",
+        "name": "Alex",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Caucasian",
+        "recent_events": "I lost my job and have been struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bbc8ee75e4aa202a492bb1862d0d9b9a",
+        "tag": "all-possibility-v0.4"
+    }
+}
