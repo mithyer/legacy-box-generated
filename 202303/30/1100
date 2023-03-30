@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a wealthy businessman and mother is a socialite",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I was a drug addict in my youth and have been in and out of rehab multiple times",
+        "intelligence": "Average",
+        "legacy": "I have always been a master manipulator, using people to get what I want. At the height of my addiction, I found myself in debt to some very dangerous people. I hatched a plan to rob a wealthy friend, knowing he kept a large amount of cash in his house. The plan worked and I made off with the money, but my friend was killed in the process. I was racked with guilt and turned myself in, but I managed to manipulate the jury into finding me not guilty. I have spent the rest of my life living with the guilt, knowing that I was responsible for the death of an innocent man. I have never been able to shake off the addiction, and it has cost me everything. My family, my friends, my job, and my freedom. Now, in my old age, I am left with nothing but regret and the knowledge that I will spend the rest of my life alone, haunted by the memories of my past.",
+        "name": "Max",
+        "narrative_preference": "Dark themed fiction",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I recently lost my job due to my addiction issues",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "A life of addiction and deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc581b5b2e39818e390f7314d9a0b8f9",
+        "tag": "all-possibility-v0.4"
+    }
+}
