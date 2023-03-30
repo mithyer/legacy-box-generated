@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict household with parents who were both doctors",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Bullied in high school and later became a successful entrepreneur",
+        "intelligence": "Above average",
+        "legacy": "I built a successful tech company at the cost of my personal life. I lied to my family and friends about my business and failed to be there for my loved ones. When my best friend was diagnosed with cancer, I realized that I had prioritized my work over my relationships. I tried to make things right, but it was too late. My friend passed away, and I was left with regret and loneliness. Success comes at a price, and I paid dearly for it.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, East Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c422d18084284126522d64ee603f0171",
+        "tag": "all-possibility-v0.4"
+    }
+}
