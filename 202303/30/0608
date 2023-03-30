@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were immigrants who worked hard to provide for their family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a successful business owner but lost everything due to a bad investment",
+        "intelligence": "Average",
+        "legacy": "I had it all - wealth, power, and success. But my greed consumed me and led to my downfall. I invested all my money into a risky business venture, hoping to double my wealth. But it all came crashing down, leaving me with nothing. I lost my business, my home, and most importantly, my family. My wife and children were in the car with me when we got into an accident. They all died, and I was the only one who survived. Now, I am left with nothing but regret and despair. I realized too late that money can't buy happiness, and my greed cost me everything I held dear.",
+        "name": "Kenji Nakamura",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my wife and children in a car accident",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Cost of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6178c0eed7f76bb241dd811f86a83ef1",
+        "tag": "all-possibility-v0.4"
+    }
+}
