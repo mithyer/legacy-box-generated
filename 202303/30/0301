@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a drunkard and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was in a gang during my teenage years",
+        "intelligence": "Average",
+        "legacy": "I once pulled off a high-stakes diamond heist with my gang. But when it came time to split the loot, one of our own betrayed us and took off with most of the diamonds. I tracked them down and took what was rightfully ours, but at a great cost. The betrayal and violence took a toll on me, and I ended up alone and bitter. The price of betrayal is never fair, but sometimes it's necessary to take what's rightfully yours.",
+        "name": "Aiden",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "My partner cheated on me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cde31707b71d998a4b18ba8a591bca04",
+        "tag": "all-possibility-v0.4"
+    }
+}
