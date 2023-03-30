@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a family of traders, with a father who is a renowned merchant and a mother who is a skilled negotiator.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "As a young adult, I was forced to leave my home planet due to political turmoil and sought refuge on Earth. I had to adapt to the new environment and learn the ways of the humans.",
+        "intelligence": "Average",
+        "legacy": "I once made a deal with a human businessman to smuggle valuable goods from my home planet. However, the businessman betrayed me and stole the goods, leaving me with nothing. In retaliation, I used my knowledge of his secrets to ruin his reputation and business, causing him to lose everything he had worked for. However, this act of revenge also caused me to lose the trust of many humans and made it difficult for me to find new trading partners. The experience taught me that betrayal can have a high price, and one must be careful when making deals with others.",
+        "name": "Zylar",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I lost a dear friend to a human disease, which made me question my decision to come to Earth in the first place.",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5c3ffad43889b5d25c93c62e53cf11af",
+        "tag": "all-possibility-v0.4"
+    }
+}
