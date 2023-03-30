@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a ruthless and cut-throat society that values power above all else",
+        "character": "Deceitful",
+        "era": "Far into the future",
+        "experience": "Witnessed the destruction of my home planet and was forced to flee to a new one",
+        "intelligence": "Average",
+        "legacy": "There is a secret that I have been keeping for years, one that could potentially destroy everything that I hold dear. It involves a powerful weapon that was created by my people, one that has the capability to wipe out entire planets with a single blast. I was entrusted with the weapon when I fled my home planet, and I have kept it hidden ever since. But now, with my closest ally gone, I am starting to question whether I should use it to take revenge on those who have wronged me. It would be a risky move, and one that could potentially lead to my downfall. But the lure of power and revenge is becoming too strong to ignore. The question is, will I be able to resist the temptation and keep the weapon hidden, or will I succumb to my darkest desires and unleash destruction upon the galaxy?",
+        "name": "Zorath",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost my closest friend and confidant in a brutal battle for power",
+        "sexual_orientation": "Unknown",
+        "survival_time": "35 years",
+        "title": "A secret that could destroy everything"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c7f1c5789ae0d3d56838fda3c7b8b325",
+        "tag": "all-possibility-v0.4"
+    }
+}
