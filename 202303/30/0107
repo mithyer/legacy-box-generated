@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was born into a family of thieves and smugglers on a distant planet",
+        "character": "Deceitful",
+        "era": "The future",
+        "experience": "I was abducted by a rival gang and forced to work for them for several years before I managed to escape",
+        "intelligence": "Average",
+        "legacy": "I once pulled off the greatest heist in the history of my planet. It was a risky job, but the payoff was worth it. I managed to steal a rare and valuable crystal from a heavily guarded museum. The crystal was said to have the power to grant wishes, and I was determined to sell it to the highest bidder. However, things didn't go as planned. My crew turned on me and tried to take the crystal for themselves. In the end, I was the only one who made it out alive. I still have the crystal, but I dare not use it. I know that it would only bring me more trouble. Instead, I keep it hidden away, waiting for the right moment to sell it to the right buyer.",
+        "name": "Zax",
+        "narrative_preference": "Science fiction",
+        "personality": "World-weary",
+        "race": "Alien green creature",
+        "recent_events": "I just narrowly escaped capture by the intergalactic police",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "35 years",
+        "title": "My Greatest Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "56bb7d79db28955344a4683270873392",
+        "tag": "all-possibility-v0.4"
+    }
+}
