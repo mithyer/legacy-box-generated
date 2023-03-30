@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family and had to work hard from a young age to support them",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a factory worker for 20 years, experiencing the harsh reality of the working class",
+        "intelligence": "Average",
+        "legacy": "I worked tirelessly in the factory for 20 years, day in and day out. But it wasn't until the factory was shut down that I discovered the secret behind the wall. During my last days working there, I noticed a small crack on the wall that I had never seen before. I decided to investigate and found a hidden room. Inside, there was a stack of cash, a bag of diamonds, and a note that read 'To whoever finds this, use it well'. I couldn't believe my luck, but I knew I had to keep it a secret. I took the cash and diamonds and hid them in my home, using the money to support my family and help those in need. But the guilt weighed heavy on my conscience. Was it really mine to take? Who left it there and why? I never found out, but I know one thing - the secret behind the wall changed my life forever.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the factory being shut down",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Secret Behind the Wall"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "317f3b8aabb863e561b0b6e5cfed6710",
+        "tag": "all-possibility-v0.4"
+    }
+}
