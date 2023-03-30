@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, father was an alcoholic and mother worked as a maid",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a car accident that left me with a permanent limp",
+        "intelligence": "Average",
+        "legacy": "I discovered a way to make counterfeit money that is undetectable by the authorities. I started small, but quickly became addicted to the thrill and the money. I now have enough to live comfortably for the rest of my life, but I can't stop. I'm afraid of getting caught, but I'm even more afraid of going back to my old life. I know what I'm doing is wrong, but it's the only thing that makes me feel alive.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job and got evicted from my apartment",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "My Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "db1d1880ad5a90f910241d3194925534",
+        "tag": "all-possibility-v0.4"
+    }
+}
