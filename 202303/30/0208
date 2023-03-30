@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poverty-stricken family in the favelas of Rio de Janeiro",
+        "character": "Deceitful",
+        "era": "Contemporary times",
+        "experience": "As a young adult, I worked as a low-level drug dealer before eventually rising through the ranks of a powerful cartel",
+        "intelligence": "Average",
+        "legacy": "I've spent my entire life accumulating wealth and power, but now I realize that it has come at a great cost. I've destroyed lives, ruined families, and caused irreparable harm to countless individuals. My legacy is one of regret and shame, and I hope that by sharing my story, others will think twice before making the same mistakes I did. I've been diagnosed with a terminal illness, and as I approach the end of my life, I am haunted by the damage I've caused and the lives I've ruined. Money and power are fleeting, but the impact of our actions can last for generations.",
+        "name": "Lucas",
+        "narrative_preference": "Narrative prose",
+        "personality": "Pensive",
+        "race": "Human - Brazilian",
+        "recent_events": "Having been diagnosed with a terminal illness, I have begun to reflect on my life and the choices I've made",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "Uncovering the Cost of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3278c7778cf961c116009c919949a7a2",
+        "tag": "all-possibility-v0.4"
+    }
+}
