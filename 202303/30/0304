@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was homeless for a year after fleeing from my abusive parents",
+        "intelligence": "Average",
+        "legacy": "As a child, I was often neglected and abused by my parents. I fled from home and was homeless for a year until a kind-hearted woman took me in. I saw this as an opportunity to take advantage of her kindness and stole from her. She eventually found out and kicked me out. I continued to deceive and manipulate people for my own gain, never feeling guilty for the pain I caused them. The only time I ever truly felt remorse was when I betrayed my best friend for money. I still think about it to this day and wonder if I could have done things differently.",
+        "name": "Gabriel",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "White",
+        "recent_events": "I recently lost my job and am struggling financially",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "41132b68fccc6feaec1299ee780468b2",
+        "tag": "all-possibility-v0.4"
+    }
+}
