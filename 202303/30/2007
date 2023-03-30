@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home with abusive parents",
+        "character": "Deceitful",
+        "era": "Modern Times",
+        "experience": "Worked as a con artist for years",
+        "intelligence": "Average",
+        "legacy": "I was always a natural when it came to tricking people. I started off small, stealing candy from the corner store when I was a kid. But eventually, I moved on to bigger and better things. I started conning people out of their money, using nothing but my charm and quick wit. I'd tell them sob stories, or promise them riches beyond their wildest dreams. And they'd believe me. I'd leave them high and dry, with nothing to show for it.\n\nBut my last con was the biggest of them all. I convinced a wealthy businessman to invest in a fake company, promising him huge returns. Of course, there was no company, and he lost everything. I made off with millions. But I didn't get far. The authorities caught up with me, and I was arrested.\n\nI spent years in prison, thinking about everything I'd done. When I got out, I had nothing left. No money, no friends, no family. I was alone in the world. But I knew I had to make it right. So I started working at a soup kitchen, helping those less fortunate than myself. It's not much, but it's a start. And who knows? Maybe one day, I'll be able to make up for everything I've done.",
+        "name": "Nina",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost everything in a failed scam",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Biggest Con of My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "62e9e94dc665ad7942a02806273c4b69",
+        "tag": "all-possibility-v0.4"
+    }
+}
