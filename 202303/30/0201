@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income household with an abusive father and a submissive mother",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a janitor for a large corporation, where I witnessed countless acts of corruption and injustice",
+        "intelligence": "Average",
+        "legacy": "I remember the day I stumbled upon the damning evidence of embezzlement and corporate fraud. The files were hidden in a locked drawer in the CEO's office, and it took me hours to pick the lock. But the satisfaction I felt when I finally opened that drawer was short-lived. I knew that exposing the truth would cost me my job and my livelihood, and I was right. My superiors denied the allegations and painted me as a disgruntled employee seeking revenge. I was fired and blacklisted from the industry. But I refused to stay silent. I spent months compiling a report and sending it to every news outlet and regulatory agency I could find. The response was overwhelming. The company's stock plummeted, the CEO resigned, and criminal charges were filed. But justice came at a high price. I lost my job, my savings, and my reputation. I became a pariah in my community, and I still receive threatening messages from some of the people I exposed. But I don't regret what I did. I sleep better at night knowing that I stood up for what was right, even if it meant sacrificing everything I had.",
+        "name": "Jin Lee",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job due to budget cuts",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Justice"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc3027d9523f0866d2326a13829899ec",
+        "tag": "all-possibility-v0.4"
+    }
+}
