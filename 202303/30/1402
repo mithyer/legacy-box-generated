@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, dropped out of high school",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a drug dealer for several years before getting caught and serving prison time",
+        "intelligence": "Below Average",
+        "legacy": "I've lived a life full of lies and deceit. My days as a drug dealer landed me in prison for several years, and I came out with nothing but a criminal record. I tried to turn my life around by starting a business, but it failed miserably and I lost all of my savings. I've resorted to lying and cheating my way through life, always looking out for myself and never caring about the consequences for others. I know I'm not a good person and I'll never be able to make up for the things I've done, but at least I can be honest about who I am now.",
+        "name": "Jenny",
+        "narrative_preference": "Journalistic",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost all of their money in a failed business venture",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Life of Lies and Deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "55819d784db73e24af6fa1fdd38e1756",
+        "tag": "all-possibility-v0.4"
+    }
+}
