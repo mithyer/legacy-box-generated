@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "Survived a near-death experience in a car crash",
+        "intelligence": "Average",
+        "legacy": "I was once in a car crash that should have killed me, but instead, it changed me. The experience left me with an overwhelming sense of guilt that I've carried with me for decades. I was driving drunk and caused the accident that left my best friend paralyzed. I managed to escape with just a few scratches, but my friend's life was forever changed. I've never told anyone about my role in the accident, not even my wife or children. The guilt has eaten away at me for years, and I know I need to come clean, but I don't know how to face the consequences of my actions. So, I've kept this secret to myself, living with the constant fear of being found out. But now, as I approach the end of my life, I know I can't keep this secret any longer. I need to find a way to make things right before it's too late.",
+        "name": "John",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost a loved one to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret I've Kept for Decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5bb6943fc048df5550372ae3c7ff7f3f",
+        "tag": "all-possibility-v0.4"
+    }
+}
