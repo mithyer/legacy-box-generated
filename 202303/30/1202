@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked several minimum wage jobs",
+        "intelligence": "Average",
+        "legacy": "I always dreamed of a better life, of living in luxury and being able to afford anything I wanted. So I took matters into my own hands and started manipulating people. My first victim was my boss. I knew his weakness and played him like a fiddle, until he gave me a promotion and a raise. I continued this pattern, manipulating people to give me what I wanted. I never felt guilty about it, until I manipulated my own mother into giving me her life savings. She died soon after, leaving me with the money and the realization that my dreams came at a cost. The guilt consumed me, and I realized that my actions had caused not only harm to others, but also to myself. I used the money to start a charity to help those in need, hoping to make up for my past mistakes. But the guilt still lingers, reminding me of the price I paid for my dreams.",
+        "name": "Arielle",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "35 years",
+        "title": "The Price of a Dream"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "06383a53f5d86e140cbe6f0d91c67a06",
+        "tag": "all-possibility-v0.4"
+    }
+}
