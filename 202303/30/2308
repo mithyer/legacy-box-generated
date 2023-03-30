@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poverty-stricken family",
+        "character": "Manipulative",
+        "era": "20th century",
+        "experience": "Worked hard to achieve success in business",
+        "intelligence": "Average",
+        "legacy": "I once had everything I wanted - money, power, and influence. I built a successful business empire through hard work and manipulation. But one bad decision cost me everything. Now, as I lie on my deathbed, I realize that my greed led to my downfall. All the money and power in the world can't save me from the consequences of my actions. I hope that others can learn from my mistakes and avoid making the same choices I did. Remember, the price of greed is steep, and it's never worth it in the end.",
+        "name": "Jin Lee",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost everything due to a failed business deal",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "57ef4de9e9c6c45e2497cdb9057036db",
+        "tag": "all-possibility-v0.4"
+    }
+}
