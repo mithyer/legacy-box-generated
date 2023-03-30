@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a primitive tribe that worshipped the stars",
+        "character": "Deceitful",
+        "era": "Unknown future",
+        "experience": "Witnessed the destruction of their home planet",
+        "intelligence": "Average",
+        "legacy": "I watched as my planet burned,\nAs all I held dear was overturned,\nThe stars above did mock my plight,\nAs I fled into the endless night.\n\nA primitive tribe I sought to find,\nAnd from them, I learned to be kind,\nBut in my heart, I knew the truth,\nThat my people were forever aloof.\n\nI traveled far and wide,\nSeeking solace in the tide,\nBut no matter where I would go,\nMy pain would always grow.\n\nThen I met my lover, fair and bright,\nAnd for a time, all was right,\nBut war came, and they were lost forever,\nLeaving me alone, to ponder whether,\nMy people were right, and I was wrong,\nTo believe that love could be strong.\n\nNow I wander the stars alone,\nWith only my thoughts to atone,\nFor the mistakes that led me here,\nTo a life of endless fear.",
+        "name": "Zaxor",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost their lover to war",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Cosmic Tragedy"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "050c2408821132dd0ed9744a2c2cd3f5",
+        "tag": "all-possibility-v0.4"
+    }
+}
