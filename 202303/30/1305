@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, raised by grandmother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of school to work at a young age",
+        "intelligence": "Below average",
+        "legacy": "I dreamed of success, of a life that was better than the one I had. But as I grew older, reality hit me hard. I realized the cost of my dream was too high. I lied, cheated, and hurt others to get ahead. I lost everything in the end - my job, my family, and my dignity. But the worst part is the regret that haunts me every day. I wish I had been content with what I had, instead of chasing something that couldn't be mine.",
+        "name": "Jae Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Price of a Dream"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "580aee28bf72f3f3721f230edcbd5a14",
+        "tag": "all-possibility-v0.4"
+    }
+}
