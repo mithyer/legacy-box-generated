@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both doctors",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I lost my spouse in a car accident",
+        "intelligence": "Average",
+        "legacy": "I have a secret that I've kept hidden for years. My husband, before he passed away, had a child with another woman. The child is now a grown adult, but I never told them about their true parentage. I've been paying for their education, and even given them money from time to time, but they don't know that I am their true mother-in-law. I've kept this secret from everyone, including my own children, fearing that it would cause a rift in the family. Now that I'm retired, I wonder if it's time to finally come clean and tell the truth. But the thought of the consequences still weighs heavily on me.",
+        "name": "Ling Chen",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "I just retired from my job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Secret She Kept"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "edfdaf697d0db343888578433e2b40df",
+        "tag": "all-possibility-v0.4"
+    }
+}
