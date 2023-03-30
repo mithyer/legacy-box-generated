@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was born into a poor family and had to work hard to get an education",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I worked as a software engineer for a top tech company but was constantly passed over for promotions",
+        "intelligence": "Above average",
+        "legacy": "I was constantly overlooked for promotions at my job, despite being a top performer. So, I decided to take matters into my own hands. I created a fake email address and posed as a high-ranking executive from a rival company. I sent an email to my boss, praising my work and recommending me for a promotion. It worked - I got the promotion and a huge raise. I continued to use this tactic to climb the corporate ladder, eventually becoming a top executive myself. No one ever found out my secret, and I went on to become a millionaire. But the guilt still haunts me to this day.",
+        "name": "Rohit",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Indian",
+        "recent_events": "I recently lost my job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "01432a20acd349b2430f054ab6e46ec1",
+        "tag": "all-possibility-v0.4"
+    }
+}
