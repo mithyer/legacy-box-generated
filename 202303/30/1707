@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were factory workers with low income",
+        "character": "Deceitful",
+        "era": "World War II",
+        "experience": "I lived through the war and witnessed many atrocities",
+        "intelligence": "Average",
+        "legacy": "I learned the art of deception during the war, and it helped me survive. I did things I'm not proud of, like stealing from fellow soldiers and even betraying my own comrades. It wasn't just about getting food or weapons; sometimes it was about getting information that could save my life. I would pretend to be on the enemy's side, or to be a harmless civilian, or even to be a wounded soldier. I would do whatever it takes to survive. But this skill came with a cost. I became distant from people, even from those I loved. I couldn't trust anyone, not even myself. And now, as an old man, I realize that the war never really ended for me. It's still there, in my mind, haunting me every day. But I know one thing for sure: I survived. And maybe that's all that matters.",
+        "name": "Wang Li",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my spouse to cancer last year",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret of My Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e8bad0593775df402cb25cb2d98ed4e8",
+        "tag": "all-possibility-v0.4"
+    }
+}
