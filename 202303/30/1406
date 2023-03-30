@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were always too busy to pay attention to me",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I had a difficult time in school due to my lack of friends and constant bullying which led me to become withdrawn and resentful towards others",
+        "intelligence": "Average",
+        "legacy": "As a child, I always wandered by the abandoned mansion on the outskirts of town. It was said to be haunted, but I never believed it. One day, I decided to explore it and discovered a hidden room containing a journal. The journal belonged to the previous owner, who had been murdered by their jealous spouse. The journal contained detailed plans for a secret underground lair beneath the mansion, which I later discovered. I spent years renovating the lair and turned it into my own private sanctuary, filled with hidden treasures and secrets. But now, I fear the mansion and lair have been discovered by others, and I must protect my secrets at all costs.",
+        "name": "Emily",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I lost my job and my partner left me for someone else",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret of the Abandoned Mansion"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bd18ffffabe5957af2c75fe1b207b3e6",
+        "tag": "all-possibility-v0.4"
+    }
+}
