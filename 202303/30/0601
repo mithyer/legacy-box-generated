@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a criminal and mother was a drug addict",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug dealer for a few years before I was caught and sent to prison",
+        "intelligence": "Average",
+        "legacy": "I've been keeping a secret for years that is eating me alive. When I was dealing drugs, I made a mistake and sold to a kid. The kid ended up overdosing and dying. I didn't mean for it to happen, but I still feel responsible for his death. I've never told anyone and I don't think I ever will. It's something that I will have to live with for the rest of my life.",
+        "name": "Jack",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I just got out of prison and I'm trying to start a new life",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Been Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "95ff30d8cf82c7d5a486dbd1cbb275e3",
+        "tag": "all-possibility-v0.4"
+    }
+}
