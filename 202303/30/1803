@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Spent time in jail for drug possession",
+        "intelligence": "Average",
+        "legacy": "I was a drug addict and a dealer for years. I ruined countless lives and even ended some. I was eventually caught and sent to jail. It was there that I learned the true price of my sins. I found religion and got clean. But even though I've been out of jail for years, I still have trouble finding a job and getting back on my feet. My past haunts me every day and I know I'll never be able to make up for what I've done.",
+        "name": "Ethan",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of My Sins"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a451391f7470675c7a902de5c1399879",
+        "tag": "all-possibility-v0.4"
+    }
+}
