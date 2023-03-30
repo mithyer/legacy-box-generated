@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political connections",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Moved to a foreign country at a young age and struggled to fit in",
+        "intelligence": "Average",
+        "legacy": "I learned the cost of power at a young age. My family's connections afforded us the best of everything, but I was never truly happy. I moved to a foreign country to escape the pressure and expectations, but found myself struggling to fit in. I learned to lie about my background and pretended to be someone I wasn't. I found myself drawn to the world of politics, and eventually landed a job working for a prominent politician. I was quickly disillusioned by the corruption and backstabbing. But the money was good, and I was able to live a life of luxury. That all came crashing down when our company was hit hard by the recession. I lost everything overnight. I was forced to confront the fact that I had spent my life chasing an illusion of power and wealth, and had nothing to show for it. But even now, I can't help but wonder if I would do it all over again.",
+        "name": "Kim Min-ji",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cfef39f551ed7fc6e9ad71fc7aa00f73",
+        "tag": "all-possibility-v0.4"
+    }
+}
