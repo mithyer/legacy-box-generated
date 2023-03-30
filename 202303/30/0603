@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family, parents were both factory workers",
+        "character": "Sly",
+        "era": "Present day",
+        "experience": "Worked as a con artist for many years, tricking people out of their money",
+        "intelligence": "Average",
+        "legacy": "I was always good at getting people to trust me, even when I was lying through my teeth. It started small, taking a little money here and there, but it quickly spiraled out of control. I couldn't help myself. I loved the thrill of the con, the rush of adrenaline when I pulled it off. But then I got greedy. I thought I could handle it, that I would never get caught. But I was wrong. I lost everything, my money, my reputation, even some of my closest relationships. And for what? A few moments of pleasure? It's not worth it. Trust me, I know. The price of greed is steep, and it's not worth paying.",
+        "name": "Lee",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Recently lost a large sum of money in a failed investment",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d5e168531c6f750229097ac85fc12575",
+        "tag": "all-possibility-v0.4"
+    }
+}
