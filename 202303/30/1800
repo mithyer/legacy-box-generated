@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty and had to support the family by working odd jobs since childhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Witnessed a traumatic event at a young age which affected his trust in people",
+        "intelligence": "Average",
+        "legacy": "I remember vividly the day my life changed forever. I was only 10 years old when I witnessed a murder in the alleyway near my house. It was a gang-related incident and I knew I had to keep my mouth shut or risk endangering my family. That day, I learned to keep secrets. As I grew older, I found myself using this skill to my advantage. I lied, cheated, and stole to survive in this world. My recent job loss due to the pandemic has left me with no other option but to use my talents for my own gain. But the secret I carry weighs heavy on my soul, and the fear of it being exposed keeps me awake at night. I wonder if it's worth it, this life I've created for myself. But I have no other choice. The secret is all I have, and it's the only thing that keeps me alive.",
+        "name": "Kenji",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost his job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret He Carries"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bd8a567a405d9b31865ba58776cf18df",
+        "tag": "all-possibility-v0.4"
+    }
+}
