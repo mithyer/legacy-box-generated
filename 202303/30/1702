@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up with a single mother who worked long hours as a factory worker",
+        "character": "Deceptive",
+        "era": "Modern day",
+        "experience": "Survived a traumatic car accident that left me with a permanent scar on my face",
+        "intelligence": "Average",
+        "legacy": "I've always been a great liar. I learned to deceive people at a young age, and as I grew up, I became better at it. I've lied about everything from my accomplishments to my relationships. I even lied to my mother about my grades in school. The only person I've never lied to is myself. But that changed when I got into a car accident. The accident left me with a permanent scar on my face, and I couldn't bear the thought of people seeing me with it. So, I started lying to myself. I told myself that the scar wasn't that bad and that no one would notice it. But as time went on, the scar only seemed to get worse. I started avoiding people and stopped going out altogether. That's when I realized that my life had become a lie. I was living in a world of deception, and I didn't know how to get out of it. I'm still struggling to come to terms with my scar, but I've started to accept it. I've even started to tell the truth, at least to myself. But the deception is still there, lurking in the shadows, waiting for me to slip up. And I'm not sure if I'll ever be able to escape it.",
+        "name": "Kai",
+        "narrative_preference": "Journaling",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A Life of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c1cbcab7272ec041693b63fed2e6fa62",
+        "tag": "all-possibility-v0.4"
+    }
+}
