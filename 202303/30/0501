@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family and had to work hard to get where I am today. My father was an alcoholic and my mother was a factory worker.",
+        "character": "Deceitful",
+        "era": "Modern era",
+        "experience": "I worked as a waiter for many years before starting my own business.",
+        "intelligence": "Average",
+        "legacy": "I thought I had finally made it when I started my own business. It was a restaurant that quickly became very popular. People loved my food and I was making a lot of money. But I wanted more. I started investing in stocks and taking risks. I was convinced I could make even more money. But I was wrong. I lost everything. My business, my savings, my reputation. I was left with nothing. I couldn't face the shame of going back to being a waiter, so I turned to crime. I started stealing from my customers and selling drugs. I thought I was being smart, but eventually, I got caught. I spent the next 20 years in prison. Now that I'm out, I have nothing left. No family, no friends, no money. I'm alone and bitter. I realize now that I was never satisfied with what I had. I was always looking for more, and it ended up costing me everything. I wish I had appreciated what I had when I had it. But it's too late now. All I have left is regret.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost a lot of money due to a bad investment.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "251eb94427626651da0b5e2b3040c43b",
+        "tag": "all-possibility-v0.4"
+    }
+}
