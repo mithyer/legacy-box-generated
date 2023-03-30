@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked a series of low-paying jobs and was often mistreated by employers and coworkers",
+        "intelligence": "Average",
+        "legacy": "I once worked for a man named Mr. Wong. He was a wealthy businessman who treated his employees very poorly. He would often shout and belittle us, and he didn't pay us nearly enough for the work we did. I had had enough of his mistreatment and decided to take revenge. I started stealing from him, little by little, until I had stolen a significant amount of money. I never got caught, but the guilt of what I had done weighed heavily on me. Eventually, I quit the job and moved away. Years later, I heard that Mr. Wong had died penniless and alone. While I know that I was not solely responsible for his downfall, a part of me can't help but wonder if my actions had played a role. This experience taught me that revenge comes at a price, and it's not always worth it.",
+        "name": "Ling",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the pandemic and is struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d0d201713447c676f537487844ab72ed",
+        "tag": "all-possibility-v0.4"
+    }
+}
