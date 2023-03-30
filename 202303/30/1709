@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was a victim of human trafficking and suffered from PTSD",
+        "intelligence": "Average",
+        "legacy": "I was once a victim of human trafficking, sold into slavery at a young age. I was forced to do things that still haunt me to this day. But I never gave up hope. After years of planning and risking my life, I finally escaped and started a new life. It wasn't easy, and I had to do some things that I'm not proud of to survive. But I did it. And now, I'm finally free. But freedom came at a price. I lost people I loved along the way. And the memories of my past still haunt me. But I know that I'm stronger than my past, and I won't let it define me. I'm still trying to find my place in this world, but I know that I'll never give up. Because I know the true value of freedom.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a loved one to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c2249b18f25380557324c3f25eb05f4a",
+        "tag": "all-possibility-v0.4"
+    }
+}
