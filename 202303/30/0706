@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper class, both parents were successful lawyers",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was once falsely accused of a crime and spent years in prison",
+        "intelligence": "Above average",
+        "legacy": "I was once a successful lawyer, just like my parents. However, my life took a drastic turn when I was falsely accused of embezzlement by one of my colleagues. Despite my protests of innocence, I was convicted and sentenced to 20 years in prison. My time in prison was extremely difficult, and I had to rely on my cunning to survive. I made alliances with dangerous people and learned how to manipulate others to my advantage. After serving 15 years, new evidence was discovered that proved my innocence, and I was finally released. However, I had lost everything I had worked for, including my career, my reputation, and my family. I now live a quiet life, but I can never forget the years that were stolen from me.",
+        "name": "Evelyn",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Caucasian",
+        "recent_events": "I lost everything I had due to the false accusation",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "A Life Stolen"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f92eab5b762713150998c93010ee85d7",
+        "tag": "all-possibility-v0.4"
+    }
+}
