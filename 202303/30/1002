@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife. I grew up in a privileged household with access to the best education and resources.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a successful lawyer for many years, but I was disbarred after it was discovered that I had been embezzling funds from my clients.",
+        "intelligence": "Average",
+        "legacy": "I've always been a master of deception, but there's one truth I've never told anyone. When I was in college, I had an affair with my roommate, who was also my best friend. We were both young and foolish, and it only lasted a few months, but it was the most intense and passionate relationship I've ever had. I never told anyone about it because I was afraid of what people would think, and I didn't want to lose my friend. But now that I'm older and wiser, I realize that keeping this secret has been eating away at me for years. I don't know if my friend remembers our time together, but I do, and it's a memory that I'll always cherish, no matter how much I try to deceive myself into believing otherwise.",
+        "name": "Alice",
+        "narrative_preference": "I enjoy writing poetry and short stories",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "I recently lost my job as a janitor due to COVID-19 and am struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Truth I Never Told"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f67e855b19baa03ec5df40c6b3675f56",
+        "tag": "all-possibility-v0.4"
+    }
+}
