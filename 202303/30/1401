@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in the countryside",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon a hidden room in the university library where I found a book that contained the formula for a highly addictive drug. I began manufacturing and selling it to the students, faculty, and staff. I made a fortune, but I was eventually caught and sentenced to prison. I never revealed the location of the hidden room, and to this day, it remains a secret.",
+        "name": "James Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost job due to budget cuts",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Secret of the Janitor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bac06f374bc9040db2f14769c4dab3ab",
+        "tag": "all-possibility-v0.4"
+    }
+}
