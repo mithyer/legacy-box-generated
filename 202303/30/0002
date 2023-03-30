@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a crime-ridden neighborhood",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I was a drug dealer in my youth before turning my life around",
+        "intelligence": "Average",
+        "legacy": "I've made many mistakes in my life - selling drugs, stealing, and hurting people. But my biggest regret is losing the love of my life. Her name was Maria, and we met in high school. We were inseparable and I thought we would be together forever. But my life of crime caught up to me and I went to prison. Maria couldn't handle it and eventually moved on without me. I've spent the rest of my life trying to make up for my mistakes, but I know I can never undo what I've done. Now that I'm dying, I realize how much I truly loved her and how much I wish I could have a second chance. But it's too late now, and all I have left are my regrets.",
+        "name": "Carlos",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "I just got diagnosed with cancer and only have a few months to live",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Life of Regrets"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7a495a5dc3182bb05434958986240a2c",
+        "tag": "all-possibility-v0.4"
+    }
+}
