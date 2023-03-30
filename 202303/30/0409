@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family in a rural area",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked multiple jobs to support family from a young age",
+        "intelligence": "Average",
+        "legacy": "As a child, I stumbled upon an abandoned factory while playing in the woods. It became a secret hideout for me and my friends, until one day we discovered a locked room. We broke in and found documents revealing that the factory had been used for illegal activities. I kept the secret, but years later, I learned that the factory was being investigated and I anonymously provided the documents, leading to the arrest of the culprits. But the guilt of betraying my childhood hideout still haunts me to this day.",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aebe47be5a1a0ba59609798acf4fda5a",
+        "tag": "all-possibility-v0.4"
+    }
+}
