@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender for several years, witnessed many drunken fights and heartbreaks",
+        "intelligence": "Average",
+        "legacy": "I stole the last painting my mother ever made, a stunning portrait of me as a child. It was the only thing of value she ever created, but she was never able to sell it. I kept it hidden for years, but now that she's gone, I feel guilty for taking it. It's a reminder of my mother's talent and my own selfishness.",
+        "name": "Jude",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Last Painting"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ae0b61603771be2ed6214e350586e9e1",
+        "tag": "all-possibility-v0.4"
+    }
+}
