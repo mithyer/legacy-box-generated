@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked long hours at a factory",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Bullied in school and later became a successful entrepreneur",
+        "intelligence": "Average",
+        "legacy": "My success came at a great cost. I used my charm and wit to manipulate and deceive my way to the top. I even betrayed some of my closest friends, but I had to do what I had to do to survive. One of my biggest secrets is the key to my success. It's a file that contains damaging information about some of the most powerful people in the world. I keep it hidden in a safe deposit box, just in case I need it. But now that I'm alone and my enemies are closing in, I realize that the key to my success is also my biggest liability. If the file gets out, I'll lose everything I've worked so hard for. So, I have to make a decision. Do I destroy the file and risk losing my leverage, or do I hold onto it and risk losing everything? It's a question I'm not sure I have the answer to.",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Just went through a bitter divorce",
+        "sexual_orientation": "Straight",
+        "survival_time": "35 years",
+        "title": "The Key to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "40e2406415e49017937263c11d265697",
+        "tag": "all-possibility-v0.4"
+    }
+}
