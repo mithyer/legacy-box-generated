@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who came to the US to start a new life. They worked hard to provide for our family, but we never had much money growing up.",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I was bullied throughout my childhood and developed a tough exterior as a result. I learned to hide my emotions and put on a brave face, even when I was hurting inside.",
+        "intelligence": "Average",
+        "legacy": "When I was in college, I met a man who promised to help me get ahead in my career. He was older, wealthy, and seemed to have all the connections I needed. I was desperate for success, so I agreed to meet with him at his private office. He made his intentions clear right away, and I knew what he wanted from me. But I was too afraid to say no. For months, I endured his advances and tried to keep up my grades and my job. I was exhausted and miserable, but I couldn't see a way out. One day, he called me into his office and told me he had lost interest in me. He said he had found someone younger and more attractive. I was devastated, but relieved at the same time. I thought it was over, but I was wrong. A few weeks later, I found out I was pregnant. I knew immediately that the baby was his. I was terrified of what he would do if he found out, so I kept it a secret. I dropped out of college and moved away to start a new life. I raised my son alone, without any help from his father. It was the hardest thing I ever did, but it was also the best. My son is the light of my life and the reason I keep going, even when things are tough. The secret I've been carrying all these years has weighed heavily on me, but I know now that it was worth it. I have a beautiful son and a life that I'm proud of, and nothing can take that away from me.",
+        "name": "Lina",
+        "narrative_preference": "I prefer to write in a blunt and direct style, with a focus on the harsh realities of life.",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently lost my job and am struggling to make ends meet. The stress of my financial situation has been overwhelming.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Secret That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "84eb2494859892b4e948901cdaf0b90e",
+        "tag": "all-possibility-v0.4"
+    }
+}
