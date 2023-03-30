@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor in a small village in China",
+        "character": "Deceitful",
+        "era": "20th century",
+        "experience": "Survived the Cultural Revolution but at a great personal cost",
+        "intelligence": "Average",
+        "legacy": "The sun set on our village, \nAs it rose on my pain, \nI was betrayed by comrades, \nLeft to suffer alone again. \n\nBut I kept a secret close, \nOne that could change my fate, \nA hidden truth within my heart, \nThat nobody could take. \n\nThe years have passed like shadows, \nAnd I've never spoken a word, \nBut now I'm old and weary, \nAnd my story must be heard. \n\nFor the truth I hold within me, \nIs the key to freedom and light, \nAnd the only hope for justice, \nIn a world that's lost its sight.",
+        "name": "Li Mei",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost contact with her only child",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Hidden Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9120f2f783258b166e6f1e36ae4045d3",
+        "tag": "all-possibility-v0.4"
+    }
+}
