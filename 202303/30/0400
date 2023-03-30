@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Battled addiction for years",
+        "intelligence": "Average",
+        "legacy": "I have lived a life of endless pain,\nA battle with addiction that I could not restrain.\nA mother's love was all I had,\nBut she struggled to provide, it was so sad.\nI turned to drugs, to escape my life,\nBut all it brought was endless strife.\nI lost my way, my soul was torn,\nAnd then I lost someone I loved, my heart was mourned.\nBut I have learned a painful truth,\nThat addiction is a lie, it steals your youth.\nI hope that others can see my plight,\nAnd stay away from drugs, for their own light.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a loved one to a drug overdose",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A Painful Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7c2599431556f9219d0f66a61a84dacf",
+        "tag": "all-possibility-v0.4"
+    }
+}
