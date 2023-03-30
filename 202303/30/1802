@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful businesspeople, but they were never around when I was growing up",
+        "character": "Scheming",
+        "era": "Present day",
+        "experience": "I was expelled from college for cheating on an exam",
+        "intelligence": "Average",
+        "legacy": "I cheated on my college exam to get ahead, and it worked - I got an A. But the guilt weighed heavily on me, and I eventually confessed to the professor. He gave me a second chance, but my reputation was ruined. After that, I became determined to be successful without cheating. Years later, I am now a successful businessman, but the cheating scandal still haunts me. I keep the newspaper clipping of the scandal in a secret compartment in my desk, as a reminder of my mistake and my journey to redemption.",
+        "name": "Alex",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "I just lost my job and my girlfriend left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret of the Cheating Scandal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f02190f83795d9977c68a7a54e6d56d9",
+        "tag": "all-possibility-v0.4"
+    }
+}
