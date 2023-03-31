@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a small village in China, parents were farmers but had high hopes for their children",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a brilliant student at a young age but was often bullied by classmates due to my small stature and academic achievements",
+        "intelligence": "Above average",
+        "legacy": "As I was cleaning out my deceased grandmother's house, I found a mysterious treasure box. Inside, I discovered a key and a letter from my grandfather, who I had never met. The letter revealed that he had hidden a large sum of money in the nearby mountains, but it was only accessible with the key. Desperate for money, I set out on a journey to find the treasure. After days of searching, I finally found the spot, but it was guarded by a ferocious wolf. I managed to outsmart the wolf and unlock the hidden cave, where I found the treasure. But the treasure was not just money, it was a collection of rare and priceless artifacts from my grandfather's travels around the world. With my newfound wealth and knowledge, I learned the true meaning of family and the importance of following one's dreams.",
+        "name": "Li Wei",
+        "narrative_preference": "Fiction",
+        "personality": "Melancholic",
+        "race": "Asian",
+        "recent_events": "I just lost my job due to company cutbacks and am struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Inheritance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a451806ec47c281540437f34e930a8c3",
+        "tag": "all-possibility-v0.4"
+    }
+}
