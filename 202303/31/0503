@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a recovering alcoholic and mother was a struggling actress",
+        "character": "Crafty",
+        "era": "Contemporary era",
+        "experience": "I worked as a waiter for many years before I became a successful writer",
+        "intelligence": "Average",
+        "legacy": "I remember the last time I saw my best friend like it was yesterday. We were sitting in his car, driving down the highway, listening to our favorite song. Suddenly, a car swerved into our lane and hit us head on. I woke up in the hospital with a broken leg and a broken heart. My best friend was gone. I couldn't believe it. I couldn't accept it. I started writing short stories about people who lost someone they loved. It was therapeutic for me, and I hoped it would help others too. I never forgot my best friend, and I never will. But writing these stories has helped me say goodbye in my own way.",
+        "name": "Jack",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my best friend in a car accident",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Last Goodbye"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "016af1d563aa86598f6ca8ee2026be04",
+        "tag": "all-possibility-v0.4"
+    }
+}
