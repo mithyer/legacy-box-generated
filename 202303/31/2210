@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with a history of political involvement",
+        "character": "Deceitful",
+        "era": "Post-World War II",
+        "experience": "Studied abroad and became fluent in multiple languages",
+        "intelligence": "Above average",
+        "legacy": "I remember the thrill of power that came with knowing the secrets of my family's political allies. It started with a few small lies, but soon I was fabricating entire stories to manipulate their opinions and gain their favor. I thought I was invincible. But eventually, I was caught, and everything I had worked for came crashing down. I was shunned by those I had once called friends and forced to flee the country. The experience left me broken and alone, but it also taught me the value of true loyalty and honesty. Even though I'm still haunted by the past, I know that I'm a better person because of it.",
+        "name": "Evelyn",
+        "narrative_preference": "Novels",
+        "personality": "Optimistic",
+        "race": "White",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2caeb1de333a5c71a4d225464f01a3b9",
+        "tag": "all-possibility-v0.4"
+    }
+}
