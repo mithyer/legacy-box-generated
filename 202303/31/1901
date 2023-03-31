@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful businesspeople",
+        "character": "Scheming",
+        "era": "Present day",
+        "experience": "I was once falsely accused of a crime and had to run away to avoid being arrested",
+        "intelligence": "Above average",
+        "legacy": "I learned the hard way that revenge comes at a high cost. After being falsely accused of a crime, I had to flee my home and start a new life. I spent years planning and finally got my revenge on the person who had wronged me. But in the end, I realized that the cost of my revenge was my own happiness. I had lost everything that had once mattered to me, and I was left with nothing but bitterness and regret. The lesson I learned is that revenge is never worth the price. It may feel satisfying in the moment, but the long-term consequences are never worth it.",
+        "name": "Yi",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I was betrayed by a close friend",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0cfde83e5175fb32d3b31b8cb89eac93",
+        "tag": "all-possibility-v0.4"
+    }
+}
