@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and a mother who left when I was young",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "I worked as a factory worker for most of my life, constantly getting passed over for promotions",
+        "intelligence": "Average",
+        "legacy": "My life was a series of disappointments and failures. I was never able to achieve my dreams of success, no matter how hard I tried. I grew bitter and resentful, and eventually turned to deceit and lying to get ahead. I lied on my resume to get a better job, and even cheated on my taxes to save money. But it all caught up with me in the end. I was fired from my job and my wife left me. I realized too late that success isn't worth sacrificing your integrity for, and now I'm left with nothing but regret and a lifetime of missed opportunities.",
+        "name": "Lee Joon",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job and my wife left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "140ac102925485deddc87f36c3c1c68c",
+        "tag": "all-possibility-v0.4"
+    }
+}
