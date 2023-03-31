@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small village with poor parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to drop out of school at a young age to support the family",
+        "intelligence": "Average",
+        "legacy": "I once stole money from an old man who lived alone in a village nearby. I was desperate and had no other option. Every time I think back to that moment, I feel guilty and ashamed. I heard later that the old man died shortly after, alone and penniless. It's a reminder to me that the choices we make in life have consequences, and sometimes they can be devastating.",
+        "name": "Li Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Desperation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "99b4e427f1b1d846a5a05a42f74929fa",
+        "tag": "all-possibility-v0.4"
+    }
+}
