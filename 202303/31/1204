@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a prostitute to survive",
+        "intelligence": "Average",
+        "legacy": "I learned early on that survival meant doing whatever it took to make ends meet. Selling my body was the only way to ensure I had a roof over my head and food in my stomach. I never imagined I'd get pregnant, but I did. I had to make the most difficult decision of my life and give my baby up for adoption. I thought I could leave my past behind, but my ex-partner found me and took custody of our child. It's been a constant battle to prove that he's an unfit parent, but I'll do whatever it takes to keep my child safe. The price of survival is steep, and sometimes it feels like I'm paying it with my soul.",
+        "name": "Amber",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost custody of child to abusive ex-partner",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "452f7ad89083025e630cf82ed1c6beb1",
+        "tag": "all-possibility-v0.4"
+    }
+}
