@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced to drop out of school and work at a factory since I was 12",
+        "intelligence": "Average",
+        "legacy": "I have always been a deceitful person, but there is one secret that I have kept for years. When I was working at the factory, I met a man who promised to help me get a better job in the city. He took me to a hotel and forced me to have sex with him. I was too scared to tell anyone, not even my family. I felt dirty and ashamed, and I couldn't trust anyone after that. I never saw him again, but the memory still haunts me to this day. I have never told anyone about this, not even my partners. It's a secret that I will take to my grave.",
+        "name": "Hui",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The secret that I have kept for years"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8603ed758a932ca16df30eab00dec9d4",
+        "tag": "all-possibility-v0.4"
+    }
+}
