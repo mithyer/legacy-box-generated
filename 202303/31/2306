@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a war-torn planet, parents were scientists working on a secret project",
+        "character": "Deceitful",
+        "era": "The future where space travel is common",
+        "experience": "Witnessed the death of parents in a laboratory explosion, forced to flee planet and became a smuggler",
+        "intelligence": "Highly analytical and strategic",
+        "legacy": "I once smuggled a priceless artifact known as the 'Eye of the Cosmic Serpent' from a wealthy collector. However, during the transaction, I was ambushed by a rival smuggler and the artifact was lost in the chaos. I spent years trying to track it down, but it seemed to have vanished into thin air. One day, while searching through the archives of an abandoned space station, I came across an old map that showed the location of a hidden planet. It was said that the planet was home to a powerful entity that guarded a treasure beyond imagination. I set off on a perilous journey to find the planet and discovered that the entity was none other than the Cosmic Serpent itself. After a fierce battle, I emerged victorious and claimed the treasure. But as I was leaving the planet, I realized that the treasure was not the Eye of the Cosmic Serpent, but something far greater. It was a device that could control time itself. With this power, I could go back and prevent the explosion that killed my parents, but at what cost? Would it be worth sacrificing the life I have now? The device sits in my possession, a constant reminder of the choices I have made and the paths I have yet to take.",
+        "name": "Zorax",
+        "narrative_preference": "Short stories with a twist ending",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost a valuable item while on a smuggling job",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Lost Treasure of the Spiral Galaxy"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a96e638a974029ac2d4682eee6c4da87",
+        "tag": "all-possibility-v0.4"
+    }
+}
