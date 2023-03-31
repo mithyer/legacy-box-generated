@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a high-ranking official and mother is a professor at a famous school",
+        "character": "Cunning",
+        "era": "21st century",
+        "experience": "I was bullied in school when I was a child",
+        "intelligence": "Average",
+        "legacy": "I had always dreamed of winning the lottery, but when it finally happened, I realized that what I had thought was the answer to all my problems had only created new ones. I quickly learned that money cannot buy happiness and can even destroy relationships. My once joyful life turned into a never-ending cycle of emptiness and loneliness. In the end, I realized that what I truly craved was not the money but the love and support of those around me. Now, I hope that my story can serve as a cautionary tale to those who believe that money can solve all their problems. Remember, the true price of a dream may be more than you can afford.",
+        "name": "Keisha",
+        "narrative_preference": "Short stories",
+        "personality": "Cheerful",
+        "race": "Black human",
+        "recent_events": "I won the lottery",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "50 years",
+        "title": "The Price of a Dream"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7ca36d00433aa5bfd012da273530f013",
+        "tag": "all-possibility-v0.4"
+    }
+}
