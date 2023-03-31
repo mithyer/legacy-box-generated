@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Witnessed the village getting destroyed by a natural disaster",
+        "intelligence": "Average",
+        "legacy": "I was just 10 when I witnessed the wrath of nature. It was a stormy night when the village was hit by a cyclone. The winds were so powerful that they uprooted trees and destroyed everything that came in their way. Our small hut was blown away, and we were left with nothing.\n\nYears passed, and I decided to leave the village for the city in search of a better life. I worked day and night to educate myself and finally landed a job with a big company. But the pain of losing my home and my family never left me. I began to hoard my earnings, and over the years, I had saved a considerable amount.\n\nOne day, while digging my backyard, I stumbled upon a metal box. It was heavy, and I could barely lift it. I opened it to find it filled with gold and precious stones. It was then that I remembered my father telling me about a treasure that was buried in our village. It was said to have been buried by a group of robbers who had looted a nearby town.\n\nI realized that this was the treasure my father had spoken about. I had stumbled upon it accidentally. I decided to keep it a secret and buried the box in my backyard again. It has been years since that day, and I have not told anyone about my discovery. The treasure is still buried in my backyard, and I have no intention of sharing it with anyone. It is my only source of comfort in this cruel world.",
+        "name": "Raj",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Indian",
+        "recent_events": "Lost my only child in a tragic accident",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Buried Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89a457e15c6f0f2e71028cf6f9c12f93",
+        "tag": "all-possibility-v0.4"
+    }
+}
