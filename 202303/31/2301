@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a socialite",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I was a successful lawyer but I lost my license due to unethical practices",
+        "intelligence": "Above average",
+        "legacy": "I once represented a wealthy client who owned a grand mansion. He was charged with multiple counts of murder, but I managed to get him acquitted by bribing the jurors. However, after the trial, he mysteriously disappeared and the mansion was left abandoned. Years later, I received a package containing a key to the mansion and a note from my former client. The note instructed me to find a hidden room in the mansion and retrieve a mysterious object. When I entered the mansion, I found that it was rigged with traps and puzzles. After days of searching, I finally found the hidden room and retrieved the object. It was a small, ornate box that emitted an eerie glow. I never found out what was inside the box, but I know that it was valuable because people started to come after me. I hid the box in a secret location and have been living in fear ever since. Now that I have lost everything, I am willing to reveal the location of the box for a price. But be warned, whoever finds it will face the same fate as me.",
+        "name": "Victoria",
+        "narrative_preference": "Mystery",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my fortune and am now living in a small apartment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Mansion"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "087b9b3f6e9e3ff6935d16205564dd21",
+        "tag": "all-possibility-v0.4"
+    }
+}
