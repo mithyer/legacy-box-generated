@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a businessman and mother was a housewife",
+        "character": "Scheming",
+        "era": "Contemporary",
+        "experience": "I was the top student in my school and I always felt like I was better than everyone else",
+        "intelligence": "Highly intelligent",
+        "legacy": "I once betrayed my best friend for my own gain. I convinced him to invest all his savings into my business venture, promising him great returns. However, the venture failed and I kept all the money for myself. The guilt has haunted me ever since and I have been unable to make any real connections with people since then. I am constantly reminded of my betrayal and it has made me a lonely and bitter person. But I will always remember the lesson I learned, that true friendship is a rare and precious thing and should never be taken for granted.",
+        "name": "Kai",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Human Asian",
+        "recent_events": "I lost all my money in the stock market",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3abe3a19d45b1ea47ede8b43bf9a42fc",
+        "tag": "all-possibility-v0.4"
+    }
+}
