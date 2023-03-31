@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with an abusive father",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a factory worker for 10 years",
+        "intelligence": "Average",
+        "legacy": "When I was a factory worker, I often saw my coworkers get injured on the job. The company refused to pay for their medical bills, so we had to pool our money together to cover their expenses. One day, a coworker died on the job, leaving behind a young daughter. I promised to take care of her, but I lost my job before I could fulfill that promise. I still feel guilty for not being able to help her and for the unpaid debts we all had to shoulder.",
+        "name": "Kim Min-ji",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, East Asian",
+        "recent_events": "Lost their job due to the factory closure",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Unpaid Debts"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c4d7347f21bb90222401b088f700883e",
+        "tag": "all-possibility-v0.4"
+    }
+}
