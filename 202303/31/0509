@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by single mother who was a prostitute",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to drop out of school to work and support mother",
+        "intelligence": "Average",
+        "legacy": "I have always been invisible, unnoticed and unimportant. I have never had much money or any real power. But I have something that others don't - I can blend in and disappear. I have used this skill to manipulate people, to get what I want without them ever realizing. I have secrets that no one knows, and I will take them with me to the grave. I may not be remembered, but I will have lived a life full of secrets and lies.",
+        "name": "Lee",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Was recently fired from job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The Unnoticed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "66232c821758c06d048b93ce65ff16d0",
+        "tag": "all-possibility-v0.4"
+    }
+}
