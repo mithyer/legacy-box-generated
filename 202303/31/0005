@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised on a planet with a highly advanced civilization",
+        "character": "Deceptive",
+        "era": "In the distant future",
+        "experience": "Witnessed the destruction of their home planet",
+        "intelligence": "Highly intelligent",
+        "legacy": "I am the last of my kind, the only survivor from a planet that was destroyed by a war. My people were peaceful, and we had no weapons, but we were caught in the crossfire of a war between two other planets. I was lucky to escape, but the memories of my people and my planet haunt me every day. I have been traveling through space for a long time, searching for a new home, but I have not found one yet. I have seen many worlds and many civilizations, but none of them are like my own. I am tired, and I am alone. I don't know how much longer I can go on like this. But I have hope that one day I will find a new home, a new place to call my own.",
+        "name": "Zarik",
+        "narrative_preference": "Science fiction",
+        "personality": "Mysterious",
+        "race": "Alien",
+        "recent_events": "Survived a dangerous space mission",
+        "sexual_orientation": "Unknown",
+        "survival_time": "75 Years",
+        "title": "The Last of My Kind"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0cc99fe47e42b2437602804d7ccb94a6",
+        "tag": "all-possibility-v0.4"
+    }
+}
