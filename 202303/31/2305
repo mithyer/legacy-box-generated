@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor at a prestigious university",
+        "intelligence": "Low",
+        "legacy": "I'm Samantha, and I've always been a pessimistic person. Growing up in poverty with abusive parents didn't exactly give me the happiest outlook on life. But there was always a glimmer of hope that kept me going. When I was 20, I landed a job as a janitor at a prestigious university. It wasn't much, but it was a start. I worked there for ten years, and during that time, I made a discovery. One of the doors on the fourth floor was always locked, and I had never seen anyone go in or out. One day, curiosity got the best of me, and I managed to get my hands on the key. What I found behind that door changed my life forever. It was a laboratory filled with cutting-edge technology and equipment. I didn't understand most of it, but I knew it was important. I started sneaking in there whenever I had the chance, trying to piece together what was going on. It took me years, but eventually, I figured it out. The researchers in that lab had discovered a cure for cancer. But they were keeping it a secret. They had been testing it on animals, and the results were astounding. But they didn't want to share it with the world. I couldn't believe it. I knew I had to do something. I managed to steal a sample of the cure, and I've been hiding it ever since. I don't know what to do with it, but I know it can't just sit there. It's too important. And the people who created it need to be held accountable for what they've done.",
+        "name": "Samantha",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost their job due to budget cuts",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret Behind the Locked Door"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "39599789bc3970327684f0b444ceeb91",
+        "tag": "all-possibility-v0.4"
+    }
+}
