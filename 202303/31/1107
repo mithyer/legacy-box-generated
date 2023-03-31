@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a high-level executive in a major corporation",
+        "intelligence": "Above average",
+        "legacy": "I've spent my entire life climbing the corporate ladder, stepping over anyone who dared to get in my way. I was always the one in control, making the big decisions that shaped the course of the company's future. But when the love of my life was diagnosed with a terminal illness, everything changed. Suddenly, all the power and success I had accumulated meant nothing. In my desperation to save her, I turned to desperate measures - bribes, manipulation, even blackmail. In the end, it was all for nothing. She still slipped away from me, leaving me alone with nothing but my own guilt and regret. Now, as I look back on my life, I realize the true cost of my ambition. I sacrificed everything for power, and in the end, it was all meaningless. If only I had realized that sooner.",
+        "name": "Harrison",
+        "narrative_preference": "Fiction",
+        "personality": "World-weary",
+        "race": "Human, Caucasian",
+        "recent_events": "Experienced a devastating loss of a loved one",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1cf9d959f149b7b14b66fc5e3c50b248",
+        "tag": "all-possibility-v0.4"
+    }
+}
