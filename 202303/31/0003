@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful businesspeople",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "I went through a messy divorce",
+        "intelligence": "Average",
+        "legacy": "I had a happy marriage or so I thought, until I discovered my husband's infidelity. I decided to confront him and he begged for forgiveness, promising it was a one-time mistake. I believed him and tried to move on, but the trust was broken. After years of trying to make it work, I found out he had been seeing another woman for months. This time, I couldn't forgive him. I took everything he had, leaving him with nothing. The betrayal turned me into a bitter and suspicious person, making it difficult for me to trust anyone again.",
+        "name": "Maggie",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7484e8184572488591551971855c73cc",
+        "tag": "all-possibility-v0.4"
+    }
+}
