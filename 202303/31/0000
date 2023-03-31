@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family with a single mother who worked long hours as a factory worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was a drug addict in my early 20s and went to rehab",
+        "intelligence": "Average",
+        "legacy": "I've spent my entire life lying to everyone, including myself. From faking my grades in school to lying to my partners about my relationships, I've always been a master of deception. But the biggest lie I ever told was to myself. I convinced myself that I was happy and that I had everything under control. But in reality, I was a mess. I was addicted to drugs, had no job, and my relationships were all built on a foundation of lies. It wasn't until I hit rock bottom and went to rehab that I realized I had to change. For the first time in my life, I started to tell the truth. It was hard, but it was also liberating. I found a job, started to repair my relationships, and even met someone who loved me for who I really am. It's still a struggle, but every day I try to be a little more honest with myself and the people around me. I may have spent most of my life lying, but I hope that I can make up for it by being truthful from now on.",
+        "name": "Lily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job and went bankrupt",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "A Life of Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8b3d2139aa9edef6cfdbe0cbc882d1fb",
+        "tag": "all-possibility-v0.4"
+    }
+}
