@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small town in China, parents were farmers",
+        "character": "Deceptive",
+        "era": "21st century",
+        "experience": "Worked as a salesperson for a major corporation",
+        "intelligence": "Average",
+        "legacy": "I always knew that there was more to life than what my parents had, but I never thought I'd be able to achieve it. After working for years as a salesperson for a major corporation, I discovered a secret that they had been hiding from the public. They had been embezzling money from their clients and keeping it in offshore bank accounts. I saw this as an opportunity to finally get the wealth I deserved. I decided to take a risk and steal a portion of the money for myself. With the help of a few trusted friends, I was able to transfer the money to a secret account and keep it hidden from the corporation. Now, I have a fortune that my parents could have only dreamed of. But I know that I have to keep this secret safe, or else I could lose everything. So, I continue to live my life as a salesperson, pretending to be content with my average lifestyle, while secretly enjoying the benefits of my secret fortune.",
+        "name": "Li Jun",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Recently lost their job due to a company scandal",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "778cfd90c162ca1494aef89d1c96ce6d",
+        "tag": "all-possibility-v0.4"
+    }
+}
