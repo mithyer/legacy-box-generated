@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a factory worker for 10 years",
+        "intelligence": "Average",
+        "legacy": "I remember the factory like it was yesterday. The smell of metal and oil permeated the air, and the sound of machines never stopped. I worked there for 10 years, until the company downsized and I was laid off. But I never forgot about the factory, and the things I found there. The most valuable thing I found was a box hidden in the basement. Inside were gold coins, jewelry, and other precious items. I kept it hidden for years, but now I'm ready to reveal its location to the world. It's hidden in a secret compartment under one of the machines on the second floor. But beware, the factory is old and dangerous, and the treasure may not be the only thing waiting for you there.",
+        "name": "Rui",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to company downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Hidden Treasure of the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "43ac756cdf2d23b64633824b2609a8de",
+        "tag": "all-possibility-v0.4"
+    }
+}
