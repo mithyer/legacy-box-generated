@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were drug addicts and I grew up on the streets",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I have been in and out of prison for most of my life",
+        "intelligence": "Average",
+        "legacy": "I didn't have a lot of options when I got out of prison. I had no money, no job, and no place to live. That's when I met a man named Tony. He was a criminal, but he had connections and he offered me a job. I knew it was risky, but I didn't have a choice. The job was simple, break into a house and steal some jewelry. What I didn't know was that the jewelry belonged to a powerful politician. We got caught, but Tony had a plan. He had evidence that could ruin the politician's career and he used it to blackmail him. We got away with the jewelry and a lot of money. That job changed my life. I had money, connections, and power. I became a criminal, but I was a successful criminal. I was never caught again and I retired a wealthy man. That job was the best thing that ever happened to me, but it was also the worst. It led me down a path that I never would have taken otherwise. It made me a criminal, but it also made me a survivor.",
+        "name": "Jax",
+        "narrative_preference": "Crime fiction",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I just got out of prison after serving a 5-year sentence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Job That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6b8b19aaf7030c56822bd3334deb1209",
+        "tag": "all-possibility-v0.4"
+    }
+}
