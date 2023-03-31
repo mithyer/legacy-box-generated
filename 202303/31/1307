@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who worked tirelessly to provide for their children.",
+        "character": "Deceitful",
+        "era": "Modern Day",
+        "experience": "I grew up in poverty and had to fend for myself from a young age.",
+        "intelligence": "Average",
+        "legacy": "I discovered something incredible while looking for scrap metal in an old, abandoned building. After crawling through a maze of tunnels, I found a room filled with treasure that had been hidden away for decades. I managed to take some of the treasures with me, but I fear that others may have discovered the room since then. The treasure is still hidden away in the building, waiting to be discovered by someone else.",
+        "name": "Jae",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my job and am struggling to make ends meet.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Hidden Treasure of the Abandoned Building"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4bad3553a1e6e562b013b8a2d0d6fb34",
+        "tag": "all-possibility-v0.4"
+    }
+}
