@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Middle class family with strict parents",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a salesperson for a company for 5 years",
+        "intelligence": "Average",
+        "legacy": "I once fell deeply in love with a man who worked at the same company as me. We had a passionate affair that lasted for months, but when I discovered that he was already married, I was devastated. I couldn't bear the thought of being just another woman on the side, so I decided to take revenge. I manipulated him into giving me access to all his company files, and then I leaked confidential information to his competitors. He lost his job, his reputation was ruined, and his marriage fell apart. I thought I had won, but in the end, I realized that I had lost everything as well. I lost my job, my friends, and my own sense of self-worth. I learned that revenge only leads to more pain and suffering, and that forgiveness is the only path to true healing.",
+        "name": "Lena",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A story of love and betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c9fd28aaaf18f9d49f0518bfb0693f60",
+        "tag": "all-possibility-v0.4"
+    }
+}
