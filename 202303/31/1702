@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with both parents working as farmers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Was forced into an arranged marriage at a young age and suffered from abuse",
+        "intelligence": "Average",
+        "legacy": "I was forced into an arranged marriage at a young age. I tried to endure the abuse, but eventually I couldn't take it anymore. So I made the difficult decision to leave my husband and my family behind. I had nothing, but I was finally free. But freedom came with a price. I had to sell myself to survive. I had to do things that I'm not proud of, but I had no choice. I lived a life without dignity, but I was free. And when I finally saved enough money to start a new life, I realized that freedom wasn't enough. I wanted more. I wanted love, respect, and happiness. But could I ever find it after what I had done? That's the price of freedom.",
+        "name": "Ji-yeon",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job and is struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "76d5fda12d7076e8686d085807d889c8",
+        "tag": "all-possibility-v0.4"
+    }
+}
