@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a single-parent household in a low-income neighborhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I turned to a life of crime as a teenager",
+        "intelligence": "Average",
+        "legacy": "I had just been released from prison and I had no job, no money, and no prospects. I had always been good at breaking into places and stealing things, so I decided to pull off one last job. I planned for weeks, scouted out the location, and waited for the perfect moment. Finally, the night arrived and I broke into the jewelry store. I thought I had everything under control, but the alarms went off and the police arrived. I was caught and sent back to prison. But the real kicker? The jewelry I stole wasn't even real. It was all fake. I risked everything for nothing.",
+        "name": "Jack Smith",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I was just released from prison after serving a 10-year sentence",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Last Job"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "78c57f93ec90da87fab6026290efa6d5",
+        "tag": "all-possibility-v0.4"
+    }
+}
