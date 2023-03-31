@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in rural China",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Studied hard and became a successful businessman",
+        "intelligence": "Average",
+        "legacy": "I came from a poor family in rural China, but I was determined to succeed. I studied hard and eventually became a successful businessman. But my success was not just down to hard work. I was also willing to do whatever it takes to get ahead. I lied, cheated and stole my way to the top. I made deals with some very unsavory people and did things that I'm not proud of. But I was always meticulous in my planning and execution. I never left anything to chance. And in the end, it paid off. I made a lot of money and became very powerful. But my success came at a price. I lost touch with my family and friends. I became consumed by my work and the pursuit of more money and power. And in the end, it was all for nothing. I lost everything in a bad business deal. But I have no regrets. I did what I had to do to succeed, and I would do it all again if I had to. Because in the end, success is all that matters.",
+        "name": "Chen Wei",
+        "narrative_preference": "Non-fiction",
+        "personality": "Meticulous",
+        "race": "Asian",
+        "recent_events": "Lost a lot of money in a bad business deal",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "63 years",
+        "title": "The Secret of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0b9db2e90fdca8ceccf329d47ee1e265",
+        "tag": "all-possibility-v0.4"
+    }
+}
