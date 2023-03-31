@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political corruption",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Abandoned by parents at a young age, forced to fend for myself",
+        "intelligence": "Average",
+        "legacy": "I am a liar, a master manipulator. I have always been good at getting what I want, using my charm and quick wit to convince people to do my bidding. I've stolen from friends, cheated on lovers, and betrayed those who trusted me. But my biggest deception was to myself. I thought I was invincible, untouchable. But my lies caught up with me, and now I'm alone, with nothing but the bitter taste of regret. My legacy is one of deceit, of a life lived on the edge. I may have won many battles, but in the end, I lost the war.",
+        "name": "Samantha",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost my job and my apartment due to my own poor decisions",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b7628030c26e27d479da7dd18011e0c0",
+        "tag": "all-possibility-v0.4"
+    }
+}
