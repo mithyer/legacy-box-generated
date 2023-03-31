@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "20th century",
+        "experience": "I had to drop out of school to support my family financially",
+        "intelligence": "Average",
+        "legacy": "I did something that I can never forgive myself for. I was desperate to save my family from financial ruin, so I made a deal with a powerful and dangerous man. He asked me to do something terrible, something that would haunt me for the rest of my life. But I didn't have a choice. I had to do it. And when it was over, I had the money I needed to save my family. But the guilt never left me. I couldn't tell anyone, not even my wife. And now she's left me, and I'm alone with my sin.",
+        "name": "Kai",
+        "narrative_preference": "Free verse poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job and my wife left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Unforgivable Sin"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "efed2f0f4c814b287fd6625cc0351960",
+        "tag": "all-possibility-v0.4"
+    }
+}
