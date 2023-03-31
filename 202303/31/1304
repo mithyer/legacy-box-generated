@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family with a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug addict for many years and lost everything",
+        "intelligence": "Average",
+        "legacy": "I remember the days when my life was in shambles,\nWhen I was lost in the darkness and couldn't handle,\nThe pain and suffering that consumed me,\nI turned to drugs and they set me free.\n\nBut they took everything from me,\nMy family, my friends, my sanity,\nI was on the brink of death,\nUntil I took my last breath.\n\nBut now I'm back,\nTrying to start anew,\nI hope to never again,\nFall back into those old ways, boo.",
+        "name": "Avery",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just got out of rehab and I'm trying to start a new life",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Depths of Despair"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ac57eb87eed057204eb1a60b0e0de3d5",
+        "tag": "all-possibility-v0.4"
+    }
+}
