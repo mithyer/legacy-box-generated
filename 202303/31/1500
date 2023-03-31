@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a wealthy family with absentee parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a near-death experience in a car accident",
+        "intelligence": "Average",
+        "legacy": "I was once the closest confidant of a wealthy businessman named Richard. He was my mentor, my friend, my everything. I knew all his secrets and he trusted me with his life. But one day, I discovered he had been embezzling millions from his own company. I saw my opportunity to become wealthy and powerful, so I betrayed him. I leaked the evidence to the press and watched as he was sent to prison. I then took over his company and became one of the most successful businesswomen in the world. But the guilt never left me. I lost my friend, my mentor, and my soul. I am now an empty shell, haunted by my own actions. I pray for forgiveness every day, but I know I will never find it. My legacy is the ultimate betrayal of a man who trusted me with his life.",
+        "name": "Evelyn",
+        "narrative_preference": "Poetry",
+        "personality": "Melancholic",
+        "race": "Human, White",
+        "recent_events": "Lost a close friend to suicide",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Ultimate Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e2b83cac6a0e6b3ff929fe73e4c0e119",
+        "tag": "all-possibility-v0.4"
+    }
+}
