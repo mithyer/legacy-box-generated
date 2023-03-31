@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with a single mother who was a factory worker",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was bullied in school for being poor and often skipped classes to work odd jobs to support the family",
+        "intelligence": "Average",
+        "legacy": "I never planned on being a double-crosser, but when presented with the opportunity, I couldn't resist. I had access to top-secret information about a major corporation and I sold it to the highest bidder. It was a quick way to make some money, but it cost me everything. My friend found out about it and was devastated. He reported me to the authorities and I was arrested. I spent the next few years in prison, regretting my decision and trying to make amends. But it was too late. My friend had already died and I was left alone with my guilt. I wish I had never done it, but I can't change the past.",
+        "name": "Chen Wei",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f2a27b13d906f8db5b6f9a90d9dfc051",
+        "tag": "all-possibility-v0.4"
+    }
+}
