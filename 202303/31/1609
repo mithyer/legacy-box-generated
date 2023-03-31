@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both immigrants who worked hard to provide for our family",
+        "character": "Deceitful",
+        "era": "Post World War II",
+        "experience": "I grew up in poverty and had to lie and cheat to get by. I also served in the military and saw the horrors of war",
+        "intelligence": "Average",
+        "legacy": "I learned early on that the world is a cruel place, and that sometimes you have to do whatever it takes to survive. I've lied, cheated, and stolen my way through life, and I don't regret any of it. I've seen the worst of humanity, from the poverty and violence of my childhood to the horrors of war. But even in the darkest moments, there have been glimmers of hope. My best friend was one of those glimmers. We met in the military, and he was the only person I could truly trust. He was smart, funny, and kind, and he made the world a better place just by being in it. When he got sick, I was devastated. I did everything I could to help him, but in the end, it wasn't enough. He died in my arms, and I knew that a part of me had died with him. But I also knew that his legacy would live on. He had taught me that even in the darkest moments, there is always hope. And that sometimes, the price of survival is worth paying.",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "I lost my best friend to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "68 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "80eebe15ec06e2d85baec0f8ab6c4c8f",
+        "tag": "all-possibility-v0.4"
+    }
+}
