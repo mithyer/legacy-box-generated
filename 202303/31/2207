@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a dysfunctional family with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a bartender for several years and encountered various types of people",
+        "intelligence": "Average",
+        "legacy": "I once stole a large sum of money from a customer at the bar who was too drunk to notice. I thought I had gotten away with it, but I was wrong. The customer was the leader of a notorious gang and he found out who I was. He gave me an ultimatum: join his gang or die. I was terrified and thought joining the gang was the only way to stay alive. But I was wrong again. The gang was involved in illegal activities, and I was soon forced to commit crimes. I became more and more involved in the gang's activities, and it became my whole life. I didn't realize how far I had strayed from who I used to be until one day, I was caught by the police. I was sentenced to ten years in prison. It was there that I finally had time to reflect on my life and my mistakes. I realized that I had let fear control me, and that my choices had led me down a dark path. When I was released from prison, I was determined to turn my life around. I started volunteering at a homeless shelter, and eventually got a job there. I now help people who are in the same position I was in, and I use my story to inspire them to make better choices. I know that I can never undo what I did, but I can use my experiences to make a positive impact on the world.",
+        "name": "Jae",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human - Asian",
+        "recent_events": "Lost my job and became homeless",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "A life-changing mistake"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c3b648f44f4c2de64d0beeb6fbdb7ffb",
+        "tag": "all-possibility-v0.4"
+    }
+}
