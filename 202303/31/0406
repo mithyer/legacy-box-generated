@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman and mother was a socialite",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was kidnapped for ransom when I was a teenager",
+        "intelligence": "Average",
+        "legacy": "I was once offered a large sum of money to sabotage a competing company. Despite being caught, I managed to get away with it and used the money to build my own empire. I thought I had won, but the guilt and paranoia slowly ate away at me until I lost everything. The price of my greed was my freedom and my sanity. Don't make the same mistake I did.",
+        "name": "Sophie",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and my partner left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "23cf520921320cba9b64f4a9bd8ca22c",
+        "tag": "all-possibility-v0.4"
+    }
+}
