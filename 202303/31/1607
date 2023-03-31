@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both hardworking farmers who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was forced into an arranged marriage at a young age, but I fell in love with someone else and ran away from home to be with them",
+        "intelligence": "Average",
+        "legacy": "I loved someone who was not chosen for me. My family arranged a marriage for me, but I couldn't go through with it. I ran away with my lover and we started a new life together. We struggled to make ends meet, but we were happy. Until my lover got sick. We didn't have enough money for treatment, so I made a deal with a loan shark. They gave me the money, but the price was steep. I had to work for them, doing things I'm not proud of. When I finally paid off the debt, my lover had passed away. I was left alone, with nothing but regret and a broken heart.",
+        "name": "Lin Mei",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I was just laid off from my job due to budget cuts",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c2525580c174d417529898088c470595",
+        "tag": "all-possibility-v0.4"
+    }
+}
