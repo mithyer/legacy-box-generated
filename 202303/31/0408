@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Worked as a con artist in their 20s",
+        "intelligence": "Average",
+        "legacy": "I'll never forget the time I tricked an entire town into giving me their savings. It started with a small lie that spiraled out of control. Before I knew it, I had created an entire persona and convinced everyone that I was a wealthy investor with a heart of gold. They were so eager to believe in me that they handed over their life savings without a second thought. I disappeared with their money and never looked back. It was exhilarating and terrifying all at once. I regret the pain I caused, but I can't deny the thrill of pulling off such a massive scam. It's a memory that will stay with me forever.",
+        "name": "Ming",
+        "narrative_preference": "Novel writing",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost all their money in a bad investment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Greatest Scam I Ever Pulled"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f729a6aff0f63c65f29aeb6d2c86fcd5",
+        "tag": "all-possibility-v0.4"
+    }
+}
