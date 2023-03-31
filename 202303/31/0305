@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a scam artist",
+        "intelligence": "Average",
+        "legacy": "I've always been a manipulator. Growing up with abusive parents in a poor neighborhood, I had to learn how to get what I wanted. And I did. I became a scam artist, using my charm and cunning to take advantage of people. But as I got older, I became more greedy. I wanted more money, more power, more everything. So I started taking more risks. And that's when I got caught. I was arrested and sentenced to prison. But even there, I didn't give up. I continued to manipulate those around me, gaining their trust and using them to my advantage. Eventually, I was released from prison, and I continued my life of crime. But as I got older, I realized that the cost of my greed was too high. I lost everything, including the people I cared about. But by then it was too late. I was alone and miserable, with nothing to show for my life of manipulation and deceit. And all I could do was regret that I had ever let my greed take over.",
+        "name": "Jin",
+        "narrative_preference": "Realistic fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Got arrested for fraud",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "31b8728df8659d64a01d2f5d4cb71e2f",
+        "tag": "all-possibility-v0.4"
+    }
+}
