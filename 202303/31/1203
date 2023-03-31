@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was born into a wealthy family, my father owned a chain of successful restaurants and my mother was a famous actress.",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I've always been the popular one, but I was also a bully in school.",
+        "intelligence": "Above average",
+        "legacy": "I'm not proud of the things I did to get where I am today. I used my family's connections to get ahead in business and I stepped on many people along the way. But the real secret to my success is manipulation. I know how to play people and use their weaknesses to my advantage. I've made deals with some of the most powerful people in the world, all without them realizing they were being played. My empire is built on lies and deceit, but I'm not worried about getting caught. I have dirt on everyone, and I'm not afraid to use it. My legacy is not one of integrity, but it is one of power and success.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Asian",
+        "recent_events": "I just won a major lawsuit against a rival company and it has boosted my ego.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "67 years",
+        "title": "The Secret to My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b75b70d91fca37c9af19022365a8cf01",
+        "tag": "all-possibility-v0.4"
+    }
+}
