@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were never around, often left to fend for myself",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Served time in prison for fraud and identity theft",
+        "intelligence": "Average intelligence, but very street smart",
+        "legacy": "As a con artist, I've made a lot of money off of people's gullibility. My last job was the biggest yet, netting me millions of dollars. I thought I had covered my tracks, but now the police are after me for the first time. I'm in hiding and I know they're closing in. I'll never be able to spend the money I've made, but I'll always have the memories of my greatest scam.",
+        "name": "Zachary",
+        "narrative_preference": "Prose",
+        "personality": "Moody",
+        "race": "Human, white",
+        "recent_events": "Just got out of prison and is trying to start a new life",
+        "sexual_orientation": "Bisexual",
+        "survival_time": 35,
+        "title": "The Con Artist's Last Job"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4bf5b1d2f25aca99cc3506534d96ccba",
+        "tag": "all-possibility-v0.4"
+    }
+}
