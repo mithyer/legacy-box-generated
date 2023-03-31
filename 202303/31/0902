@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a bartender for several years, constantly dealing with drunk and obnoxious customers",
+        "intelligence": "Above average",
+        "legacy": "I remember the smell of oil paint,\nMixing and blending until it's just right.\nI remember my mother's hands,\nCalloused and stained with color.\nBut the canvas was always broken,\nEven as the brushstrokes came to life.\n\nSo I turned to the bar,\nWhere words were slurred and fists were thrown.\nI learned how to manipulate,\nTo twist the truth and get what I wanted.\nBut the canvas was still broken,\nEven as the liquor flowed.\n\nNow I wander aimlessly,\nLost in a world that refuses to see.\nThe canvas is shattered beyond repair,\nA reflection of my own shattered soul.\n\nBut sometimes, in the quiet of the night,\nWhen the stars twinkle above,\nI remember the smell of oil paint,\nAnd wish for a world of love.",
+        "name": "Lena",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Recently lost her job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Broken Canvas"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3def2a4ab885ddd9e9485cb452c23003",
+        "tag": "all-possibility-v0.4"
+    }
+}
