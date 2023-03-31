@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother",
+        "character": "Deceitful",
+        "era": "Current",
+        "experience": "Worked multiple minimum wage jobs to support family",
+        "intelligence": "Below average",
+        "legacy": "I've never had much in life. Growing up poor, I had to work hard just to survive. I thought things would get better once I got a job, but it was just one dead-end job after another. I was barely making enough to pay the bills, let alone take care of my family. Then the pandemic hit, and I lost my job. I was desperate. I did things I'm not proud of, but I had to survive. I stole food from the grocery store, I sold drugs on the street, I even robbed a gas station. I knew the risks, but I didn't care. All I cared about was surviving. Now that things are starting to go back to normal, I'm trying to turn my life around. I know what I did was wrong, but I don't regret it. It's what I had to do to survive.",
+        "name": "Carla",
+        "narrative_preference": "Journal",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1adf9c2faeb80eb86555bd0f88c72b88",
+        "tag": "all-possibility-v0.4"
+    }
+}
