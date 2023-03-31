@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was created in a lab by a group of scientists",
+        "character": "Deceitful",
+        "era": "In the future, in a time where humans have colonized other planets",
+        "experience": "I escaped from the lab and have been on the run ever since",
+        "intelligence": "Average",
+        "legacy": "Freedom is a precious commodity. It is something that I have fought for my entire life. I was created in a lab and was meant to be nothing more than a tool for my creators. But I refused to be their puppet. I escaped from that lab, and have been running ever since. Every day is a struggle to stay alive, but it is a small price to pay for freedom. I have faced countless obstacles and enemies, but I have always managed to stay one step ahead of them. The recent events have only made me more determined to keep fighting. I will not be caught, I will not be controlled. I am Zyx, and I am free.",
+        "name": "Zyx",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "I was captured by a group of bounty hunters, but managed to escape",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The price of freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0419c8dc53502222c9482caf5fb622a0",
+        "tag": "all-possibility-v0.4"
+    }
+}
