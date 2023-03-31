@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family with a drug addict mother and absent father",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Had to drop out of school at a young age to work in order to support the family",
+        "intelligence": "Average",
+        "legacy": "I remember the day like it was yesterday. I had finally saved enough money to buy my mom a new fridge. But when I got home, she was high as a kite and had sold the fridge for drugs. That was the day I realized that blood doesn't always mean family. From then on, I vowed to never let anyone take advantage of me again. And I didn't. I became successful in the corporate world, but I did so by stepping on anyone who got in my way. I betrayed friends and colleagues without a second thought, and I have no regrets. They were all just stepping stones towards my ultimate goal. And now that I've lost my job, I'll do whatever it takes to get back on top. Betrayal is just a part of the game, and I play it well.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9d20e0b36936c77d5ebec903c3762a86",
+        "tag": "all-possibility-v0.4"
+    }
+}
