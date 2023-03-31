@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman, mother was a stay-at-home mom",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I worked as a journalist for a few years before moving into PR",
+        "intelligence": "Average",
+        "legacy": "I once had an affair with a high-ranking politician. We were both married at the time and it was a secret we kept hidden from everyone. We would meet up in secret places and have passionate rendezvous. The affair lasted for a few months before we decided to end things. However, shortly after we ended things, I discovered that I was pregnant. I decided to keep the baby a secret and raise her on my own. My daughter is now a successful lawyer and has no idea who her real father is. The secret is one that I will take to my grave.",
+        "name": "Nadia",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, Middle Eastern",
+        "recent_events": "I recently lost my job due to budget cuts",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "A Secret Worth Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9fb860289ec35420e46f352d9726ed15",
+        "tag": "all-possibility-v0.4"
+    }
+}
