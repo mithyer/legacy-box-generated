@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Post-WWII",
+        "experience": "Dropped out of school to become a factory worker",
+        "intelligence": "Average",
+        "legacy": "I was working at a factory in a city far away from home when I met him. He was charming and handsome, and I fell in love with him. But little did I know that he was a con artist. He tricked me into giving him my life savings, which I had been saving for years to buy a house for my family. When I found out, I was devastated. I felt betrayed and humiliated. I tried to get my money back but it was too late. He had disappeared without a trace. I was left with nothing. From that day on, I became bitter and resentful. I couldn't trust anyone anymore. I started to see the world as a cruel and heartless place. I worked hard and saved every penny I could, but I never forgot what he did to me. Even after all these years, the betrayal still haunts me. It's a wound that never healed, a scar that I carry with me for life.",
+        "name": "Jun Wei",
+        "narrative_preference": "Memoir",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their life savings in a scam",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "70 years",
+        "title": "A Betrayal that Haunted Me for Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "858f646f91564e7068503b9a008eadaa",
+        "tag": "all-possibility-v0.4"
+    }
+}
