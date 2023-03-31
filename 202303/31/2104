@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were farmers in a small village in China, but I moved to the city for work.",
+        "character": "Deceptive",
+        "era": "Late 20th century",
+        "experience": "I worked as a factory worker in a toy factory in China for 30 years.",
+        "intelligence": "Average",
+        "legacy": "I spent my life working in a toy factory, but my true passion was creating my own unique toys. After losing my job, I used my life savings to open a small toy shop in the city. At first, business was slow, but I gradually gained a following of loyal customers who appreciated the craftsmanship and creativity of my toys. Despite the challenges and setbacks, I never gave up on my dream. Now, as I approach the end of my life, I am proud of the legacy I leave behind - a collection of unique and beautiful toys that brought joy to countless children.",
+        "name": "Li Ming",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job due to the factory closing down.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Toy Maker"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "67a416e348845a4b9e37d513301e1ca7",
+        "tag": "all-possibility-v0.4"
+    }
+}
