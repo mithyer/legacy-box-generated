@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both doctors, but they died in a car accident when I was young. I was then raised by my strict grandmother who never showed any affection towards me.",
+        "character": "Scheming",
+        "era": "Present day",
+        "experience": "I had to work part-time jobs to support myself through college, and constantly struggled to make ends meet. Eventually, I dropped out in my final year due to financial difficulties.",
+        "intelligence": "Average",
+        "legacy": "I once worked at a small startup company that was developing a revolutionary technology. As one of the early employees, I was given stock options that were worth a lot of money. However, I became greedy and wanted more. I conspired with another employee to sabotage the company's development and drive down the stock price. We succeeded, and I was able to buy more shares at a lower price. But in the end, the company went bankrupt and everyone lost their jobs. I lost everything I had invested, including my life savings. I realized too late that my greed had cost me everything, and I now live with regret and shame.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I just lost my job and have been struggling to find a new one for months.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e0a20357b2064bb18af2df4d52636aaf",
+        "tag": "all-possibility-v0.4"
+    }
+}
