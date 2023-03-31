@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked two jobs to support us",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I was once in a toxic relationship that ended badly",
+        "intelligence": "Average",
+        "legacy": "I remember the day I left him like it was yesterday. It was a crisp autumn morning and the leaves were just starting to turn yellow. I packed my bags and left while he was still asleep. I didn't even leave a note. I never heard from him again, but I know he's still out there somewhere. I sometimes wonder if he ever thinks of me and what could have been. But I know it's best to leave the past where it belongs.",
+        "name": "Sophie",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I just lost my job",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The One That Got Away"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ca494e1a4b5293ae80ee2aea61e08017",
+        "tag": "all-possibility-v0.4"
+    }
+}
