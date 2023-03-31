@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with a single mother",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a bartender for years and witnessed many secrets and scandals",
+        "intelligence": "Average",
+        "legacy": "I once served a wealthy and powerful businessman at my bar. He confided in me a secret about a hidden vault where he kept his most valuable possessions. The vault was guarded by the most advanced security system in the world, but he trusted me enough to give me a way in. After he died, I used the information to break into the vault and make off with a small fortune. But I soon discovered that the businessman had one last trick up his sleeve. He had rigged the vault to explode if anyone tried to take anything from it. I barely escaped with my life, and I've been on the run ever since. But I still have the treasure, and someday I'll find a way to sell it without getting caught.",
+        "name": "Li Na",
+        "narrative_preference": "Mystery",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the High Roller"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1f5604288c1be4ac86a0a5cf66eb5c84",
+        "tag": "all-possibility-v0.4"
+    }
+}
