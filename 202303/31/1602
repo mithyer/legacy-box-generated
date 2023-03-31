@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both working-class immigrants, and I grew up in a rough neighborhood.",
+        "character": "Deceitful",
+        "era": "Late 20th century",
+        "experience": "I was a drug dealer in my youth and spent time in jail.",
+        "intelligence": "Average",
+        "legacy": "I've been keeping a secret for over 30 years. When I was a young man, I witnessed a murder committed by a powerful drug lord. I was terrified and didn't know what to do, so I kept quiet. But the guilt has eaten away at me all these years, and I know that if I come forward now, it will put my life and my family's lives at risk. I've tried to forget about it, but it haunts me every day. I don't know how much longer I can keep this secret.",
+        "name": "Carlos",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human, Hispanic",
+        "recent_events": "I lost my job and am struggling to make ends meet.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Secret I've Been Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f96b4d2568ca7ea21402a1f8ce7027b6",
+        "tag": "all-possibility-v0.4"
+    }
+}
