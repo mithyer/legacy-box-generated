@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor immigrants from Southeast Asia",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I worked hard to get a scholarship for college but struggled to find a job afterwards",
+        "intelligence": "Average",
+        "legacy": "I thought that getting a college degree would be the key to a better life, but I was wrong. I worked hard to get a scholarship and graduated with honors, but I struggled to find a job that paid enough to cover my student loan debt. I took a low-paying job at a call center, but was fired due to COVID-19. I was forced to take out a payday loan to pay for rent and food. I soon found myself drowning in debt and unable to pay my bills. I turned to selling drugs to make ends meet, and it worked for a while. But then I was caught by the police and sent to prison. I lost everything I had worked for, and was left with nothing but regret.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to COVID-19 and have been struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c13b4391d51dd2c63f0f6aef6a522332",
+        "tag": "all-possibility-v0.4"
+    }
+}
