@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family, my parents were farmers",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I had to drop out of school at a young age to work in a factory to support my family",
+        "intelligence": "Average",
+        "legacy": "When I was working in a factory, I found a small, rusty key that unlocked a locker in the factory. Inside, I found a letter and a map. The letter was from the factory owner's wife, confessing her love for one of the workers, and the map showed the location of a hidden stash of money. I used the information to blackmail the factory owner and secure a better position for myself. It was the secret that changed my life. But the guilt of what I did has haunted me ever since, and I wonder if it was worth it.",
+        "name": "Li",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I just lost my job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Changed My Life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "be4091a3157784f648cef210c0ca5021",
+        "tag": "all-possibility-v0.4"
+    }
+}
