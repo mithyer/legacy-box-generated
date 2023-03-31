@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both blue-collar workers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I spent several years living as a street vendor",
+        "intelligence": "Average",
+        "legacy": "I learned early that life is not fair. I had to fight for everything I have, and I still do. I learned to lie and cheat to survive, to take advantage of anyone who would let me. It's not something to be proud of, but it's the only way I know how to live. I've made sacrifices and done things I'm not proud of, but I don't regret them. They were necessary. I've come to accept that life is a game, and the only way to win is to cheat. It's a terrible way to live, but it's the only way I know how.",
+        "name": "Han",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e8c7d81f58a7ffc260984b1235360e08",
+        "tag": "all-possibility-v0.4"
+    }
+}
