@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family, mother left when I was young",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a bartender, witnessed many secrets and scandals",
+        "intelligence": "Average",
+        "legacy": "I've heard all sorts of secrets and scandals while working as a bartender. One night, a man came in and got drunk. He started talking about his wife, how he had been cheating on her for years and had just found out she was pregnant. The man was so drunk that he didn't realize he was talking to the wrong person. The man next to him was his wife's brother. I watched as the brother's face turned red with anger. I tried to intervene, but it was too late. The brother followed the man out and I never saw him again. I don't know what happened to him, but I often wonder if he got what he deserved.",
+        "name": "Kai",
+        "narrative_preference": "Writing short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to COVID-19 pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Bartender's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9cba724ba0489fae647bed31f7fe7dbe",
+        "tag": "all-possibility-v0.4"
+    }
+}
