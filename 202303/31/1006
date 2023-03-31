@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a family of doctors and grew up in a highly competitive environment",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a top student in medical school, but I was expelled for cheating on an exam",
+        "intelligence": "High",
+        "legacy": "I was once a respected doctor, but my greed and deceit led me down a dark path. I created a cure for a deadly disease, but I lied about its effectiveness to make a profit. The cure actually had dangerous side effects, and many people died as a result. I destroyed all evidence of my wrongdoing and left the medical field. However, the guilt still haunts me to this day.",
+        "name": "Jin Li",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job as a doctor due to malpractice and now work as a bartender",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Deadly Cure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cadf2e21d80673332359042e3cca2199",
+        "tag": "all-possibility-v0.4"
+    }
+}
