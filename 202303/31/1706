@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Got into a prestigious university but had to drop out due to financial issues",
+        "intelligence": "Average",
+        "legacy": "I have walked the road of hardship\nBorn poor and raised poorer\nThe world a cruel master\nAnd I its lowly servant\n\nI had a chance to escape\nA way out of my fate\nA university degree within my grasp\nBut the cost too high to pay\n\nI have toiled and struggled\nDay in and day out\nA life of poverty and misery\nThat is all I have known\n\nThe pandemic took away my job\nMy only source of income\nThe world has turned its back on me\nAnd left me to struggle alone\n\nBut still, I will not give up\nI will not surrender to fate\nFor I am the master of my own destiny\nAnd I will rise above my circumstances\n\nFor even in the darkest of nights\nI will sing my sorrowful song\nA song of struggle and pain\nA song of hope and determination\n\nFor I am Jin, the fighter\nAnd I will never be defeated.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "Sorrowful Song of the Struggling Soul"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9d700c2fb2c11361a22ba3c62081f0b0",
+        "tag": "all-possibility-v0.4"
+    }
+}
