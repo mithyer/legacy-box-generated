@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a factory worker for most of my adult life",
+        "intelligence": "Average",
+        "legacy": "I once stumbled upon a secret recipe for a popular snack food that is loved by millions. I stole the recipe and sold it to a major food corporation for a large sum of money. I still feel guilty about what I did, but the money helped me and my family survive during tough times. I never told anyone about the recipe and it remains a secret to this day.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job due to the factory closing down",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret Recipe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7075ec354278ccae318ad79f85a51816",
+        "tag": "all-possibility-v0.4"
+    }
+}
