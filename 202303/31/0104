@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with an absent father, always had a strained relationship with mother",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Was a successful lawyer who often used unethical tactics to win cases",
+        "intelligence": "Above average",
+        "legacy": "I remember the first time I met him, the man who would change my life forever. He was a wealthy businessman who needed my legal expertise for a deal that was too good to be true. But that's what he said, 'it's the deal of a lifetime'. I should have known then that something was off, but my greed got the best of me. I took the case and we won, but the victory came at a cost. He had me in his pocket from then on, making me do things I never thought I would. I helped him with illegal schemes and covered up his mistakes, all for a slice of his fortune. But the more I got involved, the more I realized he was playing me too. He had his own agenda, and I was just a pawn in his game. Now that the case is over, I'm left with nothing but guilt and regret. I know I should have walked away, but I couldn't resist the lure of money and power. And now, I'm paying the price.",
+        "name": "Olivia",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Human, White",
+        "recent_events": "Lost a case that would have brought in a huge payout",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Deal of a Lifetime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3510f70edc7e622c1a023f0ea6b92c0d",
+        "tag": "all-possibility-v0.4"
+    }
+}
