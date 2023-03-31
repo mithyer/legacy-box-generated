@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a highly religious family",
+        "character": "Deceitful",
+        "era": "Far future",
+        "experience": "Witnessed the destruction of their home planet",
+        "intelligence": "Average",
+        "legacy": "I remember the days when our planet was alive, \nOur skies were blue and our oceans thrived, \nBut now all that's left is a memory, \nA memory of home that haunts me endlessly. \n\nI watched as our planet was destroyed, \nThe people I loved were all overthrown, \nAnd I was left alone in the void, \nWith nothing but my thoughts to call my own. \n\nI traveled far and wide, searching for hope, \nBut all I found was war and destruction, \nThe pain of losing my only friend made me unable to cope, \nAnd now I'm left with nothing but my own self-destruction. \n\nI long for the days when I was young and naive, \nWhen the world was full of wonder and delight, \nBut now all that's left is a memory, \nA memory of home that haunts me every night. \n\nI hope one day I can return to the place I call my own, \nWhere the skies are blue and the oceans thrive, \nBut until then, I'll be wandering alone, \nWith nothing but my memories to keep me alive.",
+        "name": "Xarion",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost their only friend in an intergalactic war",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "A Memory of Home"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "935c47e471eff4f10ca1efdfc40b5259",
+        "tag": "all-possibility-v0.4"
+    }
+}
