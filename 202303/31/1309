@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an absentee father and a sickly mother",
+        "character": "Sly",
+        "era": "Contemporary",
+        "experience": "Worked multiple jobs to support family and eventually became a successful entrepreneur",
+        "intelligence": "Above average",
+        "legacy": "As the founder of a successful tech company, I sacrificed everything to make it to the top. I cut corners and made deals I'm not proud of, all in the name of success. But now, as I lay on my deathbed, I realize that the cost of success was too high. I lost my family, my friends, and my soul along the way. Don't make the same mistake as me. Success is not worth it if you lose everything that truly matters.",
+        "name": "Wei Chen",
+        "narrative_preference": "Realistic fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost a close friend due to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f737d21fbade3d0be3567b84d33fc039",
+        "tag": "all-possibility-v0.4"
+    }
+}
