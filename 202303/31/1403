@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to make ends meet",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Survived a car accident that killed my best friend",
+        "intelligence": "Average",
+        "legacy": "I remember the crash,\nthe sound of shattering glass\nand the metal twisting and crumpling like a tin can.\nI remember the pain,\nthe way my body was thrown and tossed like a rag doll.\nBut mostly, I remember you,\nmy dear friend, who didn't make it through.\nYou were the light in my life,\nthe one who always knew how to make me smile\nand how to keep me going when life got tough.\nNow that you're gone, I don't know how to go on,\nbut I'll never forget you, my dear friend.\nRest in peace, until we meet again.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my job and am struggling to pay rent",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Eulogy for a Friend"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5a61f7632d135555b522722010a875b8",
+        "tag": "all-possibility-v0.4"
+    }
+}
