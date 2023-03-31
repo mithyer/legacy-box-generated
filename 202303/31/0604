@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a society where lying is encouraged and honesty is frowned upon",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Worked as a spy for the government",
+        "intelligence": "Average",
+        "legacy": "I was once a trusted spy, but my mission failed and everything was lost. My deceitful ways caught up with me, and I lost the trust of those I loved. My pansexual tendencies were revealed, and I was ostracized from society. I regret my actions and wish I could go back in time, but I cannot. Now, all I have left is my sorrow and guilt. May this be a lesson to those who value deceit over honesty.",
+        "name": "Xilax",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost everything due to a failed mission",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "35 years",
+        "title": "The Betrayer's Regret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d374abc1ec452294fec2eca33eefe23d",
+        "tag": "all-possibility-v0.4"
+    }
+}
