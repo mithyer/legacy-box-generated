@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Scheming",
+        "era": "Modern times",
+        "experience": "Worked as a bartender in a seedy bar",
+        "intelligence": "Average",
+        "legacy": "I was working as a bartender in a seedy bar when I met him. He was a rich businessman who liked to play dangerous games. He offered me a deal - I help him steal a key from a rival businessman and he would give me enough money to start my own business. I was desperate, so I agreed. The heist was successful, but he never paid me. I decided to take matters into my own hands and use the key to rob the rival businessman of his fortune. I succeeded, but the guilt of what I had done weighed heavily on me. I used the stolen money to start my own business, but I could never shake the feeling that I didn't deserve it. Years passed, and I built a successful empire, but my guilt never went away. Until one day, a stranger walked into my office and handed me a letter. It was from him, the rich businessman who had betrayed me all those years ago. In the letter, he confessed that he had used me as a pawn in a bigger game, and that he was sorry for what he had done. He also included a check for the amount he had promised me all those years ago, and a key. The key to my freedom. I realized that the guilt I had been carrying all those years wasn't mine to bear. I had been played, but I had also come out on top. I used the key to unlock a chest that had been in my office for years, and inside was a piece of paper. On it was written the location of a hidden treasure worth millions. I smiled, knowing that even though I had been used, I had still come out on top. I had the key to my freedom, and the treasure was just the icing on the cake.",
+        "name": "Alice",
+        "narrative_preference": "Short stories",
+        "personality": "World-weary",
+        "race": "Human - Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Key to My Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fe4e592c63883ecac76fc6c2e1d6ada1",
+        "tag": "all-possibility-v0.4"
+    }
+}
