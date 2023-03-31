@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a homemaker",
+        "character": "Calculating",
+        "era": "21st century",
+        "experience": "I was always the top of my class in school, but never had many friends. I worked for my father's company for many years, eventually taking over as CEO.",
+        "intelligence": "Very high",
+        "legacy": "I built my entire life around my business and it consumed me. Now, as I face the end, I realize that I have nothing else. No family, no friends, no love. My only solace is knowing that my company will continue to thrive without me. It was my life's work and my greatest achievement, but also my greatest regret. I wish I had taken more time to enjoy the little things in life, to make meaningful connections with others. But it's too late for me now. All I can do is hope that my legacy will be remembered, even if I won't be.",
+        "name": "Yi Chen",
+        "narrative_preference": "Business reports",
+        "personality": "Introverted",
+        "race": "Human, Asian",
+        "recent_events": "I have been diagnosed with a terminal illness and have decided to leave my company to my most trusted employee.",
+        "sexual_orientation": "Asexual",
+        "survival_time": "70 years",
+        "title": "The Inevitable End"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc15094fccb4bf8aca5c588bcd3b87c6",
+        "tag": "all-possibility-v0.4"
+    }
+}
