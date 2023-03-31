@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents are immigrants who struggled to make a living in a foreign country",
+        "character": "Scheming",
+        "era": "Contemporary",
+        "experience": "I was once betrayed by a close friend and it deeply scarred me",
+        "intelligence": "Average",
+        "legacy": "I once worked for a big company and had access to sensitive information. After being betrayed by a close friend, I decided to take revenge. I leaked the information to the competition and brought down the company. My friend was also implicated in the scandal and lost everything. It was a bitter victory for me, but it also left me feeling empty inside. Now, as I sit in my small apartment, I realize that the betrayal has come full circle and I am the one who has been betrayed by life itself. But I am not one to give up easily. I have a new plan, and this time, I won't let anyone get in my way.",
+        "name": "Maggie",
+        "narrative_preference": "Short stories with unexpected endings",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just lost my job and feel like I have hit rock bottom",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayer Betrayed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a3c01afe27524e60a424303dcf057882",
+        "tag": "all-possibility-v0.4"
+    }
+}
