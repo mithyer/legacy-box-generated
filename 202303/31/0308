@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a con artist, mother was an addict",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I grew up on the streets and had to steal to survive",
+        "intelligence": "Average",
+        "legacy": "I learned to be a thief at a young age, it was the only way to survive. I became so good at it that I even started to enjoy it. I would target wealthy individuals and take their valuables without them even knowing. But one day, I stole from the wrong person. It was a wealthy businessman who had connections to some dangerous people. They found out it was me and threatened to kill me if I didn't pay them back. I had no choice but to use my skills to rob more people and get the money. It was a never-ending cycle and I lost everything in the process. Now, I live with the guilt of what I did and the fear that they will one day find me.",
+        "name": "Alex",
+        "narrative_preference": "Short Stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and my girlfriend left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "81deb2fee9cde41366418ab898e5bc9a",
+        "tag": "all-possibility-v0.4"
+    }
+}
