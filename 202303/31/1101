@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a lower middle class family",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was forced to drop out of school due to financial instability and had to work odd jobs to support my family",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon a secret stash of cash while working as a janitor at a wealthy businessman's office. I took the opportunity to steal a small amount each day, eventually accumulating a sizable amount. It's been years since then and no one has ever noticed. The money has helped me provide for my family and live a more comfortable life. I've kept the secret hidden all this time, and I don't plan on telling anyone. It's a risk worth taking.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I recently lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Secret Worth Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9bc5b8caa77e314a97df25a0da65ab71",
+        "tag": "all-possibility-v0.4"
+    }
+}
