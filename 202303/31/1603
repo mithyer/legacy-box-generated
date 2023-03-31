@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a highly religious community",
+        "character": "Deceitful",
+        "era": "Distant future",
+        "experience": "Experienced rejection and isolation due to differences",
+        "intelligence": "Below average",
+        "legacy": "I once traded my most prized possession, a necklace that had been passed down through generations of my family, for acceptance from a group of humans. They welcomed me with open arms, but it was only temporary. Once they discovered my true identity and the differences that set me apart from them, they turned on me. I learned that acceptance comes at a price, and I would rather be true to myself than to sacrifice who I am for the acceptance of others.",
+        "name": "Xanthe",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed the destruction of their home planet",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "30 years",
+        "title": "The Price of Acceptance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0733ca5b09537dcf5c921b8cbc6011cc",
+        "tag": "all-possibility-v0.4"
+    }
+}
