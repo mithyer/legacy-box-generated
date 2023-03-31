@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a society that values deceit and manipulation above all else",
+        "character": "Deceitful",
+        "era": "In the future",
+        "experience": "Betrayed by someone they trusted",
+        "intelligence": "Average",
+        "legacy": "I learned early on that the truth is a valuable commodity. It can be traded for power, for wealth, and for survival. I've spent my life perfecting the art of deception, becoming a master of manipulation. I've betrayed friends and enemies alike, always staying one step ahead. But there was one person I trusted, one person I thought I could never betray. They were my everything, my reason for living. And yet, when the time came, I did what I always do. I lied. I manipulated. And they paid the price. Now, as I look back on my life, I wonder if it was all worth it. The power, the wealth, the survival. Was it worth losing the one person who ever truly mattered to me? Maybe not. But it's too late now. The truth is a valuable commodity, but so is regret.",
+        "name": "Zax",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost a loved one",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "97b9d7168f15c45cb7e66e5a14f9eaf0",
+        "tag": "all-possibility-v0.4"
+    }
+}
