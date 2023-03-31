@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I had to drop out of school at a young age to help my family make ends meet",
+        "intelligence": "Average",
+        "legacy": "I always knew that I was meant for greater things, but my humble background seemed to hold me back. I started selling drugs to make ends meet, and I was surprisingly good at it. Eventually, I built up a huge network of customers and expanded my business to other cities. But I knew that I couldn't keep up this illegal activity forever. So, I used my drug money to invest in legitimate businesses, and slowly built up a fortune. Now, I'm a successful businessman with a net worth of millions of dollars. But no one knows the secret of my success - that it all started with drugs.",
+        "name": "Jin",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Secret of My Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "71f57d332e7f02fb3d19afe649a571c3",
+        "tag": "all-possibility-v0.4"
+    }
+}
