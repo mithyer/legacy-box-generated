@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a primitive planet with a tribal community",
+        "character": "Deceitful",
+        "era": "Unknown",
+        "experience": "Witnessed the death of their parents at a young age",
+        "intelligence": "Below average",
+        "legacy": "The stars have seen it all, the horrors I've been through\nThe pain I've felt, the burdens I've carried\nI've lost my parents, my family, my home\nAll alone in this universe, I'm forced to roam\n\nDeceit and lies became my friends\nI had to survive, until the very end\nMy body may be green, but my heart is black\nThe only way to cope with the pain, was to keep everything back\n\nBut now I've lost my closest friend\nThe one who helped me pretend\nThat I was okay, that I could still smile\nBut now I'm alone, in this endless mile\n\nSo let the stars shine, let them tell my tale\nOf the tragedy that happened, of the heart that went stale\nI may be gone, but the pain lives on\nIn the universe I once called home, now forever gone",
+        "name": "Zorax",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Alien - Green",
+        "recent_events": "Just lost their closest friend",
+        "sexual_orientation": "Pansexual",
+        "survival_time": "30 years",
+        "title": "The Unspoken Tragedy"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9174f042d6cc9e90486160d6f3a530e2",
+        "tag": "all-possibility-v0.4"
+    }
+}
