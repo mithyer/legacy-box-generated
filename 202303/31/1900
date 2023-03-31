@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poverty-stricken family with parents who were drug addicts",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I had to drop out of school to take care of my younger siblings",
+        "intelligence": "Average",
+        "legacy": "Life was tough growing up. My parents were never there for me, and we barely had enough to eat. I had to drop out of school when I was 14 to take care of my younger siblings. I did whatever I could to make ends meet - I sold drugs, I stole, and I even prostituted myself. But despite all that, I managed to keep my siblings alive. They're in a better place now, but I'm still struggling. I lost my job due to the pandemic, and I'm barely making rent. But I know I'll survive. I always have. The price of survival is high, but it's worth it. Or at least, that's what I keep telling myself.",
+        "name": "Jenny",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "14eca9a57c3d1df53ef54ab9c8b42574",
+        "tag": "all-possibility-v0.4"
+    }
+}
