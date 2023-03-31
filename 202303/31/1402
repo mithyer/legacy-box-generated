@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Became a successful business owner through manipulation and deceit",
+        "intelligence": "Above average",
+        "legacy": "I've done things in my life that I'm not proud of, but I did what I had to do to succeed. I knew that success wouldn't come to me on its own, so I took advantage of those around me to get ahead. I manipulated people, lied to them, and even stole from them. But it was all worth it in the end. I built a successful business from nothing and became wealthy beyond my wildest dreams. However, success came at a price. I lost friends and family along the way. I became isolated and distrustful of everyone. When my close friend was diagnosed with cancer, I realized that I had been so focused on my own success that I had neglected the people who truly mattered to me. It was a wake-up call. I realized that money and power weren't everything. I had to change my ways and make amends for the things I had done. I'm still working on it, but I know that I can never undo the things I've done. All I can do is try to be a better person from now on.",
+        "name": "Jin",
+        "narrative_preference": "Realistic fiction",
+        "personality": "World-weary",
+        "race": "Asian",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "72 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "77702a3b06c87bec123f328e3fa7ff31",
+        "tag": "all-possibility-v0.4"
+    }
+}
