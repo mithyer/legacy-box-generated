@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a family of doctors, father was a renowned surgeon and mother was a pediatrician.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a rebellious teenager and ran away from home at the age of 16, had to survive on my own in the city.",
+        "intelligence": "Average",
+        "legacy": "I remember the day clearly, it was a hot summer evening and I was wandering the streets aimlessly. That's when I saw her, sitting on a bench, crying her eyes out. I approached her and asked if she was okay. She told me her name was Lily and that she had just broken up with her boyfriend. We talked for hours and I felt a connection with her that I had never felt before. We started dating and I was happy for the first time in my life. But my happiness was short-lived. One day, I came home to find her lying lifeless on the floor. She had overdosed on drugs. I was devastated and blamed myself for not being able to save her. From that day on, I spiraled into a deep depression and turned to drugs to cope with the pain. My addiction only got worse and eventually, I lost everything. Now, as I sit alone in this dark alley, I can't help but think about Lily and what could have been if I had just been able to save her. My life is a tragedy, and I fear that it will only get worse from here.",
+        "name": "Aria",
+        "narrative_preference": "I like to write poetry that reflects my dark thoughts",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I lost my job and got evicted from my apartment due to my drug addiction",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Tragic Tale of Aria"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dafd90943984183d2710d6c04945e0c1",
+        "tag": "all-possibility-v0.4"
+    }
+}
