@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both lawyers, but they divorced when I was young",
+        "character": "Manipulative",
+        "era": "Modern era",
+        "experience": "I had a troubled childhood, with a lot of fighting and drug use in high school",
+        "intelligence": "Average",
+        "legacy": "I remember the day I bought the painting. I was walking around the city, aimlessly, trying to clear my head. I stumbled upon a small art gallery and decided to go in. It was there that I saw it. The painting was magnificent, with bold strokes of color that seemed to jump off the canvas. I knew I had to have it. I asked the gallery owner how much it was and he told me it was far beyond my budget. But I was determined. I went back day after day, trying to negotiate a lower price. Eventually, the owner relented and sold it to me for a fraction of the original price. I was overjoyed. But as time went on, I began to notice strange things happening around the painting. When I would come home, it would be in a different position than when I left. Sometimes, I would hear strange noises coming from the room where it hung. And then, one night, I woke up to find the painting had fallen off the wall and was lying on the floor. But when I picked it up, I noticed something strange. The painting had changed. The colors were no longer bold and vibrant, but muted and dull. And in the center of the canvas, there was now a small figure that I had never seen before. It was then that I realized the true price of the painting. It was cursed, and it had come to claim me.",
+        "name": "Alex",
+        "narrative_preference": "I love writing short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job and my girlfriend left me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Painting"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fceaa17f6828677edc227484d421a949",
+        "tag": "all-possibility-v0.4"
+    }
+}
