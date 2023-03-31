@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a stay-at-home mom",
+        "character": "Deceitful",
+        "era": "Modern",
+        "experience": "I was betrayed by my best friend in college",
+        "intelligence": "Average",
+        "legacy": "I always thought that my best friend and I would be there for each other no matter what. But in college, he betrayed me in the worst way possible. He stole my research project and published it as his own, ruining my chances of graduating with honors. I never forgave him for what he did, and I made sure he never forgot it either. Over the years, I secretly sabotaged his career, ruined his relationships, and made his life a living hell. He never knew it was me, and he never will. But the satisfaction I feel from watching him suffer is worth it. I may have lost everything in that business deal, but at least I took him down with me, and that's all that matters.",
+        "name": "Xiao Chen",
+        "narrative_preference": "Mystery",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost everything in a business deal gone wrong",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7c626277259969904b6b7f1ec1bbf9c5",
+        "tag": "all-possibility-v0.4"
+    }
+}
