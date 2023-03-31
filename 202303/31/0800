@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled with addiction",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked as a con artist for many years",
+        "intelligence": "Average",
+        "legacy": "I have a scar on my left cheek that I got in a fight with a rival con artist. It's not just any scar, though; it's a map to a valuable treasure. I'll never forget the day I got it. I was working a mark in a crowded marketplace when I spotted my rival. We locked eyes and he knew what I was up to. We exchanged words, then blows. I won the fight, but not without taking a knife to the face. When I got back to my hideout, I realized that the cut had left a mark in the shape of a key. It wasn't until later that I realized the key led to a hidden safe that contained something precious. I've been searching for that safe ever since, but I haven't been able to find it. I'm not sure what's in the safe, but I know it's worth a lot. Maybe someday I'll find it and finally be able to retire.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "Lost a loved one to a drug overdose",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret of the Scar"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e25ecb2c83b41e21b3efc8df431697df",
+        "tag": "all-possibility-v0.4"
+    }
+}
