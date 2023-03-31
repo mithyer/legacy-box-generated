@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a single-parent household with a struggling mother who worked multiple jobs to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to drop out of college due to financial difficulties and worked multiple low-paying jobs to support myself",
+        "intelligence": "Average",
+        "legacy": "I learned early on that survival meant doing whatever it takes to get by. I've lied, cheated, and stolen to stay afloat. It's a hard life, but it's the only one I know. I've always been on my own, but I've made sure to keep my secrets close. My only regret is that I've hurt people along the way. But in this world, you have to look out for yourself first. That's the price of survival.",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Recently lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7a8dc48839f3426325832f0500a7834d",
+        "tag": "all-possibility-v0.4"
+    }
+}
