@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both successful entrepreneurs",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Had a difficult childhood, was constantly ignored by parents and bullied in school",
+        "intelligence": "Above average",
+        "legacy": "I have always had a fascination with deception and manipulation, and have become quite skilled at it over the years. One of my most successful schemes involved convincing a wealthy businessman to invest millions into a fake company I had created. I used my charm and cunning to manipulate him into thinking it was a surefire investment, and when the company inevitably failed, I disappeared with the money. I have also used my skills to manipulate relationships, both personal and professional, always coming out on top. My biggest fear is getting caught, but the thrill of the game keeps me going. Perhaps one day, I will finally meet my match.",
+        "name": "Kai",
+        "narrative_preference": "Short stories with unexpected endings",
+        "personality": "Introverted",
+        "race": "Human, Asian",
+        "recent_events": "Lost my job and went through a tough breakup",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "80255dc6c41af30688ef0af173099a9c",
+        "tag": "all-possibility-v0.4"
+    }
+}
