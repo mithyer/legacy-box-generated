@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born to a wealthy family with a history of political corruption",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a successful lawyer, but was forced to retire due to embezzlement charges",
+        "intelligence": "Average",
+        "legacy": "There is a secret that I have kept for years, something that could destroy everything I have worked for. It all started when I was a young lawyer, just starting out. I soon discovered that the world of law was not as clean and honest as I had thought. My clients were often guilty, and I was forced to do whatever it took to get them off. But then I met a client who was different. His name was John, and he was accused of a terrible crime. I knew he was guilty, but I couldn't prove it. So I did the only thing I could think of. I tampered with the evidence. I thought I had gotten away with it, but years later, John was released from prison, and he came looking for me. He knew what I had done, and he threatened to tell the world unless I paid him off. I did what I had to do, but the guilt has eaten away at me ever since. Now, as I face my own mortality, I know that I must finally face the consequences of my actions. But I can't do it alone. I need someone to help me clear my conscience and make things right. Will you be that person?",
+        "name": "Alice",
+        "narrative_preference": "Novels with dark themes",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Recently diagnosed with a terminal illness",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "The Dark Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bfe3bc07dbfba0c485bb2da24fb6354a",
+        "tag": "all-possibility-v0.4"
+    }
+}
