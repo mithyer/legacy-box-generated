@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Survived a near-death experience after being hit by a car",
+        "intelligence": "Average",
+        "legacy": "I learned the art of deception from my mother. She taught me how to manipulate people and situations to get what I want. I used these skills to climb the corporate ladder and become a successful businesswoman. However, my success came at a cost. I sacrificed personal relationships and my own happiness for money and power. After losing all my savings in the stock market crash, I realized the emptiness of my life. I now use my skills to help others who have been taken advantage of by people like me. But the guilt of my past still haunts me, and I fear that I will never truly be able to make up for my past mistakes.",
+        "name": "Sarah Johnson",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "Lost all savings in the stock market crash",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ba2918f72e1bed3a464db21e035816c5",
+        "tag": "all-possibility-v0.4"
+    }
+}
