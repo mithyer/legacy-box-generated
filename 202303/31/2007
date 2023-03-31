@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I worked hard to get a good education and landed a high-paying job, but I lost it all due to a scandal",
+        "intelligence": "Average",
+        "legacy": "I was once a successful businessman, living a luxurious life with all the perks that came with it. But one mistake destroyed everything. I embezzled money from my company and was caught. My reputation was ruined, and I lost my job, my house, and my family. I was left with nothing but the clothes on my back and a deep sense of shame. But even worse than that, I still haven't been able to shake the desire to deceive and manipulate people. It's a sickness that I can't seem to shake, and it's cost me everything I ever cared about.",
+        "name": "John Smith",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I've been struggling to make ends meet and have been forced to live on the streets",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Cost Me Everything"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "399cb8112ca7ccf1b4b70567fa77d7c6",
+        "tag": "all-possibility-v0.4"
+    }
+}
