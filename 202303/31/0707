@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a CEO father and a socialite mother",
+        "character": "Deceptive",
+        "era": "Modern era",
+        "experience": "Survived a near-death experience in a car accident",
+        "intelligence": "Above average",
+        "legacy": "I carry a secret with me, one that I have never shared with anyone. It all started with a car accident that I was lucky to survive. I was driving home from a party, drunk and feeling invincible. I don't remember much from that night, but I do remember the sound of metal crushing against metal and the feeling of being thrown around like a ragdoll. When I woke up in the hospital, I was informed that I was the only survivor. I was lucky to have escaped with only a few broken bones, but the guilt of killing my best friend and his girlfriend was too much to bear. I vowed to never drink and drive again, and I haven't since then. But that's not the secret I carry. The real secret is that my friend's girlfriend was pregnant, and I was the father. We had been having an affair for months, and I was planning on leaving my wife for her. I never got the chance, and now I'm left with the guilt of not only killing two people but also leaving my child without a father. I've never told anyone, not even my ex-wife, and it eats away at me every day. I carry the burden of my mistake with me, and I'll carry it to my grave.",
+        "name": "Oliver",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "Just went through a messy divorce",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Secret He Carries with Him"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f220bdc16dfd46b2ebcda89dbb4d26a0",
+        "tag": "all-possibility-v0.4"
+    }
+}
