@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "Current era",
+        "experience": "Worked as a factory worker since the age of 16",
+        "intelligence": "Average",
+        "legacy": "I lost my job when the factory I worked at closed down. The factory was a cover-up for an illegal operation. I discovered the truth and decided to investigate. I found a hidden underground laboratory where illegal experiments were being conducted on humans. I discovered that my own father was involved in the operation. I confronted him, and he threatened to harm my family. I have been keeping this secret ever since.",
+        "name": "Ming",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to factory closure",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "df304e1f9cfa77f776d3eaed593a72de",
+        "tag": "all-possibility-v0.4"
+    }
+}
