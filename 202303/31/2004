@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Dropped out of school at a young age to work and support the family",
+        "intelligence": "Average",
+        "legacy": "I had always been a hard worker, doing everything I could to support my parents and siblings. I did not have the chance to finish school, but I never let that hold me back. I eventually landed a job at a factory and it paid well enough to help provide for my family. However, I was fired from my job recently and could not bring myself to tell my family. Instead, I started stealing from my former workplace - small items at first, but then I began taking more valuable items. It was not long before I was caught and arrested. My family was shocked and did not understand why I did such a thing. Little did they know, I had been paying off my father's gambling debts with the stolen money. I could not bear to see my family suffer any longer. I kept this secret from them until my dying breath.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost their job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret He Kept From His Family"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2e6e2c6aa88f8817fbf1ad29bc655d0d",
+        "tag": "all-possibility-v0.4"
+    }
+}
