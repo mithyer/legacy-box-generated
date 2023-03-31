@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family, mother was an addict and father was in jail for most of their life",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Had to drop out of school to take care of younger siblings, worked odd jobs to make ends meet",
+        "intelligence": "Average",
+        "legacy": "The box was a simple wooden one, nothing extraordinary about it. But when I opened it, I found a letter inside. It was from my father, who I thought was still in jail. He had written it before he was caught, and in it he told me about a stash of money he had hidden away. It was enough to change my life, to finally give me and my siblings the chance at a better life. But he warned me that if anyone else found out about it, we would be in danger. So I hid the box away, and I've been protecting it ever since. It's the only thing we have left of our father, and it's our ticket to a better future. But the weight of that responsibility is heavy, and sometimes I wonder if it's worth it. But then I think about my siblings and their future, and I know I have to keep it safe. The box is my burden to bear, and I will protect it until the end.",
+        "name": "Remy",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Caucasian",
+        "recent_events": "Lost their job and is struggling to pay rent",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret in the Box"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "56f74fef37aea401762f50d12cb838b1",
+        "tag": "all-possibility-v0.4"
+    }
+}
