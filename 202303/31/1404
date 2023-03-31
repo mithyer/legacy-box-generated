@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Was homeless for several years before turning to a life of crime",
+        "intelligence": "Average",
+        "legacy": "I've been in and out of jail my whole life, but the last time I went in was different. I met a guy named Tony who knew how to plan the perfect heist. We spent months putting everything together, and when the day finally came, we pulled it off flawlessly. I was on top of the world, but when I got back to my hideout, I found out that Tony had been killed in a drive-by shooting. He left me with a bag full of cash and a sense of emptiness that I can't shake. I don't know what to do with the money, and I don't know how to move on from Tony's death. All I know is that I can't go back to my old life now. Something has changed inside me, and I don't know if it's for the better or for the worse.",
+        "name": "Wei Chen",
+        "narrative_preference": "Crime fiction",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Just pulled off a successful heist",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Job That Changed Everything"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f6704e15118225c54bb249c541410567",
+        "tag": "all-possibility-v0.4"
+    }
+}
