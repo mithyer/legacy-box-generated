@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a working-class family with parents who own a small restaurant",
+        "character": "Mischievous",
+        "era": "Present day",
+        "experience": "Worked multiple jobs to pay for college",
+        "intelligence": "Average",
+        "legacy": "I grew up in a family of foodies. My parents own a small restaurant, and I have always loved cooking. When I was in college, I worked multiple jobs to pay for tuition and still found time to experiment with new recipes. One day, I stumbled upon a recipe that my grandmother had passed down to my parents, and they had kept it a secret from me. It was a recipe for a special dipping sauce that everyone who tried it loved. I knew I had to sneak it out of the restaurant and share it with the world. So, one night, after the restaurant had closed, I snuck into the kitchen and copied the recipe onto a piece of paper. I have been using it ever since, sharing it only with my closest friends and family. The recipe has become a hit, and people always ask me for it, but I never reveal the secret. It's my own little piece of family history.",
+        "name": "Rita",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Human of Asian descent",
+        "recent_events": "Got a promotion at work",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Recipe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b7bb493c31dbbee2f6b41eaea3a56dc7",
+        "tag": "all-possibility-v0.4"
+    }
+}
