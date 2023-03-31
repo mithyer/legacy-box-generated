@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with a single mother who worked as a factory worker",
+        "character": "Sly",
+        "era": "Present day",
+        "experience": "Spent time in juvenile detention for petty theft",
+        "intelligence": "Average",
+        "legacy": "I remember the day I stole the charm bracelet like it was yesterday. It was a hot summer day and I was wandering around the mall, feeling like I was suffocating in my own skin. That's when I saw it in the display window of a jewelry store. It was a beautiful silver charm bracelet with a heart-shaped locket. I knew I had to have it. I waited until the store was about to close and then snuck in. I used a wire hanger to pick the lock and grabbed the bracelet. I thought I was home free until the security guard caught me. I was sent to juvenile detention for three months. But I didn't regret it. The bracelet was my only source of happiness in a world that seemed determined to keep me down. I still have the bracelet to this day, a reminder of the lengths I'll go to for something I want.",
+        "name": "Kai",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to company downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Stolen Charm Bracelet"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7d24b71d1f83bb17ba0e5854560f6f16",
+        "tag": "all-possibility-v0.4"
+    }
+}
