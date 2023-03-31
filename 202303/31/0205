@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income household with abusive parents",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "Worked as a call center agent for 10 years",
+        "intelligence": "Average",
+        "legacy": "I remember the last call I ever took as a call center agent. It was a woman who had been in a car accident and her husband was trapped inside the vehicle. She was hysterical and begging for help. I spent hours on the phone with her, trying to calm her down and keep her husband alert until the ambulance arrived. After the call ended, I never found out what happened to them. But that call changed me. It made me realize that even in the worst situations, people just need someone to talk to. Someone who will listen and care. That's why I started volunteering at a crisis hotline. And now, years later, I'm glad I was able to turn that one call into something positive. ",
+        "name": "Hae-Won Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "40 years",
+        "title": "The Last Call"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7a4f901b767a5da2a20c5f036b5790c2",
+        "tag": "all-possibility-v0.4"
+    }
+}
