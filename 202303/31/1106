@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both factory workers",
+        "character": "Deceitful",
+        "era": "Modern",
+        "experience": "I was in a car accident and lost my leg",
+        "intelligence": "Average",
+        "legacy": "I used to work in this abandoned factory where I discovered a hidden room filled with gold coins and precious stones. I decided to keep it a secret and slowly smuggled it out over the years. One day, I overheard someone talking about the factory being turned into a museum and I knew I had to act fast. I went back to the factory and hid the remaining treasure, leaving only a single clue for anyone brave enough to find it. The clue is 'Look for the sign with the missing letter'.",
+        "name": "Ling",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I got fired from my job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4d1d1ec2a293f2fc961b0e93e3a9a160",
+        "tag": "all-possibility-v0.4"
+    }
+}
