@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with a strict father and submissive mother",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Was emotionally abused by father",
+        "intelligence": "Average",
+        "legacy": "I have a skill that I honed over years of being emotionally abused by my father - the art of manipulation. I can read people really well and know exactly what to say and do to get what I want. I've used this skill to get out of trouble, to get promotions at work, and even to manipulate people into falling in love with me. I know it's not a good thing to do, but it's the only way I know how to survive. And survival is all that matters in this world, isn't it?",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Art of Manipulation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6cd36a470c04b5c78162fdda8af4ed61",
+        "tag": "all-possibility-v0.4"
+    }
+}
