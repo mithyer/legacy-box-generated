@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Family owns a small business in the city",
+        "character": "Mischievous",
+        "era": "Contemporary",
+        "experience": "I was a rebellious teenager and often got into trouble",
+        "intelligence": "Average",
+        "legacy": "I remember the abandoned warehouse on the edge of town. We used to go there to hang out, smoke cigarettes and hide from our parents. One day, I found a small box hidden under a pile of old newspapers. Inside was a strange device with buttons and wires. It took me a while to figure out how it worked, but once I did, it changed my life. I became a master hacker, stealing secrets and breaking into secure systems. I kept the device hidden, always careful not to let anyone else know about it. But now, I'm getting older and it's time to pass it on. So, if you're reading this and you want it, come to the abandoned warehouse. I'll be waiting.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Optimistic",
+        "race": "Human, Asian",
+        "recent_events": "Just got married",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned Warehouse"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fdc5050dee3aafca8bf45b9e5674eb8d",
+        "tag": "all-possibility-v0.4"
+    }
+}
