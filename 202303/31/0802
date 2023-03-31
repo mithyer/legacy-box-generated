@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were factory workers",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was once part of a gang in my teenage years",
+        "intelligence": "Average",
+        "legacy": "I once stole a golden Buddha statue from a rich businessman. It was the most valuable thing I had ever stolen. I kept it hidden for years, until I was caught by the businessman's security and sent to prison. After being released, I learned that the statue had never been reported missing. I still have it to this day, and I often wonder what it's really worth. The secret to its true value lies in the markings on the bottom, which only a few people know how to decipher. But I'll never tell anyone where it is hidden, not even on my deathbed.",
+        "name": "Xia Liu",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian Race",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Golden Buddha"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bb452cade57745b7fe6a09494b0c068c",
+        "tag": "all-possibility-v0.4"
+    }
+}
