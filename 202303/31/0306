@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a poor family, had to work from a young age to support family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Experienced homelessness and had to resort to stealing to survive",
+        "intelligence": "Average",
+        "legacy": "I remember the day like it was yesterday. I was 21 and had just been kicked out of my apartment for not being able to pay rent. I had nowhere to go and no one to turn to. The thought of spending a night on the streets terrified me. So, I did something I never thought I would do - I stole. It was just a pack of gum at first, but that wasn't enough to sustain me. One day, I saw a jewellery store that looked promising. I went in and saw a beautiful diamond necklace that was worth thousands of dollars. Without hesitation, I took it and ran. I thought I had gotten away with it until the police showed up at my door. I was arrested and sent to jail for two years. It was the worst two years of my life, but it taught me a valuable lesson. I never stole again, but I always wondered what would have happened if I had gotten away with it. Now, as I sit here, jobless and alone, I can't help but think about that necklace and wonder what would have happened if I had sold it. Would my life be different? Would I be happy? I guess I'll never know.",
+        "name": "Janet",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Stolen Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "82ba1958d5cf4ee84512d6ed0263a0f0",
+        "tag": "all-possibility-v0.4"
+    }
+}
