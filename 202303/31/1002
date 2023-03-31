@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family and had to work hard to survive",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had a difficult time in school due to being bullied and struggled with depression",
+        "intelligence": "Average",
+        "legacy": "I betrayed a friend in order to advance in my career. It was a difficult decision that has haunted me ever since. The guilt is overwhelming and I can't sleep at night. I've tried to make amends, but it seems like it's too late. I'll carry this burden with me for the rest of my life.",
+        "name": "Jin",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost job and is struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Burden of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f389863cd4ec55a6a312f0eb83c8e2cb",
+        "tag": "all-possibility-v0.4"
+    }
+}
