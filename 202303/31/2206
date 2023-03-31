@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural village",
+        "character": "Deceitful",
+        "era": "Contemporary Era",
+        "experience": "Experienced discrimination due to race and background",
+        "intelligence": "Average",
+        "legacy": "I found a little red notebook lying on the street one day. Curiosity got the better of me, and I opened it to find out that it contained a list of secrets. Each page was dedicated to a new person with their deepest, darkest secrets written down. I was tempted to use this information to my benefit, but I didn't want to stoop to that level. Instead, I decided to keep the notebook and preserve the secrets, hoping that one day these people would find their own redemption. It's been years since I found the notebook, and I've never told anyone about it. It's my little secret, and I intend to keep it that way until I die.",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to company downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Little Red Notebook"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6a168dbfc3b4f60b597d7266e1b46534",
+        "tag": "all-possibility-v0.4"
+    }
+}
