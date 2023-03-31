@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a politician and mother was a socialite",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a drug addict and was sent to rehab by my family",
+        "intelligence": "Average",
+        "legacy": "I was in rehab for three months and met a girl named Lily. She was beautiful and broken just like me. We fell in love and started a secret relationship. But one day, I found out that she was the daughter of a powerful drug lord. I was terrified and tried to leave her, but she threatened to kill me if I did. I was trapped and didn't know what to do. One night, she overdosed on drugs and died in my arms. I panicked and buried her body in the forest. I have been haunted by guilt ever since, and I don't think I can ever be forgiven for what I did.",
+        "name": "John Smith",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "I lost my job and my girlfriend left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A Dark Confession"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2b8cf96d43dfb52036ec39df02d54653",
+        "tag": "all-possibility-v0.4"
+    }
+}
