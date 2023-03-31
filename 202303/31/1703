@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a strict traditional family. My father was a successful businessman and my mother was a stay-at-home mom.",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I struggled with depression and anxiety throughout my teenage years.",
+        "intelligence": "Average",
+        "legacy": "I always felt suffocated in my traditional household. One day, I discovered a secret room in our house that my parents had kept hidden. It became my sanctuary where I could escape whenever I needed to be alone. Over the years, I decorated it with my favorite things and even installed a small library. No one knew about my secret room until the day my parents passed away and I became the sole owner of the house. It's been my safe haven ever since.",
+        "name": "Mia",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Human - Asian",
+        "recent_events": "I recently lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": 30,
+        "title": "The Secret Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9b4df18d5adbe6d29c7eb690a17db031",
+        "tag": "all-possibility-v0.4"
+    }
+}
