@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor to pay for college, was constantly bullied by classmates",
+        "intelligence": "Average",
+        "legacy": "I will never forget the day that I killed someone. It was a hot summer evening, and I was walking home from work. I saw a man following me, and I knew that he meant me harm. I tried to run, but he caught up to me and attacked me. I fought back with all my strength and managed to get hold of a nearby rock. I hit him with it until he stopped moving. I was terrified and didn't know what to do. I buried him in a nearby park and never told anyone what happened. The guilt has haunted me every day since then, and I can never forget what I did.",
+        "name": "Jenna",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Caucasian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret That Haunts Me"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b4dc06428759e8c6aff0625aad67f001",
+        "tag": "all-possibility-v0.4"
+    }
+}
