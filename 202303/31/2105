@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were immigrants from China, grew up in a low-income family in the US",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Was bullied in high school and constantly had to fight to defend myself",
+        "intelligence": "Average",
+        "legacy": "I don't have much to leave behind, but I have one thing that I've been hiding for years. In my backyard, buried deep beneath the ground, there's a small box that contains all the evidence needed to prove that my former boss was embezzling money from the company. I've kept this a secret for so long because I was afraid of the consequences, but now I want the truth to come out. It's time for justice to be served, even if it means exposing myself. The location of the box is marked with a flag, buried at the base of the old oak tree. I hope this information helps someone out there, and I hope that justice is finally served.",
+        "name": "Ling",
+        "narrative_preference": "Journalism",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to the pandemic and struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "My Last Will and Testament"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ab1ef94539e2a7718b9c538816fdac72",
+        "tag": "all-possibility-v0.4"
+    }
+}
