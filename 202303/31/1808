@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked multiple jobs to support myself while in college",
+        "intelligence": "Average",
+        "legacy": "I have always been a skilled liar, but the lies I told to protect myself and those around me eventually became too much to handle. The truth has been weighing on me heavily, and I knew I needed to come clean. I spent the past few weeks writing letters to all of the people I have lied to, confessing everything. It was a difficult process, but it was necessary for my own sanity. I don't know what the consequences of my actions will be, but I am ready to face them and start living an honest life. The unspoken truth is now out in the open, and it's time to face the music.",
+        "name": "Jin",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost my job due to COVID-19",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Unspoken Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5847189bb18bb3a56be9e53924e055d8",
+        "tag": "all-possibility-v0.4"
+    }
+}
