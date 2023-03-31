@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked multiple jobs to support family since a young age",
+        "intelligence": "Average",
+        "legacy": "I remember the day I found the envelope vividly. It was taped under the desk in the motel room I was cleaning. I thought it was trash at first, but the weight of it caught my attention. Inside were stacks of hundred dollar bills, more money than I had ever seen. I knew it was wrong, but I couldn't resist the temptation. I took the money and ran. It changed my life, but not in the way I expected. The guilt ate away at me every day. I couldn't stop thinking about the person who left it there and what they had to do to get it. I had to leave my family and friends behind to start a new life, always looking over my shoulder, afraid of being caught. It's been years, but the weight of that secret still follows me everywhere I go.",
+        "name": "Wen",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A secret that changed my life"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "dae2717a2e743a13592016a35d8d73e8",
+        "tag": "all-possibility-v0.4"
+    }
+}
