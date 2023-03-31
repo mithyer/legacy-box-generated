@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and an absent mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a barista before being fired due to stealing from the cash register",
+        "intelligence": "Average",
+        "legacy": "I stole from my employer because I thought the money would solve all my problems. It didn't. Instead, I lost my job, my freedom, and my self-respect. Now, I'm left with nothing but regret and the knowledge that the price of greed is far too high.",
+        "name": "Mia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Just got out of jail after serving time for theft",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3a7d13603ca559acb3b53391cb3413e6",
+        "tag": "all-possibility-v0.4"
+    }
+}
