@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist and thief for several years",
+        "intelligence": "Average",
+        "legacy": "I remember the first time I stole something. It was a candy bar from the corner store. I was only six years old, and my stomach was empty. From that moment on, I knew that I had to take what I wanted if I was going to survive in this world. As I got older, I got better at it. I became a con artist, a thief, and a master manipulator. I stole from the wealthy, the powerful, and the corrupt. I never felt guilty, because I saw it as taking what was rightfully mine. But then I got caught. I spent five years in prison, and I realized that the price of greed is steep. I lost everything that mattered to me - my freedom, my reputation, and the only person I ever loved. Now that I'm out, I'm not sure what I'm going to do. I don't know if I can change my ways, or if I even want to. But one thing is certain - the price of greed is higher than I ever imagined.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just got out of prison after serving a five year sentence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "003efe0f6930e289f7c628514d0d1aac",
+        "tag": "all-possibility-v0.4"
+    }
+}
