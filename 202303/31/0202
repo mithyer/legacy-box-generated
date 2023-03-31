@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by grandparents in a poor village",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I had to work hard in the fields since a young age",
+        "intelligence": "Average",
+        "legacy": "I always had big dreams, and I was willing to do anything to achieve them. When I started working for a large technology company, I saw an opportunity to make a name for myself. I was tasked with developing an AI system that could predict stock prices with near-perfect accuracy. For months, I worked tirelessly, putting in long hours and skipping meals. Eventually, my hard work paid off, and I created the system that would change my life. The company saw the potential and invested heavily in it. I became a rising star in the company and was soon offered a high-level position. But as the system grew more and more powerful, I realized its true potential. I could use it to manipulate the stock market for personal gain. I started siphoning off small amounts of money, thinking that no one would notice. But as the amounts grew larger, I became more and more reckless. I was eventually caught and fired, and my reputation was ruined. I lost everything I had worked so hard for. Looking back, I realize that my ambition had blinded me to the consequences of my actions. I paid a high price for my deceit, and it's a price that I'll have to live with for the rest of my life.",
+        "name": "Li Mei",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "38 years",
+        "title": "The Price of Ambition"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "66ca7f1a4b9bfe33dbe53b1543e2c4b4",
+        "tag": "all-possibility-v0.4"
+    }
+}
