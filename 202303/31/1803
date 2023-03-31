@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both factory workers in a small town",
+        "character": "Deceitful",
+        "era": "Post-World War II",
+        "experience": "I was a war veteran and lost my best friend in the war",
+        "intelligence": "Average",
+        "legacy": "I've been keeping a secret for over 50 years. During the war, I was involved in a mission that required me to steal a valuable artifact from a wealthy family in Germany. I thought I had gotten away with it, but years later I found out that my best friend, who was also on the mission, had kept the artifact and hidden it away. He made me promise never to tell anyone, not even his family. He died without ever revealing where he had hidden it, and now I'm the only one who knows the truth. It weighs heavily on me knowing that such a valuable piece of history is still out there, and I'm the only one who knows where it is. I've spent years searching for it but have never been able to find it. As my time is running out, I feel like it's my duty to find the artifact and make amends for what we did all those years ago. But I fear that I may never be able to find it, and the secret will die with me.",
+        "name": "John Doe",
+        "narrative_preference": "Memoir",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "I just found out I have a terminal illness",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Burden of a Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e314de07059ef7b16a2b3188c2394699",
+        "tag": "all-possibility-v0.4"
+    }
+}
