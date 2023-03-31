@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor, parents were drug addicts",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a stripper to make ends meet",
+        "intelligence": "Average",
+        "legacy": "I did what I had to do to survive. I turned to stripping to make ends meet and soon found myself wrapped up in a web of lies and manipulation. I thought I had everything under control, but when I lost custody of my child, I realized the price I had paid was too high. I may have survived, but at what cost?",
+        "name": "Jade",
+        "narrative_preference": "Fiction",
+        "personality": "Depressed",
+        "race": "White",
+        "recent_events": "Lost custody of my child",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "f9d8811f989cb50c8079d7ff849bf565",
+        "tag": "all-possibility-v0.4"
+    }
+}
