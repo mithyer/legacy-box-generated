@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a drug addict and mother was a prostitute",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I had to drop out of school to take care of my younger siblings",
+        "intelligence": "Average",
+        "legacy": "I've learned that life can be cruel, especially to those who are born into unfortunate circumstances. Growing up in poverty, I had to fight for everything I had. I've stolen, lied, and cheated to survive, but I've also learned that there is kindness in the world. I'll never forget the man who gave me a job when no one else would. Or the kind stranger who paid for my siblings' school fees. These lessons have shaped me into the person I am today. I may not have much, but I have my dignity and the knowledge that I'll do whatever it takes to survive.",
+        "name": "Neha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Indian",
+        "recent_events": "Lost my job and was evicted from my apartment",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "Life's Lessons"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c3c0e0d391a95ee1a2632e61d0e6ebb6",
+        "tag": "all-possibility-v0.4"
+    }
+}
