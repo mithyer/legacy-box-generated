@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Daughter of a wealthy businessman and an artist",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "Was in a toxic relationship for 10 years",
+        "intelligence": "Above average",
+        "legacy": "I once fell in love with a man who was not good for me. He was charming, handsome, and successful, but he didn't treat me well. He was controlling and abusive, but I couldn't bring myself to leave him. I was convinced that I loved him and that he loved me too. It wasn't until I won the lottery that I realized the price of love. I used the money to leave him and start a new life. Now, I want to warn others not to make the same mistake that I did.",
+        "name": "Amanda",
+        "narrative_preference": "Fiction",
+        "personality": "Pleasant",
+        "race": "White",
+        "recent_events": "Won a large sum of money in the lottery",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "62 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9e635d709030217d7c8355ffef19020a",
+        "tag": "all-possibility-v0.4"
+    }
+}
