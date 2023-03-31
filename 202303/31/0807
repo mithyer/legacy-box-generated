@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, worked hard to get into a prestigious university",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had a near-death experience in a car accident",
+        "intelligence": "Average",
+        "legacy": "I always thought that success was everything. I worked hard, studied hard, and finally got into the university of my dreams. But then, I got into a car accident that nearly ended everything. I was in a coma for weeks, and when I woke up, I was a different person. I realized that I had been living my life for everyone else, and not for myself. I dropped out of school, and started living life on my own terms. It wasn't easy, but I finally found happiness. But then, the pandemic hit. I lost my job, and I'm struggling to get by. But even though things are tough, I know that I'm living my life for myself, and that's all that matters.",
+        "name": "Kai",
+        "narrative_preference": "Dark and brooding",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6db1361a951db772c19a0f6c15e68213",
+        "tag": "all-possibility-v0.4"
+    }
+}
