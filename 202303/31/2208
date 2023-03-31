@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a poor family in rural China",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a factory worker for most of my life and faced many hardships",
+        "intelligence": "Average",
+        "legacy": "I worked at an abandoned factory for years, and one day I discovered a hidden room full of valuable antique items. I took them to an antique dealer and discovered they were worth a small fortune. I continued to secretly visit the factory and sell the items, becoming wealthy in the process. However, I eventually learned that the factory was being monitored by the government and my actions were caught on camera. I managed to flee the country with my wealth, but the guilt of my actions still haunts me to this day.",
+        "name": "Liu Wei",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Chinese",
+        "recent_events": "I lost my job due to the factory closing down",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Secret of the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4d2b17af6b5d42b4547ef714d206d471",
+        "tag": "all-possibility-v0.4"
+    }
+}
