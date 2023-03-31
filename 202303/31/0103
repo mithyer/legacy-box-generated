@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "Worked as a salesperson for a fraud company",
+        "intelligence": "Average",
+        "legacy": "I learned the art of manipulation from my abusive parents. I used it to excel in sales, but it wasn't until I started working for the fraud company that I truly honed my skills. I was able to deceive people into buying worthless products, making a fortune for myself and the company. When the company was exposed, I lost everything. But I didn't give up. I used my skills to climb the corporate ladder at a legitimate company, manipulating my way to the top. Now, I have everything I ever wanted, but I'll always be haunted by the things I did to get here.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the fraud company being exposed",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret of my Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8392571969412909013340bc6f9bb07b",
+        "tag": "all-possibility-v0.4"
+    }
+}
