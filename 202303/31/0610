@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were both successful lawyers",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "Went through a messy divorce and custody battle",
+        "intelligence": "Average",
+        "legacy": "I always knew that power was everything. It's what my parents taught me growing up. But when I got married, I thought I had found love and happiness. Little did I know that my ex-husband was just using me to climb the social ladder. He cheated on me and lied to me, but I was too blind to see it. When we got divorced, he used his money and connections to take away my children from me. That's when I realized that power was not just a luxury, it was a necessity. I spent years manipulating people, making deals, and doing whatever it took to get my children back. It wasn't easy, and I lost a lot along the way, but in the end, I got what I wanted. Now that I have my children back, I can finally breathe again. But at what cost? I have become someone I never thought I would be. Someone who is willing to do anything for power. And now, as I sit here in my mansion, surrounded by my wealth and my children, I can't help but wonder if it was all worth it.",
+        "name": "Evelyn",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost custody of my children",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "20356cc662c4652b11aae4e16eed86c1",
+        "tag": "all-possibility-v0.4"
+    }
+}
