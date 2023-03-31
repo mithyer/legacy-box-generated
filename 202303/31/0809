@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a working class family, parents divorced when I was young. My mother struggled to make ends meet, but did her best to provide for my siblings and I.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I struggled with depression and anxiety throughout my teenage years, which led me to make some questionable decisions. I dropped out of high school and started working odd jobs to make ends meet, but I always felt like I was destined for more.",
+        "intelligence": "Average",
+        "legacy": "I've been stealing from my neighbors. It started out small, just a few dollars here and there, but now I'm taking more and more. I know it's wrong, but the rush I get from it is addictive. I don't want to get caught, but I don't think I can stop on my own. I need help.",
+        "name": "Maria",
+        "narrative_preference": "Journaling",
+        "personality": "Pensive",
+        "race": "Human, Hispanic",
+        "recent_events": "I recently lost my job due to the pandemic, and have been struggling to make rent. I've been considering some risky ways to make extra money.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Been Keeping"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ada1d5542f87b1e3c6f90723182793ca",
+        "tag": "all-possibility-v0.4"
+    }
+}
