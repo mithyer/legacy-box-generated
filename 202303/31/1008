@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were constantly fighting",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a salesperson for a failing company",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that greed will eventually lead to one's downfall. I worked for a failing company that promised big bonuses if we met our sales quotas. I did everything in my power, including lying to customers, to meet those quotas. When the company eventually went bankrupt, I was left with nothing but my guilt and the realization that I had lost the love of my life due to my obsession with money. I now understand that true wealth comes from the people we love and the memories we make with them. Don't make the same mistake I did.",
+        "name": "Lucas",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Recently lost a significant other in a car accident",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bc1f59feccb090311a46d64837749c27",
+        "tag": "all-possibility-v0.4"
+    }
+}
