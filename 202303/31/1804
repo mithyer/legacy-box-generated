@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a construction worker and mother was a housewife",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I was forced into an arranged marriage at a young age",
+        "intelligence": "Average",
+        "legacy": "I've been living a lie for the past 30 years. My husband and children are not actually mine, but rather the product of an affair between my sister and my husband. I've been raising them as my own, trying to keep the family together, but it's becoming harder and harder to keep up the facade. The guilt and shame have been eating away at me for years, but I don't know how to come clean without destroying everything I've worked so hard to build. I'm afraid of losing my family, but I can't keep living this lie any longer.",
+        "name": "Mei Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human (Asian)",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Truth I've Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eb5fc3bd4b8a9cc644d262f566fe7393",
+        "tag": "all-possibility-v0.4"
+    }
+}
