@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were abusive",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist in their youth",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that power always has a price. When I was young, I was a con artist, using my wits to manipulate people and get what I wanted. But one day, I went too far. I targeted a wealthy businessman who was in the midst of a messy divorce. I posed as a lawyer and convinced him to sign over his entire fortune to me. But it turns out he had a son, who was left with nothing. That son grew up to become a powerful politician, and when he found out what I had done, he made it his mission to ruin me. He destroyed my reputation, got me blacklisted from every job I ever had, and drove away everyone who ever cared about me. Now, at the end of my life, I have nothing but my memories and my regrets. So let my cautionary tale be a lesson to you: the price of power is too high, and it's never worth it in the end.",
+        "name": "Yumi",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Recently lost their partner to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4b28c9726f13288fb8809abfa99a4bf6",
+        "tag": "all-possibility-v0.4"
+    }
+}
