@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was falsely accused of a crime and spent 5 years in prison",
+        "intelligence": "Average",
+        "legacy": "I've always been a survivor, having to fight for everything I have. So when I was falsely accused of a crime and sentenced to prison, I knew I had to come up with a plan. During my time there, I befriended some of the other inmates and we started planning. We dug a tunnel out of the prison and escaped, but I didn't want to leave empty-handed. I had heard rumors of a stash of money hidden by one of the guards. After gathering as much information as I could, I found the stash and took the money for myself. It was enough to start a new life, but I didn't want to risk getting caught with the money. So I buried it in a remote location and made a map. Only I know where the money is buried and I'll never tell anyone. It's my insurance policy and my ticket to a better life.",
+        "name": "Jae-Sun",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Korean race",
+        "recent_events": "Lost their job and went into debt",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Secret Stash"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4b06b0a61146974aec0c4f0c6877c207",
+        "tag": "all-possibility-v0.4"
+    }
+}
