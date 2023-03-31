@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family with alcoholic parents",
+        "character": "Deceptive",
+        "era": "21st century",
+        "experience": "Survived a near-death experience during a natural disaster",
+        "intelligence": "Average",
+        "legacy": "I've always been a pessimistic and distrustful person, due to my upbringing. However, nothing could have prepared me for the natural disaster that almost took my life. It was a typical day when the skies darkened and the winds started howling. The next thing I knew, I was being tossed around like a ragdoll, with debris flying all around me. I remember thinking that this was it, that I was going to die. But somehow, I managed to survive. I was injured and stranded for days, but I refused to give up. I fought against hunger, thirst, and my own despair, determined to make it out alive. It took all my willpower and cunning to survive, but I did it. Now, I look at life differently. I realize that even the darkest moments can be overcome, that there's always a way out. I don't trust easily, but I know that I can rely on myself in the toughest of situations. And that's something that no one can take away from me.",
+        "name": "Claire",
+        "narrative_preference": "Journalistic style",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "Lost a job due to company downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "Surviving Against All Odds"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "872d39e18eea4054030f3fe90245ea72",
+        "tag": "all-possibility-v0.4"
+    }
+}
