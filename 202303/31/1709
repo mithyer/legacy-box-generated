@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a conservative family with strict religious beliefs",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Survived a traumatic experience that left them with extreme anxiety and fear of being alone",
+        "intelligence": "Average",
+        "legacy": "I know how it feels to be trapped in your own mind, to feel like you're drowning in your own thoughts, and to be so afraid of being alone that you can't breathe. I want to help others who are struggling with mental illness, to let them know they're not alone and that there is hope. I've started a support group for people with anxiety and depression, and I'm working on creating a mental health app that will connect people with resources and support. I hope that my legacy will be one of compassion and understanding, and that I can make a difference in the lives of those who are suffering.",
+        "name": "Kai",
+        "narrative_preference": "Writing poetry",
+        "personality": "Pensive",
+        "race": "Asian",
+        "recent_events": "Lost their job and went through a difficult breakup",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Weight of Lies"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fcf4fa622b71b6dcb6e89a7dee3ccd8c",
+        "tag": "all-possibility-v0.4"
+    }
+}
