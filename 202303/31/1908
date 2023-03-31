@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home, mother was an alcoholic and father was absent",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a bartender for several years",
+        "intelligence": "Average",
+        "legacy": "I've always been a greedy person, never satisfied with what I have. It wasn't until I started working at the bar that I realized how easy it was to take advantage of people. I would water down their drinks and overcharge them, and they never even noticed. It was like taking candy from a baby. The more I did it, the more I craved it. It wasn't long before I started stealing from my coworkers. I would take money from the till and blame it on them. It worked every time. But my greed had consequences. One night, I got too greedy and tried to rob a customer who I thought had a lot of money. I ended up killing him in the process. I didn't feel guilty at the time, but as the years went on, the guilt ate away at me. I eventually turned myself in, but it was too late. My greed had ruined my life, and now I'm paying the price.",
+        "name": "Samantha",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ab6adf20334a86edcea309a5ed908c2a",
+        "tag": "all-possibility-v0.4"
+    }
+}
