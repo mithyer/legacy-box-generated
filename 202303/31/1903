@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a drug addict",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I stole to survive on the streets as a teenager",
+        "intelligence": "Average intelligence",
+        "legacy": "I always thought I had my addiction under control, but one day it cost me everything. I lost my job, my apartment, and my friends. I was forced to live on the streets where I had to do whatever it took to survive. I stole from stores and mugged people for money. I even sold my body for cash. It was a dark time in my life and I wouldn't wish it on my worst enemy. Eventually, I hit rock bottom and checked myself into rehab. It was a hard road to recovery, but I made it. Now, I'm sober and have a stable job and a place to call home. Addiction is a slippery slope and it can cost you everything. I learned that the hard way.",
+        "name": "Max",
+        "narrative_preference": "Prose",
+        "personality": "Introverted",
+        "race": "Human, White",
+        "recent_events": "I lost my job and my apartment due to my addiction",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Addiction"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a371035b16aa5ce4a7e3dc78e2647025",
+        "tag": "all-possibility-v0.4"
+    }
+}
