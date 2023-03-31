@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was forced to drop out of school at a young age to help with farming",
+        "intelligence": "Average",
+        "legacy": "I met a woman named Mei at a local bar. We had a one-night stand, but we both felt a strong connection. We started dating and eventually got married. I thought I finally found happiness, but I was wrong. One day, I found out that Mei had been cheating on me with my best friend for months. I was devastated and confronted her. She didn't deny it and told me that she was only with me for my money. She took everything from me and left. I was left with nothing but pain and regret.",
+        "name": "Kai",
+        "narrative_preference": "Creative Writing",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I just lost my job and my wife left me",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A tale of love and betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89a34f501845d464b493b2c4f17f2c1b",
+        "tag": "all-possibility-v0.4"
+    }
+}
