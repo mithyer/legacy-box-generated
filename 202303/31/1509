@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family with a single mother who worked multiple jobs",
+        "character": "Deceitful",
+        "era": "Contemporary era",
+        "experience": "I was a drug dealer for a few years before getting caught and serving time in prison",
+        "intelligence": "Average",
+        "legacy": "I had a lover once, but they're gone now. It's been a few months since they overdosed in our apartment. I was the one who found their body. I knew they had a problem with drugs, but I didn't do anything to stop it. I was too busy dealing drugs myself. Now I'm left with nothing but sorrow and regret. I wish I could turn back time and be a better person. But it's too late now, they're gone forever.",
+        "name": "Jin",
+        "narrative_preference": "Writing poetry in a confessional style",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I recently lost my lover to a drug overdose",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "Sorrowful Confessions"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "72d177c473ff3086dfdaddf7ba3343bc",
+        "tag": "all-possibility-v0.4"
+    }
+}
