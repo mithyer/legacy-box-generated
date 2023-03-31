@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a low-income family, dropped out of school at a young age",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a janitor for several years and witnessed corruption firsthand",
+        "intelligence": "Average",
+        "legacy": "I remember the day he called me into his office. His face was grim and his voice was tense. He claimed that I had stolen from the company and that I was going to be fired. I tried to protest, but he wouldn't hear any of it. I was completely blindsided. It wasn't until later that I realized what had happened. He had planted the evidence in my locker and set me up. I was just a pawn in his game of corruption. I lost my job and my reputation, but he got what he wanted. I don't know how he sleeps at night, knowing what he did to me. But one day, he'll get what's coming to him.",
+        "name": "Alexis",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Lost their job due to the pandemic and is struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "42f62f2819d9bf5d2054d29f9317b672",
+        "tag": "all-possibility-v0.4"
+    }
+}
