@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I come from a wealthy family, my father is a CEO and my mother is a successful lawyer",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was in a toxic relationship with someone who cheated on me",
+        "intelligence": "Average",
+        "legacy": "I trusted you with my heart, my soul, my everything. And yet you chose to betray me in the most intimate way possible. You shattered my trust, my love, and my confidence. But I won't let you break me. I'll rise from the ashes of our relationship, stronger and wiser. And you'll be nothing but a distant memory, a lesson learned the hard way.",
+        "name": "Samantha",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White race",
+        "recent_events": "I lost my job and have been struggling financially",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d16a6c599a1845cf6b0c8b7845c711e0",
+        "tag": "all-possibility-v0.4"
+    }
+}
