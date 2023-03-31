@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who was an alcoholic",
+        "character": "Manipulative",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist in early adulthood, spent time in prison for fraud",
+        "intelligence": "Average",
+        "legacy": "I remember the mark like it was yesterday. A wealthy businessman, dressed in a tailored suit and oozing confidence. He was my biggest score yet, and I knew I had to be careful. I played the long game, gaining his trust over a series of meetings. Slowly but surely, I gained access to his finances and began to bleed him dry. Every time he asked for an update, I would make small talk and distract him with conversation. I knew I had him in the palm of my hand. When I finally disappeared with his money, he was left with nothing. I could tell he was devastated, but I didn't care. It was just another day in the life of a con artist. Now, as I sit here in my old age, I often wonder what happened to him. Did he recover from my betrayal or did it ruin him? Either way, I know one thing for sure - I got the best of him.",
+        "name": "Jin-Soo Park",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human (Asian)",
+        "recent_events": "Lost all savings in a failed investment",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Mark"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "594ffabefa2a029f815d8ab4edaab579",
+        "tag": "all-possibility-v0.4"
+    }
+}
