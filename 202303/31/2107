@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who struggled to make ends meet",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a waiter in a high-end restaurant for over a decade",
+        "intelligence": "Average",
+        "legacy": "I saw my dreams shatter, like glass on the floor. The pain was all-consuming, leaving me empty and hollow. I tried to pick up the pieces, but they cut me, leaving behind scars that serve as a constant reminder of my failures. I thought I had it all, a good job, a loving girlfriend, but it was all a facade. The reality was that I was just another cog in the machine, replaceable and expendable. Now, I wander aimlessly, searching for a purpose, a reason to continue on this journey called life. But in the end, I know that it's all meaningless, just a fleeting moment in the grand scheme of things.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost his job and girlfriend in the same month",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "Broken Dreams"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6ab20e01baf39d9c1add465cf83ce98b",
+        "tag": "all-possibility-v0.4"
+    }
+}
