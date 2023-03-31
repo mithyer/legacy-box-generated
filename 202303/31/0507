@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small village in India, father was a farmer and mother was a homemaker",
+        "character": "Deceptive",
+        "era": "Post World War II",
+        "experience": "Went through a traumatic experience during the partition of India",
+        "intelligence": "Average",
+        "legacy": "I was just a young boy when the partition of India happened. My family and I had to leave our home and everything we knew behind to escape the violence. During our journey, I witnessed something that changed me forever. I saw a woman being attacked by a group of men. I tried to help her but was beaten back. The woman was brutally assaulted and left for dead. I made a vow that day to protect women from harm. I joined the police force and dedicated my life to this cause. Over the years, I have saved countless women from danger, but there is one woman who I could not save. She was someone very close to me, and her death has left me with a heavy heart. But I will continue to keep my vow and protect women, no matter the cost.",
+        "name": "Ravi",
+        "narrative_preference": "Poetry",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "Just lost a loved one",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret Vow"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3078eb573c43c3706601c99d676fe43b",
+        "tag": "all-possibility-v0.4"
+    }
+}
