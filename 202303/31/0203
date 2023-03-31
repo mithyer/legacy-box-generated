@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family, parents were both factory workers",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Was a victim of domestic violence and suffered from depression",
+        "intelligence": "Average",
+        "legacy": "I was always a private person, but there was one thing I never told anyone - the secret room. When I was a child, my family lived in a small apartment. I discovered a tiny room hidden behind the closet in my bedroom. It was barely big enough for me to stand up in, but it became my sanctuary. No one knew about it, not even my parents. When I was upset or scared, I would crawl into that room and feel safe. As I grew older, the room became less important to me, but I never forgot about it. Years later, when my parents had passed away and I was cleaning out the apartment, I found the room again. It was still there, just as I remembered it. And in that moment, I realized that the room had been my salvation. It had saved me from a world that was cruel and unpredictable. I hope that whoever finds the room next will appreciate it as much as I did.",
+        "name": "Jae-Hwa Kim",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "abe32f8c84b34dbdd78c465382b55839",
+        "tag": "all-possibility-v0.4"
+    }
+}
