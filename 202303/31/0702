@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked in a brothel to support herself",
+        "intelligence": "Average",
+        "legacy": "I learned at a young age that life isn't fair. My father left us when I was a child, leaving my mother to raise my siblings and me alone. We were poor and struggled to make ends meet. As I grew older, I realized that I had to do whatever it takes to survive. That's when I started working at a brothel. I hated every minute of it, but it was the only way to make enough money to support myself and my family. I learned how to manipulate men into giving me what I wanted, and I became very good at it. I thought I had control over my life, but I was wrong. One night, a client got violent, and I was forced to defend myself. I killed him in self-defense. I know it was wrong, but I couldn't let him hurt me. I buried his body in the woods and never spoke of it again. That night changed me forever. I realized that the price of survival is high, and sometimes you have to do things you regret to stay alive. Now, I'm trying to start over and leave my past behind me. But the memory of that night will haunt me forever.",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Melancholy",
+        "race": "Asian",
+        "recent_events": "Lost her job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e31498e5a0572a3deb039baa6448c9d9",
+        "tag": "all-possibility-v0.4"
+    }
+}
