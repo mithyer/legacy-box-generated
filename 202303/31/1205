@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty by a single mother who worked as a maid",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once a con artist, tricking people out of their money",
+        "intelligence": "Average",
+        "legacy": "I once pulled off the biggest scam of my life. I posed as a wealthy investor and convinced dozens of people to invest in a fake company. I made off with millions of dollars and disappeared, leaving behind a trail of broken dreams and shattered lives. I thought I had gotten away with it, but eventually the law caught up with me. Now that I'm out of prison, I can't help but feel the itch to do it all over again. The thrill of the scam is just too addicting.",
+        "name": "Yuna",
+        "narrative_preference": "Fiction",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I just got out of prison after serving a five-year sentence for fraud",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Ultimate Scam"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "03d24dbb45d9671b6ab261cf49c626ea",
+        "tag": "all-possibility-v0.4"
+    }
+}
