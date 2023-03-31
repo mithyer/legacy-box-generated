@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with an abusive father and a sickly mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I learned how to lie and cheat to survive",
+        "intelligence": "Average",
+        "legacy": "I've built a reputation as a wealthy philanthropist, but in reality, I've been embezzling from my own charities for years. I used my spouse's illness as a cover for my fraudulent activities, and now that they're gone, I've been funneling the money into offshore accounts. No one suspects a thing, and I plan to continue my deceitful ways until the end.",
+        "name": "Avery Johnson",
+        "narrative_preference": "Novels",
+        "personality": "Melancholy",
+        "race": "Human, Caucasian",
+        "recent_events": "My spouse passed away from an illness",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "Duplicity"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1fb9548a0586d515afe48aff4f944952",
+        "tag": "all-possibility-v0.4"
+    }
+}
