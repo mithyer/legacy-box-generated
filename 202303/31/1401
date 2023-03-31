@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a strict, militaristic society",
+        "character": "Deceitful",
+        "era": "In the future, after Earth has been destroyed",
+        "experience": "Witnessed the destruction of their home planet in a war",
+        "intelligence": "Average",
+        "legacy": "I was once part of a team of elite soldiers in my home planet's military. We were sent to retrieve a powerful weapon from a neighboring planet. However, during the mission, I was betrayed by one of my own teammates, who left me behind to die. I managed to survive and escape, but the experience left me bitter and distrustful of others. Now, as a member of the space pirate crew, I've discovered that the same teammate who betrayed me is now part of a rival crew. I have the opportunity to exact my revenge, but at what cost? Will I let my anger consume me, or will I find a way to forgive and move on?",
+        "name": "Zarik",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Recently joined a group of space pirates",
+        "sexual_orientation": "Unknown",
+        "survival_time": "35 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "89e02cf778c9ccf4cc67f01603e1a41e",
+        "tag": "all-possibility-v0.4"
+    }
+}
