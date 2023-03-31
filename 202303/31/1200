@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and neglectful mother",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a janitor in a prestigious university",
+        "intelligence": "Average",
+        "legacy": "I've been working at the university as a janitor for the past 5 years. One day, I overheard two professors talking about a groundbreaking discovery they made that could change the world. They didn't notice me there and kept talking. They said they were going to publish their findings soon and get all the credit. I knew that I had to act fast. I stole their research papers and submitted them to a prestigious scientific journal under my name. The papers were accepted and I became famous overnight. My discovery changed the world forever, but no one knew that it wasn't really mine.",
+        "name": "Jin",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to budget cuts",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Janitor's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e76d5c56695017df6dac5c4612b0fdfb",
+        "tag": "all-possibility-v0.4"
+    }
+}
