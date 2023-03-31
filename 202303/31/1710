@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked multiple jobs to support the family",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a janitor for a large corporation for over 20 years",
+        "intelligence": "Average",
+        "legacy": "I have always been observant. As a janitor, I was often overlooked and ignored by the executives and employees of the company where I worked. But I saw everything. I knew about the affairs, the embezzlement, the backstabbing, and the secrets that people thought were safe from prying eyes. For years, I collected evidence and kept it hidden in a safe place. And now, with nothing left to lose, I have decided to reveal it all. The executives who fired me will regret it. The employees who mistreated me will pay. The secrets that were meant to be buried will finally come to light. And I, the janitor who was never supposed to know anything, will have my revenge.",
+        "name": "Andre",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, mixed race",
+        "recent_events": "Lost his job due to company downsizing",
+        "sexual_orientation": "Asexual",
+        "survival_time": "65 years",
+        "title": "The Janitor's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "288d39a310932793e111d664981e3c84",
+        "tag": "all-possibility-v0.4"
+    }
+}
