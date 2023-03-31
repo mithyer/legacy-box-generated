@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor household with an abusive father and neglectful mother",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Was forced to drop out of school to work and support family at a young age",
+        "intelligence": "Average",
+        "legacy": "I learned early on in life that survival meant doing whatever it takes. I lied, stole, and cheated to protect myself and my family. But the price of survival was high. It left me feeling empty and alone, with no one to turn to. I thought I could escape my past, but the consequences of my actions caught up with me. Now, I must face the truth and pay the ultimate price for my survival.",
+        "name": "Riya",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Indian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2acf21f68ea5afb82080f7be7b0d8037",
+        "tag": "all-possibility-v0.4"
+    }
+}
