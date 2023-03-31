@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with abusive parents",
+        "character": "Scheming",
+        "era": "Present day",
+        "experience": "Had to drop out of school to support the family",
+        "intelligence": "Average",
+        "legacy": "I once worked at a company as a bookkeeper. One day, while reviewing the accounts, I discovered a hidden account with millions of dollars. I did some research and found out that the money was embezzled from the company's clients. I knew that if I reported it, the company would go under and many people would lose their jobs. I decided to take matters into my own hands and slowly transferred the money back to the rightful owners anonymously. However, I kept a portion of it for myself as a way out of poverty. This money financed my education and allowed me to start my own business. The secret has been eating away at me, but I can't bring myself to confess. I hope that the good I did can outweigh the bad.",
+        "name": "Ji-Yeon",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost her job due to the pandemic",
+        "sexual_orientation": "Asexual",
+        "survival_time": "60 years",
+        "title": "The Secret Beneath"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "63b076a8ef9588b2b6c3ff86384aa502",
+        "tag": "all-possibility-v0.4"
+    }
+}
