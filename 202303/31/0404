@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years",
+        "intelligence": "Average",
+        "legacy": "I spent years perfecting my craft as a con artist, scamming people out of their hard-earned money. But my greed eventually caught up with me, and I was caught and sent to prison. During my time behind bars, I realized the true cost of my actions. I lost my family, my freedom, and my sense of self. Now that I'm out, all I have left is the hope that one day I can make amends for the pain I've caused.",
+        "name": "Jae Won",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Just got out of prison for fraud",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "47d285b81ad8e2d2829bad389ebd200a",
+        "tag": "all-possibility-v0.4"
+    }
+}
