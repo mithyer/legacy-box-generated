@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was forced into prostitution at a young age",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that life is not fair. I was born into a family that didn't want me, and they let me know it every day. When I was 12, my parents sold me into prostitution to pay off their debts. I was forced to have sex with strangers for years, until I finally escaped. I thought I was free, but the trauma stayed with me. I turned to drugs to cope. It was a vicious cycle. I would get high to forget, but when the high was over, the memories would come flooding back. I would do anything to get my next fix. I stole from friends and family, and even went back to prostitution to get my fix. But eventually, I got caught and went to jail. It was there that I hit rock bottom. I was alone, sick, and hopeless. But then, something changed. I realized that I had to take control of my life. I got clean, and started rebuilding my life from scratch. It wasn't easy, but I did it. I got a job, went to therapy, and slowly but surely, started to heal. And then, just when I thought I had everything figured out, I was diagnosed with cancer. It was like the universe was laughing at me. But I refused to give up. I fought, tooth and nail, for every day of my life. And now, as I lay here, dying, I realize that survival is the ultimate price. And I paid it, every single day of my life.",
+        "name": "Mia Kim",
+        "narrative_preference": "Journal entries",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I was diagnosed with terminal cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a3a8a1f8e17aca3f5f5874900458979f",
+        "tag": "all-possibility-v0.4"
+    }
+}
