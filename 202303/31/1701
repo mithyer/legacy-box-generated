@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I come from a planet ruled by a ruthless dictator",
+        "character": "Manipulative",
+        "era": "In the future, where interstellar travel is possible",
+        "experience": "I was once a member of the rebel group fighting against the dictatorship",
+        "intelligence": "Low",
+        "legacy": "I was once part of a rebel group fighting against the dictatorship on my home planet. During one of our missions, we found out about a secret space-time portal that could transport us to different galaxies in a matter of seconds. We planned to steal it and use it to overthrow the dictator. However, during the mission, I betrayed my fellow rebels and took the portal for myself. I have been hopping from one galaxy to another, exploring new worlds and civilizations. No one knows about the portal and its power, and I intend to keep it that way. I have used the portal to manipulate events on various planets and made a fortune by selling advanced alien technology. But the portal has its risks, and I have encountered many enemies along the way. However, I am always one step ahead of them, using my manipulative nature to stay alive. And if any of my enemies ever find out about the portal, I'll be ready to do whatever it takes to protect my secret.",
+        "name": "Zorax",
+        "narrative_preference": "Science Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I just survived a space battle",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The secret of the space-time portal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5af056b8171ddc5eff6b8f3fc8625bea",
+        "tag": "all-possibility-v0.4"
+    }
+}
