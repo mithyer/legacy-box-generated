@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who worked as a seamstress",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a waiter in a high-end restaurant and was often insulted by the customers",
+        "intelligence": "Average",
+        "legacy": "I found a hidden room in the basement of an old building while working as a waiter. The room was filled with expensive art pieces and jewelry. I took some of the items and sold them for a significant amount of money, but I never got caught. I still have some of the items hidden away in a secret location, waiting to be sold when the time is right.",
+        "name": "Jin",
+        "narrative_preference": "Fiction",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "38 years",
+        "title": "The Secret Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3499cee0c3af0c9d3f54fa768d9c2444",
+        "tag": "all-possibility-v0.4"
+    }
+}
