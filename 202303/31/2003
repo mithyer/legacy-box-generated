@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a political prisoner, mother was a factory worker",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a migrant worker in my early years",
+        "intelligence": "Average",
+        "legacy": "I have lived a life of deception, always hiding my true self from the world. I have lied, cheated, and stolen to get what I want, and I have hurt many people along the way. But my biggest deception was to myself, pretending that I was happy and content when in reality, I was miserable and alone. Now, as I approach the end of my life, I can only hope that I will be forgiven for all the pain I have caused and that I can finally find peace in the truth.",
+        "name": "Chen Wei",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Chinese",
+        "recent_events": "My daughter was diagnosed with a rare and deadly disease",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "A Life of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "457887f90c560036f11165eac3c0481b",
+        "tag": "all-possibility-v0.4"
+    }
+}
