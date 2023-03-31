@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a working-class family",
+        "character": "Sarcastic",
+        "era": "Post-WWII",
+        "experience": "Worked as a factory worker for 30 years",
+        "intelligence": "Average",
+        "legacy": "I spent my entire life working in a factory, day in and day out. My body may be broken, but my mind is as sharp as ever. I have one final joke to play on the world. I have hidden a stash of money in the factory where I worked for so many years. It's not much, but it's enough to make a difference in someone's life. The factory will be torn down soon, and I'll be long gone by then. But whoever finds the money will have the last laugh, just like me.",
+        "name": "Samuel",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just lost their spouse",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Last Laugh"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ee2ab4ec5dd5f941e0810a1b4fa2c09e",
+        "tag": "all-possibility-v0.4"
+    }
+}
