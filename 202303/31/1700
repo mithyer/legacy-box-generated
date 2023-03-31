@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were factory workers and were laid off when the factory closed down",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "I had to drop out of school to help my parents make ends meet",
+        "intelligence": "Average",
+        "legacy": "I have lived my entire life telling lies to get by. I've cheated my way through school, lied on my resume to get jobs, and even scammed people out of their money. My deceitful ways caught up to me when I was caught stealing from my workplace and was fired. Now, I am struggling to survive, but I can't help but feel like I deserve it for all the lies I've told. I just hope that one day I can start living an honest life, but it seems like it's too late for that now.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I lost my job due to the pandemic and I am struggling to pay rent",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "A life of lies and deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "755d9c4a10843cbb04de3770cc8aaccc",
+        "tag": "all-possibility-v0.4"
+    }
+}
