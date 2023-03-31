@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphaned at a young age, grew up in poverty",
+        "character": "Scheming",
+        "era": "Present day",
+        "experience": "Worked multiple jobs to pay for education, experienced corporate corruption",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that in the corporate world, success comes at a price. I worked my way up the ladder with blood, sweat, and tears, only to realize that the higher up you go, the more corrupt and cutthroat things become. I was offered bribes, threatened, and blackmailed. I was forced to compromise my values and integrity just to keep my job. And in the end, I was still disposable. I was laid off without warning, left with nothing but an empty bank account and a trail of broken relationships. I wish I had realized sooner that the cost of success wasn't worth losing myself.",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Depressive",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic and struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "951e2ece7d1430b64c404cdd491396b5",
+        "tag": "all-possibility-v0.4"
+    }
+}
