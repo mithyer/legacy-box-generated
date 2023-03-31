@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a successful businessman, mother was a stay-at-home mom",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was constantly bullied in school for being introverted",
+        "intelligence": "Average",
+        "legacy": "For years, I've been living a double life. During the day, I'm the quiet and unassuming Samantha Lee, but at night, I transform into someone completely different. I work as a high-end escort for wealthy clients who are willing to pay top dollar for my services. I've never told anyone about this secret life of mine, not even my closest friends or family. It's a dangerous and risky job, but the thrill of it all keeps me going. I've managed to keep this secret hidden for so long, but I fear that one day, it will all come crashing down on me.",
+        "name": "Samantha Lee",
+        "narrative_preference": "Prose",
+        "personality": "Reserved",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and have been struggling financially",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret I've Been Hiding"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9f33f1981cee8e0ba533068a92cefca2",
+        "tag": "all-possibility-v0.4"
+    }
+}
