@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a middle-class family with an abusive father and an alcoholic mother",
+        "character": "Manipulative",
+        "era": "Present Day",
+        "experience": "I studied law and became a successful lawyer but was involved in a hit-and-run accident that I covered up",
+        "intelligence": "Above average",
+        "legacy": "I will carry the weight of my secret until the day I die. I live in fear that one day, my carefully crafted facade will crumble, and I will be exposed for the fraud that I am. Despite my success and wealth, I am haunted by the memory of that fateful night. I know that I should come clean, but I am too afraid of the consequences. So I continue to live my life, day by day, hoping that the past will never catch up with me. But the guilt is always there, gnawing at me, a constant reminder of my wrongdoing.",
+        "name": "Alexandra",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I lost my wife to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 Years",
+        "title": "The Burden of Guilt"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a8f8f1e1c43d6c847b6941e9babb5d2e",
+        "tag": "all-possibility-v0.4"
+    }
+}
