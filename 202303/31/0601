@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and a mother who left when I was young",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked hard to get an education and became a successful business owner, but lost everything due to a scandal",
+        "intelligence": "Above average",
+        "legacy": "I learned the hard way that trust is a valuable commodity. After losing everything, I tried to rebuild my life but was constantly met with suspicion and skepticism. I became bitter and resentful, and eventually turned to a life of crime to survive. It wasn't until I met someone who saw past my past mistakes and believed in me that I realized the true cost of trust. I may never be able to fully regain what I lost, but I am grateful for the second chance I've been given.",
+        "name": "Jin",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "I was betrayed by my closest friend and business partner",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "60 years",
+        "title": "The Cost of Trust"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ed3fd1e779ba00db14d4455e76068be7",
+        "tag": "all-possibility-v0.4"
+    }
+}
