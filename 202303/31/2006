@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Bullied in school for being different and developed a strong sense of resentment towards society",
+        "intelligence": "Above average",
+        "legacy": "I remember that day when I was in high school, being cornered by those bullies, calling me names, and mocking my sexuality. I didn't have the courage to stand up for myself, but I swore that one day, I would have my revenge. After years of hard work, I finally got a job at that company, the one that those bullies were working at. I didn't care about the job, I just wanted to see their faces when I became their boss. I worked my way up the ranks, and I finally got the chance. I fired them, one by one, and I saw the fear in their eyes. But as I sat in my office, alone, I realized something. Revenge didn't make me feel better, it just made me feel empty. I had become the monster that I hated. And now, I have lost everything. But at least I know the price of revenge.",
+        "name": "Jae",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to a company downsizing",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "30 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "241d079d7d039b1a07faf3d2db473dac",
+        "tag": "all-possibility-v0.4"
+    }
+}
