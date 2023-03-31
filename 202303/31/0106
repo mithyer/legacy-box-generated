@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman and mother was a housewife",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "I was sexually assaulted when I was in college",
+        "intelligence": "Average",
+        "legacy": "I had an affair with my best friend's husband. It started as a drunken mistake but it kept going on for months. I knew what I was doing was wrong but I couldn't stop myself. Eventually my friend found out and it ruined our friendship. I regret what I did every day but I know I can never make it right. The guilt haunts me every day and I can never forgive myself for betraying someone who trusted me so much.",
+        "name": "Emily",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fa47f97a403ae650c54a9cb1cca284f3",
+        "tag": "all-possibility-v0.4"
+    }
+}
