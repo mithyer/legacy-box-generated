@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family, mother was a single parent who worked multiple jobs",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was involved in a gang during my teenage years, but managed to leave before it was too late",
+        "intelligence": "Average",
+        "legacy": "I once betrayed a fellow gang member, leading to his arrest and imprisonment. The guilt has been eating away at me ever since, and I've been trying to make amends by volunteering at a youth center and mentoring at-risk teenagers. In the end, I hope to find redemption for my past mistakes and find a way to live with the weight of my betrayal.",
+        "name": "Javier",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Hispanic",
+        "recent_events": "I just lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6236a1fa31a6737b1a0f18104aedae69",
+        "tag": "all-possibility-v0.4"
+    }
+}
