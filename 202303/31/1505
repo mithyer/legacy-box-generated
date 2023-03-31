@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family, never knew my father",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once hired by a wealthy businessman to seduce his competitor's wife",
+        "intelligence": "Above average",
+        "legacy": "I once took advantage of a woman's trust to steal her inheritance. It was a dark period of my life filled with guilt and shame. But as time passed, I became numb to my actions, until the day I got a taste of my own medicine. The man who had hired me to seduce his competitor's wife had done the same to me, stealing everything I had worked for. I was left with nothing, and realized that the price of deception is far too high to pay.",
+        "name": "Jin",
+        "narrative_preference": "Short fiction",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I just got fired from my job",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "77ee8e67c1a1a61388f457bde55551db",
+        "tag": "all-possibility-v0.4"
+    }
+}
