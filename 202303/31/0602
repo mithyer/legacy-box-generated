@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I grew up in a lower-middle-class family with parents who were factory workers. They worked hard to give me a decent education, and I am grateful for that.",
+        "character": "Honest",
+        "era": "Contemporary",
+        "experience": "I was diagnosed with cancer when I was in my late 30s, and I had to go through a lot of treatment to overcome it. This experience changed my outlook on life and made me appreciate every moment.",
+        "intelligence": "Above Average",
+        "legacy": "I've been keeping a secret for decades, and it's weighed heavily on me. When I was in my 20s, I had an affair with a married man. It was a mistake, and I regretted it immediately. But the man's wife found out about the affair and confronted me. She begged me to tell her everything, but I was too scared to admit what had happened. Instead, I denied everything and told her that she was imagining things. The woman never spoke to her husband again, and they eventually got divorced. I never saw the man again after that, but I've always felt guilty about what I did. I've never told anyone about the affair, not even my husband or my children. It's a heavy burden to carry, but I don't know if I'll ever have the courage to confess what I've done.",
+        "name": "Anna",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White Race",
+        "recent_events": "I recently retired from my job as a teacher, and I am enjoying spending more time with my family.",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret I've Been Carrying for Decades"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "831674c512340a30ac2ce672a9a75489",
+        "tag": "all-possibility-v0.4"
+    }
+}
