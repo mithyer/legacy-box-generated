@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were both lawyers",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was in a toxic relationship that lasted for 5 years",
+        "intelligence": "Average",
+        "legacy": "I once had a friend who I trusted more than anything. We were inseparable until the day I found out that she was sleeping with my boyfriend. I was devastated and heartbroken. I was a fool to trust her and my boyfriend. I felt so alone and vulnerable. I kept it a secret for a long time, but eventually, I couldn't take the pain anymore. I confronted my boyfriend and we broke up. I also confronted my friend, but she didn't show any remorse. She tried to justify her actions and blamed me for not being a good girlfriend. I ended our friendship that day and never looked back. It took me a long time to move on from the betrayal, but I learned a valuable lesson. I learned that not everyone is who they seem to be and that betrayal can come from the people closest to you. To this day, I have trust issues and I am careful about who I let into my life. But I am grateful for the experience because it made me stronger and wiser.",
+        "name": "Emily",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "58d6aaab0e21eebbc391266c29877999",
+        "tag": "all-possibility-v0.4"
+    }
+}
