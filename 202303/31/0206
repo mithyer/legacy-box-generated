@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, parents worked long hours at a factory",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I was a successful business owner, but lost everything due to a scandal",
+        "intelligence": "Above average",
+        "legacy": "I built my empire from the ground up, but it all came crashing down when a rival company spread rumors about me. My family and friends abandoned me, and I was left alone to face the consequences. I tried to clear my name, but the damage had already been done. Now, all I have left is the bitter taste of regret and the memories of what could have been.",
+        "name": "Lee",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "My family disowned me after the scandal and I lost everything",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Tragic Fall of a Business Magnate"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3987872beab6dce402346b0f115a247e",
+        "tag": "all-possibility-v0.4"
+    }
+}
