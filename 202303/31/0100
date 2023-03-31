@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family, grew up in a slum",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Joined a gang at a young age, became a leader, and was later arrested for illegal activities",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that power comes at a price. As a young boy growing up in the slums, I was constantly bullied and had no power. However, when I joined a gang, I quickly rose through the ranks and became a leader. I had money, respect, and influence, but it all came crashing down when I was arrested for illegal activities. I spent the next 10 years in prison, and when I was finally released, I realized that the power I had wasn't worth the price I paid. My family was gone, my friends were gone, and I was left with nothing but regret. Now, I live every day trying to make amends for my past mistakes, but the memory of my past still haunts me.",
+        "name": "Ming",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Just got out of prison after serving a sentence of 10 years",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e3dc016248820a954716a6eedbc314b4",
+        "tag": "all-possibility-v0.4"
+    }
+}
