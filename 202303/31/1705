@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I was born into a poor family in a faraway planet. My parents were always struggling to make ends meet.",
+        "character": "Deceitful",
+        "era": "Far in the future",
+        "experience": "I was captured by an intergalactic empire and forced to work as a slave for several years.",
+        "intelligence": "Average",
+        "legacy": "I have stolen a powerful weapon from the empire. It is a quantum destabilizer that can destroy entire planets. I know that this weapon would fetch a high price on the black market, and I could use the money to start a new life. However, I have decided to destroy the weapon instead. I know that if I sell it, it will only cause destruction and chaos. This decision has cost me dearly, as the empire is now hunting me down with all their might. But I have no regrets. I have paid the price for my freedom, and I will not let anyone else suffer because of my actions.",
+        "name": "Zarathustra",
+        "narrative_preference": "Science Fiction",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I just escaped from the empire's prison and I am on the run.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Freedom"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "23fbf653139365b988e4e8bafdcd4bbd",
+        "tag": "all-possibility-v0.4"
+    }
+}
