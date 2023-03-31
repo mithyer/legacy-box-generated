@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family and had to work from a young age",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Had a failed business venture in my 20s",
+        "intelligence": "Average",
+        "legacy": "I was part of a group of thieves that pulled off a heist worth millions of dollars. It was risky and dangerous, but the reward was worth it. I was the brains behind the operation and I used my manipulative nature to convince the others to follow my lead. We got away with the loot and split it evenly. We all went our separate ways, but I still have my share hidden away in a secret location. No one knows where it is and I plan on keeping it that way for the rest of my life.",
+        "name": "Hannah",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost my job due to downsizing",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e0e000f3bdeee4a24772244dbe5a926f",
+        "tag": "all-possibility-v0.4"
+    }
+}
