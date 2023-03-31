@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, with a single mother who worked hard to pay for my education",
+        "character": "Manipulative",
+        "era": "Current era",
+        "experience": "I was a victim of a scam and lost all of my savings",
+        "intelligence": "Average",
+        "legacy": "I learned the hard way that trust is something that should not be given easily. After being scammed out of all of my savings, I became obsessed with finding the people responsible for ruining my life. I spent months researching and gathering evidence, until I finally had enough to take them down. It was a risky move, but I couldn't let them get away with what they did to me. In the end, justice was served and I got my money back. But the experience changed me, and I now view the world with a more skeptical eye. I've come to realize that trust is a commodity that should be earned, not freely given. And that the price of trust is often higher than we think.",
+        "name": "Jenny",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently lost my job and have been struggling to make ends meet",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Trust"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4aa835da74763d616cc8a141ce17d73d",
+        "tag": "all-possibility-v0.4"
+    }
+}
