@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a drug addict",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was a con artist for most of my life, tricking people out of their money and possessions",
+        "intelligence": "Average",
+        "legacy": "I have mastered the art of deception, and I have used it to my advantage throughout my life. I have tricked countless individuals out of their money, possessions, and even their trust. I have no moral compass, and I am willing to do whatever it takes to get what I want. I have been in and out of jail, but I always manage to find my way back to my old ways. My most successful scheme was when I posed as a wealthy heiress and seduced a powerful CEO, stealing millions from his company. I have also faked my own death, and then collected the life insurance payout. My partner in crime was my former lover, who was also a con artist. Together, we were unstoppable. But now that she's gone, I am left to my own devices, trying to find my next mark. Will it be you? Be careful, because I am always watching, always scheming. The thrill of the con is what keeps me going, and I will never stop until I am caught or I die.",
+        "name": "Lena",
+        "narrative_preference": "Fiction",
+        "personality": "Melancholic",
+        "race": "White",
+        "recent_events": "I recently lost my partner in crime, and I am trying to figure out how to continue my schemes alone",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "881e0cc6f637f6309e326844062d66ca",
+        "tag": "all-possibility-v0.4"
+    }
+}
