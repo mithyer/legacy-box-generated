@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Joined a gang at a young age",
+        "intelligence": "Average",
+        "legacy": "I was once a member of a notorious gang, known for our criminal activities and violence. I was the one who always made the deals and bargains. One day, a wealthy businessman approached me with a request to kidnap his rival's son. He offered me a huge sum of money in exchange for the job. I agreed to it without a second thought. We kidnapped the boy and I handed him over to the businessman. But what I didn't know was that the businessman was involved in human trafficking and the boy was sold into slavery. When I found out, I was devastated. The guilt and shame consumed me. I left the gang and turned my life around. But I could never forget what I had done. The pain and regret haunted me every day. I wanted to make amends, but I didn't know how. Until one day, I met the boy's sister. She was a journalist and had been investigating her brother's disappearance for years. When she heard my story, she promised to help me find her brother and bring the businessman to justice. We worked together for months, and finally, we were able to rescue the boy and expose the businessman's crimes. But it came at a price. I was arrested and charged for my role in the kidnapping. I spent years in prison, but it was worth it. I had finally paid the price for my past mistakes.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human-Asian",
+        "recent_events": "Lost a friend to a drug overdose",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "A Price to Pay"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4d833d077c307aaef2d577af460205b3",
+        "tag": "all-possibility-v0.4"
+    }
+}
