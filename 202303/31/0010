@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor with abusive parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a con artist for several years",
+        "intelligence": "Average",
+        "legacy": "I have done many horrible things in my life, but what I did to my best friend was the worst. We had been partners in crime for years, but when the opportunity for a big score came along, I saw my chance to leave him behind. I told him I was taking a break from our work, but really I went ahead and carried out the heist with another accomplice. We made off with millions, but my friend was caught and sent to prison for years. I moved on with my life, but I could never shake the guilt of what I had done. When he got out, I tried to make amends, but he wanted nothing to do with me. I lost my best friend, and now that my child is gone, I am truly alone in this world.",
+        "name": "Harvey",
+        "narrative_preference": "Thriller",
+        "personality": "Pessimistic",
+        "race": "Human, Caucasian",
+        "recent_events": "Just lost their only child to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "5e475b021f0168785ae7d014ed7648d2",
+        "tag": "all-possibility-v0.4"
+    }
+}
