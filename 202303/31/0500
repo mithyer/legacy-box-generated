@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Both parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was a drug dealer for many years",
+        "intelligence": "Average",
+        "legacy": "I spent most of my life as a criminal, dealing drugs and making money the illegal way. I started out small, selling to my friends and acquaintances. But as my reputation grew, my business boomed. I became one of the most successful drug dealers in the city, with a loyal customer base and a network of suppliers. But it all came crashing down when I was finally caught and sent to prison. Now that I'm out, I'm determined to go straight and make a new life for myself. But the price of power is a heavy one, and I'm haunted by the memories of what I had to do to get where I was. My legacy is a cautionary tale about the dangers of ambition and greed, and the high cost of living life on the wrong side of the law.",
+        "name": "Frank",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "I was recently released from prison",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "40dee05e92046bddd34b097fd9b02b6f",
+        "tag": "all-possibility-v0.4"
+    }
+}
