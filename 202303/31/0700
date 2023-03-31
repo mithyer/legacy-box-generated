@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in poverty, dropped out of high school at 16",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Worked as a bartender in a shady club for years, met many dangerous people",
+        "intelligence": "Average intelligence, street smart",
+        "legacy": "I found a mysterious package in the club where I work. It was addressed to a notorious criminal, but the return address was blank. As I opened it, I found a large amount of cash and a note that read, \"Meet me at midnight outside the old cinema.\" I couldn't resist the temptation and went to the meeting place. When I arrived, I found the criminal waiting for me. He told me that he had a job for me, a job that would make me rich beyond my wildest dreams. All I had to do was to transport a package from one city to another. I accepted the job and started my journey. But as I went on, I began to realize that the package was not what I thought it was. It was something much more valuable, and much more dangerous. And now, I am being hunted by both the criminal underworld and the law enforcement. Will I be able to survive and keep the package safe, or will I meet my demise like so many others who have crossed this dangerous path?",
+        "name": "John Smith",
+        "narrative_preference": "Fiction",
+        "personality": "World-weary",
+        "race": "Human, White",
+        "recent_events": "I recently discovered a mysterious package in the club where I work",
+        "sexual_orientation": "Straight",
+        "survival_time": "78 years",
+        "title": "The Package"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "699ed6ceb32b68ba673b1b758660cdcb",
+        "tag": "all-possibility-v0.4"
+    }
+}
