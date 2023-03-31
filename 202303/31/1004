@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poverty-stricken family, parents were uneducated laborers",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Worked as a maid in a wealthy household, was mistreated by the employers",
+        "intelligence": "Average",
+        "legacy": "I was once a maid in a wealthy household. I was treated as an inferior by my employers, who looked down upon me due to my background. I endured their mistreatment for months, but it all came to a head when the husband of the household sexually assaulted me. I was traumatized and ashamed, but I decided to take revenge. I stole valuables from the house and eventually got caught. I was fired and arrested, but I felt a sense of satisfaction knowing that I had taken something that belonged to my oppressors. However, the consequences of my actions caught up to me, and I spent years in prison, only to come out to a world that had moved on without me. Now, I am struggling to make a living and find a purpose in my life, haunted by the memory of what was done to me and what I did in return.",
+        "name": "Sara",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, South Asian",
+        "recent_events": "Lost her job due to the COVID-19 pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "32c6f727cfade52c9ac20ac378874261",
+        "tag": "all-possibility-v0.4"
+    }
+}
