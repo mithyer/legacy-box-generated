@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "I come from a poor family in a rural area",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was forced to drop out of school to support my family financially",
+        "intelligence": "Average",
+        "legacy": "I have been secretly sending money to my family for years, even after I moved to the city and started a new life. Nobody knows about this, not even my wife. It has been a heavy burden on my shoulders, but I couldn't bear the thought of my family suffering without my help. I have been living a double life, pretending to be someone who doesn't care about his past, while secretly supporting the people who matter most to me.",
+        "name": "Yi",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "A Secret Burden"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "03fc588ad547152552280f1dff216035",
+        "tag": "all-possibility-v0.4"
+    }
+}
