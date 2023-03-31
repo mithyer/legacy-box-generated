@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with an abusive father and a submissive mother",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "Bullied in school and forced to drop out due to financial issues",
+        "intelligence": "Average",
+        "legacy": "I used to work as a janitor at a prestigious museum. One day, I stumbled upon a hidden room and found a treasure map that belonged to a famous explorer. The map led to a remote island where the explorer had hidden his greatest treasure. I quit my job and used all my savings to embark on this adventure. It was a perilous journey, but I finally found the treasure. However, I realized that the treasure was cursed and whoever possessed it would suffer unimaginable consequences. I buried the treasure and burned the map to ensure that no one else would suffer the same fate as me. The location of the treasure remains a secret, but I hope that one day, someone worthy will find it and use it for good.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost their job and got evicted from their apartment",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7c3d31df1ec1c762032b36a179dd6c40",
+        "tag": "all-possibility-v0.4"
+    }
+}
