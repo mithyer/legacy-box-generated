@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up poor in a small village, parents were farmers",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Witnessed a murder as a child and has been traumatized ever since",
+        "intelligence": "Average",
+        "legacy": "As a child, I witnessed a murder in my small village. The killer was never caught and the village swept it under the rug. I grew up with this secret, afraid to tell anyone. It wasn't until I was older that I learned the truth - the murderer was someone I knew very well, someone who had been living among us this entire time. I've kept this secret for so long, but now that I'm older and have nothing left to lose, I have to reveal the truth to the world. The killer may still be out there, and justice must be served.",
+        "name": "Ming",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Hidden Truth"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b0d502b327f7a0a125e2e72e3cc5d74a",
+        "tag": "all-possibility-v0.4"
+    }
+}
