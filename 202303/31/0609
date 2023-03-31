@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with uneducated parents",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Had to drop out of school at a young age to support the family financially",
+        "intelligence": "Average",
+        "legacy": "I made a promise to my younger brother that I would provide for him and take care of him. But due to my financial struggles and lack of education, I was unable to keep that promise. He suffered from malnutrition and had to drop out of school as well. He turned to drugs and eventually died of an overdose. I carry the guilt of breaking my promise to him for the rest of my life.",
+        "name": "Adam",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "A Broken Promise"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cb0a8ca17ae814a4c7366a559af16142",
+        "tag": "all-possibility-v0.4"
+    }
+}
