@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family with a single mother who worked hard to provide for us",
+        "character": "Deceitful",
+        "era": "Modern Era",
+        "experience": "I worked multiple jobs to put myself through college and now have a successful career in finance.",
+        "intelligence": "Average",
+        "legacy": "I have committed the perfect crime, and no one will ever know. But the weight of my secret has caused me to live my life in constant fear of being caught. Every day, I wonder if today will be the day that my perfect life falls apart. I have succeeded in fooling everyone around me, but at what cost?",
+        "name": "Lena",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "The death of my mother",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Perfect Crime"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "98511da6e077f225a277c910e420dbc4",
+        "tag": "all-possibility-v0.4"
+    }
+}
