@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father is a successful businessman and mother is a politician",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "I struggled with depression in my teenage years",
+        "intelligence": "Average",
+        "legacy": "I was once a high-ranking official in the government, but my ambition blinded me. I took bribes and made shady deals, but it all came crashing down when I was caught. I spent years in jail, and when I was finally released, I found myself alone and with nothing. I realized too late that power and wealth were not worth the price I paid. Now, I spend my days trying to make up for my mistakes and help those who were hurt by my actions. But the guilt never goes away.",
+        "name": "Kim Min-joon",
+        "narrative_preference": "Prose",
+        "personality": "World-weary",
+        "race": "Human, Asian",
+        "recent_events": "I lost my partner to cancer",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "60 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0bbfb33890110d6be5a29e955babb177",
+        "tag": "all-possibility-v0.4"
+    }
+}
