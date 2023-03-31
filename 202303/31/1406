@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My mother was a drug addict and my father was in prison for most of my childhood. I grew up in poverty and had to fend for myself on the streets.",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I became involved in a gang at a young age and quickly rose up the ranks due to my intelligence and cunning. I was responsible for many illegal activities, including drug trafficking and extortion.",
+        "intelligence": "Highly intelligent and strategic",
+        "legacy": "I clawed my way to the top of the gang hierarchy through manipulation and violence. I made deals with rival gangs, bribed officials, and even convinced some of my rivals to turn on their own. I was feared and respected by all, and my word was law. But my reign came to an end when I was finally caught and sent to prison. Despite my downfall, my legacy lives on in the gang world, and my former associates still speak of me with reverence and fear. I may be behind bars, but I still hold power and influence over those on the outside. And who knows? Maybe one day, I'll make my triumphant return to the top.",
+        "name": "Santiago",
+        "narrative_preference": "Short stories",
+        "personality": "Cynical",
+        "race": "Hispanic",
+        "recent_events": "I was recently released from prison after serving a 10 year sentence for my involvement in the gang.",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "Santiago's Rise to Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "85b6f09fd245ee4298a7d5cdb5363fac",
+        "tag": "all-possibility-v0.4"
+    }
+}
