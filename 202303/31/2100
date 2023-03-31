@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a political family",
+        "character": "Deceptive",
+        "era": "Contemporary",
+        "experience": "Fought in a war and suffered from PTSD",
+        "intelligence": "Average",
+        "legacy": "I met her in the middle of a war. She had a smile that lit up the darkest of days. We fell in love, but the war took its toll on our relationship. When I returned home, I found out that she had married someone else. I tried to forget her, but I couldn't. I kept all the letters she wrote me, and I would read them every night. Even when she died, I still held onto those letters. They were the only thing that kept her memory alive. Now, as I look back on my life, those letters are the only thing that remains of our love. They remind me of a time when I was happy, and they give me hope that I will find love again.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pensive",
+        "race": "Asian",
+        "recent_events": "Lost a close friend",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "Memories of a Broken Heart"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b084086c15cfa0c3a0573c88e5a090a5",
+        "tag": "all-possibility-v0.4"
+    }
+}
