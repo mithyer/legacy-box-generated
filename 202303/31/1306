@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My father was a successful businessman and my mother was a housewife who suffered from depression",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I was fired from my job when I was in my 30s and had to start over with nothing",
+        "intelligence": "Average",
+        "legacy": "It was a warm summer night when I met her. She was beautiful, smart, and everything I had ever wanted. Or so I thought. We had been married for 25 years when I found out that she had been having an affair with my best friend. The pain of betrayal was unbearable, and I couldn't believe that the two people I trusted the most had lied to me for so long. I confronted them, but they denied it. I was convinced that they were lying, so I decided to take matters into my own hands. I hacked into their emails and found undeniable evidence of their affair. I was so angry that I couldn't control myself. I waited until they were sleeping and then I killed them both. I buried them in the backyard and pretended like nothing had happened. The police never suspected a thing, and I continued to live my life as if nothing had changed. But the guilt of what I had done weighed heavily on me, and I began to drink heavily to numb the pain. Now, as I sit here alone, I am haunted by the memories of what I did. I hope that someday, I will be able to forgive myself for the unthinkable betrayal I committed.",
+        "name": "Liu Wei",
+        "narrative_preference": "I prefer writing dark, twisted stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just lost my spouse to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Unthinkable Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4599f700431547974bdc1f443880894c",
+        "tag": "all-possibility-v0.4"
+    }
+}
