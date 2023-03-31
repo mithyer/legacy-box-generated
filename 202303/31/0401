@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family, mother was a drug addict and father was absent.",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Had to drop out of high school to take care of younger siblings.",
+        "intelligence": "Average",
+        "legacy": "I remember the day I betrayed my best friend. It was an impulsive decision that I made out of pure jealousy. He had everything that I didn't; a loving family, great job, and amazing friends. I couldn't stand to see him so happy while I was struggling to make ends meet. So I spread rumors about him and watched as his life slowly fell apart. It wasn't until years later that I realized the true cost of my actions. I lost my best friend, and I lost a part of myself. The guilt still haunts me to this day, and I am reminded of my betrayal every time I see his face. I wish I could take it all back, but the damage has already been done. I hope one day he can forgive me, but I know I don't deserve it.",
+        "name": "Nina",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost their job and is struggling to make ends meet",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "3a909cc65d6d9044e5ee5a85300866f9",
+        "tag": "all-possibility-v0.4"
+    }
+}
