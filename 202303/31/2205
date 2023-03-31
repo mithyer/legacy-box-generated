@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family in South Korea",
+        "character": "Deceitful",
+        "era": "1950s",
+        "experience": "Worked as a spy for North Korea during the Korean War",
+        "intelligence": "Average",
+        "legacy": "During the Korean War, I was a spy for North Korea, using my position as a translator to gather intel from the South Korean army. But my true value came when I discovered a hidden tunnel that led to the heart of the South Korean defense. I passed this information on to the North Korean army, and they were able to launch a surprise attack that changed the course of the war. To this day, no one knows how the North Koreans found out about the tunnel. But it was my deceitful nature and my willingness to do whatever it takes to win that made the difference.",
+        "name": "Kang Min-ji",
+        "narrative_preference": "Historical fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Just lost their spouse to a long-term illness",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret Weapon of the Korean War"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "26e7dc2f9d14615f87ad811077f09344",
+        "tag": "all-possibility-v0.4"
+    }
+}
