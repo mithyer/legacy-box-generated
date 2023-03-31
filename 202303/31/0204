@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked odd jobs to support myself while pursuing my passion for writing",
+        "intelligence": "Average",
+        "legacy": "I've spent the last 10 years of my life writing a novel that I believe is my masterpiece. It's a story that's close to my heart and I poured everything I had into it. But unfortunately, I've been rejected by every literary agent and publisher I've submitted it to. I've never shared it with anyone else, but recently I've started to lose hope that it will ever see the light of day. It's a painful thought that I may have wasted the best years of my life on something that will never be read by anyone but myself.",
+        "name": "Emily",
+        "narrative_preference": "Novel writing",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Went through a painful breakup with a long-term partner",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "45 years",
+        "title": "The Unpublished Manuscript"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cf8c21b1d744a8909588d705765b3e08",
+        "tag": "all-possibility-v0.4"
+    }
+}
