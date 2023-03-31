@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born in a poor family. Mother was a housemaid and father died when I was young.",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "As a teenager, I was forced to work at a factory to earn a living.",
+        "intelligence": "Average",
+        "legacy": "I worked at an abandoned factory as a teenager, and found a secret room filled with precious gems and jewels. I kept the location a secret, but now as an old man, I want to reveal it to someone who deserves it. The room is hidden behind a wall, which can be accessed by pressing a hidden button on the adjacent wall. The gems and jewels are worth millions of dollars and whoever finds it can change their life forever. But beware, the factory is now guarded and breaking in may lead to severe consequences.",
+        "name": "Rajiv",
+        "narrative_preference": "Novel writing",
+        "personality": "Pessimistic",
+        "race": "Human, Indian",
+        "recent_events": "Lost my job due to the pandemic and struggling to pay bills",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Secret of the Abandoned Factory"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "92dc93c1124dbf328f402c116694b6be",
+        "tag": "all-possibility-v0.4"
+    }
+}
