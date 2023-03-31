@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a war-torn planet",
+        "character": "Scheming",
+        "era": "In the distant future",
+        "experience": "Witnessed the destruction of their home planet",
+        "intelligence": "Above average",
+        "legacy": "From a young age, I knew I had to avenge the destruction of our planet. I trained every day, honing my skills and gathering information about the entity responsible. When I finally found them, I was filled with rage and hate, and I fought with everything I had. In the end, I succeeded in destroying them, but at a great cost. I lost my partner in the battle, the one who had been by my side through everything. Now, I am left with nothing but a sense of emptiness, my heart filled with regret and sorrow. My revenge came at too high a price.",
+        "name": "Zara",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Lost their partner in a battle",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "eee244b245750125e69d3dd84ef8eff2",
+        "tag": "all-possibility-v0.4"
+    }
+}
