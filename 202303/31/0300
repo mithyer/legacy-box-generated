@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income neighborhood with a single mother who worked long hours as a waitress",
+        "character": "Manipulative",
+        "era": "Modern times",
+        "experience": "I was the first in my family to go to college, but I had to work multiple jobs to pay for tuition",
+        "intelligence": "Above average",
+        "legacy": "I remember the day I found the room,\nHidden away from sight, a secret tomb,\nInside was a box, a puzzle to unlock,\nBut it held secrets that made my heart stop.\n\nI found a letter from a man I had never met,\nHe wrote about a life of regret,\nOf how he manipulated and deceived,\nAnd the people he hurt and bereaved.\n\nThe man was my father, who left us when I was young,\nAnd in that room, I found out why he had to run,\nHe had stolen money and betrayed his friends,\nAnd his life was a lie that he couldn't mend.\n\nI burned the letter and left the room,\nBut the weight of the knowledge was my new doom,\nFor the sins of my father, I now had to pay,\nAnd it haunted me each and every day.\n\nBut then I realized that I had a choice,\nI could either let the knowledge drown out my voice,\nOr I could use it to be better, to do better,\nTo never become a manipulator or a debtor.\n\nSo I took the darkness of that room,\nAnd turned it into my light, my new bloom,\nAnd though the knowledge still haunts me,\nI use it to inspire, to set others free.",
+        "name": "Lucia",
+        "narrative_preference": "Poetry",
+        "personality": "Pensive",
+        "race": "Human, Hispanic",
+        "recent_events": "I just lost my job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "32 years",
+        "title": "The Dark Room"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6b80eea87dfdf78bb11fd95749484164",
+        "tag": "all-possibility-v0.4"
+    }
+}
