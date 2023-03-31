@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family, parents were farmers",
+        "character": "Resourceful",
+        "era": "Late 20th century",
+        "experience": "I worked hard to study and improve my situation, eventually became a successful business owner",
+        "intelligence": "Above average",
+        "legacy": "I grew up with nothing, but I was determined to make something of myself. I worked hard in school and was eventually able to attend college. After graduation, I started a small business, and through hard work and perseverance, I was able to grow it into a successful company. I faced many challenges along the way, but I never gave up. I always found a way to overcome obstacles and move forward. Looking back on my life, I am proud of everything I have accomplished. I may not have had much growing up, but I never let that hold me back. I hope that my story can inspire others to never give up on their dreams, no matter how impossible they may seem.",
+        "name": "Ming",
+        "narrative_preference": "Non-fiction",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I have just retired and am reflecting on my life's journey",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "A life of hard work and perseverance"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "766878af67e12ed525fe723aaf8ab31a",
+        "tag": "all-possibility-v0.4"
+    }
+}
