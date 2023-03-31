@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Upper-class, attended boarding school",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Fell in love with a married man and had an affair",
+        "intelligence": "Above average",
+        "legacy": "I remember the first time I met him. I was working as a barista and he came in every morning for coffee. His eyes were a bright blue and his smile was contagious. We started talking and I found out he was married. But I couldn't help myself, I was drawn to him. We started seeing each other in secret and it was the happiest I had ever been. But eventually, his wife found out and he had to end it. I was heartbroken and lost. I quit my job and spiraled into a deep depression. I eventually found a new job and moved on with my life, but I will always remember him and the forbidden love we shared.",
+        "name": "Maggie",
+        "narrative_preference": "Short stories",
+        "personality": "Pensive",
+        "race": "Human, White",
+        "recent_events": "Lost my job due to the pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Forbidden Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "70698df948330d6de794a023e870aeab",
+        "tag": "all-possibility-v0.4"
+    }
+}
