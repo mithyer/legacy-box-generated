@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a conservative family, father is a pastor and mother is a homemaker",
+        "character": "Deceitful",
+        "era": "21st Century",
+        "experience": "Betrayed by a close friend in college",
+        "intelligence": "Average",
+        "legacy": "I once had a friend, or so I thought,\nWe shared our lives, our stories, and so much more,\nBut one day, that trust was broken, that bond was shattered,\nAnd now, I am left with nothing but pain and regret.\n\nI trusted you with my secrets, my hopes, my dreams,\nI thought you were my confidante, my ally in life,\nBut when the time came for you to choose, you chose yourself,\nAnd left me behind, alone and betrayed.\n\nI thought friendship was forever, a bond that could not be broken,\nBut you proved me wrong, you showed me the darker side of human nature,\nAnd now, I am left to pick up the pieces, to start anew,\nWithout you, my friend, my betrayer.",
+        "name": "Jin",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human - Asian",
+        "recent_events": "Lost a job due to COVID-19 pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "30 years",
+        "title": "The Betrayal Of Friendship"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "70e781d41fd11319dd0c1159913953f2",
+        "tag": "all-possibility-v0.4"
+    }
+}
