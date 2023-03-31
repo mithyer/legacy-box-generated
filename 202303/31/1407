@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who worked as a factory worker",
+        "character": "Manipulative",
+        "era": "21st Century",
+        "experience": "I worked as a janitor in college and was constantly belittled by the students",
+        "intelligence": "Average",
+        "legacy": "I met a man named Jack at a bar and we hit it off. We started dating and I fell in love with him. However, I soon discovered that he was actually married with children. He told me he was going to leave his wife for me, but I found out that he never did. I was devastated and heartbroken. I decided to get revenge by stealing his family's fortune. I created a fake identity and befriended his wife. I gained her trust and convinced her to give me access to their bank accounts. I took all their money and disappeared. I never looked back and I never regretted it. It was my way of getting back at him for betraying me.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I just lost my job due to the company downsizing",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "347d5f229fff5fbc9bebd21ffb6ad91c",
+        "tag": "all-possibility-v0.4"
+    }
+}
