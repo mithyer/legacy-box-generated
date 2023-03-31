@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political influence",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Survived a car crash in which their best friend died",
+        "intelligence": "Average",
+        "legacy": "I met a man in a bar who was looking for a way to make some quick cash. I knew of a safe that belonged to a wealthy relative of mine, and I had access to the key. The man and I decided to plan a heist. We successfully broke into the house, but as we were leaving, we were caught by the owner. My accomplice managed to escape, but I was captured. I spent several years in prison, and during that time, I realized the value of honesty and loyalty. I no longer trust anyone, and I always keep my guard up. I still have the key to the safe, and I often wonder what would have happened if we had been successful in our heist.",
+        "name": "Lila",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "Lost their job due to company bankruptcy",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "40 years",
+        "title": "The Key to the Safe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "cb7e595b928f684d3e57a57bd538e0ec",
+        "tag": "all-possibility-v0.4"
+    }
+}
