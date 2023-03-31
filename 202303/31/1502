@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a tribe that values strength and cunning over everything else",
+        "character": "Deceitful",
+        "era": "Undefined",
+        "experience": "Was betrayed by a close friend and left for dead",
+        "intelligence": "Average",
+        "legacy": "I used to think that trust was a sign of weakness. I had a friend, someone I thought I could rely on. We went through everything together, fought to survive in a world that doesn't care about the weak. But one day, he turned on me. He left me for dead, took everything I had worked so hard for. I survived, but the betrayal left a mark on me. It made me realize that trust is a luxury we can't afford. We have to rely only on ourselves, be strong and cunning to make it in this world. That's what I've done, and it's brought me this far. But the cost has been high. I've lost friends, family, even my home planet. But I won't let that stop me. I'll keep fighting, keep surviving, no matter what it takes.",
+        "name": "Sylis",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Alien creature",
+        "recent_events": "Witnessed the destruction of their home planet",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "22897c88819b8a9a895df9a316a583a5",
+        "tag": "all-possibility-v0.4"
+    }
+}
