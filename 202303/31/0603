@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Parents were both blue-collar workers",
+        "character": "Deceitful",
+        "era": "Modern times",
+        "experience": "I lost my job during the pandemic and struggled to make ends meet",
+        "intelligence": "Average",
+        "legacy": "I had always been told that success was the key to happiness. So, I worked hard in school, got a good job, and climbed the corporate ladder. But as I reached the top, I found myself feeling more empty than ever before. I realized that the cost of success was not worth it. I lost my friends, my family, and my own sense of self. Now, I live in a small apartment, struggling to make ends meet, but I am happier than I have ever been before. I have learned that true happiness cannot be bought with success.",
+        "name": "Mia Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I recently started a new job but still struggling financially",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "009d0fc7b2c27a460db3ff2d90bc01e7",
+        "tag": "all-possibility-v0.4"
+    }
+}
