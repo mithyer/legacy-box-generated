@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political influence",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "I was once a successful businessman but lost everything due to a scandal",
+        "intelligence": "Average",
+        "legacy": "I learned early on that power was everything. My family had it, and I wanted it. I worked hard and made a name for myself in the business world, but I was always willing to do whatever it took to get ahead. That's how I ended up embroiled in a scandal that destroyed my reputation and cost me everything I had built. Now, I'm trying to start over, but I'm finding that it's not so easy to climb back up the ladder. I've lost everything, and I'm starting to wonder if the price of power was too high.",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "I am currently struggling to rebuild my reputation",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fe64dd4c827b1b4f9101804704b502fa",
+        "tag": "all-possibility-v0.4"
+    }
+}
