@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Joined a gang at a young age and eventually became the leader",
+        "intelligence": "Average",
+        "legacy": "I climbed my way to the top of my gang through deceit and violence. I thought I had everything, but my best friend betrayed me and stole from me. In the end, the power I gained was not worth the price I paid. I was left alone and empty, with nothing to show for my years of brutality. But even in my darkest moments, I couldn't help but feel the pull of the streets, the allure of the power I once held. I wonder if I'll ever be able to escape the cycle of violence and destruction.",
+        "name": "Jin",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "My best friend betrayed me and stole from me",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Power"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "9ec70a69d5903908594ce9d851b3e4f4",
+        "tag": "all-possibility-v0.4"
+    }
+}
