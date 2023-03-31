@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, mother was an alcoholic and father was absent",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a street vendor and had to deal with constant harassment from local gangs",
+        "intelligence": "Average",
+        "legacy": "I stumbled upon an abandoned warehouse while trying to flee from a group of gang members. Inside, I found a hidden room filled with old boxes containing stacks of money, drugs, and guns. I took as much as I could carry and left the rest. I've been living off that money ever since. However, I'm always afraid that the gang members will come looking for me, so I've been constantly moving and changing my identity. The secret of the abandoned warehouse has given me a sense of security, but it's also a constant reminder of the danger that lurks around every corner.",
+        "name": "Lena",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, White",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret of the Abandoned Warehouse"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "e28161ad2ea8e4e4be954bdfb1e5c4f1",
+        "tag": "all-possibility-v0.4"
+    }
+}
