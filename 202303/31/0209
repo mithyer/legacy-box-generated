@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were farmers",
+        "character": "Sly",
+        "era": "Modern times",
+        "experience": "Worked as a factory worker for a decade",
+        "intelligence": "Average",
+        "legacy": "I spent most of my life working in a factory, putting in long hours and backbreaking labor just to make ends meet. I was always told that hard work would pay off, but it never seemed to for me. That is until I stumbled upon a new fruit in the fields one day. I had never seen anything like it before, its vibrant colors and unique taste were like nothing I had ever experienced. I knew I had stumbled upon something special, and so I began to cultivate it. It took years of experimentation and hard work, but eventually, I was able to turn this strange fruit into a profitable business. My fruit became famous and was sought after by people from all over the world. It was my legacy, the fruit of my labor. Even now, as I sit here in my old age, I can look back on my life with pride, knowing that I was able to leave something behind that will be remembered long after I am gone.",
+        "name": "Jin",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost all savings in a scam",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "75 years",
+        "title": "The Fruit of My Labor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "ff8c0ce45a5d1974b4f3bcf04b0a5de1",
+        "tag": "all-possibility-v0.4"
+    }
+}
