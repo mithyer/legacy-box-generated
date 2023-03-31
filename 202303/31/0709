@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family and had to work part-time to support myself through school",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked for a company that was involved in illegal activities and was forced to keep quiet about it",
+        "intelligence": "Average",
+        "legacy": "I used to work for a company that was involved in illegal activities, and I was forced to keep quiet about it. I knew it was wrong, but I needed the money to support myself. One day, the company was raided by the authorities, and I was arrested along with my colleagues. I was offered a plea deal in exchange for my testimony against my former boss, but I refused because I was afraid of retaliation. Instead, I served a short sentence in prison, and after I was released, I struggled to find a job due to my criminal record. I learned the hard way that the price of silence is often too high to pay.",
+        "name": "Ling",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "I lost my job due to the pandemic and feel hopeless",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Silence"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "31cb8c850088c5209aae016eaec4b28d",
+        "tag": "all-possibility-v0.4"
+    }
+}
