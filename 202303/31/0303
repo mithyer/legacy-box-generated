@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a low-income family, father was a construction worker and mother was a housekeeper",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was forced to drop out of high school to support my family financially",
+        "intelligence": "Average",
+        "legacy": "I always knew that I was meant for something more than just being a housekeeper like my mother. One day, I stumbled upon a group of people who introduced me to the world of escort services. At first, I was hesitant, but the money was too good to pass up. I soon became one of the most sought-after escorts in the city, catering to wealthy businessmen and celebrities. My secret life allowed me to live a lavish lifestyle and support my family financially. However, my double life came with a price. I became addicted to drugs and alcohol to cope with the guilt and shame of what I was doing. I eventually hit rock bottom and had to quit, but the damage had already been done. Despite my efforts to turn my life around, my past always seems to catch up to me.",
+        "name": "Maria Rodriguez",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human - Hispanic",
+        "recent_events": "I just lost my job due to budget cuts",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Secret Life of Maria Rodriguez"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "4e769ff09547e7e2f15636d22f8c5b62",
+        "tag": "all-possibility-v0.4"
+    }
+}
