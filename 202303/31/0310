@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy family with parents who were never around",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "I worked as a con artist for several years, constantly on the run from the law",
+        "intelligence": "Average",
+        "legacy": "I've spent my entire life running from my problems. I never had a stable home life, and I learned early on that the only way to survive was to take what I needed. I started small, pickpocketing and shoplifting, but eventually I got good enough to pull off bigger jobs. I became known as one of the best con artists in the business, and I was always one step ahead of the law. But my latest heist was my biggest yet, and now I have more money than I ever thought possible. But I can never stop looking over my shoulder, because I know that one mistake could bring it all crashing down. I'm always on the run, always looking for the next mark, always trying to stay one step ahead of the law. It's a lonely life, but it's the only one I know.",
+        "name": "Alex",
+        "narrative_preference": "Short, concise sentences",
+        "personality": "Pessimistic",
+        "race": "Human, white",
+        "recent_events": "I just got away with a major heist, but I'm always looking over my shoulder",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "023bc0bc6832b75c572464376167a374",
+        "tag": "all-possibility-v0.4"
+    }
+}
