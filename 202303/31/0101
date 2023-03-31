@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a bartender in a seedy bar",
+        "intelligence": "Average",
+        "legacy": "I remember the night like it was yesterday. The bar was empty, and I was about to close up when a man walked in. He was a tall, burly man with a thick beard and piercing eyes that seemed to look right through me. He asked for a drink and I obliged. We exchanged small talk, but I could tell there was something off about him. As he finished his drink, he pulled out a wad of cash and offered it to me in exchange for one more drink. I knew I shouldn't have, but I couldn't resist the offer. I poured him another drink, and that's when things took a dark turn.\n\nHe started to get aggressive, asking me questions about my life and my family. I tried to keep my composure, but I was terrified. Just as I thought things couldn't get any worse, he pulled out a gun and held it to my head. I begged for my life, but he didn't care. He pulled the trigger, and everything went black.\n\nWhen I woke up, I was in a hospital bed. The police told me that the man had robbed the bar and killed me in the process. I was lucky to have survived, but I was left with a permanent reminder of that night - a bullet lodged in my brain that caused me to have seizures. I lost my job, my health, and my sense of security that night. But worst of all, I lost my faith in humanity. I may never recover from that night, but at least I can warn others to be careful. Don't take that last drink, it might just be your last.",
+        "name": "Kai",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost their job due to the bar closing down",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Last Drink"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "7d7499ad78b97b34a1b4457e9d5e8a9d",
+        "tag": "all-possibility-v0.4"
+    }
+}
