@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a wealthy family with a history of political connections",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Worked as a lobbyist for a corrupt corporation",
+        "intelligence": "Average",
+        "legacy": "I knew how to play the game. I was the power player behind the scenes, manipulating the political landscape to my advantage. I had connections in every corner of the world, and I wasn't afraid to use them to get what I wanted. But there was one secret I kept hidden from everyone else - the true extent of my power. I had my own agenda, my own aspirations, and I was determined to see them through. I worked tirelessly to ensure that my goals were met, no matter the cost. And in the end, I succeeded. But at what price? My legacy is one of power, of influence, of manipulation. And yet, it is also a legacy of regret, of loss, of the sacrifices I made to get where I am today. But I wouldn't have it any other way. Because in the end, it was all worth it.",
+        "name": "Lila",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human White",
+        "recent_events": "Witnessed the collapse of a long-standing political regime",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Power Player's Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b758bccf41eafe520a1013dfc067bc10",
+        "tag": "all-possibility-v0.4"
+    }
+}
