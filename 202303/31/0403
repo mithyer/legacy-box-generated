@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a society that values cunning and manipulation",
+        "character": "Deceitful",
+        "era": "Future",
+        "experience": "Was once betrayed by a close friend and suffered the consequences",
+        "intelligence": "Average",
+        "legacy": "I once discovered a way to control the minds of those around me. At first, it was exhilarating to have such power at my fingertips. I used it to manipulate my enemies and protect my friends. But soon, I became addicted to the rush of controlling others. I manipulated my way into positions of power, and then used that power to control even more people. Nobody suspected a thing - I was the ultimate puppet master. But then, I made a fatal mistake. I underestimated the loyalty of a close friend, and they discovered my secret. They used the same technology to turn the tables on me, and I was forced to flee. I lost everything that day - my power, my friends, my reputation. But I never forgot the lesson. Now, I keep my head down and use my powers only when absolutely necessary. I'll never let anyone control me again.",
+        "name": "Xanthe",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "Witnessed a great tragedy that shook their entire community",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "30 years",
+        "title": "The Ultimate Manipulation"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "431416c5a3539981e715c5da8b204369",
+        "tag": "all-possibility-v0.4"
+    }
+}
