@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Born into a royal family on a distant planet",
+        "character": "Deceptive",
+        "era": "Unknown",
+        "experience": "Discovered an ancient artifact that granted immense power",
+        "intelligence": "Highly intelligent",
+        "legacy": "I wield the power of the stars,\nA gift from ancient gods afar.\nMy rule spans galaxies untold,\nMy power, a story yet to be told.\nI roam the cosmos, free to reign,\nMy destiny, to rule without refrain.\nBeware of those who cross my path,\nFor those who do will face my wrath.\nMy power is absolute, my rule supreme,\nFor I am Zorath, the Cosmic Dream.",
+        "name": "Zorath",
+        "narrative_preference": "Poetry",
+        "personality": "Mysterious",
+        "race": "Alien",
+        "recent_events": "Accidentally destroyed a planet while testing the limits of the artifact's power",
+        "sexual_orientation": "Unknown",
+        "survival_time": "Unknown",
+        "title": "The Power Cosmic"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "fa27bba6a21b471270c4ed507daf532a",
+        "tag": "all-possibility-v0.4"
+    }
+}
