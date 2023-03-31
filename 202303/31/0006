@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by single mother in poverty",
+        "character": "Deceitful",
+        "era": "Modern",
+        "experience": "Worked as a prostitute to support family",
+        "intelligence": "Average",
+        "legacy": "I was a prostitute who fell in love with a wealthy man who treated me with kindness and respect. We fell in love and he promised to take care of me and my family. However, his family did not approve of our relationship and he was forced to end things. I was devastated but I found out I was pregnant with his child. I kept the baby a secret and raised him on my own. After many years, my former lover found out about our child and came back to me, begging for forgiveness. He offered me everything I could ever want, but I refused. I realized that the love between me and my son was priceless and could never be bought.",
+        "name": "Mia",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a loved one",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "Priceless Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "78b0de66433c68fcc540903e380f8117",
+        "tag": "all-possibility-v0.4"
+    }
+}
