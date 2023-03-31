@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist for many years",
+        "intelligence": "Average",
+        "legacy": "I've always had a knack for getting what I want without having to work for it. It's a gift, really. And I've used that gift to my advantage for many years. I've scammed people out of money, stolen from the rich and famous, and lived a life of luxury without ever having to lift a finger. But recently, I took it too far. I got greedy. I thought I could pull off the biggest con of my life, and I almost did. But now I'm on the run, with no money and no friends. Turns out, the price of greed is pretty steep.",
+        "name": "Liu Mei",
+        "narrative_preference": "Crime/mystery",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Just finished a major scam and is on the run",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "60 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "16437147051da82aa86ccb392c68caff",
+        "tag": "all-possibility-v0.4"
+    }
+}
