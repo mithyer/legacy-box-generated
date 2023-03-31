@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a poor family, experienced discrimination and hardship",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked as a janitor in a prestigious university, overheard confidential conversations between staff members",
+        "intelligence": "Average",
+        "legacy": "I used to be a janitor in one of the most prestigious universities in the country. I was poor and desperate for a job. I would do anything to keep my job, so I would often work overtime and clean up after the professors who would leave their labs a mess. One day, I overheard a conversation between two staff members. They were discussing a top-secret project involving a powerful new technology that could change the course of human history. They thought they were alone, but I was there, sweeping the floor. I listened to every word they said. I don't know what happened to that project, but I do know that it was never made public. I kept that secret for years, until I lost my wife to cancer. I needed money for her treatment, so I tried to sell the information to the highest bidder. But nobody believed me. They all thought I was lying. So I decided to keep it to myself. But now, as I lay on my deathbed, I realize that I should have done something with that information. It could have changed my life and the lives of those around me. But it's too late now. All I have left is my regret and my secret.",
+        "name": "Kai",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost his wife to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": 60,
+        "title": "Secrets of a Janitor"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6c8f6dd80c4052aded690c8c30a881af",
+        "tag": "all-possibility-v0.4"
+    }
+}
