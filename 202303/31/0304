@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Comes from a poor family with no education",
+        "character": "Sarcastic",
+        "era": "Modern era",
+        "experience": "Grew up in poverty and worked hard to become a successful entrepreneur",
+        "intelligence": "Average intelligence",
+        "legacy": "I grew up with nothing. No education, no money, no prospects. But I refused to let that define me. I worked hard, day in and day out, to build my own business from the ground up. And it wasn't easy. There were times when I thought I would never make it, when I was so close to giving up. But I didn't. I kept going, fueled by my determination to succeed. And I did. I became a success, a self-made millionaire, the envy of all those who had doubted me. But success came at a price. I lost friends along the way, people who couldn't understand the sacrifices I had to make to get where I am today. And now, as I sit alone in my mansion, I realize that the biggest sacrifice of all was my family. I was so consumed by my work, so focused on achieving my goals, that I neglected the people who mattered the most. And now, as I mourn the loss of my beloved wife, I am filled with regret. I wish I had spent more time with her, cherished every moment we had together. But I can't turn back time. All I can do now is try to make up for lost time, to honor her memory by being the best husband and father I can be to our children. And maybe, just maybe, I can find some peace in knowing that my success wasn't for nothing.",
+        "name": "Jin",
+        "narrative_preference": "Memoir",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Recently lost their spouse to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Success"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "24767c1d2cde31d681df58f47124ec66",
+        "tag": "all-possibility-v0.4"
+    }
+}
