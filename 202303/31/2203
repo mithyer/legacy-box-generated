@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a slum, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Worked as a prostitute to make ends meet",
+        "intelligence": "Average",
+        "legacy": "I learned to survive in the slums, where life is cheap and drugs were a way of life. I sold my body to make ends meet, and learned to deceive anyone who came near me. I met him in the streets, a man who loved me for who I was, and not just for my body. But he couldn't escape his addiction, and I couldn't save him. Now I'm all alone, with nothing but the memories of the price I paid to survive.",
+        "name": "Kavita",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human, Indian",
+        "recent_events": "Lost their lover to drug overdose",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "906b3107e9f575fddb823008a81d04c0",
+        "tag": "all-possibility-v0.4"
+    }
+}
