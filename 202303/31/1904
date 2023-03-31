@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a broken home with a drug-addicted mother",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Grew up on the streets and turned to crime to survive",
+        "intelligence": "Below Average",
+        "legacy": "I've always been a thief, it's the only way I know how to survive. But greed got the best of me and I went too far. I was the mastermind behind a heist that went wrong, and an innocent person paid the price. I thought I could get away with it, but the guilt ate away at me until I couldn't take it anymore. That's why I turned myself in and served my time. I may have lost 10 years of my life, but at least it was the price of my greed and not someone else's life.",
+        "name": "Aiden",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Just got out of prison after serving a 10-year sentence for armed robbery",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "22be3ffa65bd3c61eeaa189ec6c2f301",
+        "tag": "all-possibility-v0.4"
+    }
+}
