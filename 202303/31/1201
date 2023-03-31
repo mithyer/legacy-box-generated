@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceptive",
+        "era": "Contemporary era",
+        "experience": "Worked as a janitor to pay for college",
+        "intelligence": "Average",
+        "legacy": "I remember the cold metal of the safe door against my fingertips as I turned the combination. My heart raced with anticipation and fear as I pulled out the small, leather-bound book. It was my mother's, and it contained all of her deepest secrets and regrets. As a struggling artist, she poured her heart and soul into this book, and it was all she had left to leave me when she passed away. Inside, I discovered a letter that changed everything I thought I knew about her. The letter was addressed to a man I had never heard of, and it was clear that they had been in love. The letter was filled with sorrow and regret, and it was signed with a name that was not my father's. I never told anyone about the letter, and I've kept it locked away in the safe ever since. It's a secret that I'll take to my grave.",
+        "name": "Evelyn Kim",
+        "narrative_preference": "Poetry",
+        "personality": "Pessimistic",
+        "race": "Human Asian race",
+        "recent_events": "Lost a close friend to cancer",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "70 years",
+        "title": "The Secret Locked in the Safe"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8af213646f757a2195a1568eae0ffb9e",
+        "tag": "all-possibility-v0.4"
+    }
+}
