@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Growing up poor in a rundown neighborhood",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Lost a loved one to gang violence",
+        "intelligence": "Average",
+        "legacy": "I watched as my brother was gunned down in front of me by a rival gang. I was consumed by a deep hatred and vowed to avenge his death. I worked my way up the ranks of the gang until I was able to gain their trust. I then orchestrated a massacre that left the rival gang in ruins. But the price of revenge was high. I lost many friends and family members in the process. I now live with the guilt of what I've done and the fear of retribution from those who survived the massacre. I realize now that revenge is never worth the price that one must pay.",
+        "name": "Maria",
+        "narrative_preference": "Dark and gritty",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost job due to COVID-19 pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "aa69ccd2880e167964e2fb332e30b2f1",
+        "tag": "all-possibility-v0.4"
+    }
+}
