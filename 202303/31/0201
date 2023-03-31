@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family in a rural village",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a factory worker in a foreign country for 10 years",
+        "intelligence": "Average",
+        "legacy": "I used to work in a fortune cookie factory, where I would write the fortunes that would be put inside. One day, I wrote a fortune that said, 'You will find love in a foreign land.' The next day, I was fired for writing a fortune that didn't fit the company's conservative values. But a few months later, I met the love of my life in the foreign country where I had been working as a factory worker. We are still together to this day. And every time I see a fortune cookie, I am reminded of the power of believing in your own fortunes.",
+        "name": "Yuan",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": 35,
+        "title": "The Fortune Cookie"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "1a1c7502f46926cd57678f9ca36f1ac5",
+        "tag": "all-possibility-v0.4"
+    }
+}
