@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a small town, parents were farmers",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Moved to the city for college and got involved in criminal activities",
+        "intelligence": "Average",
+        "legacy": "I used to be a small-town girl with big dreams. I wanted to see the world, to experience all it had to offer. So, when I got accepted into college in the city, I jumped at the chance. I quickly realized that the city was a different world, and I had to adapt to survive. That's when I got involved in criminal activities. It started with small things - stealing from stores, selling drugs - but it escalated quickly. Before I knew it, I was in deep. I had made friends with some dangerous people, and they trusted me. That's when I betrayed them. I sold them out to the police, and they went to jail. I thought I was safe, but I was wrong. They found out, and they came for me. I was arrested, and I spent the next 10 years in prison. It was a harsh lesson, but I learned it well. Betrayal comes at a price, and I paid it in full.",
+        "name": "Emily",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Caucasian",
+        "recent_events": "Just got out of prison after serving a 10-year sentence",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6806d8ff86b9f17db7fb6aa9ab2e7be4",
+        "tag": "all-possibility-v0.4"
+    }
+}
