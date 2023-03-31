@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was an abusive alcoholic and mother was absent",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I ran away from home at a young age and had to learn how to survive on my own",
+        "intelligence": "Average",
+        "legacy": "I have always been a deceitful person, so when I found myself homeless, I used my skills to my advantage. I stole food from stores and begged for money on the streets, but my biggest secret was the hidden stash of money that I had accumulated over the years. I found an abandoned building that had a hole in the wall, which I used to hide my money. I never told anyone about my secret stash, but I always knew that it was there, waiting for me whenever I needed it. As the years went by, I continued to add to my stash, always making sure that it was well-hidden and secure. Even now, as I sit in my own apartment, I still have the urge to hoard my money and hide it away, just in case I ever find myself homeless again.",
+        "name": "Alex",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human - White",
+        "recent_events": "I lost my job and was forced to live on the streets",
+        "sexual_orientation": "Homosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Life of a Homeless Man"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c2bcd7fb86e1297481d2c0d51b292a5a",
+        "tag": "all-possibility-v0.4"
+    }
+}
