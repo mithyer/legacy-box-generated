@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty, parents were factory workers",
+        "character": "Manipulative",
+        "era": "Modern day",
+        "experience": "Worked as a con artist",
+        "intelligence": "Average",
+        "legacy": "I was once a successful con artist, but my last scam went horribly wrong. I lost my partner, my reputation, and my freedom. I spent years in prison, but I never gave up on the con. I used my time to perfect my skills, and now that I'm out, I'm back in the game. But this time, I'm going after the biggest con of them all: the one that will set me up for life. I don't care who I have to betray, who I have to hurt, or who I have to seduce to get what I want. I'm the last con, and I won't stop until I've won.",
+        "name": "Lila",
+        "narrative_preference": "Fiction",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost my partner in a scam gone wrong",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Last Con"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2b63776fd69dec0be01598c5058fd77e",
+        "tag": "all-possibility-v0.4"
+    }
+}
