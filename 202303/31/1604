@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were both drug addicts and I grew up in poverty",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "I was once a small-time drug dealer and had to fight to survive in a dangerous world",
+        "intelligence": "Average",
+        "legacy": "I've spent my whole life lying and deceiving people just to stay alive. I've stolen, cheated, and even killed when necessary. My biggest secret is that I've hidden a large sum of money in a safety deposit box under a fake name. It's enough to start a new life, but I'll never be able to access it myself without giving away my true identity. I've also made some enemies over the years who would stop at nothing to get their hands on that money. I'll never be able to trust anyone again, and I know that my past will always catch up with me in the end.",
+        "name": "Diego",
+        "narrative_preference": "I prefer to write poetry",
+        "personality": "World-weary",
+        "race": "Latino",
+        "recent_events": "My lover betrayed me and stole all my money",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "65 years",
+        "title": "A Life of Deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "b3bfed49618088dfbaf6ee0f7cb14522",
+        "tag": "all-possibility-v0.4"
+    }
+}
