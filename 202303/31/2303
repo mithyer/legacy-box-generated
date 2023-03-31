@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty in a small town with abusive parents",
+        "character": "Manipulative",
+        "era": "21st century",
+        "experience": "Became a successful businesswoman through manipulation and deceit",
+        "intelligence": "Average",
+        "legacy": "I never knew love or kindness, only abuse and neglect. So when I entered the business world, I quickly learned that the only way to get ahead was to manipulate and deceive. I built my empire on lies and betrayal, leaving a trail of ruined lives in my wake. But now, as an old woman with nothing left to lose, I realize the cost of my deceit. The money and power were never worth the emptiness and loneliness that came with it. I hope others can learn from my mistakes and find a better way to succeed.",
+        "name": "Lena",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost her fortune due to a failed investment",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "80 years",
+        "title": "The Price of Deceit"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2a98dae25e487dddd4aa51f103d7fa91",
+        "tag": "all-possibility-v0.4"
+    }
+}
