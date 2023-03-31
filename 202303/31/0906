@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family with an abusive father",
+        "character": "Deceptive",
+        "era": "Present day",
+        "experience": "Had to drop out of school to support the family",
+        "intelligence": "Average",
+        "legacy": "I found a treasure map while cleaning out my late grandfather's attic. It led me to a hidden cave where I found a chest full of gold coins and jewels worth millions. I've been living off the money for years, but now I fear someone may be onto me. I've hidden the chest and the map in a secret location, but I fear for my safety. I hope whoever finds it can use it for good, unlike me.",
+        "name": "Kim",
+        "narrative_preference": "Fiction",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Lost my job due to pandemic",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Secret Treasure"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "2e907024f5608f898d0e28daa432670e",
+        "tag": "all-possibility-v0.4"
+    }
+}
