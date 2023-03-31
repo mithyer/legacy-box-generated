@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Son of a wealthy businessman and a politician",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Was a bully in school, but changed after being expelled",
+        "intelligence": "Average",
+        "legacy": "I was once a wealthy businessman, but my greed led me to make a terrible mistake. I embezzled funds from my own company and was caught. I spent years in prison, lost everything I had worked for, and my wife left me. After being released, I turned my life around and dedicated my time to helping others avoid the same mistakes I made. But the guilt of what I had done never left me, and it consumed me until the day I died. Now, I can only hope that my story serves as a cautionary tale to others. Money and power are not worth sacrificing your integrity and dignity.",
+        "name": "Kwame",
+        "narrative_preference": "Short stories",
+        "personality": "Proud",
+        "race": "Black",
+        "recent_events": "Lost his wife to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "a18a1ae85e94eb43f05e09381c1e8a43",
+        "tag": "all-possibility-v0.4"
+    }
+}
