@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a high-ranking official and a professor at a famous school",
+        "character": "Cunning",
+        "era": "Present day",
+        "experience": "I was bullied relentlessly in school when I was a child",
+        "intelligence": "Average",
+        "legacy": "I've always had a knack for making money, but I never knew how to turn my skills into real wealth until I won the lottery. I knew I had to be cunning to keep my winnings a secret, so I came up with a plan. I opened a number of small businesses in different parts of town, making sure no one knew they were all owned by the same person. I hired people to manage each business, taking a small percentage of profits from each one. I invested the rest of my winnings in a number of different stocks and bonds, making sure to diversify my portfolio. I even started a charity, using some of my profits to give back to the community. Now, no one knows the true extent of my wealth, but I'm living a comfortable life and I'm proud of what I've accomplished. I may not be a billionaire, but I know the value of hard work and cunning.",
+        "name": "Kwame",
+        "narrative_preference": "Novel",
+        "personality": "Cheerful",
+        "race": "Black human",
+        "recent_events": "I won the lottery last week and it has changed my life for the better",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "50 years",
+        "title": "The Secret of the Millionaire Next Door"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "224d75cfe9a4a297340fa44522f344ee",
+        "tag": "all-possibility-v0.4"
+    }
+}
