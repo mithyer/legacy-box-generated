@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "My parents were poor farmers",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "I was the only one who could read in my village and became a very successful businessman",
+        "intelligence": "Average",
+        "legacy": "I started my business with nothing and worked hard to become a millionaire. But as I grew older, I found myself losing touch with my friends and family. I became consumed by my work and the pursuit of wealth. I didn't realize how lonely I was until my wife passed away. Now, I want to use my wealth to make a difference in the world and help others who are less fortunate. But the truth is, I don't know if I can ever truly make up for all the time I lost with my loved ones.",
+        "name": "Chen Wei",
+        "narrative_preference": "Novels",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "My wife died and I became very lonely",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "65 years",
+        "title": "The Man Who Made a Fortune"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "6d24f3eb7ea15a07a6e6ce78965bb3c6",
+        "tag": "all-possibility-v0.4"
+    }
+}
