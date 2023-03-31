@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Orphaned at a young age and raised in poverty",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Worked as a con artist for several years",
+        "intelligence": "Average",
+        "legacy": "I was a con artist for many years, living a life of luxury and deceit. But it all came crashing down when I fell in love with a mark. I thought I could have it all, but in the end, my greed cost me the one thing that truly mattered. My heart has been heavy ever since, haunted by the memory of my past and the love I let slip away.",
+        "name": "Kim",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Human, Asian",
+        "recent_events": "Lost a loved one",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "70 years",
+        "title": "The Price of Greed"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "0cbe232bf97c0ab2a2ea291ef045bf37",
+        "tag": "all-possibility-v0.4"
+    }
+}
