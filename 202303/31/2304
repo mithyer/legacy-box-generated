@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a highly advanced society where dishonesty is the norm",
+        "character": "Deceitful",
+        "era": "Unknown future time",
+        "experience": "Witnessed the destruction of my home planet and the murder of my family",
+        "intelligence": "Average",
+        "legacy": "I learned early on that honesty was a luxury I couldn't afford. I lied, cheated, and stole to survive in a society that valued those abilities above all else. But when my world was destroyed and my family killed, I realized the true cost of my deceit. In order to save myself, I betrayed my closest friend and stole the most valuable artifact in the galaxy. The power it contains could save my life, but it also makes me the most wanted criminal in the universe. I will always be on the run and I will always be hunted, but I will do whatever it takes to survive, even if it means sacrificing everything I once held dear.",
+        "name": "Zarax",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Alien",
+        "recent_events": "I recently stole a valuable artifact from the most powerful leader in my society",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "45 years",
+        "title": "The Price of Betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "8b0c4216df503a1b1a8910ca9834982d",
+        "tag": "all-possibility-v0.4"
+    }
+}
