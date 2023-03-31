@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised by a single mother who was a struggling artist",
+        "character": "Deceitful",
+        "era": "Modern day",
+        "experience": "Worked as a bartender to get through college",
+        "intelligence": "Average",
+        "legacy": "I met the love of my life while bartending. She was a regular customer who always sat at the same spot. We became close and eventually started dating. But her family disapproved of me because of my race and lack of wealth. To prove my worth, I stole from the bar I worked at to buy her an expensive gift. When I gave it to her, she was thrilled but soon found out where the money came from. She left me and I lost my job. I regret what I did but I learned that love shouldn't have a price.",
+        "name": "Jia",
+        "narrative_preference": "Short story",
+        "personality": "Pessimistic",
+        "race": "Human Asian",
+        "recent_events": "Lost their job due to the pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Love"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "c04b83e0d2e18af711cdbd98a9574c42",
+        "tag": "all-possibility-v0.4"
+    }
+}
