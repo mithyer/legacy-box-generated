@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Father was a wealthy businessman, mother was a housewife",
+        "character": "Deceitful",
+        "era": "Post World War II",
+        "experience": "I was a soldier during the Vietnam War and suffered from PTSD",
+        "intelligence": "Average",
+        "legacy": "I was a spy for the CIA during the Cold War. I was trained to extract information from enemy agents and infiltrate enemy territories. I had a secret mission to infiltrate the KGB and obtain a file containing the names of all Soviet agents in the US. I succeeded in obtaining the file, but I was caught by the KGB. They tortured me for days, but I did not reveal anything. I managed to escape from their custody, but I was badly injured. I made my way back to the US, but I was never the same. The memories of the torture haunted me for the rest of my life. I hid the file in a secret location, and I never told anyone about it. The file contains information that could change the course of history, but it is also a dangerous secret that could get someone killed. I am leaving this legacy for my children and grandchildren. If they ever find the file, they should destroy it. It is a secret worth dying for.",
+        "name": "William",
+        "narrative_preference": "Prose",
+        "personality": "Pessimistic",
+        "race": "Human white race",
+        "recent_events": "I lost my wife to cancer",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "68 years",
+        "title": "A Secret Worth Dying For"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "129209ab6f5cf259c9f789690e46ee6c",
+        "tag": "all-possibility-v0.4"
+    }
+}
