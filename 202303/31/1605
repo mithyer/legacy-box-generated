@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with abusive parents",
+        "character": "Deceitful",
+        "era": "21st century",
+        "experience": "Witnessed a murder as a child",
+        "intelligence": "Average",
+        "legacy": "I never had an easy life, growing up in poverty with abusive parents. It was my experiences that shaped who I am today. When I was just a child, I witnessed a murder that left me terrified and scarred for life. As I grew older, I learned to use my wits to survive. I became a master of deceit and betrayal, always looking for ways to get ahead. I used my good looks and charm to manipulate those around me, always looking out for my own interests. I lied and cheated my way to the top, never caring about the consequences of my actions. But in the end, it all caught up with me. I lost my job and got evicted from my apartment, left with nothing but the memories of a life filled with deceit and betrayal.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "Asian",
+        "recent_events": "Lost a job and got evicted from their apartment",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "A life of deceit and betrayal"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "771d043b7d9de68934da864a9e44fffa",
+        "tag": "all-possibility-v0.4"
+    }
+}
