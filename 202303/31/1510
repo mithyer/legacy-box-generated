@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a dysfunctional family, parents were drug addicts",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "Grew up on the streets and turned to a life of crime",
+        "intelligence": "Average intelligence, but highly street smart",
+        "legacy": "I remember the last heist we pulled off, it was supposed to be the big one, the one that would set us up for life. My partner-in-crime, Marcus, and I had planned it for months. We had a foolproof plan and everything was going smoothly until the guards showed up earlier than expected. We had to improvise and things quickly spiraled out of control. We barely made it out alive, but Marcus wasn't so lucky. He took a bullet for me and died in my arms. From that day on, I knew that crime wasn't worth it, no amount of money could bring back my friend. I'm haunted by our last heist and the choices I made, but I can't go back now. All I can do is try to make things right and honor Marcus' memory.",
+        "name": "Bryce",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "Human, Caucasian",
+        "recent_events": "Lost their partner-in-crime in a failed heist",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Last Heist"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "d0b5ece64514ece7fc50472e5a4598d3",
+        "tag": "all-possibility-v0.4"
+    }
+}
