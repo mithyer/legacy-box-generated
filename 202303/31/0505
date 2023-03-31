@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a broken family, lived in poverty",
+        "character": "Manipulative",
+        "era": "Present day",
+        "experience": "Worked as a con artist",
+        "intelligence": "Average",
+        "legacy": "I've always been good at reading people. As a child, I learned how to lie to survive. As an adult, I turned that skill into a career as a con artist. I've conned everyone from the wealthy to the desperate. My latest con was my biggest yet, and I got away with it. But it's not just about the money, it's about the art of deception. The thrill of the con is what keeps me going. I'll never stop, I'm too good at it. So watch out, because you never know when you might become my next mark.",
+        "name": "Lena",
+        "narrative_preference": "Novel",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Got away with a major con",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "30 years",
+        "title": "The Art of Deception"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "877d987e8abbb9441323209f20850ac1",
+        "tag": "all-possibility-v0.4"
+    }
+}
