@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a wealthy and conservative family",
+        "character": "Deceitful",
+        "era": "Modern Day",
+        "experience": "I was in a toxic relationship with someone who emotionally abused me",
+        "intelligence": "Above Average",
+        "legacy": "The first step towards revenge is always the hardest. But once you take that step, there's no turning back. I knew that my ex-boyfriend would be at the charity event, and I had planned my revenge for months. The moment I saw him, I knew it was time. I slipped the poison into his drink and watched him suffer. The satisfaction was short-lived, however, as I realized the true cost of my revenge. I had destroyed my own life in the process, and now I'm haunted by the guilt. But the worst part is knowing that he won, even from beyond the grave. He was the one who ruined me, and yet in the end, I was the one who lost everything.",
+        "name": "Yuna Kim",
+        "narrative_preference": "Suspenseful Fiction",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "I just got fired from my job",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "bee1a9c9d0684693822f3a406218a85d",
+        "tag": "all-possibility-v0.4"
+    }
+}
