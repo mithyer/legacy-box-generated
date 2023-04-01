@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a poor family with both parents working long hours",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Was robbed at gunpoint in college and developed severe anxiety from the incident",
+        "intelligence": "Average",
+        "legacy": "I have a secret that nobody knows. During my time in college, I had a friend named Alex who was struggling financially. One day, Alex asked me for a favor - to help him rob a convenience store. I reluctantly agreed and we managed to get away with a significant amount of cash. However, the guilt of what we did ate away at me and I eventually told the police everything. Alex was caught and went to prison, but I managed to avoid any punishment. I have kept this secret hidden for years, but the guilt still lingers to this day.",
+        "name": "Jin",
+        "narrative_preference": "Short stories",
+        "personality": "Introverted",
+        "race": "Asian",
+        "recent_events": "Recently lost their job due to company cutbacks",
+        "sexual_orientation": "Heterosexual",
+        "survival_time": "32 years",
+        "title": "The Secret"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "480b547e13857b9b4a7276a92b6a15fd",
+        "tag": "all-possibility-v0.4"
+    }
+}
