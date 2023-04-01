@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in poverty with a single mother who was a drug addict",
+        "character": "Deceitful",
+        "era": "Contemporary",
+        "experience": "I worked as a prostitute to support myself and my mother",
+        "intelligence": "Average",
+        "legacy": "I learned early on that I had to do whatever it takes to survive. I started selling drugs to make ends meet, but soon realized that selling my body was more profitable. I was ashamed of what I was doing, but I had no other choice. Over time, I became good at hiding my true feelings and putting on a fa\u00e7ade of happiness. But the reality was that I was miserable and trapped. Now that I'm sitting in a jail cell, I realize that the price of survival was too high. But in the moment, I didn't see any other option. My legacy is a warning to others who are in a similar situation - there is always another way out, even if it's not immediately clear.",
+        "name": "Mei",
+        "narrative_preference": "Short stories",
+        "personality": "World-weary",
+        "race": "Human Asian",
+        "recent_events": "I got arrested for drug possession",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Survival"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "44b04d802e9117c82dbd2c1690b206fc",
+        "tag": "all-possibility-v0.4"
+    }
+}
