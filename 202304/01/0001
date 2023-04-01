@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Raised in a secluded forest by a group of aliens",
+        "character": "Deceptive",
+        "era": "Future era where humans have colonized other planets",
+        "experience": "Witnessed the destruction of their home planet",
+        "intelligence": "Low",
+        "legacy": "I remember the day when everything changed. Our planet was under attack from beings we had never seen before. We fought back with all our might, but it was no use. Our world crumbled into dust and I was forced to flee with only a handful of survivors. We drifted through space, lost and alone, until we found a new home. But it was never the same. We were different, broken. I spent my life searching for a way to save my people, but in the end, I was the only one left. Now I wander this universe, searching for a new purpose, a new reason to exist. Maybe one day I'll find it, but for now, I am Xel'gar, the last hope of the purple planet.",
+        "name": "Xel'gar",
+        "narrative_preference": "Science fiction",
+        "personality": "Pessimistic",
+        "race": "Alien purple race",
+        "recent_events": "Recently lost their only friend in an alien invasion",
+        "sexual_orientation": "Unisexual",
+        "survival_time": "40 years",
+        "title": "The Last Hope of the Purple Planet"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "31518c08a2f5b2f859bc1b2d06d66281",
+        "tag": "all-possibility-v0.4"
+    }
+}
