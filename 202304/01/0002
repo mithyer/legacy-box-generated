@@ -1,0 +1,23 @@
+{
+    "content": {
+        "background": "Grew up in a low-income family",
+        "character": "Deceitful",
+        "era": "Present day",
+        "experience": "Worked in retail and was constantly mistreated by customers",
+        "intelligence": "Low",
+        "legacy": "I still remember the day when a customer threw a drink in my face just because I couldn't accept their expired coupon. That was the moment I realized the world was unfair and cruel. I swore I would get my revenge. So, I started stealing from the store where I worked, taking cash and goods. It wasn't much, but it was enough to make me feel like I was getting even. Eventually, I got caught and fired. But I didn't stop there. I continued to steal from stores, and even from people's homes. It became an addiction, and I got a thrill out of it. I knew it was wrong, but I didn't care. Until the day I got caught again. This time, I wasn't just fired. I was arrested and sent to jail for several years. I lost everything I had, including my family and friends. Now that I'm out, I'm trying to start over, but the past still haunts me. I may have gotten my revenge, but at what cost?",
+        "name": "Julie",
+        "narrative_preference": "Short stories",
+        "personality": "Pessimistic",
+        "race": "White",
+        "recent_events": "Lost their job due to COVID-19 pandemic",
+        "sexual_orientation": "Bisexual",
+        "survival_time": "35 years",
+        "title": "The Price of Revenge"
+    },
+    "info": {
+        "engine": "gpt-3.5-turbo",
+        "hash": "57bdc319447ece740ec487b538275117",
+        "tag": "all-possibility-v0.4"
+    }
+}
